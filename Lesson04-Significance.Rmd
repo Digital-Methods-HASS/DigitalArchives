@@ -1,0 +1,144 @@
+---
+title: "Lesson 04 - Policies & Significance"
+author: "Adela Sobotkova"
+date: "23 August 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Policies and assessment
+This week we’ll be exploring the wonderful world of collection policies and significance assessment, or in other words, who collects what and why?
+
+Last week we saw that there’s tremendous diversity in the types of collections being created and in the sorts of organisations collecting them. But it’s not a free-for-all – limits need to be set for all sorts of practical reasons. A collection policy helps an organisation focus on what it’s trying to achieve through its collecting activities. Even small organisations benefit from developing policies that articulate and communicate their aims.
+
+##Why have a collection policy?
+According Museums & Galleries of NSW, a collection policy ‘guides the decision making process for shaping the collections of the museum’.
+
+Imagine you’re working in a regional museum and a local resident turns up with a crate of ‘historical’ artefacts they just discovered in their shed. What do you do?
+
+A collection policy provides a consistent framework within which you can assess the offer and formulate a response based on your organisation’s publicy-stated aims. As M&G of NSW notes ‘handling such offers requires tact and diplomacy and having a written policy provides clarity for donors without offence’!
+
+There are many other reasons why collection policies are important, for example:
+
+- *Accessing funding* – Potential funding bodies will want to be sure that your organisation knows what it’s doing. A collection policy demonstrates your ability to plan and think strategically.
+- *Setting priorities* – Resources are always limited, a collection policy helps you decide where to focus work on describing or conserving your collection.
+- *Marketing yourself* – A collection policy articulates a clear vision for your organisation that you can use in talking the public or promoting your collections.
+- *Playing nicely with others* – Collection policies can help you avoid duplication or competition by letting other collecting organisations know what you’re doing. Even better, they can form the basis for collaboration.
+
+
+
+<font color="blue">
+---
+*Stop and think:*
+Can you think of any other circumstances in which it would be useful to have a collection policy?
+---
+</font>
+
+
+For more see Ozzie examples:
+
+[Thinking about: Collection Policies (Museums & Galleries NSW)]()
+
+[Developing an archives policy (Public Record Office Victoria)]()
+
+
+## What’s in a collection policy?
+The contents of the collection policy will vary according to the size and type of your organisation. A large organisation might, for example, have separate policies to cover things like access.
+
+According to the Public Record Office Victoria, a collections policy should describe:
+
+- the purpose of the archive
+- why it collects
+- what it collects
+- what it does not collect
+- who can use the material collected
+
+Similarly, the Small Museums Cataloguing Manual suggests that a collection policy should include:
+
+- the museum’s statement of purpose
+- what it will collect and how
+- criteria guiding object acquisition
+- procedures for collection care, documentation and recordkeeping, conservation and storage, and loans
+- a clause for reviewing the statement
+
+
+### **Why is important to include a process or timetable for review in your collection policy? What might change?**
+
+Museums Australia (Victoria) provides a handy template for developing a collection policy. I want you to use this template to assess an existing organisations collection policies. Choose one of the policies below (or find your own) and compare it to the template – what is and isn’t included. Why do you think that is?
+
+Tweed Regional Museum
+National Library of Australia, Collection Development Policy
+Freemasons Victoria, Library and Museum Collections Policy
+The National Archives Collecting Policy (National Archives of Australia)
+Yes, ok. The National Archives of Australia link isn’t really a collection policy is it? What’s different about archives, particularly government archives?
+
+## Significance
+A collection policy provides a framework for decision making, but it doesn’t give all the answers. Even within this framework it’s likely that hard decisions will have to be made about what to keep, or where to focus resources. Often these decisions will be informed by an assessment of the significance of an object or collection.
+
+The idea of significance assessment was developed in conjunction with the Burra Charter – a set of guidelines for the conservation and management of places of cultural significance. It has since been expanded to apply to a broader range of cultural heritage objects. The idea of significance, and the process of significance assessment is described in detail in Significance 2.0 – see the complete PDF here; you can also browse the archived website.
+
+According to Significance 2.0, ‘“significance” refers to the values and meanings that items and collections have for people and communities’. Why is something important?
+
+To understand the significance of an item or collection you need to research the its history and context, and assess it against a set of standard criteria. The process of significance assessment is described in Part 4 of Significance 2.0.
+
+The result of the significance assessment process is a ‘statement of significance’, which is a reasoned and readable summary of your assessment. Significance 2.0 notes that it is ‘an argument about the meaning of an item or collection and how and why it is signicant’.
+
+What is the difference between a catalogue entry or description and a statement of significance?
+
+See also Practice note: Understanding and assessing cultural significance.
+
+## Assessment criteria
+Significance 2.0 recommends the use of a standard set of criteria for assessing significance. These provide you with useful prompts for spelling out how and why something is significant, and give you a consistent framework for comparing the significance of different items or collections.
+
+There are four primary criteria and four comparative criteria. The primary criteria set out the main types of cultural value we associate with collection items:
+
+- historic significance
+- artistic or aesthetic significance
+- scientic or research significance
+- social or spiritual significance
+
+The comparative criteria modify the primary criteria by indicating the degree of significance. An item’s significance might be greater if it’s rare, or it’s provenance is well documented. The comparative criteria are:
+
+- provenance
+- rarity or representativeness
+- condition or completeness
+- interpretive capacity
+Both sets of criteria are described in detail in Part 5 of Significance 2.0.
+
+## Writing a statement of significance
+Make sure you read at least Parts 4 and 5 of Significance 2.0. These parts walk you through the process of significance assessment.
+
+Find an object at home is important to you, work through the significant assessment process, and prepare a short statement of significance. Remember you need to argue clearly why and how your object matters. Share your statements of significance on Slack.
+
+## What about archives?
+Signficance 2.0 notes a few differences in the ways archives consider signifcance – such as in their understanding of provenance and the important of context.
+
+In archives, the significance assessment process is usually called ‘appraisal’. Appraisal generally starts with an understanding of who created a set of records – the provenance. The records are then assessed to see how well they document the main functions, activities, needs, or responsibilities of the organisation that created them. In addition to this ‘primary value’, records can have a ‘secondary value’ in contributing to our broader understanding of history and culture.
+
+The National Archives of Australia uses three broad criteria in making selection decisions:
+
+- Government authority, action and accountability
+- Identity, interaction and rights and entitlements
+- Knowledge and community memory
+
+Countries (or history associations often keep policies on 'What we keep'. [Preserving the historical record: Commonwealth records and social memory: if we can’t remember everything, can we choose what to forget?](https://search.informit.com.au/documentSummary;dn=200105503;res=IELAPA) describes the National Archives’ past attempts to broaden the process of appraisal.
+
+## Levels of significance
+Significance 2.0 describes how signficance assessments can be made at national or even international levels. To be added to UNESCO’s Memory of the World program, cultural heritage materials have to be:
+
+- Authentic: Has identity and origin been clearly established?
+- Unique and irreplaceable: Would its disappearance or deterioration constitute a harmful impoverishment of the heritage of humanity? What has been its impact and influence?
+- How do these requirements relate to the criteria described above?
+
+Have a browse through the collections listed on the [Danish Memory of the World website](http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/register/access-by-region-and-country/dk/). Which do you think are the most significant and why?
+<!---[Australian Memory of the World website](https://www.amw.org.au/amw-register) -->
+
+## Shifting significance
+Through detailed research and the application of consistent criteria, significance assessment aims to develop a solid evidence-based framework for building and managing collections. But that doesn’t mean that it’s neutral, or that assessments won’t change over time. As Significance 2.0 notes (p. vii):
+
+**"In assessing significance, power is wielded in constructing societal memory and identity. Collection custodians therefore have a responsibility to consult affected communities and to be hospitable to alternative views in recognition of the fact that significance decisions inevitably privilege some memories and marginalise or exclude others."**
+
+Beware, the decisions we make in creating collections can marginalise communities or silence voices. Significance assessment has to remain sensitive to its biases.
