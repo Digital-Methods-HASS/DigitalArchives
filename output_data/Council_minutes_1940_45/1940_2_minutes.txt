@@ -1,0 +1,556 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1940-02-08	"closed"	"19400208B_233.pdf"	1	"no related record"	"Mødet den 8. Februar 1940.
+(For lukkede Døre).
+Fraværende: Esther Aggebo, Thomas Christensen og E. Rolander."	1940	2	8
+"2"	1940-02-08	"closed"	"19400208B_233.pdf"	1	"925-1939"	"Indstilling fra Brolægningsudvalget angaaende Licitationstilbud paa Jord-og Vejarbejde ved Paludan Müllers Vejs Forlængelse.
+Udvalget indstiller at overdrage Arbejdet til Entreprenør H. E. Riisberg for 5990 Kr. Med Kloakanlæg, Materialer m. v. bliver hele Udgiften 21500 Kr.
+Indstillingen vedtoges."	1940	2	8
+"3"	1940-02-08	"closed"	"19400208B_233.pdf"	1	"927-1939"	"Indstilling angaaende Licitationstilbud paa Nedbrydningsarbejde ved \"Vestereng\".
+Udvalget indstiller at overdrage Arbejdet til Entreprenør P. Johansen mod Betaling til Kommunen af 3312 Kr.
+Indstillingen vedtoges."	1940	2	8
+"4"	1940-02-08	"closed"	"19400208B_233.pdf"	1	"909-1939"	"Forslag til ny Ligningsskala for Aarhus Købstad.
+Fra Ligningskommissionen forelaa følgende Skrivelse:
+\"I Henhold til Beslutning paa det mellem Budgetudvalget og Ligningskommissionen den"	1940	2	8
+"5"	1940-02-08	"closed"	"19400208B_233.pdf"	2	"909-1939"	"31. Januar d. A. afholdte Møde fremsendes hoslagt Forslag ti! en ny Ligningsskala for Aarhus Købstad gældende fra Skatteaaret 1940- 41. Endvidere vedlægges til Sammenligning den hidtil gældende Ligningsskala.
+I det fremsendte Forslag er bibeholdt det Princip, der har været fulgt af Kommissionen gennem en Aarrække, nemlig at den laveste Ydelse for enhver arbejdsdygtig Kvinde eller Mand bliver Skat af 100 Kr. Kun i Tilfælde af, at der er Sygdom til Stede, at der er Tale om gamle Mennesker med ringe Indtægt, eller at der er andre særlige Aarsager, nedsættes Ydelsen til det halve, altsaa til en skattepligtig Indtægt paa 50 Kr.
+Aldersrentenydere,der ønskeratsvare Skat, foreslaas som hidtil ansattilenaarlig Ydelse paa 2 Kr.
+Endvidere foreslaas Børnefradraget ligesom hidtil fastsat til Lovens Maksimum, 300 Kr.
+Det foreliggende Forslag vil betyde en Stigning i Skatteindtægten i Forhold til Skatteligningen for 1939-40 paa ca. 6300000 Kr., og Kommissionen tillader sig at anbefale Forslaget til det ærede Byraads Vedtagelse, hvorhos man samtidig tillader sig athenstilletildetærede Byraads Vedtagelse, atder ikkefindernogen Offentliggørelse af Ligningsskalaen Sted før samtidig med Ligningens Fremlæggelse.
+Anbefalet af Budgetudvalget.
+Borgmesteren henviste til, at flere Byer havde anlagt deres Ligningsregler, og man havde ment det nødvendigt, at Aarhus ogsaa foretog forskellige Ændringer. Ligningskommissionen havde tidligere vedtaget disse Regler, men nu skulde de godkendes af Byraadet. Kommissionen"	1940	2	8
+"6"	1940-02-08	"closed"	"19400208B_233.pdf"	3	"909-1939"	"havde undersøgt Reglerne i forskellige Byer, og der forelaa nu et Forslag, som vilde give en Stigning i Skatteindtægten, og forhaabentlig kunde de bevirke, at Skatteprocenten nogenlunde kunde holdes.
+Indstillingen vedtoges."	1940	2	8
+"7"	1940-02-08	"closed"	"19400208B_233.pdf"	3	"191_19-1939"	"Andragende fra Gasværksarbejder J. M. J. Vissing om Statslaan til Opførelse af et Beboelseshus ved Brendstrupvej. - 
+2. Behandling.
+Anbefaledes."	1940	2	8
+"8"	1940-02-08	"closed"	"19400208B_233.pdf"	3	"191_18-1939"	"Andragende fra Jord- og Betonarbejder R. P. H. Laursen om Statslaan til Opførelse af et Beboelseshus ved Brendstrupvej.
+2.Behandling.
+Anbefaledes."	1940	2	8
+"9"	1940-02-08	"closed"	"19400208B_233.pdf"	3	"910-1939"	"Andragende fra Konstruktør N. Snedstrup Mogensen om Oprykning i højere Lønklasse.
+\"Belysningsudvalget indstiller, at Andrageren fra 1/4 1940 at regne oprykkes i 3. Lønklasse med Lønanciennitet fra 1/4 1931, og at hans personlige Tillæg samtidig nedsættes til 250 Kr. aarlig, samt at hans Stillingsbetegnelse ændres til \"Ledningsinspektør ved Belysningsvæsenets Fjernvarmeafdeling.\"
+Tiltraadt af Lønudvalget.
+Stecher Christensen vilde i Anledning af Vedtagelsen paa det aabne Møde meddele, at denne og næste Sag havde været behandlet, længe før den anden Vedtagelse blev truffet. Der var i sin Tid lovet Snedstrup Mogensen nogen Lønforbedring; han var en dygtig Mand, og Oprykningen kunde næppe have Konsekvenser, naar hans Titel samtidig ændres. Forhøjelsen vilde andrage 478 Kr. aarlig.
+Indstillingen vedtoges."	1940	2	8
+"10"	1940-02-08	"closed"	"19400208B_233.pdf"	4	"913-1939"	"Indstilling fra Skoleudvalget om Forfremmelse af Assistent Frk. E. Zeuner til Overassistent.
+Lønudvalget indstiller, at der fra 1. April d. A. normeres en Stilling som Overassistent paa Skolevæsenets Kontor, og at Stillingen besættes med ovennævnte Kontorassistent. - Ingeniør Fanger forbeholder sig sin Stilling.
+Borgmesteren bemærkede, at det var noget udenfor det almindelige; men det var maaske begrundet med Skoledirektørens langvarige Sygdom.
+Stecher Christensen oplyste, at Lønudvalget var gaaet med til Forslaget, fordi det efter modtagne Oplysninger var konstateret, at hun igennem meget lange Perioder faktisk havde været Leder af Skolevæsenets Kontor.
+J. R. Fanger havde taget Forbehold i Udvalget, fordi det var noget ganske ekstraordinært, at en Kvinde, som er ene paa Kontoret, forfremmes til Overassistent. Men Gruppen havde intet derimod.
+Indstillingen vedtoges."	1940	2	8
+"11"	1940-02-08	"closed"	"19400208B_233.pdf"	4	"769-1939"	"Andragende fra Blikkenslager H. R. Hinge om Autorisation som Gas- og Vandmester.
+Anbefalet af Belysningsudvalget.
+Bevilgedes."	1940	2	8
+"12"	1940-02-08	"closed"	"19400208B_233.pdf"	4	"15_22-1939"	"Andragende fra Blikkenslagersvend W. Smorawski Jom dansk Indfødsret.
+Udvalget finder intet herimod at erindre.
+Tiltraadtes."	1940	2	8
+"13"	1940-02-08	"closed"	"19400208B_233.pdf"	4	"573-1939"	"Forslag om Forhøjelse af Taksten for Patienter, der for Socialvæsenets Regning indlægges paa Kommunens Hospitaler.
+Fra Sygehusudvalget forelaa følgende Indstilling:"	1940	2	8
+"14"	1940-02-08	"closed"	"19400208B_233.pdf"	5	"573-1939"	"\"Efter Aftale med Socialudvalget skal man tillade sig at foreslaa, at Taksten for de Patienter, der for Socialvæsenets Regning indlægges paa Kommunens Hospitaler, forhøjes fra Kr. 6,00 til Kr. 8,00 pr. Sygedag.\"
+Indstillingen vedtoges."	1940	2	8
+"15"	1940-02-08	"closed"	"19400208B_233.pdf"	5	"937-1939"	"Indstilling fra Lønudvalget om Regulering af Godtgørelsen til Kommunens Tjenestemænd for Brug af eget Motorkøretøj i Tjenesteanliggender.
+Følgende Indstilling forelaa:
+\"Tjenestemænd, som oppebærer Vederlag for Benyttelse af eget Motorkøretøj til Tjenestebrug, ydes fra 1. Februar indtil videre - paa Grundlag af maanedlige Opgørelser over de enkeltes Antal kørte km i Tjenesteanliggender - et Prisstigningstillæg, der for henholdsvis Automobiler og Motorcykler udgør 5 Øre og 3 Øre for hver kørt km.\"
+Stecher Christensen anbefalede Forslaget, idet Forholdet var blevet forringet ved Benzin- og Gummiprisernes Stigning. Efter denne Opstilling var der Mulighed for at regulere videre i Henhold til Benzinprisen, men det forelaa ikke nu; her var kun Forslag om en Dækning for den allerede skete Forhøjelse. Del drejede sig for Tiden om 9 Tjenestemænd, og samtidig henstillede Udvalget, at de kører saa lidt som muligt.
+Indstillingen vedtoges."	1940	2	8
+"16"	1940-02-08	"closed"	"19400208B_233.pdf"	5	"17_59-1939 og 17_60-1939 og 17_58-1939"	"Andragender om Eftergivelse af Hjælp ydet til:
+a. 17_59-1939Erik O. B. Andersen.
+b. 17_60-1939Ejnar T. B. Voss.
+c. 17_58-1939Villy K. Petersen.
+Anbefalet af Socialudvalget.
+Bevilgedes."	1940	2	8
+"17"	1940-02-08	"closed"	"19400208B_233.pdf"	6	"18_9-1939"	"Andragende fra fhv. Fisker H. Boel om Fritagelse for Hundeafgift.
+Udvalget kan ikke anbefale Andragendet. 
+Kunde ikke bevilges."	1940	2	8
+"18"	1940-02-08	"open"	"19400208_227.pdf"	1	"no related record"	"Mødet den 8. Februar 1940.
+Fraværende: Esther Aggebo og V. Rolander."	1940	2	8
+"19"	1940-02-08	"open"	"19400208_227.pdf"	1	"191_25-1939"	"Meddelelse fra Indenrigsministeriet om Bevilling af Statslaan til Bogholder S. J. K. Christensen til Opførelse af et Beboelseshus paa Matr. Nr. 85 cn af Markj.
+Toges til Efterretning."	1940	2	8
+"20"	1940-02-08	"open"	"19400208_227.pdf"	1	"191_24-1939"	"Meddelelse fra Indenrigsministeriet om Bevilling af Statslaan til Lagerforvalter P. J. Colding til Opførelse af et Beboelseshus paa Matr. Nr. 69 cs af Markj.
+Toges til Efterretning."	1940	2	8
+"21"	1940-02-08	"open"	"19400208_227.pdf"	1	"191_15-1939"	"Indenrigsministeriets Godkendelse af, at Boligforeningen \"Ringgaarden\" paabegynder Opførelse af 2. Afsnit af Bygningskomplekset paa Matr. Nr. 12 ad af Markj., at Byggesummen forøges med 25000 Kr., og at Lejen for samtlige Lejligheder forhøjes med 12 Kr. aarlig.
+Toges til Efterretning."	1940	2	8
+"22"	1940-02-08	"open"	"19400208_227.pdf"	1	"413-1939"	"Opmandskendelse i Voldgiftssagen mellem De kommunale Arbejdsmænds Fagforening og Kommunen angaaende Overarbejdsbetaling ved Kloakpumpestationen.
+Fra Lønudvalget forelaa følgende Meddelelse: \"Det meddeles herved, at der i den af Kommunale Arbejdsmænds Fagforening begærede"	1940	2	8
+"23"	1940-02-08	"open"	"19400208_227.pdf"	2	"413-1939"	"Voldgiftssag angaaende et Spørgsmaal om Overarbejdsbetaling til Medhjælpere ved Kloakpumpestationen af den af Voldgiftsmændene udpegede Opmand, Dr. jur. K. Illum, er afsagt Kendelse, ifølge hvilken Kommunen er kendt fri for Tiltale af Fagforeningen.\"
+Toges til Efterretning."	1940	2	8
+"24"	1940-02-08	"open"	"19400208_227.pdf"	2	"744-1939"	"Meddelelse fra Undervisningsministeriet om, at der er bevilget Lærerinde Frk. Friis-Jensen Afsked med Pension fra 31/4 1940.
+Toges til Efterretning."	1940	2	8
+"25"	1940-02-08	"open"	"19400208_227.pdf"	2	"23_16-1939"	"Meddelelse om De offentlige Lystanlæg i 1938-39.
+Toges til Efterretning."	1940	2	8
+"26"	1940-02-08	"open"	"19400208_227.pdf"	2	"690-1939"	"Kritisk Revision af Havnens Regnskab for 1938-39.
+Fra de kritiske Revisorer, K. Mousten og Thomas Christensen, forelaa følgende Erklæring: \"Undertegnede har gennemset Havnens Regnskab for 1938-39 og finder ikke Anledning til at fremkomme med Bemærkninger.\"
+Tiltraadtes."	1940	2	8
+"27"	1940-02-08	"open"	"19400208_227.pdf"	2	"896-1939"	"Andragende fra Aarhus Havn om, at Kommunen paatager sig Selvskyldnerkaution for et af Havnen udstedt Gældsbevis paa 220000 Kr. til Det Danske Petroleums A/S.
+Anbefalet af Budgetudvalget.
+Indstillingen vedtoges."	1940	2	8
+"28"	1940-02-08	"open"	"19400208_227.pdf"	2	"115-1939"	"Skrivelse fra Indenrigsministeriet med ændret Forslag til Overenskomst angaaende Opførelse af den neurologisk-neuro-kirurgiske Afdeling ved Kommunehospitalet.
+Fra Sygehusudvalget forelaa Forslag om følgende Ændringer til Overenskomsten:
+§ 2, Stk. 1. Tilføjelse: Byraadet forbeholder sig at lægge en Bygning i Tilslutning til"	1940	2	8
+"29"	1940-02-08	"open"	"19400208_227.pdf"	3	"115-1939"	"neurologisk Afdeling, dog saaledes, at Afdelingens Selvstændighed ikke forrykkes derved.
+§ 6, Stk. 4, Linie 3: Ordet \"Procent\" ændres til \"Beløb\".
+§ 6, Stk. 4, Linie 6: \"hvert 3. Aar\" ændres til \"hvert Aar\".
+§ 6, Stk. 5, Linie 4: Ordet \"bagud\" ændres til \"forud\".
+§ 7, Linie 1: Efter Ordet \"Statens\" tilføjes \"eller Aarhus Byraads\".
+Fra Indenrigsministeriet forelaa følgende Skrivelse:
+\"Efter Modtagelsen af Byraadets Skrivelse af 5. d. M.  115-1939) skal man hoslagt tilstille Byraadet et ændret Forslag til Overenskomst mellem Indenrigsministeriet paa Statskassens Vegne og Aarhus Byraad paa Aarhus Kommunes Vegne angaaende Indretning af en neurologisk og neurokirurgisk Afdeling ved Aarhus Kommunehospital.
+Det bemærkes, at der i Forslaget er optaget de af Byraadet i fornævnte Skrivelse foreslaaede Ændringer og Tilføjelser til Overenskomstens § 2, Stk. 1, § 6, Stk. 4, Linie 6, og § 7, hvorimod Indenrigsministeriet ikke har kunnet tiltræde de til § 6, Stk. 4, Linie 3, og Stk. 5, Linie 4 stillede Ændringsforslag.
+Forsaavidt angaar Byraadets Bemærkning med Hensyn ti! Forslagets § 6, sidste Stk., vedrørende Overskridelse af Etableringsudgifterne skal man meddele, at Indenrigsministeriet er enig i, at Forholdene ved Aftalens Indgaaelse i Juni 1939 lægges til Grund ved en eventuel Forhøjelse af den aftalte Tilskudstakst.
+Saafremt Byraadet kan tiltræde det saaledes ændrede Forslag, skal man anmode Byraadet"	1940	2	8
+"30"	1940-02-08	"open"	"19400208_227.pdf"	4	"115-1939"	"om at underskrive og derefter tilbagesende Overenskomsten hertil.
+Naar Overenskomsten tillige er underskrevet af Indenrigsministeriet, vil en bekræftet Genpart af denne blive tilstillet Byraadet.\"
+Borgmesteren meddelte, at Sygehusudvalget havde ønsket enkelte Ændringer i Overenskomsten, og Ministeriet var gaaet med til nogle af disse, hvorefter man anbefalede at godkende Overenskomsten.
+Tiltraadtes."	1940	2	8
+"31"	1940-02-08	"open"	"19400208_227.pdf"	4	"883-1939"	"Indstilling fra Skoleudvalget om Indretning af Skolelokaler paa Christiansbjerg og i Læssøesgades Skole.
+Følgende Indstilling forelaa:
+\"Da der fra 1. April d. A. maa skaffes Plads til 12 Klasser mere end i indeværende Skoleaar, har Skoleudvalget indhentet Tilladelse til at benytte den gamle Skolebygning paa Christiansbjerg, ligesom man herved foreslaar at indrette 3 Klasseværelser i de Lokaler i Loftsetagen paa Borgerskolen, Læssøesgade, der tidligere har været benyttet af Naturhistorisk Museum.
+Man tillader sig hermed at fremsende Tegninger og Overslag vedrørende Istandsættelse af forannævnte Lokaler samt Overslag over det til Lokalerne fornødne Inventar. Udgifterne andrager til Lokalerne i
+Christiansbjerg Skole
+5500 + 1500 Kr. = 7000 Kr.
+Læssøesgades Skole
+19300 + 5500 \" - 24800 \"
+Ialt. . . 31800 Kr."	1940	2	8
+"32"	1940-02-08	"open"	"19400208_227.pdf"	5	"883-1939"	"I dette Beløb tragaar dog 700 Kr., da der findes noget opmagasineret Inventar, som kan anvendes.
+Det bemærkes, at Udgifterne ikke kan afholdes af Skolevæsenets Budget for indeværende Regnskabsaar.\"
+Tiltraadt af Budgetudvalget saaledes, at Udgifterne tages paa de kommende 2 Aars Budgetter.
+Borgmesteren bemærkede, at der var stærk Trang til Skolelokaler paa Grund af det stigende Børnetal, og det var derfor nødvendigt at indrette disse Lokaler.
+Indstillingen vedtoges."	1940	2	8
+"33"	1940-02-08	"open"	"19400208_227.pdf"	5	"792-1939"	"Andragende fra Jydsk Børnehave-Seminarium om Understøttelsestilskud til ubemidlede Elever.
+Skoleudvalget kan ikke anbefale Andragendet.
+Kunde ikke bevilges."	1940	2	8
+"34"	1940-02-08	"open"	"19400208_227.pdf"	5	"907-1939"	"Andragende fra Teknologisk Institut om Tilskud til Kursus for arbejdsledige Blikkenslagere i Aarhus.
+Bevilgedes."	1940	2	8
+"35"	1940-02-08	"open"	"19400208_227.pdf"	5	"893-1939"	"Indstilling fra Udvalget om Tilskud til Kursus for arbejdsledige Tømrere.
+Bevilgedes."	1940	2	8
+"36"	1940-02-08	"open"	"19400208_227.pdf"	5	"848-1939"	"Indstilling fra Udvalget om yderligere Tilskud til Kursus for arbejdsledige Malere.
+Bevilgedes."	1940	2	8
+"37"	1940-02-08	"open"	"19400208_227.pdf"	5	"916-1939"	"Forslag fra Lønudvalget om, at der rettes Henstilling til Udvalgene om saa vidt muligt ikke at foreslaa Oprettelse af nye Tjenestemandsstillinger, Oprykning af Stillinger i højere Lønklasse m. v. i Tiden indtil 31. Marts"	1940	2	8
+"38"	1940-02-08	"open"	"19400208_227.pdf"	6	"916-1939"	"Fra Udvalget forelaa Forslag om at vedtage følgende:
+1.Forslag om Oprettelse af nye Tjenestemandsstillinger bør kun optages, hvor ganske særlige Forhold gør saadan Oprettelse paakrævet.
+2.Forslag om Stillingers Oprykning i Lønningsklasse kan i Almindelighed ikke ventes tiltraadt. Hvis der ganske undtagelsesvis skulde kunne optages Forslag af denne Kategori, maa Forudsætningen være, at paagældende Stilling siden dens nuværende Placering i Lønningsklasse er ganske forandret i Henseende til Arbejdets Omfang eller Beskaffenhed.
+3.Forslag om Oprettelse af Stillinger, der fortrinsvis eller udelukkende har til Formaal at forbedre Avancementsforholdene foren Tjenestemandsgruppe, kan ikke optages paa Budgettet for 1940-41.
+Stecher Christensen forelagde Forslaget som fulgte den Henstilling, der fra Finansministeriet var givet til samtlige Ministerier for Statens Vedkommende. Taleren vilde dog gøre opmærksom paa, at her kun var Tale om ny oprettede Stillinger eller Oprykninger udover det normale. Der fandtes en Del normale Oprykninger i Henhold til Overenskomst, og de berørtes ikke af Forslaget; man havde blot villet undgaa, at enkelte Udvalg ikke kom med Forslag om nye Stillingers Oprettelse eller Omplacering af Stillinger under de nuværende Forhold.
+Borgmesteren antog, der var Enighed om at tiltræde Forslaget.
+Indstillingen vedtoges."	1940	2	8
+"39"	1940-02-08	"open"	"19400208_227.pdf"	6	"813-1939"	"Indstilling angaaende Forbedring af Gennemløbsforholdene ved Dæmningerne ved Thors Mølle."	1940	2	8
+"40"	1940-02-08	"open"	"19400208_227.pdf"	7	"813-1939"	"Fra Budgetudvalget forelaa følgende Indstilling:
+\"Det indstilles, at det af Brolægningsudvalget udarbejdede Projekt til Overfaldsudbygning, hvilket Projekt ifølge Overslaget vil koste ca. 4500 Kr., udføres saaledes, at Udgiften hertil tages paa det kommende Aars Budget for Skovudvalget.\"
+Borgmesteren gjorde opmærksom paa, at Dammene forurenedes, bl. a. af Rensningsanlæget i Højbjerg. Nu var de oprensede, og der maatte laves noget for at undgaa en ny Forurening.
+Indstillingen vedtoges."	1940	2	8
+"41"	1940-02-08	"open"	"19400208_227.pdf"	7	"920-1939"	"Andragende fra Dansk Byplanslaboratorium om Tilskud.
+Det paa Konto 25 opførte Beløb paa 200 Kr. beviigedes."	1940	2	8
+"42"	1940-02-08	"open"	"19400208_227.pdf"	7	"872-1939"	"Andragende fra Firmaet Weber &amp;amp; Sørensen om Tilladelse til at udgive Skattebogen for 1940-41.
+Anbefalet af Budgetudvalget saaledes, at det som Betingelse for Tilladelsen kræves, at alle de paa Manuskriptet opførte Personer \"medtages i Skattebogen.
+Tiltraadtes."	1940	2	8
+"43"	1940-02-08	"open"	"19400208_227.pdf"	7	"record_id unknown"	"Borgmesteren vilde give nogle Meddelelser om Brændselssituationen. I de sidste Dage havde man lukket flere Skoler omkring i Landet, og der havde været Tale om at gøre det samme i Aarhus. Forholdet var det, at Kommunen havde købt tilstrækkeligt Brændsel til Skolernes Opvarmning, og det skulde leveres til en fast Pris, saa af den Grund var det ikke nødvendigt at lukke Skolerne. Paa den anden Side havde man en vis Interesse i at begrænse Forbruget af"	1940	2	8
+"44"	1940-02-08	"open"	"19400208_227.pdf"	8	"record_id unknown"	"Brændsel, og maaske kunde Forholdene forme sig saaledes, at Spørgsmaalet maa tages op. Taleren vilde henstille til alle Udvalg at undersøge, om der indenfor deres Omraade kan spares Brændsel, og saa gøre det. Nu havde Statens Brændselsnævn lagt Beslag paa 20 % af alle Beholdninger, og Gasværket i Aarhus, som producerede ca. 1000 hl daglig, maatte altsaa oplagre 200 hl pr. Dag, hvorfor der vilde blive mindre til Salg end hidtil. Der havde i den sidste Tid været en ret kraftig Rationering af Koks, og Kommunen havde Forpligtelse til først at forsyne Rentenydere, Arbejdsløse o. lign. med Brændsel, selv om ogsaa deres Rationer havde maattet nedsættes. Foreløbig kunde man hente 1 hl ad Gangen, enten Koks eller Smuld, saavidt mulig efter eget Valg, og forhaabentlig kunde man komme igennem Vinteren. I de sidste Par Maaneder var der kun kommet en enkelt Ladning til Værket, men man havde sikret sig til omkring 1. April, for saa vidt der ikke skete noget ekstraordinært. Det var for Tiden meget vanskeligt at faa Kul hjem, og mange Skibe laa indefrosne paa Havet; derfor var der Grund til Forsigtighed og til at spare alle Steder, hvor det var muligt. Skulde den strenge Vinter fortsættes, kunde det blive nødvendigt at overveje, om man maa gaa til Lukning af Skoler og andre Institutioner."	1940	2	8
+"45"	1940-02-13	"closed"	"19400213B_239.pdf"	1	"no related record"	"Ekstraordinært Møde den 13. Februar 1940.
+(For lukkede Døre).
+Fraværende: Hans Madsen, E. Rolander og 
+I. C. Sørensen."	1940	2	13
+"46"	1940-02-13	"closed"	"19400213B_239.pdf"	1	"941-1939"	"Dispensation fra de ved Handelsministeriets Bekendtgørelse af 8. Februar om Brændselsbesparelse fastsatte Restriktioner, særlig med Hensyn til Restaurationernes Lukketid, Erhvervsvirksomheders Varmtvandsforbrug m. v.
+Borgmesteren meddelte, at Grunden til Mødets Afholdelse var de af Ministeriet udsendte Restriktioner. Der var først Spørgsmaalet om Restaurationernes Lukketid. I Henhold til Politivedtægten havde de i Aarhus kun Tilladelse til at holde aabent til Kl. 23, men der var 33 Restaurationer, som mod Betaling holdt aabent til Kl. 24, og 10, som havde Tilladelse til Kl. 1. I Henhold til Bekendtgørelsen skulde Lukketiden nu rette sig efter Politivedtægtens Bestemmelser; men for de Restaurationers Vedkommende, som havde Varieté, Musik o. lign., vilde det være et stort Tab, og de kunde blive tvunget til at afskedige deres Personale. Taleren havde haft en Samtale med Politimesteren for at søge at faa en Dispensation"	1940	2	13
+"47"	1940-02-13	"closed"	"19400213B_239.pdf"	2	"941-1939"	"her, idet mange Byer havde Lukning Kl. 24, og en stor By som Aarhus burde ikke straffes, fordi man ikke havde ændret Politivedtægten paa dette Punkt. Man enedes om, at Politimesteren skulde søge at faa Forbindelse med Handelsministeriet og faa Tilladelse til at opretholde det nuværende Forhold, indtil der kunde afholdes Byraadsmøde og søges Dispensation. Derefter kom følgende Skrivelse fra Ministeriet :
+\"Under Henvisning til Skrivelse herfra af 8. d. M., hvormed fulgte nogle Eksemplarer af Handelsministeriets Bekendtgørelse af samme Dato angaaende midlertidige Bestemmelser om brændselsbesparende Foranstaltninger, skal man paa dertil given Anledning meddele, at Handelsministeriet efter Omstændighederne intet finder at erindre imod, at Politimestrene i de Politikredse, hvor den almindelige Beværtningslukketid i Henhold til Politivedtægten er fastsat til et tidligere Tidspunkt end Kl. 24, opretholder de Tilladelser, der i Medfør af Beværterlovens § 31, 2. Stk., allerede maatte være givet til, at enkelte Beværtere holder aabent efter den saaledes fastsatte Lukketid, dog at alle Beværtninger, som anført i den fornævnte Bekendtgørelse, senest skal lukke Kl. 24.\"
+Dermed var Sagen i Virkeligheden i Orden, og der var kun tilbage, at Byraadet formelt godkender Dispensationen, saaledes at de Restaurationer, som har denne Tilladelse, fremdeles holder aabent til Kl. 24. - Angaaende Bestemmelserne om Indskrænkning af Varmeforbruget, havde Belysningsudvalget holdt Møde for at undersøge,"	1940	2	13
+"48"	1940-02-13	"closed"	"19400213B_239.pdf"	3	"941-1939"	"hvilke Foranstaltninger der kan træffes for at spare Kul og Gas m. v. I Henhold til denne Forhandling foreslog Udvalget, at det overdrages til Belysningsudvalget at foretage de Forholdsregler, som er paakrævede, idet Cirkulæret giver Kommunalbestyrelsen en vis Bemyndigelse hertil. Der vilde blive mange Forhold at tage Stilling til, men Afgørelserne burde træffes efter erhvervsmæssige Grunde, saaledes at Forretninger, der er afhængige af varmt Vand, bør have Dispensation fra Forbudet; men private Lejligheder var afskaaret derfra. For Skolernes Vedkommende havde man lukket Gymnastiksalene, og Udvalget foreslog nu at lukke Svømmehallen paa Badeanstalten, hvorimod de øvrige Afdelinger holdes aabne. Der var mange Bestemmelser at tage Stilling til, og der burde være et bestemt Udvalg til at afgøre disse Sager. Restriktionerne skyldtes vel tildels, at der var Brændselsmangel i København, hvorimod der vist gennemgaaende var tilstrækkeligt Brændsel i Provinsen; men naturligvis burde man alligevel spare, hvor der kunde spares. Naar der lukkedes for det varme Vand, maatte man vente en Stigning i Forbruget af Gas, men foreløbig havde man ikke vedtaget Restriktioner her, idet man først vilde se, hvorledes det virkede paa Gasforbruget. Taleren anbefalede at tiltræde Forslaget om at give Belysningsudvalget den omtalte Bemyndigelse.
+Esther Aggebo havde i Bladene set, at der var Tale om at lukke for Gasbageovne, og vilde i den Anledning lægge et godt Ord ind for Husmødrene, for et saadant Forbud vilde særlig ramme Familier rned mange Børn, idet det for dem var billigere at bage selv end at købe"	1940	2	13
+"49"	1940-02-13	"closed"	"19400213B_239.pdf"	4	"941-1939"	"Brød. Skulde der indskrænkes her, burde man hellere rationere Gassen, saa var det lettere at spare.
+E. Winterberg fandt det meget godt at konstituere Belysningsudvalget som et Slags Velfærdsudvalg; men man maatte være klar over, hvor langt Udvalgets Bemyndigelse strækker sig. Der var ogsaa Spareforanstaltninger indenfor andre Udvalg, som var store Forbrugere af Lys og Varme, og Taleren vilde spørge, om det var Meningen, at Belysningsudvalget kan diktere andre Udvalg, hvor de skal spare, eller om disse Udvalg skulde være medbestemmende om saadanne Forhold. Naar man var blevet lidt mere klar over hele Historien, vilde der vel blive udsendt visse Direktiver for Udvalgene at rette sig efter. Det betød forøvrigt ikke meget at lukke Svømmeafdelingen, hvor Vandet som Regel kun var 25°; det vilde spare mere at lukke Varmluftsafdelingen, som var en meget stor Forbruger af Varme og Elektricitet
+Stecher Christensen vilde hertil blot svare, at Udvalgene selvfølgelig skulde rette sig efter Handelsministeriets Cirkulære, og hvis de i visse Tilfælde ønskede Dispensation herfra, vilde Belysningsudvalget overveje, hvorvidt det var rimeligt eller ikke. Borgmesteren havde jo klart udtalt, at man vilde føre en Politik, der generede saa lidt som muligt, og at der vilde blive taget særligt Hensyn til Erhvervene. Alle maatte vise god Vilje til at spare paa Brændselet i de kommende Dage, og der vilde nok blive truffet en fornuftig Ordning.
+Chr. Nielsen fandt det rimeligt, at man gav en saadan Bemyndigelse til Belysningsudvalget, som havde Raadighed over Brændselet. Socialudvalget havde ogsaa søgt at indskrænke"	1940	2	13
+"50"	1940-02-13	"closed"	"19400213B_239.pdf"	5	"941-1939"	"Varmeforbruget paa sine Institutioner, men f. Eks. paa De gamles Hjems Sygeafdeling kunde man ikke helt lukke for det varme Vand, og forhaa-bentlig kunde det vedblive at gaa som hidtil.
+Borgmesteren antog, at alle Byraads-rnedlemmerne havde læst Ministeriets Forordning, og at især Formændene for Udvalgene havde sat sig ind deri og var klar over, hvorledes de skulde forholde sig indenfor deres Omraade. Man kunde nok bade uden at skulle svømme, og det var tilmed nævnt i Ministeriets Bekendtgørelse, at Svømmnhaller skulde lukkes. Mange Kommuner havde lukket Skolerne, og man vidste ikke, hvor længe det kunde undgaas i Aarhus; men det vilde jo medføre mange Ulemper, idet alle Aftenskoler og Kursus saa maa lukke. I Henhold til Overenskomst med Brændselsimportørerne kunde der skaffes Brændsel til Skolerne indtil April, saa af den Grund var det ikke nødvendigt at lukke; men det maatte Skoleudvalget overveje. Det var for Tiden meget vanskeligt at faa Kul hjem, og et Skib med Kul til Gasværket havde maattet dirigeres til Esbjerg, hvorfra Kullene saa maatte transporteres til Aarhus, og det vilde koste 40-50000 Kr. ekstra. Det var givet Løfte om flere Ladninger til Aarhus, men det var vanskeligt at faa dem hjem baade paa Grund af Issituationen og af andre Grunde. Man regnede med at have Gaskul til omkring 1. April, men hvis Varmtvandslukningen vilde faa Gasforbruget til at stige, kunde det maaske knibe med at faa dem til at række saa langt. Et af de Spørgsmaal, der skulde tages Stilling til, var varmt Vand til Hotelværelser, som Hotellerne ansaa for nødvendigt. Det kunde dog næppe tillades, hvorimod det vist var nødvendigt at tillade"	1940	2	13
+"51"	1940-02-13	"closed"	"19400213B_239.pdf"	6	"941-1939"	"det i Hotelkøkkener. Saaledes vilde der blive mange Spørgsmaal at tage Stilling til, og hvert Tilfælde maatte afgøres for sig.
+Thomas Christensen henstillede at vente saa længe saa muligt med at lukke Skolerne, hvorved ogsaa Børnebespisningen vilde standse.
+Chr. Nielsen spurgte, om Gasværket var i Stand til at levere Koks til Understøttede og Rentenydere. I Henhold til tidligere Vedtagelse skulde disse have deres 3. Ration, som vilde bestaa af 3 Sække Træ; men det var vanskeligt i Løbet af kort Tid at fremskaffe saa meget Træ, og i den meget strenge Vinter var det heller ikke praktisk at bruge ene Træ. Man havde derfor tænkt at levere 1 hl Koks og 2 Sække Træ til Rentenydere og 1 hl Koks og 1 Sæk Træ til de Understøttede, men det afhang jo af, om Gasværket kunde levere disse Koks. Taleren antog, man kunde være enige om at foretage denne Ombytning; Spørgsmaalet var blot, om Gasværket kunde levere Koksene, da det drejede sig om ca 5000 hl.
+Thomas Christensen syntes, at den foreslaaede Ration til de Understøttede var alt for ringe. 1 hl om Ugen var det mindste, de kunde nøjes med, det havde ogsaa Borgmesteren indrømmet, da der skete Henvendelse til ham.
+Chr. Nielsen svarede, at her var ikke Tale om, hvad de burde have, men om, hvad der kan skaffes, og man maatte hjælpe sig igennem efter bedste Evne. Det nyttede jo ikke at give en Mand Rekvisition paa Koks, hvis der ikke var Koks at faa; det maatte fordeles saa godt som muligt, og 1 hl var bedre end Rekvisition paa mere, som ikke kunde faas."	1940	2	13
+"52"	1940-02-13	"closed"	"19400213B_239.pdf"	7	"941-1939"	"Borgmesteren havde faaet flere Henvendelser angaaende Brændsel og havde derfor henstillet til Socialudvalget, hvor det drejede sig om Familier med smaa Børn, som overhovedet ikke havde Brændsel, da at give dem Rekvisition paa 1 hl Koks, som de selv kunde hente, og det kunde saa senere fradrages i det ordinære Kvantum. Men Taleren syntes, at naar de skulde have 18 hl Koks og 3 Sække Træ, burde noget af Træet være blevet leveret tidligere sammen med Koksene, for Træ var ikke saa meget værd i en Kakkelovn, naar det ikke blev blandet med andet Brændsel. Man maatte gøre sig klart, at Forholdene var ekstraordinære paa Grund af Brændselsmangelen og den strenge Vinter, hvorfor man maatte klare sig igennem paa bedst mulig Maade. Hvorvidt Værket kunde levere det omtalte Kvantum Koks, kunde der ikke svares paa her. Man producerede ca. 1000 hl om Dagen, og de 20 %, som man skulde opspare, var blevet eftergivet; men der var mange andre, der skulde forsynes. Man kunde maaske enes om at overlade til Socialudvalget i Forbindelse med Belysningsvæsenet at klare Spørgsmaalet paa bedste Maade, for i en Vinter som denne burde Folk i hvert Fald ikke sidde og fryse, for saa vidt det kan undgaas. Kunde Byraadet slutte sig til Forslaget om en saadan Ombytning af Træ med Koks, hvis Koksene kan fremskaffes?
+J. R. Fanger syntes, at dette Spørgsmaal laa lidt udenfor Dagsordenen. Værket havde ikke Koks udover den daglige Produktion, og der var mange andre, som skulde have Brændsel. Hvis de allerede havde faaet 18 hl Koks, var det lige saa meget, som mange Familier bruger et et helt Aar, og hvis de havde mere end til 1"	1940	2	13
+"53"	1940-02-13	"closed"	"19400213B_239.pdf"	8	"941-1939"	"Uges Forbrug i Kælderen, maatte de ifølge Restriktionerne ikke faa mere udleveret. Endelig var der det Spørgsmaal, om man ikke herved kom ud over det Beløb, der kunde disponeres over til Rentenyderne. Disse Spørgsmaal, burde drøftes i Grupperne, før der tages endelig Bestemmelse.
+Chr. Nielsen oplyste, at man havde gemt Træet til sidst paa Vinteren, hvor det normalt ikke var saa koldt. At undersøge, om Folk har Brændsel i Kælderen, var ugørligt, men man kunde ikke komme udenom Spørgsmaalet, da mange stod og manglede Brændsel; derfor kunde det ikke nytte at udsætte Sagen til Forhandling i Grupperne; der maatte tages Stilling dertil straks. Taleren vilde henstille at tiltræde Borgmesterens Forslag om at lade de to Udvalg træffe Afgørelse. Socialkontoret kunde ikke vedblive at afvise de mange, som kom og bad om Brændsel, naar der faktisk var Brændsel at faa, og hvor fortvivlet Situationen var for mange Mennesker, kunde man læse i Bladene. En saadan Situation kunde man ikke vedblivende have, og Taleren vilde ikke tage Ansvaret for, at enkelte Byraadsmedlemmer viste Vrangvilje til at afhjælpe denne Brændselsnød.
+J. R. Fanger syntes, at Chr. Nielsen nu var kommet noget højt op. Det blev i Efteraaret vedtaget, at disse Folk skal have 3 Sække Brænde; men nu havde Udvalget solgt Brændet til andre og forlangte saa at faa Koks i Stedet for. Man maatte ogsaa huske paa, at 1 hl Koks var omtrent 3 Gangé saa dyr som 1 Sæk Brænde; derfor havde Taleren spurgt, om Udvalget havde Bevilling til denne Merudgift eller om der skulde en ny Bevilling til, og det Spørgsmaal maatte drøftes nærmere."	1940	2	13
+"54"	1940-02-13	"closed"	"19400213B_239.pdf"	9	"941-1939"	"C h r. Nielsen kunde ikke erkende, at Udvalget har gjort noget forkert. Hvis man havde standset Salget af Træ til private, havde det været uretfærdigt mod de fattige Mennesker som skulde købe Træ. Forholdene havde nu medført, at Brændselet skulde leveres ca. 1 Maaned tidligere end beregnet, og det kunde ikke bebrejdes Udvalget. Det kunde ikke være et Pengespørgsmaal, naar gamle Mennesker sidder og fryser; derfor kunde Sagen ikke udsættes i 8 Dage. Taleren havde talt med Møller Rasmussen derom, og man var enige om at anbefale Byraadet at foretage denne Ombytning; det var derfor uforstaaeligt, at andre i Byraadet vilde modsætte sig det.
+Borgmesteren antog, at nogle af de gamle havde sparet paa Brændselet og derfor havde en Del tilbage, og man kunde maaske forlange en Erklæring fra dem, at de ikke er i Besiddelse af Brændsel, før det udleveres til dem. Taleren vidste ikke om det var muligt at fremskaffe saadanne Erklæringer, men Udvalget havde jo en Del Undersøgere paa Kontoret, og de kunde ogsaa bestille noget. Selvfølgelig var 1 hl Koks dyrere end 1 Sæk Træ, men man maatte ogsaa gøre sig klart, at det var ekstraordinære Forhold, som krævede ekstra Udgifter, og hvis man kunde nøjes med at foretage denne Ombytning, maatte det kaldes ret beskedent. Man kunde selvfølgelig holde Møde allerede i Morgen og afgøre Spørgsmaalet, men det samme kunde ske i Dag ved at slutte sig til Talerens Forslag, som dog var afhængigt af, at Koksene kan fremskaffes.
+S. F. Sørensen gjorde opmærksom paa, at alle jo skulde underskrive en Erklæring om, at de ikke har Brænde, før de faar noget udleveret"	1940	2	13
+"55"	1940-02-13	"closed"	"19400213B_239.pdf"	10	"941-1939"	", og naar man forlangte det samme af Rentenyderne, var Sagen dermed klaret.
+Vald. Kloster mente ligesom Borgmesteren at mange gamle Folk var sparsommelige og derfor havde noget tilbage, men selvfølgelig vilde de tage deres Ration hjem alligevel, naar de fik Rekvisition derpaa. Naar Chr. Nielsen erklærede, at de gamle ikke havde Brændsel i Kælderen, saa vidste han jo ikke noget derom, naar han ikke havde undersøgt det. Taleren havde ikke noget imod, at de, som ikke har Brænde, faar det, men der maatte være lige saa megen Kontrol med Folk, der faar Brændselet gratis, som med andre.
+Chr. Nielsen spurgte, om det var Meningen, at Udvalget skulde lade alle disse Folks Kældere undersøge, det vilde i hvert Fald ogsaa koste Penge. De, som havde Brændsel, vilde vel ikke søge om mere; men mange manglede utvivlsomt, og Taleren vilde ikke vedblivende blive ved med at afvise dem.
+J. R. Fanger vilde ikke benægte, at nogle Rentenydere kunde mangle Brændsel og derfor burde have det, men efter Chr. Nielsens Udtalelser maatte man faa det Indtryk, at Brændselet skulde udleveres til alle over en Bank.
+Chr. Nielsen gjorde opmærksom paa, at der var et stort Arbejde at udføre i Forvejen med at skrive alle disse Rekvisitioner, og der kunde ikke udleveres 5000 Rekvisitioner straks, der maatte en vis Tid til at ordne det. Men der var nogle, som havde daarligt Kendskab til, hvad der egentlig kræves af Arbejde paa Socialkontoret.
+Stecher Christensen betonede, at Spørgsmaalet her var den eventuelle Ombytning af Træ med Koks, og det havde været rimeligt,"	1940	2	13
+"56"	1940-02-13	"closed"	"19400213B_239.pdf"	11	"941-1939"	"om Belysningsudvalget havde haft Lejlighed til at se paa dette Spørgsmaal først, for hvis Koksene ikke kunde fremskaffes, var der jo ikke meget ved at bevilge det. Taleren vilde godt stemme for denne Ombytning, men det var jo omsonst at vedtage det, hvis det ikke kunde leveres.
+Chr. Nielsen oplyste, at Socialkontoret havde talt med Belysningsdirektøren om Sagen, og uden at referere Samtalen troede Taleren, at man var i Stand til at levere det.
+Stecher Christensen svarede, at Belysningsudvalget ogsaa var Part i Sagen, og man kunde ikke paa staaende Fod svare derpaa.
+K. Mousten spurgte, om der ikke var Enighed om at udlevere 1 hl Koks, hvis de afgav den nævnte Erklæring.
+Borgmesteren mente, man kunde sige, at de, som ikke har Koks, faar 1 hl og 2 Sække Træ, og de øvrige faar 3 Sække Træ.
+Kai Blicher henstillede at udlevere et vist Kvantum pr Dag, f. Eks. 500 hl.
+Borgmesteren oplyste, at man hver Dag udleverede det, som produceredes, og man havde hidtil været i Stand til at levere 1 hl til alle, og ingen var gaaet forgæves, saa med lidt god Vilje gik det nok. Man kunde vel vedtage det saaledes, at de, der underskriver en Erklæring om, at de ikke har noget Brændsel, kan faa 1 Sæk Træ ombyttet med 1 hl Koks.
+Chr. Nielsen erklærede, at det var ganske umuligt for Udvalget at faa alle disse Erklæringer underskrevet.
+Borgmesteren svarede, at man maatte forlange af Socialudvalget, at de først kontrollerer, om disse Folk har Brændsel."	1940	2	13
+"57"	1940-02-13	"closed"	"19400213B_239.pdf"	12	"941-1939"	"S. F. Sørensen gjorde opmærksom paa, at Socialvæsenets Undersøgere var optaget i Forvejen, saa det var ganske umuligt at foretage en saadan Undersøgelse. Men hos andre Mennesker undersøgte man jo ikke Kældrene, og der var vel ikke Grund til at mistro Rentenyderne mere end andre. Det var ganske meningsløst at stille et saadant Krav til Udvalget. Naar de underskrev en Erklæring ligesom andre Mennesker, maatte det vel være tilstrækkeligt.
+Borgmesteren vilde overlade til Udvalget, hvilken Maade de vilde ordne det paa.
+Thomas Christensen fandt det ogsaa tilstrækkeligt, naar de underskrev en Erklæring
+Chr. Nielsen gjorde opmærksom paa, at der var Forskel paa Folk, der selv hentede deres Brændsel, og de gamle Mennesker, som faar det bragt og ikke selv kommer paa Gasværket.
+Borgmesteren antog, der var Enighed om at overlade til Socialudvalget i Forbindelse med Belysningsudvalget at ordne Sagen.
+Vald. Kloster kunde gaa med til dertil, blot det ikke blev Socialudvalget alene, for saa skete der ikke noget i Retning af Kontrol og Erklæringer. Taleren havde ikke noget imod, at de faar Brændselet, men de maatte afgive samme Erklæring som andre Mennesker.
+Hermed sluttede Mødet, og følgende Beslutning tilførtes Protokollen:
+\"Byraadet godkendte, at der gives de Restaurationer, der har Tilladelse til at holde aabent længere end til Kl. 23, Dispensation fra Bestemmelserne i Handelsministeriets Bekendtgørelse, saaledes at de maa holde aabent til Kl."	1940	2	13
+"58"	1940-02-13	"closed"	"19400213B_239.pdf"	13	"941-1939"	"Den Kommunalbestyrelsen ved Bekendtgørelsen givne Beføjelse til at dispensere fra Bekendtgørelsens Bestemmelser overdrages til Belysningsudvalget, ligesom det overdrages til Udvalget at træffe Bestemmelse om de øvrige efter Bekendtgørelsen fornødne Foranstaltninger.
+Det vedtoges, at Alders- og Invaliderente-nyderne og Kommuneunderstøttede, der ikke har noget Brændsel, maa faa 1 hl Koks i Stedet for en Sæk Brænde af Brændselshjælpen, Idet den nærmere Ordning overlades til Belysningsudvalget i Forbindelse med Socialudvalget.\""	1940	2	13
+"59"	1940-02-29	"closed"	"19400229B_253.pdf"	1	"no related record"	"Mødet den 29. Februar 1940.
+(For lukkede Døre).
+Fraværende: Borgmesteren, Kai Blicher, V. Jaquet og I. C. Sørensen."	1940	2	29
+"60"	1940-02-29	"closed"	"19400229B_253.pdf"	1	"15_23-1939"	"Andragende fra Professor H.E. Schneider om dansk Indfødsret.
+Anbefalet ved Cirkulation."	1940	2	29
+"61"	1940-02-29	"closed"	"19400229B_253.pdf"	1	"15_24-1939"	"Andragende fra Professor T. J. Geiger om dansk Indfødsret.
+Anbefalet ved Cirkulation."	1940	2	29
+"62"	1940-02-29	"closed"	"19400229B_253.pdf"	1	"841-1939"	"Indstilling fra Skoleudvalget til Besættelse af Lærerembeder.
+Følgende Indstilling forelaa:
+3 Lærerembeder:
+I.1. A. Nordvig Rasmussen.
+2.Frede Pinborg.
+3.L. Bindsløv Frederiksen.
+II.1. Frede Pinborg.
+2.L. Bindsløv Frederiksen.
+3.A. Nordvig Rasmussen.
+Iil. 1. L. Bindsløv Frederiksen.
+2.A. Nordvig Rasmussen.
+3.Frede Pinborg."	1940	2	29
+"63"	1940-02-29	"closed"	"19400229B_253.pdf"	2	"841-1939"	"5 Lærerindeembeder:
+I.1. Inger Kragh.
+2.Elinor Schroeder.
+3.G. Ehrenreich-Petersen.
+II.1. Elinor Schroeder
+2.Elisabeth Iversen.
+3.A. Hummeluhr Petersen.
+III.1. Elisabeth Iversen.
+2.A. Hummeluhr Petersen.
+3.Inger Kragh.
+IV.1. A. Hummeluhr Petersen.
+2.Inger Kragh.
+3.Elinor Schroeder.
+V.1. Anna Bjerregaard.
+2.G. Ehrenreich-Petersen.
+3.Elisabeth Iversen.
+3 Timelærerembeder:
+I.1. Holger Christensen.
+2.Tage Byrith.
+3.Sven Herning.
+II.1. Tage Byrith.
+2.Holger Christensen.
+3.Hans Rasmussen.
+III.1. Aksel Findal.
+2.P. Vestergaard Jørgensen.
+3.Holger Christensen.
+3.Timelærerindeembeder.
+I.1. Rigmor Villumsen.
+2.Signe Jakobsen.
+3.Ellen Vilstrup Olesen.
+II.1. Signe Jakobsen.
+2.Ellen Vilstrup Olesen.
+3.Rigmor Villumsen."	1940	2	29
+"64"	1940-02-29	"closed"	"19400229B_253.pdf"	3	"841-1939"	"III.1. Ellen Vilstrup Olesen.
+2.Rigmor Villumsen.
+3.Signe Jakobsen.
+5. faste Vikarpladser:
+1.Hr. Aage Rasmussen.
+2.Hr. Vilh. Humlum.
+3.Frk. Ingrid Andersen.
+4.Frk. Else Bjørn.
+5.Frk. Inga Kaarsbøl.
+Man tillader sig at foreslaa, at de faste Vikarer antages for 1 Aar ad Gangen, og saaledes at samtlige faste Vikarers Funktionstid udløber med 31/3 1941, med mindre de senest 3 Maaneder forinden har modtaget Meddelelse om Genansættelse for det følgende Aar.
+Vedtaget ved Cirkulation saaledes, at de som Nr. 1 indstillede ansættes."	1940	2	29
+"65"	1940-02-29	"closed"	"19400229B_253.pdf"	3	"749-1939"	"Indstilling fra Budgetudvalget om Erhvervelse af Arealer til Flyvepladsen m. v.
+Følgende Indstilling forelaa:
+\"Som Byraadet vil erindre, blev det i Mødet den 14. Decbr. f. A. besluttet at anlægge en Landingsplads for Flyvemaskiner, i hvilket Øjemed man erhvervede Ejendommen \"Kirstinesminde\" i Skejby. Ud herover er det nødvendigt at erhverve forskellige Arealer fra de til \"Kirstinesminde\" stødende Ejendomme, ligesom der paa Dele af disse Ejendomme af Hensyn til Flyvepladsen maa lægges Servitut om Forbud mod Bebyggelse m. v., hvorhos der skal foretages Vejforlægninger m. m.
+Der har været forhandlet med de forskellige Ejere, Sogneraad m. v., og der er opnaaet følgende Resultater:"	1940	2	29
+"66"	1940-02-29	"closed"	"19400229B_253.pdf"	4	"749-1939"	"\"Sommerlyst\", M a t r. N r. 9 a o g 1 4 b Skejby By og Sogn, tilhørende Fru ProprietærAa. Møller, \"Kjærbygaard\"
+Til selve Flyvepladsen skal fra denne Ejendom bruges ca. 11,9 Tdr. Land, mens 21,5 Tdr. skal servitutbelægges. Hele Ejendommen (bortset fra en Eng og en Skov, der ikke ligger sammen med den øvrige Ejendom), har en Størrelse af 59 Tdr. Land. Da man kunde erhverve Ejendommen paa gunstige Vilkaar, og idet man maa anse det for en Fordel, at Kommunen kan raade over hele Ejendommen, besluttede man at købe denne, (bortset fra den nævnte Eng og SkovPrisen andrager 150000 Kr, eller ca. 2600 Kr. pr. Td. Land. Købesummen berigtiges ved, at Kommunen overtager eller indfrier det i Ejendommen indestaaende Laan til Landbosparekassen, ca. 72000 Kr. mens der for Restkøbesummen udstedes Pantebrev til Ejerinden og hendes Moder, hvilke Pantebreve skal forrentes med 5 % p. a. og afdrages med 1/40 i hver Termin fra og med 11.Juni 1940 og iøvrigt fra Kreditorernes Side være uopsigelige. Overtagelsen skal ske den 11.Marts d. A.
+Samtidig har Proprietær Møller, \"Kjærbygaard\", ligeledes fra 11. Marts d. A. at regne, forpligtet sig til for et Tidsrum af 8 Aar at forpagte de Arealer fra \"Sommerlyst\", der ikke skal bruges til selve Flyvepladsen, samt et til \"Sommerlyst\" stødende Areal fra \"Kirstinesminde\", der heller ikke anvendes til Flyvepladsen, for en aarlig Forpagtningsafgift af 80 Kr. pr. Td. Land.
+Brendstrup Hovedgaard (Nedergaard) tilhørende Proprietær A. Nielsen, Brendstrup."	1940	2	29
+"67"	1940-02-29	"closed"	"19400229B_253.pdf"	5	"749-1939"	"Der skal af denne Ejendom bruges ca. 7,5 Tdr. Land til Flyvepladsen, mens ca. 22,7 Tdr skal servitutbelægges.
+Der er med Proprietær Nielsen opnaaet Overenskomet om, at han afstaar de ca. 7,5 Tdr. Land for en Pris af 2600 Kr. pr. Td. Land og servitutbelægger de andre 22,7 Tdr. mod en Godtgørelse af 3000 Kr., hvorhos der i Erstatning for Omlægning af Skifter, Ulemper m. v. ydes ham et Beløb paa 1500 Kr.
+Murer Lynggaards Hus Matr. Nr. 8 d Brendstrup.
+Bygningerne paa denne Ejendom og ca Halvdelen af Grunden ligger paa den projekterede Flyveplads, og det er derfor nødvendigt at erhverve Ejendommen og fjerne Bygningerne-
+Der er med Ejeren, der har opført Ejendommen for et Par Aar siden, opnaaet Enighed om, at han overdrager Ejendommen til Kommunen mod en kontant Betaling af 12000 Kr. Han faar derhos et af Svinehusene paa \"Kirstinesminde\" (Værdi ca. 4-500 Kr.) og faar Lov til at medtage Bygningerne paa Matr. Nr. 8 d, ligesom han beholder den Del af Grunden, der ikke skal bruges til selve Flyvepladsen, idet dette Areal dog belægges med den nævnte Servitut om Forbud mod Bebyggelse m. v.
+Gaardejer Hagelquists Ejendom i Brendstrup.
+Der skal fra denne Ejendom afstaas ca. V2 Td. Land til Vejanlæg m. v., hvorhos der skal servitutbelægges ca. 3,5 Tdr. Land. For Afstaaelse af Jorden, Servitutpaalæg og i Erstatning for Omlægning af Skifter, Ulemper m. v, er der med Gaardejer Hagelquist truffet"	1940	2	29
+"68"	1940-02-29	"closed"	"19400229B_253.pdf"	6	"749-1939"	"Aftale om, at der betales ham et samlet Beløb af 2400 Kr.
+Gaardejerne JensBøges og Anton Jacobsens Ejendomme i Skejby.
+Der skal fra disse Ejendomme servitutbelægges Arealer paa henholdsvis ca. 7,5 Tdr. og ca. 1 Td. Land (om muligt dog helst 4 Tdr.).
+Der har været forhandlet med de paagældende om en mindelig Ordning, idet man har budt dem 120 Kr. i Godtgørelse for hver Td. Land, der servitutbelægges, men det har ikke været muligt at opnaa en Ordning, og Servituten maa derfor paalægges ved Ekspropriation.
+Vejforlægninger.
+Da Skejby-Brendstrupvejen slaar et Sving ind paa Flyvepladsen, vil det være nødvendigt at foretage en Udretning af Vejen.
+Endvidere fører der tværs over \"Kirstinesminde\"s Jorder en offentlig Vej; denne Vej agtes omlagt saaledes, at den gaar Syd om Flyvepladsen og tildels langs det nordlige Skel for den nuværende Ekserserplads paa Skejby Mark ud til Randers Landevej.
+Baade Hasle-Skejby-Lisbjerg Sogneraad og Tilst-Kasted Sogneraad har tiltraadt disse Vejforlægninger, ligesom Amtsvejinspektør Christoffersen har erklæret, at der næppe fra Amtets Side vil fremkomme nogen Indvending derimod.
+Under Hensyn til, at der, saafremt de almindelige Regler for offentlige Bivejes Omlægning skal følges, let kan hengaa flere Aar, inden de nedlagte Vejstykker kan inddrages, bør Omlægningen formentlig søges gennemført ved Ekspropriation."	1940	2	29
+"69"	1940-02-29	"closed"	"19400229B_253.pdf"	7	"749-1939"	"Man skal herefter indstille de forannævnte Overenskomster om Ejendomskøb og Arealerhvervelser og Servitutpaalæg til Byraadets Godkendelse, ligesom man skal indstille, at det besluttes, at de ovenfor nævnte Vejforlægninger og Servitutpaalæget paa Gaardejerne Jens Bøges og Anton Jacobsens Ejendomme i Skejby søges gennemført ved Ekspropriation.
+Endelig skal man indstille, at det overdrages Brolægningsudvalget at udføre Arbejdet med selve Anlæget af Flyvepladsen, herunder at foretage de fornødne Forhandlinger i Anledning af Udførelsen, saasom med Ministeriets Arbejdsudvalg og andre.
+En Plan over Flyvepladsen vedlægges.\"
+Stecher Christensen forelagde Indstillingen.
+J. R. Fanger bemærkede, at hvis man skulde i Gang inden 1. April, maatte Udvalget skynde sig.
+Stecher Christensen antog, at hvis Vorherre forhindrede Arbejdet paa Grund af Vejret, maatte Ministeriet bøje sig derfor.
+Indstillingen vedtoges."	1940	2	29
+"70"	1940-02-29	"closed"	"19400229B_253.pdf"	7	"103_81-1939"	"Indstilling fra Budgetudvalget angaaende Tilbud paa Fjerntermometer- og Vandrensningsanlæg til det ny Raadhus.
+Følgende Indstilling forelaa: Fjerntermometeranlæg: A/S \"Eifa\" for 5522 Kr. Vandrensningsanlæg: A/S \"Silhorko\" for 1450 Kr.
+Indstillingen vedtoges."	1940	2	29
+"71"	1940-02-29	"closed"	"19400229B_253.pdf"	7	"22_6-1939"	"Andragende fra Hustømrernes Stiftelse og Enkekasse om Forhøjelse af Kommunens Prioritet i Ejendommen Matr. Nr. 1 vv af Markj. fra Marselisborg."	1940	2	29
+"72"	1940-02-29	"closed"	"19400229B_253.pdf"	8	"22_6-1939"	"Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Idet man vedlagt med Bilag fremsender Ansøgning af 13. ds. fra Hustømrernes Stiftelse og Enkekasse om Forhøjelse af Kommunens Prioritet i den Stiftelsen tilhørende Ejendom, Matr. Nr. 1 vv af Aarhus Markjorder fra Marselisborg, med 25000 Kr., skal man bemærke følgende:
+Ved Købekontrakt af 30. Marts f. A. købte Stiftelsen af Kommunen til Brug ved Opførelsen af en ny Stiftelsesbygning en Byggegrund ved Marselis Boulevard, stor 2985 m2, nu skyldsat under Matr. Nr. 1 vv af Aarhus Købstads Markjorder fra Marselisborg, for en Købesum af 5 Kr. pr. m2 eller ialt 14925 Kr., hvoraf 10 % blev udbetalt ved Handelens Indgaaelse, medens Resten, 13432 Kr. 50 Øre, skulde forblive indestaaende i den solgte Ejendom med 3. Prioritet næst 1. og 2. Prioritet af offentlige Midler indenfor 80 % af Ejendommens Taksationsværdi og forrentes og afdrages med en fast aarlig Ydelse af 8 %, hvoraf 5 % af den til enver Tid værende Restgæld er Rente, og Resten Afdrag. Ved Købekontrakten fralagde Kommunen sig Ansvar for Bundforholdene i Grunden.
+Forinden Arbejdet paabegyndtes, forelaa der et Overslag, ifølge hvilket Anskaffelsessummen for Bygningen vilde andrage ca. 345300 Kr. Man regnede med ved Laan i Kredit- og Hypotekforeningen i Forbindelse med det Beløb, som Kommunen skulde lade blive indestaaende i Grunden at kunne skaffe 253300 Kr., mens en herværende Bank, efter hvad Stiftelsen hævder,"	1940	2	29
+"73"	1940-02-29	"closed"	"19400229B_253.pdf"	9	"22_6-1939"	"havde givet mundtlig Tilsagn om det resterende Beløb, ca. 92000 Kr.
+Bygningen er nu færdig, og det har vist sig, at den er blevet langt dyrere end oprindelig paaregnet, bl. a. er Funderingen, der var anslaaet til ca. 16000 Kr., blevet 10000 Kr. dyrere, og Kurstabet, der var beregnet til ca. 23000 Kr., ligger nu paa over det dobbelte. Anskaffelsessummen andrager efter den nu foreliggende Opgørelse (incl. Kurstab) ca. 435000 Kr.
+Ejendommen er ved Kreditforeningsvurdering sat til en Værdi af 385000 Kr. Der er i Ejendommen opnaaet følgende Laan:
+Ny jydske Kjøbstad-Creditforening................Kr.178600,00
+Jydsk Hypotekforening....Kr.55000,00
+hvortil kommer Kommunens Prioritet.................\"13432,50
+lait...Kr.247032,50
+Den Bank, hos hvem Stiftelsen mente at have faaet Tilsagn om Laan, vil nu ikke yde noget Laan, og Stillingen er herefter den, at Stiftelsen mangler ca. 190000 Kr. i at kunne betale Byggeforetagendet.
+Stiftelsen selv ejer ikke saa store likvide Midler, men en Bank har nu stillet Stiftelsen i Udsigt, at saafremt Kommunen vil laane Stiftelsen 25000 Kr., vil Banken være villig til at hjælpe Stiftelsen med Resten af de manglende Penge. Idet bemærkes, at den Sikkerhed, der kan faas i Stiftelsens Ejendom, formentlig er god nok, og da der til Funderingen af Grunden er medgaaet mere end 25000 Kr., skal man i Betragtning af de foreliggende Omstændigheder under Forudsætning af, at Stiftelsen faar en"	1940	2	29
+"74"	1940-02-29	"closed"	"19400229B_253.pdf"	10	"22_6-1939"	"Ordning med den paagældende Bank, indstille, at Kommunen laaner Stiftelsen de ansøgte 25000 Kr., saaledes at der udstedes Pantebrev for Beløbet med oprykkende Prioritet i Ejendommen, sideordnet med Kommunens nuværende Prioritet, og saaledes at Gælden forrentes og afdrages paa samme Maade som denne Prioritet og. i det hele skyldes paa samme Vilkaar.\"
+J. R. Fanger vilde ikke gaa imod Forslaget; men det var ellers noget ganske ekstraordinært, at Kommunen sætter Penge i private Ejendomme udover Betalingen for Grunden, og Talerens Gruppe gik næppe med til dette tiere. De skulde ikke have begyndt Byggeriet, før de havde Pengene.
+Stecher Christensen gjorde opmærksom paa, at Kommunen i enkelte Tilfælde havde ladet Piloteringen udføre.
+Indstillingen vedtoges."	1940	2	29
+"75"	1940-02-29	"closed"	"19400229B_253.pdf"	10	"899-1939"	"Henstilling fra Anlægsgartner-og Havearkitektforeningen om, at en Del Arbejder, som udføres af Stadsgartnerens Kontor, maa overgaa til privat Initiativ m. m.
+Fra Parkudvalget forelaa følgende Erklæring: \"De i Skrivelsen nævnte Arbejder er for fleres Vedkommende kommunale, og samtlige Arbejder er iøvrigt udført i Henhold til Vedtagelse i forskellige Udvalg og paa de sædvanlige Vilkaar af Kommunens Mandskab.
+Stadsgartnerens Overledelse af Anlæget ved Aarhus nye Amtssygehus er afsluttet for 5 Aar siden.
+Hvad det timelønnede Personale angaar, hvortil den nævnte Rud. Nielsen hører, er dette sædvanligvis ikke fuldt beskæftiget, og"	1940	2	29
+"76"	1940-02-29	"closed"	"19400229B_253.pdf"	11	"899-1939"	"man savner formentlig Hjemmel til at forbyde saadanne at udføre Arbejde udover den Tid, de er beskæftiget ved Kommunen.\"
+Johanne Berg henviste til Udvalgets Erklæring og fandt, at Skrivelsen var et fuldstændigt Slag i Luften. Naar Kommunen solgte Byggegrunde, var det med den Klausul, at Stadsgartneren skal udføre Anlægene i Karréerne og mod offentlig Gade. Arbejdet ved Aarhus Amtssygehus blev i sin Tid tilladt af Byraadet, og der var overhovedet ikke sket noget som helst, der ikke var bevilget af et eller andet Udvalg. Hvad den omtalte Medhjælper angik, var Udvalget uden Indflydelse paa, hvilket Arbejde han beskæftigede sig med, naar han ikke var optaget ved Kommunen.
+Thomas Christensen syntes ikke, at en Assistent ved Kommunen skulde konkurrere med private. Hvis der var fuldt Arbejde til ham, kunde man jo give ham fast Ansættelse.
+J. R. Fanger henstillede at besvare Skrivelsen lidt mere imødekommende. Det var vel nok rigtigt, naar Parkudvalget skrev, at der ikke sker andet, end hvad der er vedtaget af Udvalgene; men man havde tidligere talt om, at Stadsgartneren skulde lave lidt mindre, og man kunde derfor svare, at det skulde blive indskrænket mest muligt udover Kommunens Arbejde. Den omtalte Assistent var ganske vist ikke under Tjenestemandsregulativet; men Udvalget kunde godt sige til ham, at hvis han vilde være ved Kommunen, skal han ikke konkurrere med private. Hvis der var Arbejde nok til ham, kunde han lige saa godt ansættes.
+Johanne Berg forstod ikke rigtigt, hvorledes man skulde stille sig imødekommende, for"	1940	2	29
+"77"	1940-02-29	"closed"	"19400229B_253.pdf"	12	"899-1939"	"der var faktisk ikke noget at svare udover Udvalgets Erklæring. Hvis Byraadet mente, at Assistenten skal fast ansættes, kunde dette Spørgsmaal overvejes.
+J. R. Fanger havde ikke beskyldt Parkudvalget for noget ulovligt; men man kunde godt svare paa Skrivelsen, at Arbejdet udenfor Kommunen skal blive indskrænket mest muligt.
+Johanne Berg troede, at de Folk, som køber Grunde af Kommunen, helst vil have Anlæget lavet af Stadsgartneren, fordi de vidste, at det saa blev godt Arbejde. Men skulde der ske Ændring her, maatte det være Udvalget for Byens Udvidelse og Bebyggelse; det var Parkudvalget uden Indflydelse paa.
+Vald. Kloster tvivlede ikke om, at Stadsgartneren laver godt Arbejde. Men en Havearkitekt kunde overhovedet ikke leve i Aarhus, fordi Stadsgartneren tog alt Arbejdet, og det var ikke kommunalt alt, hvad han havde lavet gennem Aarene. Taleren erindrede, at en meget stor Institution vilde have ham til at lave et Arbejde; men Taleren var gaaet derimod, for man skulde ikke ødelægge det private Initiativ.
+Hans Madsen syntes ikke, der var noget forkert deri, for man var dog interesseret i, at Anlæg ud til offentlige Gader blev saa smukke som mulig, og derfor var vel ogsaa denne Klausul sat i Købekontrakterne. Der var i hvert Fald ikke noget at bebrejde Parkudvalget, naar det var andre Udvalg, som forlangte, at Stadsgartneren skal udføre disse Arbejder.
+Stecher Christensen udtalte, at naar det drejede stg om Anlæg ud mod offentlig Gade, burde Byraadet være medbestemmende om, hvorledes det skaf laves, og derfor havde"	1940	2	29
+"78"	1940-02-29	"closed"	"19400229B_253.pdf"	13	"899-1939"	"Udvalget for Byens Udvidelse og Bebyggelse indsat denne Bestemmelse. Det var ofte sket, at private havde bedt om at faa Stadsgartneren til at lave Anlæg i Karréerne; men det skyldtes maaske, at der ikke var nogen Havearkitekt i Aarhus, og om saadanne vilde komme hvis Stadsgartneren ikke skulde lave Karréerne, vidste man jo ikke. Men i hvert Fald burde man ikke overdrage private at lave offentlige Anlæg. Assistentstillingen hos Stadsgartneren havde vist aldrig givet fuld Beskæftigelse, flere af de Assistenter, som havde haft Ansættelse der, havde betragtet Stillingen som en Uddannelse til en selvstændig Stilling, og derfor havde de ogsaa ønsket Tilknytning til det private Arbejde. Taleren vilde fraraade at give disse Assistenter fast Ansættelse, og hvis man forbød dem at lave privat Arbejde, kunde det godt medføre, at man ikke fik de rigtige Folk paa denne Plads. Man kunde jo svare paa Skrivelsen, at Byraadet i hvert enkelt Tilfælde vilde overveje, om det skal være Stadsgartneren eller andre, der skal udføre Arbejdet.
+J. R Fanger indrømmede, at Byraadet skal have Haand i Hanke med, hvorledes Anlægene skal være; men det kunde lige saa godt ske, hvis en privat Mand udførte Arbejdet, blot Projektet blev godkendt af Udvalget. Stadsgartneren havde i hvert Fald tidligere været lidt for meget i Vælten. Hvis Assistenstillingen var en Uddannelsespost, saa maatte han uddanne sig ved Kommunen, saa længe han var ansat der. Skulde man ind paa det nævnte Princip, kunde man risikere, at f. Eks. Kommunens Ingeniører ikke vilde ansættes, men delvis udføre Arbejde for private. Det vilde blive Smudskonkurrence, og det burde forbydes."	1940	2	29
+"79"	1940-02-29	"closed"	"19400229B_253.pdf"	14	"899-1939"	"H. J. Baden erindrede om, at man for nylig havde vedtaget, at der ikke maa oprettes nye Stillinger.
+J. R. Fanger mente ikke, det kunde kaldes en ny Stilling.
+Stecher Christensen henstillede at svare, at man vil tage Skrivelsen under Overvejelse. For Assistentens Vedkommende kunde man lade Parkudvalget undersøge, om der er Mulighed for at ansætte ham.
+Stecher Christensens Forslag tiltraadtes."	1940	2	29
+"80"	1940-02-29	"closed"	"19400229B_253.pdf"	14	"798-1939"	"Valg af et Søretsmedlem i Stedet for afd. Maskinmester Quist.
+Maskingeniør H. Weldingh indstilledes."	1940	2	29
+"81"	1940-02-29	"closed"	"19400229B_253.pdf"	14	"25_7-1939"	"Fastsættelse af Afgiften for den Aarhus Haandværkerforening meddelte Tilladelse til at holde Restaurationslokalerne aabne til Kl. 24.
+Afgiften fastsattes til 500 Kr."	1940	2	29
+"82"	1940-02-29	"closed"	"19400229B_253.pdf"	14	"789-1939"	"Andragende fra Kunstmaler Toft Andersen om Dækning af Underskudet ved Kunstudstillingen i 1939.
+Budgetudvalget indstiller, at der udover den tidligere bevilgede Garanti- og Driftskapital paa 5000 Kr. bevilges Andrageren et Tilskud paa 2000 Kr.
+Stecher Christensen oplyste, at denne Kunstudstilling havde været lidt af et Smertensbarn for Aarhus. Toft Andersen var vist en udmærket Mand til at skaffe noget til Aarhus, men hans økonomiske Dispositioner var ikke gode, og man havde forsøgt at bremse ham lidt.
+Indstillingen vedtoges."	1940	2	29
+"83"	1940-02-29	"closed"	"19400229B_253.pdf"	14	"973-1939"	"Indstilling fra Skoleudvalget om Bortgivelse af Fripladser i eksamensberettigede private Realskoler."	1940	2	29
+"84"	1940-02-29	"closed"	"19400229B_253.pdf"	15	"973-1939"	"Følgende Indstilling forelaa:
+Forældreskolen: Per Jensen og Norma Christensen.
+N. Kochs Skole: Edvard Laursen.
+E. Smiths Skole: Johanne Mikkelsen.
+Ax. Hansens Skole: Doris Sørensen Edvard Hansen og Jonna Vilholth.
+Fru Laursens Skole: Else Bertelsen, Jutta Christensen og Norma Højstrøm.
+Indstillingen vedtoges."	1940	2	29
+"85"	1940-02-29	"closed"	"19400229B_253.pdf"	15	"965-1939"	"Indstilling fra Skoleudvalget om Afskedigelse af Overlærer E. Sørensen, Borgerskolen i Samsøgade, paa Grund af Sygdom.
+K. Mousten oplyste, at Overlæreren for 4 Aar siden fik et Anfald af Hjerneblødning, og siden havde han været nedbrudt og uegnet til sin Gerning. Man havde overvejet at henstille til ham at søge sin Afsked, men saa fik han for et Par Maaneder siden et nyt Anfald og laa nu paa Hospitalet, og da han nærmest var uklar, var der jo ikke meget ved at spørge ham. Nu kom det an paa, om Ministeriet vilde afskedige ham paa Grundlag af den foreliggende Lægeerklæring.
+Stecher Christensen mente, at Forslaget var nødvendigt.
+E. Winterberg henstillede, at indtil Ministeriets Afgørelse foreligger, omtaler man ikke Sagen eller meddeler noget derom til Pressen.
+Indstillingen vedtoges."	1940	2	29
+"86"	1940-02-29	"closed"	"19400229B_253.pdf"	15	"948-1939"	"Fastsættelse af Pension til Enken efter Retorthusarbejder R. P. Jensen.
+Pensionen fastsattes til 1200 Kr."	1940	2	29
+"87"	1940-02-29	"closed"	"19400229B_253.pdf"	15	"8_17-1939"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat paa Grund af urigtig Selvangivelse."	1940	2	29
+"88"	1940-02-29	"closed"	"19400229B_253.pdf"	16	"8_17-1939"	"Kommissionen foreslaar følgende Efterbetalinger: Direktrice Frk. E. S. Johansen, Strandparken 33 .................2500,00Kr.
+Overassistent Frk. C. E. Johansen, Strandparken 33..................1400,00\"
+Bagermester C. Henriksen, Randersvej 19 ......................700,00\"
+Dødsboet efter Haandværker C.V.Schaffer, Fredericiagade 22 5916,74 \" 
+Dødsboet efter Maskinpasser B. D. J. Bonde, Ringkøbingvej 22 1500,00 \"
+Ialt... 12016,74 Kr.
+Tiltraadtes."	1940	2	29
+"89"	1940-02-29	"closed"	"19400229B_253.pdf"	16	"17_61-1939 og 17_62-1939"	"Andragender om Eftergivelse af Hjælp ydet til:
+a.  17_61-1939N. F. M. Eskildsen.
+b.  17_62-1939P. C. Nielsen.
+Anbefalet af Socialudvalget.
+Bevilgedes."	1940	2	29
+"90"	1940-02-29	"closed"	"19400229B_253.pdf"	16	"12_22-1939"	"Indstilling fra Socialudvalget om Bevilling af personligt Tillæg til Alders- og Invaliderentenydere.
+Indstillingen vedtoges."	1940	2	29
+"91"	1940-02-29	"closed"	"19400229B_253.pdf"	16	"12_21-1939"	"Indstilling fra Socialudvalget om Bevilling af Huslejetilskud til Aldersrentenydere.
+Indstillingen vedtoges."	1940	2	29
+"92"	1940-02-29	"closed"	"19400229B_253.pdf"	16	"16_20-1939"	"Indstilling fra Socialudvalget om Bevilling af Tillægshjælp efter Forsorgslovens § 293, Stk. 2, til Arbejdsløshedsunderstøttelse, Invaliderente og Aldersrente.
+Indstillingen vedtoges."	1940	2	29
+"93"	1940-02-29	"closed"	"19400229B_253.pdf"	16	"16_19-1939"	"Indstilling fra Socialudvalget om Bevilling af Kommunehjælp udover den i Forsorgslovens § 297, Stk. 1, fastsatte Grænse.
+Indstillingen vedtoges."	1940	2	29
+"94"	1940-02-29	"closed"	"19400229B_253.pdf"	17	"16_18-1939"	"Indstilling fra Socialudvalget om, at Hjælp ydet 1345 Personer ikke for de paagældende skal medføre Tab af Valgret m. m.
+Indstillingen vedtoges."	1940	2	29
+"95"	1940-02-29	"closed"	"19400229B_253.pdf"	17	"601_6-1939"	"Andragende fra 8 Lejere af Lejligheder i Andelsboligforeningen \"Ringgaardens\" Ejendom om Kommunens Garanti for Laan til Betaling af Indskud.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Det indstilles, at Kommunen for saa vidt angaar de paa vedlagte Liste under Nr. 1-5 opførte Lejere, nemlig:
+Møntør Ferdinand Erik Olsen,Maskintrykker Kaj G. Fenger Lassen, Fabriksarbejder August A. P. C. Petersen, 
+Portner Hemmer Christensen og &lt;br&gt;Arbejdsmand H. P. Ingolf Nielsen,
+paatager sig Garanti for de ansøgte Laan, svarende til 2/2 af det Indskud, de paagældende skal betale for at faa Lejlighed i Boligforeningen, mod at Kommunen faar Sikkerhed i de paagældendes Boligandele, og saaledes at Boligforeningen selv maa drage Omsorg for Opkrævningen af Renter og Afdragene paa Laanene, der skal optages i en Bank eller Sparekasse, hvorhos de nærmere Vilkaar for Laanene maa godkendes af Udvalget.
+Derimod kan Udvalget ikke, under Hensyn til den Socialhjælp, de paagældende har oppebaaret, anbefale, at der garanteres for Laan til de paa Listen under Nr. 6-8 opførte Lejere, nemlig:"	1940	2	29
+"96"	1940-02-29	"closed"	"19400229B_253.pdf"	18	"601_6-1939"	"Murersvend Chr. Gunnar Jensen, Arbejdsmand Alfred Aage Christensen og Havnearbejder Alfred C. V. Eriksen.\"
+Indstillingen vedtoges."	1940	2	29
+"97"	1940-02-29	"closed"	"19400229B_253.pdf"	18	"601_7-1939"	"Andragende fra 3 Lejere i Arbejdernes Andelsboligforenings Ejendom Vestre Ringgade 108 om Kommunens Garanti for Laan til Betaling af Indskud.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Det indstilles, at Kommunen for de af Boligforeningen indstillede Lejere, nemlig:
+&lt;span id=\"Person\"&gt;Arbejdsmand Alfred Simonsen, 
+&lt;/span&gt;Malersvend Niels A. Andersen og &lt;br&gt;Repræsentant Rasmus Møller 
+paatager sig Garanti for de ansøgte Laan, svarende fra Halvdelen til af det Indskud, de paagældende skal betale for at faa Lejlighed i Boligforeningen, mod at Kommunen faar Sikkerhed i de paagældendes Boligandele, og saaledes at Boligforeningen selv maa drage Omsorg for Opkrævning af Renter og Afdragene paa Laanene, der skal optages i en Bank eller Sparekasse, hvorhos de nærmere Vilkaar for Laanene maa godkendes af Udvalget.
+Indstillingen vedtoges."	1940	2	29
+"98"	1940-02-29	"closed"	"19400229B_253.pdf"	18	"936-1939"	"Forslag fra Socialudvalget om Modtagelse af 10 finske Børn paa Kommunens to Børneoptagelseshjem.
+Chr. Nielsen henstillede at vedtage, at saafremt der kom evakuerede finske Børn til Aarhus, og der var Tale om Søskende, der helst burde blive sammen, kunde der optages indtil 10 Børn paa Optagelseshjemmene, hvis det blev nødvendigt."	1940	2	29
+"99"	1940-02-29	"closed"	"19400229B_253.pdf"	19	"936-1939"	"J. R Fanger kunde godt slutte sig til Chr. Nielsens Forslag, som ogsaa var tiltraadt af Udvalget; men det var ikke det samme, som Indstillingen lød paa. Men var der Plads paa Optagelseshjemmene ?
+Stecher Christensen mente ikke, man skulde tage noget fra private, og der skulde jo først og fremmest være Plads paa Hjemmene til de Børn, som det var nødvendigt at anbringe der. Men der kunde nok i Nødstilfælde skaffes Plads.
+Indstillingen vedtoges i Henhold til de faldne Udtalelser."	1940	2	29
+"100"	1940-02-29	"closed"	"19400229B_253.pdf"	19	"864-1939"	"Indstilling fra Budgetudvalget om Bevilling af et Beløb til en Folkegave til Kongen.
+Fra Købstadforeningen forelaa følgende Skrivelse:
+\"I Anledning af at Nationalindsamlingen 1940 har rettet Henvendelse til samtlige Landets Byraad om at yde Bidrag til en Folkegave til Kongen paa hans 70 Aars Dag, tillader man sig at meddele, at Bestyrelsen for Den danske Købstadforening paa dertil given Anledning har drøftet Spørgsmaalet med det Formaal at kunne give Byraadene en Vejledning for saa vidt de maatte ønske at bidrage til, Folkegaven.
+Spørgsmaalet har ogsaa været drøftet med Repræsentantskabets Medlemmer ved det nylig afholdte Repræsentantskabsmøde, og det er eenstemmigt vedtaget at henstille til Danmarks Købstæder, at der til denne Nationalindsamling ydes et et Bidrag, der svarer til det Kontingent, som Købstaden yder til Den"	1940	2	29
+"101"	1940-02-29	"closed"	"19400229B_253.pdf"	20	"864-1939"	"danske Købstadforening, nemlig 6 Kr. pr. 100 Indbyggere.
+For Aarhus Købstads Vedkommende udgør dette Beløb Kr. 5460.
+Saafremt Byraadet maatte vedtage at yde Bidrag til Folkegaven, bedes Beløbet indsendt til Den danske Købstadforening inden Udgangen af Marts Maaned, og Bestyrelsen for Den danske Købstadforening vil derefter videresende det indkomne Beløb som samlet Bidrag fra de danske Købstæder.
+Det bemærkes, at Folkegaven efter Kongens Bestemmelse vil blive anvendt til humane og videnskabelige Formaal i hele Nationens Interesse.\"
+Tiltraadt af Budgetudvalget.
+Thomas Christensen kunde ikke paa nuværende Tidspunkt stemme derfor, for der var mange andre mere nødvendige Ting at bruge Penge til, og Sagen hastede heller ikke saa stærkt.
+Forslaget vedtoges med alle Stemmer mod 1."	1940	2	29
+"102"	1940-02-29	"closed"	"19400229B_253.pdf"	20	"953-1939"	"Henvendelse fra Deltagere i et Møde i \"Folkets Hus\" angaaende Fremskaffelse af Arbejde og Forhøjelse af Understøttelser m. m.
+Stecher Christensen fandt ikke Anledning ti! at kommentere Skrivelsen, da det var gjort tilstrækkeligt i Byens Blade, og vilde foreslaa, at man tager Sagen til Efterretning.
+Thomas Christensen vilde som Medlem af en af de underskevne Bestyrelser henstille til Byraadet, at man retter Henvendelse til Regeringen og Erhvervsraadet om at fremskaffe noget Arbejde. Det private Initiativ var ikke stærkt for Tiden, og derfor burde Stat og Kommune gøre noget; det burde alle kunne tiltræde."	1940	2	29
+"103"	1940-02-29	"closed"	"19400229B_253.pdf"	21	"953-1939"	"Desuden burde Socialudvalget overveje, hvorvidt man kunde imødekomme de fremsatte Krav om Understøttelse til de Arbejdsløse, for disse Krav var i Virkeligheden meget beskedne.
+Stecher Christensen gik ud fra, at Udvalgene ser paa Forholdene og stiller de Forslag, som de finder nødvendige.
+Sagen toges til Efterretning."	1940	2	29
+"104"	1940-02-29	"open"	"19400229_235.pdf"	1	"no related record"	"Mødet den 29. Februar 1940.
+Fraværende: Borgmesteren, Kai Blicher V. Jaquet og I. C. Sørensen,
+Mødet lededes af 1. Viceformand Stecher Christensen.
+Stecher Christensen vilde udtale nogle Mindeord over to Mænd, der havde sat Livet til under deres Arbejde for Aarhus Kommune, nemlig Brandchef Bredal og Brandmand Kiilsgaard. Byraadet kendte de nærmere Omstændigheder ved deres Død og vidste, at de var pligtopfyldende til det sidste. Man havde vist dem den Ære at lade dem begrave paa Byens Bekostning, og Taleren vilde udtale et: Ære være deres Minde! (Tilslutning).
+Møller Rasmussen bragte fra Fru Bredal en Hilsen og Tak til Byraadet for Venlighed og Deltagelse ved Brandchefens Begravelse."	1940	2	29
+"105"	1940-02-29	"open"	"19400229_235.pdf"	1	"693-1939"	"Skrivelse fra Indenrigsministeriet med Fastsættelse af det nye Apoteks Beliggenhed.
+Følgende Skrivelse forelaa:
+\"Ved kongelig Resolution af 13. Februar 1940 er det bestemt, at det i Henhold til kongelig Resolution af 23. Oktober f. A."	1940	2	29
+"106"	1940-02-29	"open"	"19400229_235.pdf"	2	"693-1939"	"oprettede nye Apotek i Aarhus med Beliggenhed enten paa Ingerslev Boulevard eller paa Harald Jensens Plads i Stedet skal have sin Beliggenhed paa Strækningen fra det vestlige Hjørne af Stadion Allé langs den sydlige Side af Ingerslev Boulevard, den østlige, sydøstlige og sydlige Side af Harald Jensens Plads til Hjørnet af de Mezavej, begge de nævnte Hjørner indbefattet.
+Hvilket herved meddeles under Henvisning til Sundhedsstyrelsens- Skrivelse af 13. f. M."	1940	2	29
+"107"	1940-02-29	"open"	"19400229_235.pdf"	2	"2075-1939"	").
+Man skal samtidig anmode Sundhedsstyrelsen om paa sædvanlig Maade at opslaa Privilegiet til at drive nævnte Apotek ledigt, saaledes at der i Opslaget optages Bestemmelse om Apotekets Beliggenhed i Overensstemmelse med ovenstaaende.\"
+Toges til Efterretning."	1940	2	29
+"108"	1940-02-29	"open"	"19400229_235.pdf"	2	"191_23-1939"	"Meddelelse fra Indenrigsministeriet om Statslaan til Tømrer A. Madsen til Opførelse af et Beboelseshus paa Matr. Nr. 69 co af Markj.
+Toges til Efterretning."	1940	2	29
+"109"	1940-02-29	"open"	"19400229_235.pdf"	2	"191_22-1940"	"Meddelelse fra Indenrigsministeriet om Statslaan til Forvalter K. Hansen til Opførelse af et Beboelseshus paa Matr. Nr. 69 co af Markj.
+Toges til Efterretning."	1940	2	29
+"110"	1940-02-29	"open"	"19400229_235.pdf"	2	"650-1939"	"Socialministeriets Beskikkelse af Byraadssekretær G. Staal til i Stedet for Civildommeren at tiltræde Børneværnsudvalget ved Behandling af Sager om endelig Fjernelse af Børn fra deres Hjem.
+Toges til Efterretning."	1940	2	29
+"111"	1940-02-29	"open"	"19400229_235.pdf"	3	"749-1939"	"Socialministeriets Godkendelse af Arbejdet ved Anlæg af Flyvepladsen i Skejby til Udførelse med Tilskud i Henhold til Lov af 13. April 1939, § 3, Stk. 1 b.
+Toges til Efterretning.
+6.(j. Nr."	1940	2	29
+"112"	1940-02-29	"open"	"19400229_235.pdf"	3	"255-1939"	"Indenrigsministeriets Godkendelse af, at Kommunen i Henhold til Overenskomst med Professor Aage Nielsen om Opførelse af en Embedsbolig til Overkirurgen ved Aarhus Kommunehospital fra Professoren modtager et Laan paa 65000 Kr. mod 1. Prioritets
+Panteret i Embedsboligen.
+Toges til Efterretning."	1940	2	29
+"113"	1940-02-29	"open"	"19400229_235.pdf"	3	"52-1939"	"Skrivelse fra Ministeriet for offentlige Arbejder med Godkendelse af Opførelse af Varmestuer paa Havnens Terræn for Havnens Penge.
+Toges til Efterretning."	1940	2	29
+"114"	1940-02-29	"open"	"19400229_235.pdf"	3	"852-1939"	"Skrivelse fra Ministeriet for offentlige Arbejder med Godkendelse af Ændring i Havne- og Brotaksten.
+Ministeriet tiltræder, at der i Afsnit I A 3 tilføjes som nyt Punkt h:
+\"Fartøjer, der udelukkende søger Havn af Hensyn til Fare for drivende Miner, er fritaget for Skibsafgift, naar de ikke henligger i Havnen udover 1 Maaned.\"
+Toges til Efterretning."	1940	2	29
+"115"	1940-02-29	"open"	"19400229_235.pdf"	3	"848-1939"	"Skrivelse fraAbejdsdirektoratetom Ydelseaf Tilskud tilet udvidet Kursus for arbejdsløse Malersvende.
+Toges til Efterretning."	1940	2	29
+"116"	1940-02-29	"open"	"19400229_235.pdf"	3	"893-1939"	").Skrivelse fra rbejdsdirektoratetom Ydelseaf Tilskud tilKursus for arbejdsløse Tømrere.
+Toges til Efterretning."	1940	2	29
+"117"	1940-02-29	"open"	"19400229_235.pdf"	4	"30_48-1939"	"Meddelelse fra Aarhus Amtsraad om Fornyelse af Fragtmand Th. Marthinussens Koncessionen paa Fragtmandskørsel mellem Tinning og Aarhus.
+Toges til Efterretning."	1940	2	29
+"118"	1940-02-29	"open"	"19400229_235.pdf"	4	"30_49-1939"	"Meddelelse fra Aarhus Amtsraad om Fornyelse af Fragtmand Karl E. Larsens Koncession paa Fragtmandskørsel mellem Aarhus og Horsens.
+Toges til Efterretning."	1940	2	29
+"119"	1940-02-29	"open"	"19400229_235.pdf"	4	"929-1939"	"Regnskab for Smede- og Maskinarbejdernes Fagforenings Stiftelse.
+Toges til Efterretning."	1940	2	29
+"120"	1940-02-29	"open"	"19400229_235.pdf"	4	"934-1939"	"Andragende fra Aarhus Teater om Fornyelse af Teaterbevilling.
+Anbefaledes."	1940	2	29
+"121"	1940-02-29	"open"	"19400229_235.pdf"	4	"943-1939"	"Forslag til nye Takster for den offentlige Vejning og Maaling i Aarhus Købstad.
+Anbefalet af Aarhus Handelsforening.
+Anbefaledes."	1940	2	29
+"122"	1940-02-29	"open"	"19400229_235.pdf"	4	"896-1939"	"Andragende fra Aarhus Havn om, at Kommunen paatager sig Selvskyldnerkaution for et af Havnen udstedt Gældsbevis paa 220000 Kr. til D. D. P. A. - 2. Behandling.
+Vedtoges."	1940	2	29
+"123"	1940-02-29	"open"	"19400229_235.pdf"	4	"56-1939"	"Indstilling fra Kirkegaards-bestyrelsen om Optagelse af et Laan paa 120000 Kr. til Afholdelse af Udgifterne ved Ordning af Kapel- og Krematorieforholdene paa Nordre Kirkegaard.
+Følgende Indstilling forelaa:
+\"I Henhold til Byraadets Bemyndigelse af 23. Februar 1939 har Kirkegaardsbestyrelsen forhandlet med Dansk Ligbrændingsforening om, at Foreningen yder Aarhus Kommune et"	1940	2	29
+"124"	1940-02-29	"open"	"19400229_235.pdf"	5	"56-1939"	"Laan paa 120000 Kr. til Anvendelse ved Ombygning og Indretning af Krematorium i Kapellet paa Nordre Kirkegaard.
+Ligbrændingsforeningen er indgaaet paa at yde Laanet paa følgende Betingelser:
+Laanet, 120000 Kr., modtages til pari Kurs og forrentes med 5 % p. a. og afdrages i Løbet af 25 Aar med lige store Afdrag - 4800 Kr. aarlig - og modtages med følgende Beløb til nedennævnte Terminer:
+50000 Kr.den 1.Aprild.A.
+35000-- 15.Maj--
+35000-- 15.Juli--
+Kirkegaardsbestyrelsen indstiller herved til ByraadetatLaanet oprettes paa anførte Betingelser,hvorefter Arbejdet igangsættes snarest.\" 
+Henvistes til Budgetudvalget."	1940	2	29
+"125"	1940-02-29	"open"	"19400229_235.pdf"	5	"962-1939"	"Indstilling fra Skovudvalget om Godkendelse af Lejekontrakten med Frivilligt Drengeforbund angaaende \"Hørhaven.\"
+Stecher Christensen henstillede til Skovudvalget at tage Sagen tilbage. Da man i sin Tid behandlede Sagen om et Projekt i Hørhaven, faldt der mange Udtalelser om, at Hørhaven burde frilægges for Publikum. Man burde nu se at finde en Ordning saaledes, at den Del af Arealet, der ligger paa den østlige Side af Vejen, aabnes for Publikum, F. D. F. kunde nok faa tilstrækkeligt Plads paa den vestlige Side af Vejen, og dette Areal kunde saa udlejes til dem, dog saaledes, at hvis der blev Tale om store Landsstævner o. lign., kunde hele Arealet benyttes,
+J. R. Fanger kunde godt tiltræde Skovudvalgets Indstilling. Angaaende Adgangen til Pladsen, saa havde Taleren aldrig mærket, at"	1940	2	29
+"126"	1940-02-29	"open"	"19400229_235.pdf"	6	"962-1939"	"den var spærret; der var tværtimod fri Adgang for alle. Ved Udlejning fik Kommunen jo ogsaa en Indlægt af Pladsen. Men selvfølgelig kunde Sagen drøftes i Budgetudvalget, hvis man ikke kunde tiltræde Skovudvalgets Indstilling.
+Vald. Kloster var ked af, at der skulde sættes en Pind i Hjulet i denne Sag, og Forslaget var lavet af Udvalget i Forstaaelse med Borgmesteren. Hvis der skulde være Adgang for alle, kunde F. D. F. ikke bruge det. Pladsen skulde indhegnes, der maatte være en Flok Faar til at holde Græsset nede, og i en Lejr kunde alle og enhver ikke have Adgang, Taleren beklagede, at man ikke kunde gaa med til Forslaget.
+H. J. Baden forstod, at der var delte Meninger om Forslaget, og naar der var henstillet at tage det tilbage, vilde Taleren gøre det.
+Stecher Christensen havde ikke med sit Forslag villet genere F. D. F.; man havde blot taget sig ad notam de tidligere stærke Krav om at frilægge Hørhaven.
+Sagen gik tilbage til Skovudvalget."	1940	2	29
+"127"	1940-02-29	"open"	"19400229_235.pdf"	6	"983-1939"	"Forslag til Benævnelse af Gader i \"Hestehaven\" og ved Dybkjær samt til nyt Navn for Chr. Winthersvej.
+Følgende Indstilling forelaa:
+1)Kvarteret i Hestehaven: Hestehavevej, Bøgebjergvej, Rørmosevej og Egebæksvej.
+2)Ved Dybkjær Nord for Brendstrupvej: Mandalsvej og Farsundsvej.
+3)Gadenavnet \"Chr. Winthersvej\" ændres til \"Aarestrupsvej.\"
+Tiltraadt af Gade- og Vejnavneudvalget.
+Stecher Christensen havde haft Henvendelse fra en Grundejer ved Chr. Winthersvej,"	1940	2	29
+"128"	1940-02-29	"open"	"19400229_235.pdf"	7	"983-1939"	"som var misfornøjet med, at Gaden skulde have et nyt Navn. Men Forslaget skyldtes Vejnavneudvalget, som havde fremsat det, fordi der var en Gade af dette Navn i Aabyhøj. Vedkommende havde saa ønsket, at Navnet blev \"Emil Aarestrupsvej\" men Taleren fandt det mest praktisk at vedtage den kortere Form.
+Indstillingen vedtoges."	1940	2	29
+"129"	1940-02-29	"open"	"19400229_235.pdf"	7	"101_3-1939"	"Andragende fra Aarhus Universitet om Udbetaling af Tilskud.
+Budgetudvalget anbefaler, at Restbeløbet paa Budgettet, 13254 Kr., udbetales.
+Indstillingen vedtoges."	1940	2	29
+"130"	1940-02-29	"open"	"19400229_235.pdf"	7	"935-1939"	"Indstilling fra Skoleudvalget om Oprettelse og Opslag af et nyt Adjunktembede ved Marselisborg Skole.
+Tiltraadtes."	1940	2	29
+"131"	1940-02-29	"open"	"19400229_235.pdf"	7	"966-1939"	"Indstilling fra Skoleudvalget om Adgang til Indmeldelse af Børn fra det fyldte 3. Aar til Behandling paa Skoletandklinikken.
+Indstillingen vedtoges."	1940	2	29
+"132"	1940-02-29	"open"	"19400229_235.pdf"	7	"894-1939"	"Indstilling fra Skoleudvalget om Installation af Fjernvarme i Borgerskolerne, Valdemarsgade og Frederiksalle med tilhørende Overlærerboliger.
+Anbefalet af Budgetudvalget saaledes, at Udgiften, 72000 Kr., tages paa de kommende 3 Aars Budgetter.
+Thomas Christensen mente, at der i Fjor blev indlagt Centralvarme i de to Overlærerboliger, og det vilde være meningsløst, hvis disse Anlæg nu skulde kasseres. Men maaske drejede det sig blot om Tilknytning ti! Fjernvarmen.
+Stecher Christensen svarede, at Skolernes gamle Varmeanlæg var opslidt og skulde"	1940	2	29
+"133"	1940-02-29	"open"	"19400229_235.pdf"	8	"894-1939"	"fornyes, men Anlægene i Overlærerboligerne skulde blot tilknyttes.
+Indstillingen vedtoges."	1940	2	29
+"134"	1940-02-29	"open"	"19400229_235.pdf"	8	"968-1939"	"Indstilling fra Udvalget for Bygninger og Inventar om Indretning af Lavvandsbassiner i Skolebadene ved Riis Skov.
+Budgetudvalget kan ikke anbefale, at Arbejdet udføres i Aar.
+S.F. Sørensen henstillede, at Udvalget tager Sagen tilbage og ser nærmere derpaa.
+Sagen gik tilbage til Udvalget."	1940	2	29
+"135"	1940-02-29	"open"	"19400229_235.pdf"	8	"775-1939"	"Indstilling fra Budgetudvalget udvalget angaaende Regulativ for den Ulykkesforsikringsfond for Kommunen, der skal oprettes i Henhold til Byraadets Vedtagelse af 7. December f. A.
+Fra Økonomidirektøren forelaa følgende Forslag:
+REGULATIV
+for
+Aarhus Kommunes Ulykkesforsikringsfond.
+§ 1
+Fondens Formaal.
+Aarhus Kommunes Ulykkesforsikringsfond, som er oprettet ifølge Byraadets Vedtagelse af 7. December 1939, har til Formaal at afholde Udgiften ved de Ydelser, som det i Henhold til Ulykkesforsikringsloven og efter Afgørelse fra Direktoratet for Ulykkesforsikringen paahviler Kommunen at udrede til Personer der beskæftiges ved de af Kommunens Institutioner, som ikke paa anden Maade har afgivet deres Risiko efter nævnte Lov.
+§ 2.
+Fondens Midler.
+Ulykkesforsikringsfondens Midler tilvejebringes"	1940	2	29
+"136"	1940-02-29	"open"	"19400229_235.pdf"	9	"775-1939"	"ved Bidrag fra de ovenfor i § 1 nævnte Institutioner. Bidragene ydes som nedenfor i § 3 fastsat og indbetales til Kommunens Kasse, der foretager Udbetaling af de Beløb, som af Byraadets Udvalg for Kasse-og Regnskabsvæsen anvises til Afholdelse af Fondens Midler. Fonden optages i Kommunens Statusregnskab som en særlig Post paa saavel Aktiv- som Passivsiden.
+§ 3.
+Bidrag til Fonden.
+De enkelte Institutioners Bidrag ydes for hvert Regnskabsaar bagud i Henhold til Antallet af de ved Institutionen helaarsbeskæftigede Personer samt det gennemsnitlige Antal af ikke-helaarsbeskæftigede Personer, idet et fuldt Bidragsaar for disse sidste regnes til 300 Arbejdsdage.
+Institutionernes aarlige Bidrag beregnes indtil videre efter følgende Satser:
+Gruppe A. 1,70 Kr.:
+Byraadsmedlemmer samt Personer, der beskæftiges ved Lærer-, Biblioteks- eller Kontorvirksomhed.
+Gruppe B. 5,10 Kr.:
+Ikke-teknisk arbejdende Personale ved Hospitaler, Anstalter, Kliniker eller lignende samt Personer, som udelukkende beskæftiges ved Opsynstjeneste, Budtjeneste, Rengøring eller Arbejde af lignende Beskaffenhed. 
+Gruppe C. 11,50 Kr.:
+Tekniske Ledere og disses tekniske Medhjælpere samt Tjenestemænd og Arbejdere af enhver Art, som ikke henhører under Gruppe A eller B."	1940	2	29
+"137"	1940-02-29	"open"	"19400229_235.pdf"	10	"775-1939"	"Kasse- og Regnskabsudvalget kan efter Behov forhøje eller nedsætte Bidragets Satser, ligesom Udvalget afgør eventuelle Tvivlsspørgsmaal vedrørende ovenstaaende Gruppering.
+§ 4.
+Fondens Forretninger.
+Regnskab over Fondens Indtægter, Udgifter og Aktiver føres af Kommunens Bogholderkontor, medens dens Administration og de øvrige med Fondens Virksomhed forbundne Forretninger indtil videre varetages af Kommunens Lønningskontor under Ansvar overfor Kasse- og Regnskabsudvalget.
+§ 5.
+Anmeldelse af Ulykkestilfælde.
+Ethvert Ulykkestilfælde, som antages at ville medføre Krav efter Ulykkesforsikringsloven, skal af den paagældende Institution snarest muligt og senest inden 8 Dage anmeldes saavel til Direktoratet for Ulykkesforsikringen som til Kommunens Lønningskontor paa dertil af Kontoret leverede Blanketter. Anmeldelsen til Direktoratet skal være ledsaget af Lægeerklæring I. Medfører Ulykkestilfældet Døden, skal der, selvom Ulykkestilfældet forinden er anmeldt Direktoratet, tilstilles dette Underretning om Dødsfaldet inden 48 Timer efter Dødens Indtræden. Udgiften til Lægeerklæringer, som afgives i Anledning af Ulykkestilfælde, afholdes af den paagældende Institution.
+Stecher Christensen oplyste, at Udvalget havde tiltraadt Forslaget, dog saaledes, at de foreslaaede 10000 Kr. udover Institutionernes Bidrag udgaar.
+Indstillingen vedtoges."	1940	2	29
+"138"	1940-02-29	"open"	"19400229_235.pdf"	11	"950-1939"	"Indstilling fra Udvalget for Bygninger og Inventar om Bevilling af 1800 Kr. til Installation af W. C. i Vesterbros Mølle.
+Anbefalet af Budgetudvalget saaledes, at Beløbet tages paa det kommende Aars Budget.
+Indstillingen vedtoges."	1940	2	29
+"139"	1940-02-29	"open"	"19400229_235.pdf"	11	"369-1939"	"Indstilling fra Markudvalget om Regulering af Markveje m. v. paa Viby Mosegaard af Hensyn til Kolonibaveudlægning.
+Fra Stadsingeniøren forelaa Overslag, hvorefter Udgiften vil andrage 6000 Kr.
+Anbefalet af Budgetudvalget saaledes at Beløbet tages paa Marselisborgkontoen.
+H. P. Jensen anbefalede Forslaget i Henhold til Byraadets tidligere Vedtagelse. Der var kun almindelige Markveje, og de skulde hæves op i den Kote, som var nødvendig for Jordens Udnyttelse. Man havde afsat 86 Haver, hvorfor Vejene skulde laves nu.
+Indstillingen vedtoges."	1940	2	29
+"140"	1940-02-29	"open"	"19400229_235.pdf"	11	"11_61-1939"	"Betinget Skøde med Tømrermestrene N. Gravesen og Niels Olsen angaaende en Grund ved Langelandsgade.
+Godkendtes."	1940	2	29
+"141"	1940-02-29	"open"	"19400229_235.pdf"	11	"974-1939"	"Valg af Medlemmer til Sessionsudvalg.
+Hertil valgtes H. P. Jensen, Chr. Nielsen, E. Winterberg, Vald. Kloster og J. P. N. Siig med Møller Rasmussen som Suppleant."	1940	2	29

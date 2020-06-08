@@ -1,0 +1,25 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1944-07-05	"closed"	"19440705B_77.pdf"	1	"no related record"	"Mødet den 5. Juli 1944.
+(Ekstraordinært Møde for lukkede Døre).
+Fraværende: J. R. Fanger, Niels Laursen, I. C. Sørensen og Unmack Larsen.
+"	1944	7	5
+"2"	1944-07-05	"closed"	"19440705B_77.pdf"	1	"650-1944"	"Forslag fra Borgmesteren i Anledning af en Eksplosionskatastrofe i Aarhus.
+Borgmesteren havde indkaldt til Møde i Anledning af den Eksplosionskatastrofe, som i Gaar fandt Sted ved Aarhus Havn. Angaaende Katastrofens Aarsag forelaa der endnu ikke noget konkret, og Taleren havde faaet meddelt af Besættelsesmyndighederne, at det kunde være et hændeligt Ulykkestilfælde, men at Sabotage ikke var udelukket. Der var dog næppe Tvivl om, at der var sket en Eksplosion paa selve Skibet, og Sabotage kunde sikkert ikke tænkes, da det vilde være altfor farligt. Den materielle Skade i Byen var meget betydelig, og udover dette var der hidtil fundet 12 dræbte samt 4, der ikke kunde identificeres; desuden var der et betydeligt Antal saarede. De fleste Ofre var Havnearbejdere og Pakhusarbejdere, og deres Fagforeninger havde henstillet, at Byraadet yder nogen Støtte til de dræbtes efterladte og til de
+"	1944	7	5
+"3"	1944-07-05	"closed"	"19440705B_77.pdf"	2	"650-1944"	"mange, som havde faaet deres Tøj, Cykler og andet ødelagt ved Ulykken. Taleren havde derfor indkaldt Byraadet til Møde og vilde stille følgende Forslag:
+\"I Anledning af den i Gaar stedfundne Eksplosionskatastrofe skal jeg foreslaa, at Byraadet henstiller til det sociale Udvalg og Socialtjenesten, at der til Hjælp for de af Katastrofen ramte i videst mulig Omfang gøres Brug af de Hjælpemidler, Socialudvalget og Socialtjenesten har til Raadighed.
+Ligeledes skal jeg foreslaa, at Byraadet bevilger 1000 Kr. til de efterladte samt Ægtefælle efter hver af de ved Katastrofen dræbte, dog saaledes, at Beløbet kun kan tilkomme Ægtefælle eller Slægtninge i op- eller nedstigende Linie, og saaledes, at det overlades til mig at afgøre, hvem Beløbet skal tilfalde.\"
+Det var den største Ulykke, der nogen Sinde havde ramt Aarhus, og Byraadet burde vise sin Sympati for de efterladte fra Katastrofen. Det kunde tilføjes, at man vil anmode Havnen om at betale disse Penge, hvilket Havneingeniøren fandt rimeligt. Det krævede Ministeriets Sanktion, men Taleren antog, at naar man vedtog Forslaget og meddelte Pressen det, kunde Ministeriet næppe gaa imod det.
+Kai Blicher var ikke helt klar over, hvor mange der kunde faa de 1000 Kr.
+Borgmesteren: 1000 Kr. pr. Familie.
+Jens Jensen vilde støtte Forslaget og samtidig foreslaa, at Kommunen bekoster Begravelsen.
+"	1944	7	5
+"4"	1944-07-05	"closed"	"19440705B_77.pdf"	3	"650-1944"	"Borgmesteren oplyste, at Arbejdsgiverne ved Havnen vilde bekoste Begravelsen for deres Arbejdere, saa der blev vist kun Tale om en enkelt Mand, nemlig den dræbte Kranfører, og hans Begravelse bekostedes af Havnen. Desuden havde Direktør Mikkelsen meddelt, at Arbejdsgiverne stillede 10.000 Kr. til Raadighed til Hjælp for dem, som havde mistet deres Ejendele.
+Kai Blicher meddelte, at den konservative Gruppe saa med stor Sympati paa Tanken. Arbejdsgiverne vilde bekoste Begravelsen af deres Folk og yde Erstatning for de mistede Ejendele, saafremt det ikke kunde dækkes af Assurancen.
+Borgmesteren: Assurancen dækker intet.
+S. Lauritzen oplyste, at man stadig søgte efter døde, og flere var næppe fundet endnu. Der var ogsaa Fare for nye Eksplosioner.
+Borgmesteren havde faaet oplyst, at der endnu savnedes 10-20 Mennesker, og hvis de blev fundet som døde, var de muligvis saa medtagne, at de ikke kunde identificeres.
+Kai Blicher henstillede, at man ogsaa yder nogen Støtte til de mange saarede, der maaske skulde ligge i lang Tid paa Hospitalet.
+Borgmesteren svarede, at det kom ind under Socialhjælpen, og der var givet Ordre til, at man ser saa velvilligt derpaa som muligt, for der var mange, som trængte til en Opmuntring.
+Borgmesterens Forslag tiltraadtes enstemmig.
+"	1944	7	5

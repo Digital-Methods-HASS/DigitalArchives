@@ -1,0 +1,1006 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1943-09-09	"closed"	"19430909B_55.pdf"	1	"no related record"	"Mødet den 9. Septbr. 1943.
+(For lukkede Døre).
+"	1943	9	9
+"2"	1943-09-09	"closed"	"19430909B_55.pdf"	1	"116-1943"	"Indenrigsministeriets Godkendelse af Kommunens Garanti for Laan til V. Davidsen til Boligindskud.
+Toges til Efterretning.
+"	1943	9	9
+"3"	1943-09-09	"closed"	"19430909B_55.pdf"	1	"99_23-1943"	"Andragende fra Gasmester Chr. Johansen om Forhøjelse af Statslaan i Ejendommen Marselis Boulevard 134.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at Andragendet anbefales, saaledes at Statslaanet fastsættes til 33000 Kr., og at Kommunen vedstaar sin Garanti, uanset at Garantien forhøjes med 572 Kr.
+Overgik til 2. Behandling.
+"	1943	9	9
+"4"	1943-09-09	"closed"	"19430909B_55.pdf"	1	"99_14-1943"	"Andragende fra Tømrermester P. B. Kjeldsen om Forhøjelse af Statslaan i Ejendommen Marselis Boulevard 132. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	9
+"5"	1943-09-09	"closed"	"19430909B_55.pdf"	1	"99_18-1943"	"Andragende fra Tømrermester P. B. Kjeldsen om Statslaan med Kommunegaranti til et Hus ved Olfert Fischers Gade. -
+2.Behandling.
+Indstillingen vedtoges.
+"	1943	9	9
+"6"	1943-09-09	"closed"	"19430909B_55.pdf"	2	"99_17-1943"	"Andragende fra Arbejdernes Andelsboligforening om Statslaan med Kommunegaranti til 116 Parcelhuse i Riisvangen. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	9
+"7"	1943-09-09	"closed"	"19430909B_55.pdf"	2	"116-1943"	"Andragende fra V. J. K. Christensen om Kommunens Garanti for et Laan paa 500 Kr. til Boligindskud i Arbejdernes Andelsboligforening. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	9
+"8"	1943-09-09	"closed"	"19430909B_55.pdf"	2	"780-1943"	"Indstilling om Tillægsbevilling paa 3085 Kr. til Anskaffelse af et Fotokopiapparat til Maskinskrivningscentralen paa Raadhuset.
+Budgetudvalget anbefaler, at Beløbet optages som Tillægsbevilling til Konto 14, og at Tilbudet fra Alfred Fischer &amp;amp; Co. modtages.
+Overgik til 2. Behandling.
+"	1943	9	9
+"9"	1943-09-09	"closed"	"19430909B_55.pdf"	2	"779-1943"	"Indstilling om Henlæggelse til Kommunens Fond til Betaling af Afdrag paa Laan til Indfrielse af forskellige Smaalaan m. v.
+Fra Økonomidirektøren forelaa følgende Forslag:
+\"Aarhus Kommune afkøbte i Slutningen af forrige Aarhundrede Borgmesterembedet forskellige Jordarealer til Udvidelse af kommunale Virksomheder, blandt andet Vandværket og Søndre Kirkegaard.
+Købesummerne berigtigedes ved Udstedelse af Panteobligationer til følgende Beløb:
+a)40000,00 Kr. at forrente med 5 % p. a.
+b)9000,00\"---4%-
+c)71688,57\"---5%-
+d)9320,00\"---4%-
+Beløbene afdrages ikke ordinært, men den under Post c nævnte Obligation er ekstraordinært nedbragt 
+"	1943	9	9
+"10"	1943-09-09	"closed"	"19430909B_55.pdf"	3	"779-1943"	"til 40688,57 Kr., hvorefter den samlede Restgæld andrager følgende Beløb: 
+at forrente med 
+5 % p. a........... 80688,57 Kr.
+-4 \"/o- .... 18320,00 \"
+Ialt... 99008,57 Kr. 
+hvoraf Renten andrager 4767,23 Kr. aarligt.
+Opsigeligheden af disse Panteobligationer er ikke ensartet.
+Det til 5 % indestaaende Beløb 80688,57 Kr. kan saaledes opsiges i en Juni eller December Termin til Udbetaling med ½ Aars Varsel, medens 9000 Kr. \"efter Vedtagelse\" forbliver indestaaende i Ejendommen, og om 9320 Kr. gælder det, at Opsigelse kan finde Sted fra Debitors Side med et Aars Varsel.
+Da det maa synes uhensigtsmæssigt Aar efter Aar - for det ældste Laans Vedkommende nu i ca. 69 Aar - at forrente disse Beløb, skal man herved under Henvisning til, at Regnskabsafslutningen for 1942-43 tillader Afholdelse af saadan ekstraordinær Udgift, foreslaa, at der foretages en Henlæggelse paa omhandlede 99,008,57 Kr. samt paa 2785,91 Kr., svarende til Værdien af en Parcel, der antagelig omkring 1873 blev overdraget fra Domkirken til Kommunen, og som stadig forrentes med 4 % p. a. - altsaa ialt 101794,48 Kr. - til Kommunens Fond til Betaling af Afdrag paa Laan (Aktiv Q - Passiv M), idet man samtidig udbeder sig Bemyndigelse til at indlede Forhandlinger med Finansministeriet, som har faaet Panteobligationerne tiltransporteret af Indenrigsministeriet, samt med Domkirkemyn-dighederne angaaende Indfrielse af disse Laan.
+I Forbindelse med Kirkegaardenes Overgang til 
+"	1943	9	9
+"11"	1943-09-09	"closed"	"19430909B_55.pdf"	4	"779-1943"	"kommunal Administration fra 1. Januar 1891 at regne blev der paalagt Kommunen at svare en aarlig Affindelsessum
+til Domkirken paa...............1600,00Kr.
+-Frue Kirke paa................1000,00\"
+-Sct. Pauls Kirkepaa.........600,00\"
+Ialt...3200,00Kr.
+heri fragaar dog Renterne af det ovenfor under Post d nævnte &lt;br&gt;4 % Laan paa 9320Kr..,...372,80\"
+2827,20 Kr.
+Denne Affindelsessum skulde æqvivalere den Indtægt, som Kirkerne hidtil havde haft ved Salg af Jord til Gravsteder.
+Med samme Motivering som ovenfor angivet skal man herved foreslaa, at Kapitalværdien af nævnte 2827,20 Kr., udgørende 70680 Kr., henlægges til Kommunens Fond til Betaling af Afdrag paa Laan (Aktiv Q Passiv M), idet man samtidig udbeder sig Bemyndigelse til at indlede Forhandlinger med de kirkelige Myndigheder om disses Indforstaaelse med Udbetaling af de kapitaliserede Værdier ud fra den eventuelle Analogi med de om Afløsning af Grundbyrder givne Bestemmelser.
+Hvis Kirkerne modsætter sig Afløsningen af den aarlige Ydelse paa ialt 2827,20 Kr., skal man imidlertid foreslaa, at Laanet til Finansministeriet paa 9320 Kr. ikke indfries, idet Renterne heraf godtgøres Kommunen af Domkirken med 5/8 og af Frue Kirke med 3/8.
+Den nævnte Fond - betegnet \"Fond til Betaling af ekstraordinært Afdrag paa Laan* - foreslaas ombenævnt til \"Fond til Betaling af Afdrag paa Laan\". De paa Fonden
+"	1943	9	9
+"12"	1943-09-09	"closed"	"19430909B_55.pdf"	5	"779-1943"	"indestaaende Beløb kan herefter ogsaa anvendes til ordinære Afdrag til Lettelse af Skatteudskrivningen i kommende Aar, og i Tilfælde af, at de ovenfor foreslaaede Indfrielser ikke fuldt ud vil kunne finde Sted, kan det eventuelle Restbeløb saaledes uden videre forblive indestaaende i Fonden.
+Saafremt det skulde lykkes at opnaa Indfrielse af samtlige ovenfor nævnte Gældsposter til samlet Beløb 172474,48 Kr., vil den aarlige Besparelse paa Kommunens Driftsbudget andrage ialt 7705,86 Kr.\"
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1943	9	9
+"13"	1943-09-09	"closed"	"19430909B_55.pdf"	5	"778-1943"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Refusion for Fundering paa Grunden Sønderport 5.
+Udvalget foreslaar, at der ydes en Dekort paa 5 Kr. pr. m2, saaledes at Nettoprisen bliver 31 Kr. pr. m2.
+Indstillingen vedtoges.
+"	1943	9	9
+"14"	1943-09-09	"closed"	"19430909B_55.pdf"	5	"748-1943"	"Indstilling om Forlængelse til 1/4 1944 af den forskellige Ejendomme i Henhold til Lov af 11/4 1933 indrømmede Fritagelse for kommunal Ejendomsskat.
+Indstillingen vedtoges.
+"	1943	9	9
+"15"	1943-09-09	"closed"	"19430909B_55.pdf"	5	"116_27-1943"	"Indstilling om, at Borgmesteren bemyndiges til paa Byraadets Vegne at underskrive Kautionspaategning paa forskellige Laanebeviser for Laan til Boligindskud.
+Indstillingen vedtoges.
+"	1943	9	9
+"16"	1943-09-09	"closed"	"19430909B_55.pdf"	5	"367-1943"	"Indstilling angaaende Besættelse af Stillingen som Stadsarkitekt.
+Følgende alfabetiske Indstilling forelaa:
+"	1943	9	9
+"17"	1943-09-09	"closed"	"19430909B_55.pdf"	6	"367-1943"	"1.Arkitekt Chr. K. Gjerrild, Viby.
+2. Arkitekt Alfred Mogensen, Aarhus.
+3. Arkitekt Aksel Skov, Aarhus.
+Det er en Forudsætning for Ansættelsen, at der opnaas en Ordning med den, der ansættes, om Afvikling af hans Forretning.
+K. Mousten foreslog at ansætte Alfred Mogensen, saaledes at man senere kommer til Byraadet med en Indstilling om Fastsættelse af hans Løn og Afvikling af hans private Forretning.
+I.C. Sørensen kunde slutte sig hertil, men det maatte være en Betingelse, at han afvikler sin private Praksis, saa der ikke bliver nogen uheldig Kombination af de to Ting. Af større Arbejder havde Mogensen for Tiden den ny Skole, men der kunde vel træffes en Ordning, saaledes at Salling Mortensen alene fortsætter Arbejdet. Angaaende Radiohuset, saa var dette jo ikke paabegyndt, og Arbejdet dermed kunde vel overdrages til en anden Arkitekt, idet Mogensen faar en passende Betaling for det allerede udførte Arbejde.
+Borgmesteren konstaterede, at begge Grupper var enige om at ansætte Mogensen, hvis man kan opnaa en tilfredsstillende Ordning med ham angaaende hans Løn og Afvikling af hans Forretning. Der skulde altsaa forhandles med ham herom, og Taleren henstillede, at der ikke gives Meddelelse om Sagen, før disse Forhandlinger er tilendebragt.
+Overgik til 2. Behandling.
+"	1943	9	9
+"18"	1943-09-09	"closed"	"19430909B_55.pdf"	6	"560-1943"	"Andragende fra Prosektor W. Munck om Tilladelse til at bo udenfor Kommunen.
+"	1943	9	9
+"19"	1943-09-09	"closed"	"19430909B_55.pdf"	7	"560-1943"	"Anbefalet af Sygehusudvalget for et Tidsrum af 5 Aar.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1943	9	9
+"20"	1943-09-09	"closed"	"19430909B_55.pdf"	7	"139-1943"	"Indstilling fra Lønudvalget angaaende Ordning af Prosektor W. Muncks Pensionsforhold.
+Følgende Indstilling forelaa:
+\"Tilbagesendes, idet man - under Forudsætning af, at de af Prosektor Munck til Staten indbetalte Pensionsbidrag overføres til Kommunens Pensionsfond - indstiller, at Prosektors Pensionsalder regnes fra 1. Juli 1934 mod, at der til Pensionsfonden indbetales et Beløb paa 4320 Kr., hvori er indbefattet det Beløb, der overføres fra Staten.\"
+Indstillingen vedtoges.
+"	1943	9	9
+"21"	1943-09-09	"closed"	"19430909B_55.pdf"	7	"33_38-1943"	"Indstilling fra Lønudvalget om Dyrtidstillæg til Byraadsreferenten.
+Udvalget indstiller, at der fra 1. Oktober d. A. ydes Byraadsreferenten Dyrtidstillæg som for honorarlønnede, for Tiden 20 % af Honoraret.
+Indstillingen vedtoges.
+"	1943	9	9
+"22"	1943-09-09	"closed"	"19430909B_55.pdf"	7	"33_6-1943"	"Indstilling om personligt Tillæg paa 500 Kr. aarlig til Bogholder J. P. Jørgensen, Slagtehuset.
+Indstillingen vedtoges.
+"	1943	9	9
+"23"	1943-09-09	"closed"	"19430909B_55.pdf"	7	"33_37-1943"	"Indstilling om Forhøjelse af Tillæg til Maskinmester Andersen ved Vandværket i Stautrup.
+Lønudvalget indstiller, at Maskinmesterens Tillæg for Vagttjeneste og Overarbejde fra 1. Juli d. A., og saa længe han udfører den Alarmtjeneste, som
+"	1943	9	9
+"24"	1943-09-09	"closed"	"19430909B_55.pdf"	8	"33_37-1943"	"tidligere paahvilede Boremesteren, forhøjes til 600 Kr. aarlig.
+Indstillingen vedtoges.
+"	1943	9	9
+"25"	1943-09-09	"closed"	"19430909B_55.pdf"	8	"33_28-1943"	"Indstilling om Forfremmelser paa Socialkontoret.
+Udvalget indstiller, at Overassistent S. J. Verhof udnævnes til Fuldmægtig og Undersøger Paul Hansen til Overassistent fra 1. September 1943.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1943	9	9
+"26"	1943-09-09	"closed"	"19430909B_55.pdf"	8	"33_36-1943"	"Indstilling om, at Konstruktør paa Stadsingeniørens Kontor P. la Cour oprykkes i 5. Lønklasse fra 1/10 d. A.
+Indstillingen vedtoges.
+"	1943	9	9
+"27"	1943-09-09	"closed"	"19430909B_55.pdf"	8	"33_35-1943"	"Indstilling om, at Konstruktør hos Bygningsinspektøren Niels Christensen oprykkes i 5. Lønklasse fra 1/10 d. A.
+Indstillingen vedtoges.
+"	1943	9	9
+"28"	1943-09-09	"closed"	"19430909B_55.pdf"	8	"33_34-1943"	"Indstilling om, at Stillingen som Maskinmester af 1. Grad ved Havnens Bugserbaade oprykkes i 4. Lønklasse fra 1/7 d. A.
+Indstillingen vedtoges.
+"	1943	9	9
+"29"	1943-09-09	"closed"	"19430909B_55.pdf"	8	"33_5-1943"	"Indstilling om Fastsættelse af Havneassistent Mc. Cormick Jensens Pensionsalder.
+Lønudvalget indstiller, at Havneassistent Mc. Cormick Jensens Pensionsalder - under Forudsætning af, at de af ham til Staten indbetalte Pensionsbidrag overføres til Havnens Pensionsfond - regnes fra 18. Maj 1939.
+Indstillingen vedtoges.
+"	1943	9	9
+"30"	1943-09-09	"closed"	"19430909B_55.pdf"	8	"33_33-1943"	"Indstilling om, at der tildeles Maskinmester ved Elektricitetsværket Aage V. Printzlau forøget Lønanciennitet.
+Indstillingen vedtoges.
+"	1943	9	9
+"31"	1943-09-09	"closed"	"19430909B_55.pdf"	9	"33_32-1943"	"Indstilling om, at der tildeles Ekspeditionssekretær ved Belysningsvæsenet M. P. Mogensen forøget Lønanciennitet.
+Indstillingen vedtoges.
+"	1943	9	9
+"32"	1943-09-09	"closed"	"19430909B_55.pdf"	9	"29_8-1943"	"Andragende fra Maskinarbejder ved Belysningsvæsenet Jens Chr. Jensen om Afsked med Pension fra 1.Septemberd.A.
+Bevilgedes. Pensionenfastsattestil2800Kr.
+"	1943	9	9
+"33"	1943-09-09	"closed"	"19430909B_55.pdf"	9	"29_7-1943"	"Andragende fra Incassator ved Belysningsvæsenet Charles Jensen om Afsked med Pension fra 1/10 d. A.
+Bevilgedes. Pensionen fastsattes til 2800 Kr.
+"	1943	9	9
+"34"	1943-09-09	"closed"	"19430909B_55.pdf"	9	"29_6-1943"	"Andragende fra Arbejdsmand ved Vejvæsenet N. Chr.Andersenom Afsked
+med Pension fra lH 1943.
+Bevilgedes. Pensionen fastsattes til 900 Kr.
+"	1943	9	9
+"35"	1943-09-09	"closed"	"19430909B_55.pdf"	9	"29_5-1943"	"Andragende fra Arbejdsmand ved Vejvæsenet P. L. Rasmussen om Afsked med Pension fra 1/8 1943.
+Bevilgedes. Pensionen fastsattes til 971,42 Kr.
+"	1943	9	9
+"36"	1943-09-09	"closed"	"19430909B_55.pdf"	9	"29_4-1943"	"Andragende fra Opsynsmand ved Slagtehuset A. Christensen om Afsked med Pension fra Vn 1943.
+Bevilgedes. Pensionen fastsattes til 2246,57
+Kr.
+"	1943	9	9
+"37"	1943-09-09	"closed"	"19430909B_55.pdf"	9	"777-1943"	"Fastsættelse af Pension til Enken efter pens. Kabelmontør I. Eskildsen ved Belysningsvæsenet.
+Pensionen fastsattes til 1333,33 Kr.
+"	1943	9	9
+"38"	1943-09-09	"closed"	"19430909B_55.pdf"	9	"776-1943"	"Fastsættelse af Understøttelse til Enken efter fhv. Arbejdsmand R. Jensen ved Belysningsvæsenet.
+Der bevilgedes 100 Kr. aarlig samt Dyrtidstillæg.
+"	1943	9	9
+"39"	1943-09-09	"closed"	"19430909B_55.pdf"	9	"775-1943"	"Fastsættelse af Pension til
+"	1943	9	9
+"40"	1943-09-09	"closed"	"19430909B_55.pdf"	10	"775-1943"	"Enken efter Kontorassistent ved Vandværket O. J. Jacobsen.
+Pensionen fastsattes til 1333,33 Kr.
+"	1943	9	9
+"41"	1943-09-09	"closed"	"19430909B_55.pdf"	10	"774-1943"	"Indstilling om Understøttelse til Opsynsbetjent ved Parkvæsenet C. Hørsted, der er afskediget paa Grund af Sygdom.
+Der bevilgedes 300 Kr. aarlig.
+"	1943	9	9
+"42"	1943-09-09	"closed"	"19430909B_55.pdf"	10	"745-1943"	"Indstilling fra Socialudvalget om Ansættelse af to Sundhedsplejersker.
+Udvalget indstiller, at Frkn. Inge Hansen og Ellen Goth Helbo ansættes fra 1/9 d. A. med Løn efter Indenrigsministeriets Cirkulære af 25/10 1935.
+Indstillingen vedtoges.
+"	1943	9	9
+"43"	1943-09-09	"closed"	"19430909B_55.pdf"	10	"18-1943"	"Andragender om Fritagelse for Hundeafgift.
+Fra Udvalget forelaa følgende Indstilling:
+Anbefalede Andragender.
+1.Fru Jensine Krarup.
+2.Frk. Ingina H. Almstrup.
+3.Enke Margrethe Christensen.
+4.Frk. Laura Funch.
+5.Enke Mette Marie Jensen.
+6.Pens. Overportør S. P. Godsk.
+7.Børstenbinder C. A. Mikkelsen.
+8.Fru Charlotte E. Madsen.
+9.Martin Chr. Andersen.
+Ikke anbefalet Andragende.
+Enke Johanne B. Christensen.
+Indstillingen vedtoges.
+"	1943	9	9
+"44"	1943-09-09	"closed"	"19430909B_55.pdf"	10	"12_6-1943"	"Indstilling fra Socialudvalget om personligt Tillæg til Rentenydere.
+Indstillingen vedtoges.
+"	1943	9	9
+"45"	1943-09-09	"closed"	"19430909B_55.pdf"	10	"17_32-1943 og 17_31-1943 og 17_33-1943 og 17_34-1943"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet til:
+"	1943	9	9
+"46"	1943-09-09	"closed"	"19430909B_55.pdf"	11	"17_32-1943 og 17_31-1943 og 17_33-1943 og 17_34-1943"	"a.(J. Nr. 17_32-1943). Aksel Friis Pedersen.
+b.(J. Nr. 17_31-1943). Svend Aage Petersen.
+c.(J. Nr. 17_33-1943). Holger E. Johansson.
+d.(J. Nr. 17_34-1943). Axel Madsen.
+Indstillingen vedtoges.
+"	1943	9	9
+"47"	1943-09-09	"closed"	"19430909B_55.pdf"	11	"record_id unknown"	"Borgmesteren gav Meddelelse om forskellige Forhandlinger med Besættelsesmyndighederne."	1943	9	9
+"48"	1943-09-09	"open"	"19430909_133.pdf"	1	"no related record"	"Mødet den 9. Septbr. 1943.
+"	1943	9	9
+"49"	1943-09-09	"open"	"19430909_133.pdf"	1	"11_20-1943"	"Indenrigsministeriets Godkendelse af Købekontrakt med Murersvend O. Stærk angaaende en Grund ved Roald Amundssens Vej.
+Toges til Efterretning.
+"	1943	9	9
+"50"	1943-09-09	"open"	"19430909_133.pdf"	1	"467-1943"	"Socialministeriets Stadfæstelse af Fundats for Anton Sørensen og Hustruers Legat.
+Toges til Efterretning.
+"	1943	9	9
+"51"	1943-09-09	"open"	"19430909_133.pdf"	1	"326-1943"	"Meddelelse fra Stiftamtet om Justitsministeriets Godkendelse af Tillæg til Politivedtægt for Aarhus Købstad.
+Toges til Efterretning.
+"	1943	9	9
+"52"	1943-09-09	"open"	"19430909_133.pdf"	1	"23_5-1943"	"Regnskab for Aarhus Museums Bygninger i 1942-43.
+Toges til Efterretning.
+"	1943	9	9
+"53"	1943-09-09	"open"	"19430909_133.pdf"	1	"716-1943"	"Regnskab for Lærerinde Thora Madsens Legat i 1942-43.
+Toges til Efterretning.
+"	1943	9	9
+"54"	1943-09-09	"open"	"19430909_133.pdf"	1	"635-1943"	"Indstilling om Bevilling af Tilskud til Jydsk teknologisk Institut. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	9
+"55"	1943-09-09	"open"	"19430909_133.pdf"	2	"536-1936"	"Indstilling om Tillægsbevilling til Ansættelse af Sundhedsplejersker m. m. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	9
+"56"	1943-09-09	"open"	"19430909_133.pdf"	2	"768-1943"	"Indstilling om delvis Anlæg af Gustav Wieds Vej.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at der bevilges 6000 Kr. hertil, mod at Raadighedsbeløbet paa Konto E nedsættes med samme Beløb.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1943	9	9
+"57"	1943-09-09	"open"	"19430909_133.pdf"	2	"769-1943"	"Indstilling om Anlæg af Adgangsveje til Det sociale Boligbyggeris Kompleks \"Solbakken\".
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at det paa Arbejdsplanen afsatte Raadig-hedsbeløb paa 12000 Kr. bevilges.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1943	9	9
+"58"	1943-09-09	"open"	"19430909_133.pdf"	2	"770-1943"	"Indstilling om Bevilling af det paa Arbejdsplanen afsatte Beløb paa 1000 Kr. til Anlæg af Kolonihaver paa \"Trillegaarden\".
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1943	9	9
+"59"	1943-09-09	"open"	"19430909_133.pdf"	2	"11_24-1943"	"Indstilling om, at Kommunen beplanter Arealet mellem Ringgaarden III og Kaserneboulevarden, mod at Boligforeningen vedligeholder Arealet.
+Anbefalet af Udvalget for Byens Udvidelse og Bebyggelse saaledes, at Udgiften, der vil andrage 1100 Kr., afholdes af Boulevardkontoen.
+Indstillingen vedtoges.
+"	1943	9	9
+"60"	1943-09-09	"open"	"19430909_133.pdf"	2	"604-1943"	"Andragende fra Komitéen til Oprettelse af en Gymnastikhøjskole ved Viborg om Tilskud.
+"	1943	9	9
+"61"	1943-09-09	"open"	"19430909_133.pdf"	3	"604-1943"	"Budgetudvalget kan ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1943	9	9
+"62"	1943-09-09	"open"	"19430909_133.pdf"	3	"771-1943"	"Indstilling fra Hovedbogholderen om, at der gives Bevilling til forskellige Udgifter, der i Regnskabsaaret 1942-43 er afholdt af Kassebeholdningen.
+Følgende Indstilling forelaa:
+For nedennævnte Udgifter, der i Regnskabet for 1942/43 midlertidigt er ført til Udgift paa Kontoen for Udgifter, der afholdes af Kassebeholdningen, foreligger der ikke nogen endelig Bevilling, hvorfor man herved tillader sig at henstille til det ærede Udvalg, at Byraadets Bevilling søges indhentet til, at Beløbene føres til Udgift i Driftsregnskabet for 1942/43 saaledes:
+1.Forskellige Institutioners Udgifter ved Overflytning til det nye Raadhus, opføres under Konto XXVIA 27 7375,29
+2.Udgifter vedrørende Velfærdsudvalgets Indkøb af Kartofler m. v., opføres under Konto XXVI A 28 .378,84
+3.Forskellige Udgifter i Anledning af Indkvartering af det tyske Militær, opføres under Konto XXVI A 29 27176,49
+4.Erhvervelse af Matr. Nr. 1 g nu Matr. Nr. 1 am af Viby, opføres under Konto XXVI A 30................3957,10
+5.Anlæg af Vej til Kollegiebygningerne, opføres under Konto XXVI A 31 (Ifølge Oplysning fra Stadsingeniøren er der til Afholdelse af Kassebeholdningen meddelt Bevilling
+"	1943	9	9
+"63"	1943-09-09	"open"	"19430909_133.pdf"	4	"771-1943"	"paa 30900 Kr. den 21/8 1941 og 14000 Kr. den 27/3 1943)......... 9624,93
+48512,65
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1943	9	9
+"64"	1943-09-09	"open"	"19430909_133.pdf"	4	"700-1943"	"Forespørgsel fra Aaby Sogne-raad, om Aarhus Kommune vil levere Raavand til Aaby Kommune.
+Fra Vandværksudvalget forelaa følgende Indstilling:
+\"Tilbagesendes Aarhus Byraad, idet man skal bemærke, at Aaby Kommune har opgivet selv at skaffe sig Vand indenfor Kommunens Omraade, hvorfor det vil være rimeligt, at Aarhus leverer det fornødne Vand.
+Man skal foreslaa, at det overlades Vandværksudvalget at forhandle med Aaby Kommune om Betingelserne for Levering af Raavand til Aaby Kommune gennem Aarhus Vandværks gamle Kildevandsledning ved Vestre Søgaard, idet et eventuelt Forslag til Overenskomst vil blive forelagt Byraadet til Godkendelse.
+Samtidig tillader man sig at gøre opmærksom paa, at Vandforbruget i Øjeblikket er stærkt stigende i Byen, og at Vandværkets paatænkte Udvidelse af Vandindvindingsanlægene - saafremt Levarancen til Aaby overtages - maa fremskyndes tilsvarende\".
+Ejner Mikkelsen anbefalede Indstillingen.
+Indstillingen vedtoges.
+"	1943	9	9
+"65"	1943-09-09	"open"	"19430909_133.pdf"	4	"712-1943"	"Forespørgsel fra Landsretssagførerne J. E. Christensen og G. Waage, Odder, om Kommunen vil paatage sig Bestyrelsen af to
+"	1943	9	9
+"66"	1943-09-09	"open"	"19430909_133.pdf"	5	"712-1943"	"af Købmand F. S. Strunge oprettede Legater til Hjælp for lemlæstede og vanføre og for kronisk syge i Aarhus.
+Socialudvalget er villigt til at paatage sig Bestyrelsen og har intet at indvende mod Fundatserne.
+Tiltraadtes.
+"	1943	9	9
+"67"	1943-09-09	"open"	"19430909_133.pdf"	5	"719-1943"	"Forespørgsel fra Munkegades Skoles Elevforening, om Skoleudvalget eventuelt vil indtræde som Legatbestyrelse for et af Foreningen oprettet Legat, \"Overlærer K. P. Kristensens Mindelegats
+Skoleudvalget har intet herimod at erindre. Overdroges til Skoleudvalget.
+"	1943	9	9
+"68"	1943-09-09	"open"	"19430909_133.pdf"	5	"3_1-1943"	"Indstilling fra Sygehusudvalget om Efterbevilling af Overskridelser ved Moderniseringsarbejder paa Marselisborg Hospital. - 2. Behandling.
+Efterbevilling meddeltes.
+"	1943	9	9
+"69"	1943-09-09	"open"	"19430909_133.pdf"	5	"3_11-1943 og 3_10-1943 og 3_9-1943 og 3_12-1943 og 3_15-1943 og 3_16-1943 og 3_17-1943 og 3_18-1943 og 3_5-1943 og 3_13-1943 og 3_7-1943 og 3_14-1943"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_11-1943). Markvæsenet.
+b.(J. Nr. 3_10-1943). Sporvejene.
+c.(J. Nr. 3_9-1943). Skolevæsenet.
+d.(J. Nr. 3_12-1943). Hovedbogholderiet.
+e.(J. Nr. 3_15-1943). Hovedkassen.
+f.(J. Nr. 3_16-1943). Økonomikontoret.
+g.(J. Nr. 3_17-1943). Kursus for komm. Funktionærer.
+h.(J. Nr. 3_18-1943). Raadhusforvaltningen.
+i.(J. Nr. 3_5-1943). Folkekøkkenet.
+j. (J.Nr.3_13-1943). Bygningsinspektørens Kontor, 
+k. (J. Nr. 3_7-1943). Indretning af Lokaler for Husvilde m. m.
+l.(J. Nr. 3_14-1943). Driften af Rækkehusene ved Brendstrupvej.
+2.Behandling.
+Efterbevilling meddeltes.
+"	1943	9	9
+"70"	1943-09-09	"open"	"19430909_133.pdf"	6	"626-1943"	"Efterbevilling vedrørende Opførelse af Rækkehusene ved Brendstrupvej. -
+2.Behandling.
+Efterbevilling meddeltes.
+"	1943	9	9
+"71"	1943-09-09	"open"	"19430909_133.pdf"	6	"3_39-1943 og 3_19-1943 og 3_37-1943 og 3_38-1943"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_39-1943) Skattekontoret.
+b.(J. Nr. 3_19-1943). Observatoriet.
+c.(J. Nr. 3_37-1943). Parkvæsenet.
+d.(J. Nr. 3_38-1943). Stadsgartnerens Kontor.
+Overgik til 2. Behandling.
+"	1943	9	9
+"72"	1943-09-09	"open"	"19430909_133.pdf"	6	"11_20-1943 og 11_26-1943 og 22_6-1943 og 11_27-1943 og 11_28-1943 og 11_29-1943 og 22_5-1943 og 2_27-1943"	"Købekontrakter og betingede Skøder med:
+a.(J. Nr. 11_20-1943). Murer Ove Stærk angaa-ende en Grund ved Roald Amundsens Vej.
+b.(J. Nr. 11_26-1943). Aarhus Gummivarefabrik og Firma Max Westphall angaaende et Areal ved Vestre Ringgade.
+c.(J. Nr. 22_6-1943). Civilingeniør H. B. Efsen angaaende en Grund ved Hestehavevej.
+d.(J. Nr. 11_27-1943). Tømrermester Otto Ottosen angaaende en Grund ved Frithiof Nansens Vej.
+e.(J. Nr. 11_28-1943). Lærer Vald. K. Smed angaaende en Grund ved Frithiof Nansens Vej.
+f.(J. Nr. 11_29-1943). Lærer Aage P. Rasmussen angaaende en Grund ved Hans Egedes Vej.
+g.(J. Nr. 22_5-1943). Driftsbestyrer A. Flach angaaende en Grund ved Bøgebjergvej.
+h.(J. Nr. 2_27-1943). Installatør P. H. Borup angaaende en Grund ved Jyllandsallé.
+Godkendtes.
+"	1943	9	9
+"73"	1943-09-09	"open"	"19430909_133.pdf"	6	"752-1943"	"Andragende om Lokaler til Arbejdsteknisk Skole i Borgerskolen, Ingerslevs Boulevard.
+Anbefalet af Skoleudvalget saaledes, at det sker efter nærmere Aftale med Skolens Overlærer.
+Tiltraadtes.
+"	1943	9	9
+"74"	1943-09-09	"open"	"19430909_133.pdf"	7	"704-1943"	"Indstilling fra Lønudvalget angaaende kommunale Funktionærers Stilling ved Tilskadekomst i Tjenesten under Luftangreb.
+Fra Udvalget forelaa følgende Udkast til de respektive Udvalg:
+\"Det meddeles herved, at Byraadet har vedtaget, at Personer i Kommunens Tjeneste, hvem det som et Led i et af vedkommende kommunale Institution iværksat Beredskab mod Følgerne af Luftangreb er paalagt at give Møde paa Tjenestestedet udenfor normal Tjenestetid, og som under saadant Fremmøde rammes af Krigsbegivenheder eller Færdselsuheld paa Vej til eller fra Tjenestestedet, saavel m. H. t. Lønning som iøvrigt behandles efter de om Tilskadekomst i Tjenesten gældende Regler.\"
+Indstillingen vedtoges.
+"	1943	9	9
+"75"	1943-09-09	"open"	"19430909_133.pdf"	7	"33_31-1943"	"Indstilling fra Lønudvalget om, at den i Tjenestemandsregulativets § 18 indeholdte Bestemmelse, hvorefter ingen lønnet Tjenestemand ved Kommunen (Havnen) uden Byraadets eller vedkommende Udvalgs Samtykke maa have Beskæftigelse udover sin Tjeneste, indskærpes, samt at løbende Dispensationer tages op til Revision.
+S.Lauritzen erindrede om, at der tit havde været rejst Kritik mod Stadsgartnerens omsiggribende Arbejde paa Bekostning af de private Anlægsgartneres Virksomhed. Nu saa man, at han ogsaa skal udføre Arbejdet ved Amtmandsgaarden, og Taleren kunde ønske at vide, hvem der havde bemyndiget ham dertil; hvis det var sket gennem Byraadet, maatte det ligge længere tilbage. Der var ligeledes rejst
+"	1943	9	9
+"76"	1943-09-09	"open"	"19430909_133.pdf"	8	"33_31-1943"	"Kritik mod, at Stadsgartneren undfører Vedligeholdelsesarbejdet af forskellige Haveanlæg i Karréer og i Strandparken; saadanne Arbejde burde udføres af private Anlægsgartnere og derfor udgaa af Kommunens Arbejdsplan, hvor de ikke hører hjemme. Det blev ogsaa sagt, at man havde en kommunal Mand til at holde Orden i disse Karréer; men det kunde næppe være Kommunens Sag at holde Orden i private Karréer. Taleren vilde henstille, at dette Forhold bliver taget op til Revision.
+Borgmesteren havde ikke troet, der skulde være Diskussion om denne Sag. Hvis Hr. Lauritzen havde gjort sig den Ulejlighed at undersøge Sagen, vilde han vide, at Stadsgartneren ikke paatager sig noget som helst Arbejde, uden det er ham paalagt af Byraadet. Det havde været diskuteret i Aviserne paa mange Maader, men det havde intet med den foreliggende Sag at gøre.
+S.Lauritzen bemærkede, at saa burde Byraadet ikke paalægge Stadsgartneren at udføre den Slags Arbejde.
+Borgmesteren syntes, det var en overflødig Bemærkning, naar Byraadet nu engang havde paalagt ham det.
+Indstillingen vedtoges.
+"	1943	9	9
+"77"	1943-09-09	"open"	"19430909_133.pdf"	8	"33_30-1943"	"Forslag fra Lønudvalget til Regler for Beregning af Lønninger eller Løndele for kortere Perioder end 1 Maaned.
+Følgende Forslag forelaa:
+Regler
+for
+Beregning af Fradrag for Fritid, der ikke ydes i Henhold til \"Norm for Ydelse af ekstra
+"	1943	9	9
+"78"	1943-09-09	"open"	"19430909_133.pdf"	9	"33_30-1943"	"Fritid\", ogafaars- og maanedsvisfastsatte LønningerogLøndele forkorterePerioder end en Maaned.
+Tjenestemænd og andre, hvis Løn er fastsat aarsvis.
+Fradrag for Fridage og -timer (herunder Fritid til Afholdelse af Ferie, hvortil Retten er erhvervet vedBeskæftigelseudenforKommunen) skerforhver TimesFraværmed en Timeløn, der findes ved Division af den paagældendes Aarsløn (Grundløn og Alderstillæg samt alle almindelige og særlige Tillæg) med Antallet af aarlige Arbejdstimer, som fastsættes til det gennemsnitlige Antal daglige normale Arbejdstimer multipliceret med 300.
+1 alle andre Tilfælde, hvor der vil være at foretage Afkortning i aarsvis fastsatte Lønninger eller Løndele for kortere Perioder end en Maaned (herunder ogsaa delvis Afkortning, f. Eks. paa Grund af Sygdom), eller hvor de nævnte Ydelser vil være at udbetale for kortere Perioder end en Maaned, regnes Ydelsen pr. Dag til 1/365 af Aarsbeløbet, og Afkortning eller Udbetaling sker ogsaa for Fridage i den paagældende Periode. Fradrag i Tjenestemænds Løn paa Grund af Sygemelding, der ikke trods Forlangende herom dokumenteres ved Lægeattest eller en af Lægen paategnet Sygekassebog, sker dog med 1/300 af Aarslønnen for hver Sygedag (Arbejdsdag), jfr. Tjeneste-mands-Regulativets §11, Stk. 4, sidste Punktum.
+Maanedslønnede.
+Fradrag for Fridage og -timer (herunder Fritid til Afholdelse af Ferie, hvortil Retten er erhvervet ved Beskæftigelse udenfor Kommunen)
+"	1943	9	9
+"79"	1943-09-09	"open"	"19430909_133.pdf"	10	"33_30-1943"	"nen) sker for hver Times Fravær med en Timeløn, der findes ved Division af den paagældendes Maanedsløn (incl. Dyrtidstillæg og eventuelle andre faste Tillæg) med Antallet af maanedlige Arbejdstimer, som fastsættes til det gennemsnitlige Antal daglige normale Arbejdstimer multipliceret med 25.
+I Tilfælde, hvor der til en maanedslønnet bliver at udbetale Løn for en kortere Periode end en Maaned, beregnes Lønnen for denne Periode ved Multiplikation af Maanedslønnen med en Brøk, hvis Tæller er Antallet af Dage, for hvilke Lønnen skal ydes, incl. Fridage, og hvis Nævner er den paagældende Maaneds samlede Dagetal. Samme Princip anvendes i Tilfælde, hvor der vil være at foretage Afkortning i maanedsvis fastsatte Lønninger eller Løndele.
+Indstillingen vedtoges.
+"	1943	9	9
+"80"	1943-09-09	"open"	"19430909_133.pdf"	10	"33_29-1943"	"Forslag fra Lønudvalget om Overenskomst med Husassistenternes Forbund angaaende de ved Kommunen beskæftigede Husassistenter.
+Følgende Forslag forelaa:
+Overenskomst
+mellem
+Aarhus Byraads Lønudvalg og Husassistenternes Forbund vedrørende de ved Aarhus Kommune beskæftigede Husassistenter.
+§ 1.
+Løn.
+Lønnen er 55 Kr. maanedlig, stigende hvert halve Aar med 5 Kr. maanedlig til 75 Kr. maanedlig.
+"	1943	9	9
+"81"	1943-09-09	"open"	"19430909_133.pdf"	11	"33_29-1943"	"Kokkeassistenter ydes endvidere et Tillæg paa 10 Kr. maanedlig. Tillægget forhøjes efter 3 Aars Tjeneste som Kokkeassistent til 15 Kr. maanedlig og efter yderligere 5 Aars Tjenestetid til 20 Kr. maanedlig.
+Midlertidigt Arbejde betales med 6 Kr. pr. Dag og fri Kost.
+Til foranstaaende Lønninger ydes et Dyrtidstillæg paa 12 %, hvilket Tillæg fremtidig reguleres op eller ned med samme Antal Procent, hvormed Reguleringstillægget til Statens Tjenestemænd med Lønninger under 1500 Kr. aarlig reguleres op eller ned. Forhøjelser eller Nedsættelser af Reguleringstillægget, der ikke skyldes fremtidige Ændringer i Udgiftstallets Størrelse, skal dog ikke have Indflydelse paa Dyrtidstillægget.
+§ 2.
+Arbejdstid og Fritid.
+Den effektive Arbejdstid er 8 Timer daglig.
+Eventuelt Overarbejde erstattes med Fritid, saaledes at der for hver fulde 3 Overtimer indenfor 1 Maaned gives 4 Timers Fritid.
+Husassistenterne har en ugentlig Fridag. De ugentlige Fridage bør i saa vid Udstrækning som muligt gives paa Søndage.
+§ 3.
+Bolig og Beklædning.
+Maanedslønnede Husassistenter har fri Bolig, Vask og Kost samt Arbejdskjole og -forklæde og eventuel Hovedbeklædning. Samme Beklædning udleveres til maanedslønnede Vikarer.
+Til Husassistenter, som bor udenfor de respektive Institutioner, ydes i Boliggodtgørelse 30 Kr. maanedlig.
+"	1943	9	9
+"82"	1943-09-09	"open"	"19430909_133.pdf"	12	"33_29-1943"	"§ 4.
+Løn under Sygdom.
+Under Sygdom oppebæres fuld Løn i indtil en Maaned efter det Tidspunkt, til hvilket Opsigelse kan finde Sted. Husassistenter hai Pligt til for egen Regning at være nydende Medlem af en statsanerkendt Sygekasse.
+§ 5.
+Ferie.
+Vedrørende Ferie gælder den mellem Lønudvalget og de forskellige Organisationer indgaaede Overenskomst af 27. Juni 1939.
+§ 6.
+Kostgodtgørelse.
+Naar Husassistenter er fraværende paa Grund af Ferie (dog ikke enkelte Fridage) eller paa Grund af Sygdom eller Rekonvalescens, som dokumenteres ved Lægeattest eller en paa Grundlag af Lægeattest paategnet Sygekassebog, og ikke er indlagt paa et af Kommunens Hospitaler, godtgøres der dem Kostpenge efter samme Regler, som til enhver Tid er gældende for Sygeplejeassistenter ved Aarhus Kommune.
+§ 7.
+Tiltaleform.
+Husassistenterne tiltales og omtales med Frøken og Efternavn.
+§ 8.
+Opsigelse.
+Opsigelsesfristen er i Almindelighed fra begge Sider 14 Dage til den 1. i en Maaned.
+"	1943	9	9
+"83"	1943-09-09	"open"	"19430909_133.pdf"	13	"33_29-1943"	"Overenskomstens Varighed.
+Nærværende Overenskomst træder i Kraft den 1. April 1943 og er gældende, indtil den med mindst 3 Maaneders Varsel opsiges af een af Parterne til Ophør en 1. April, dog tidligst til Ophør den 1. April 1945. Ved nærværende Overenskomsts Ikrafttræden bortfalder Overenskomst af 22.-23. Juni 1941 mellem Aarhus Byraads Lønudvalg og Husassistenternes Forbund.
+Indstillingen vedtoges.
+"	1943	9	9
+"84"	1943-09-16	"closed"	"19430916B_67.pdf"	1	"no related record"	"Mødet den 16. Septbr. 1943.
+(For lukkede Døre).
+Fraværende: Kai Blicher og I. C. Sørensen.
+"	1943	9	16
+"85"	1943-09-16	"closed"	"19430916B_67.pdf"	1	"17_27-1943"	"Meddelelse fra Aarhus Stiftamt om, at det ikke kan godkende, at der ydes Lægehjælp til Inga Marie Petersen uden valgretsfortabende Virkning.
+Toges til Efterretning.
+"	1943	9	16
+"86"	1943-09-16	"closed"	"19430916B_67.pdf"	1	"17_28-1943"	"Meddelelse fra Aarhus Stiftamt om Godkendelse af, at der ydes Lægehjælp uden valgretsfortabende Virkning til Arbejdsmand A. A. Skovs Datter.
+Toges til Efterretning.
+"	1943	9	16
+"87"	1943-09-16	"closed"	"19430916B_67.pdf"	1	"799-1943"	"Indstilling angaaende Accept af Tilbud fra Ny jydske Købstad-Creditforening paa endeligt Laan i Aldersrenteboligerne i vestre Bydel;
+Fra Økonomidirektøren forelaa følgende Indstilling:
+\"Ved hoslagt at fremsende et fra Ny jydske Kjøbstad-Creditforening under 4. d. M. modtaget Tilbud paa endelig Prioritering af Aldersrenteboligerne i vestre Bydel skal man tillade sig at bemærke følgende:
+"	1943	9	16
+"88"	1943-09-16	"closed"	"19430916B_67.pdf"	2	"799-1943"	"IByraadets Møde den 18. Marts d. A. blev det vedtaget med Indenrigsministeriets Samtykke at optage et Forhaandslaan i Ny jydske Kjøbstad-Creditforenings 9. Serie 4 pCt. (aarlig Ydelse %.) paa 270000 Kr. til delvis Dæk-af Udgifterne ved Opførelsen af 2 Husblokke med Boliger for Aldersrentenydere i Aarhus vestre Bydel, samt at dække de resterende Udgifter ved Boligernes Opførelse ved Optagelse af et fast Laan med en Løbetid paa 30 Aar.
+Efter at Boligernes Opførelse nu er tilendebragt, tilbyder Kreditforeningen endeligt Laan paa 330000 Kr. i nævnte Serie paa det overfor Ministeriet angivne Forrentnings- og Afdragsgrundlag enten mod 1. Prioritet eller mod Prioritet efter det allerede optagne Forhaandsiaan. Da Accept af Laan mod 1. Prioritet indebærer, at det nuværende Pantebrev for For-haandslaanet aflyses, og at der derefter oprettes et nyt Pantebrev med et Paalydende af 330000 Kr., vil Accept af et Laan mod Prioritet efter Forhaandslaanet være det fordelagtigste for Kommunen, idet Tinglysningsomkostningerne for dette vil være ca. 540 Kr. mindre.
+Man skal derfor tillade sig at foreslaa, at Laanet i 9. Serie 4 % (4 1/2 % Ydelse) stort Kr. 60000 mod Prioritet efter Laan Nr. 8616 (Forhaandslaanet) accepteres, ligesom man skal henstille, at den i Laanetilbudet omhandlede Deklaration vedrørende Kedelanlægget sammen med vedlagte Udstykningsskrivelse og -kort og Accept indsendes til Kreditforeningen ved Byraadskontorets Foranstaltning.
+"	1943	9	16
+"89"	1943-09-16	"closed"	"19430916B_67.pdf"	3	"799-1943"	"Opmærksomheden henledes paa, at Kreditforeningen har ønsket en Ekspeditionsfrist paa 14 Dage fra 4. d. M. at regne respekteret, men er indforstaaet med, at eventuel Accept afgives under Forbehold af Byraadets og Indenrigsministeriets Samtykke.\"
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1943	9	16
+"90"	1943-09-16	"closed"	"19430916B_67.pdf"	3	"494-1943"	"Indstilling om, at Kommunen køber Bethaniaforeningens Ejendom \"Skovvang\", Skovvangsvej.
+Fra Økonomidirektøren forelaa følgende Forslag:
+\"Under Henvisning til Indstiiling herfra af
+12.Juni d. A. vedr. eventuelt Køb af den \"Bethaniaforeningen\" tilhørende Ejendom \"Skov vang\" tillader man sig at meddele, at der siden Indstillingens Afgivelse har været ført en Række Forhandlinger med \"Bethaniaforeningen\"s Bestyrelse tilligemed et særligt nedsat Udvalg. Forholdet er dette, at \"Bethaniaforeningen\"s Bestyrelse enstemmigt gik ind for Overdragelse til Aarhus Kommune af Ejendommen til en Pris af 165000 Kr. Mod Forventning blev Bestyrelsens Indstilling forkastet paa Aarskonferencen den 21. - 28. Juni d. A. dog saaledes, at de videre Forhandlinger blev overladt til et særligt Udvalg. Grunden til Modstanden mod Salg var bl. a. forskellige paa Mødet fremsatte Formodninger om, at Salgsprisen var alt for lav.
+Under senere stedfundne Forhandlinger, senest D. D., er de Herrer, der var bemyndiget til at sælge paa \"Bethaniahjemmet\"s Vegne,
+"	1943	9	16
+"91"	1943-09-16	"closed"	"19430916B_67.pdf"	4	"494-1943"	"indgaaet paa at afhænde Ejendommen til den tidligere aftalte Pris, 165000 Kr., dog saaledes, at Aarhus Kommune betaler samtlige Papiromkostninger, herunder Salær til saavel Købers som Sælgers Sagfører. Restkøbesummen, der skal udredes, andrager 81766,44 Kr. Overtagelsen finder Sted pr. 1. Oktober, men saa-fremt Indenrigsministeriets Tilladelse til Salget ikke foreligger inden 1. Oktober, skal Kommunen svare 4 % Rente af Restkøbesummen indtil Betalingsdagen.
+Paa et pr. 10. Februar d. A. optaget Laan i Ny jydske Købstadkreditforening vil der endnu være at betale Reservefondsindskud pr. December 1943 og Juni 1944, hvilket Beløb, 500 Kr., maa udredes af Kommunen. Hvad der er indbetalt til Reservefondene og Afdragene paa Prioritetslaanene kommer derimod Kommunen til gode. Den Reservefondsandel, der kommer til Udbetaling i Anledning af et Hypotekforeningslaan, der pr. 10. Februar 1943 er nedskrevet fra 28000 til 8500 Kr., kommer Sælgeren til gode.
+Det henstilles, hvorvidt Købet kan tiltrædes paa de tilbudte Betingelser.\"
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Da Kommunen har meget stor Interesse i den foran omhandlede Ejendom, og Prisen maa anses for billig, skal man indstille, at Byraadet tiltræder Købet og godkender det medfølgende Udkast til betinget Skøde.\"
+'Borgmesteren erindrede om, at Sagen tidligere havde været behandlet for lukkede Døre,
+"	1943	9	16
+"92"	1943-09-16	"closed"	"19430916B_67.pdf"	5	"494-1943"	"da man ikke ønskede omtalt, hvad Ejendommen eventuelt skulde bruges til. Nu var det ikke længere nogen Hemmelighed, idet det var paatænkt at bruge den til Fiskerihøjskole, saafremt den kom til at ligge i Aarhus, og nu kunde man altsaa tilbyde Staten den til dette Brug. Der var tidligere Tale om at købe Ejendommen for 165000 Kr., men paa Metodisternes Kongres blev der rejst en Storm mod Salget, vistnok i nogen Grad foranlediget af Folk fra Esbjerg. Nu var det endt med, at Ejendommen alligevel kunde faas for samme Pris som tidligere aftalt, blot at Kommunen skal betale alle Omkostninger ved Handelen. Hvorledes det gik med Fiskerihøjskolen, vidste man endnu ikke, men Kommunen havde i alle Tilfælde Brug for Ejendommen; den kunde indrettes til Børnehjem, maaske Lærlingehjem, og foreløbig kunde der laves Husvildeboliger. Gennem Økonomidirektøren havde man orienteret sig hos Kontorchef Dinesen i Fiskeridirektoratet og gjort ham bekendt med Købet; han takkede for Meddelelsen, men sagde, at der i Øjeblikket intet kunde siges om Udsigterne for Fiskerihøjskolen, idet Kommissionen ikke havde nogen Minister at aflevere sin Betænkning til; men det vilde blive anført i Betænkningen, at Aarhus havde købt en Ejendom, som var velegnet til Skolen. Taleren vilde hermed anbefale at købe Ejendommen.
+Indstillingen vedtoges.
+"	1943	9	16
+"93"	1943-09-16	"closed"	"19430916B_67.pdf"	5	"99_23-1943"	"Andragende fra Gasmester Chr. Johansen om Forhøjelse af Statslaan og Kommunegaranti i Ejendommen Marselis Boulevard 134. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	16
+"94"	1943-09-16	"closed"	"19430916B_67.pdf"	6	"634-1943"	"Andragende fra Frederiksbjerg K. F. U. M. om Fritagelse for Ejendomsskat for 1942-43 af Foreningens Ejendom Anna-gade 47.
+Anbefalet af Budgetudvalget.
+Bevilgedes.
+"	1943	9	16
+"95"	1943-09-16	"closed"	"19430916B_67.pdf"	6	"780-1943"	"Indstilling om Bevilling til et Fotokopiapparat til Maskinskrivningscentralen.
+- 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	16
+"96"	1943-09-16	"closed"	"19430916B_67.pdf"	6	"367-1943"	"Sagen angaaende Besættelse af Stillingen som Stadsarkitekt.
+K. M o u s t e n antog, der var Enighed om at ansætte Mogensen. Der forelaa en Skrivelse fra ham angaaende de Betingelser, hvorpaa han skulde ansættes, og Taleren kunde anbefale at ansætte ham paa disse Betingelser.
+J. R. Fanger bemærkede, at der ikke i Skrivelsen stod noget om Lønnen.
+Borgmesteren oplyste, at ifølge en Opgørelse fra Mogensen havde han i de sidste 10 Aar haft en gennemsnitlig Indtægt af 22000 Kr. aarlig, øg han mente baade af økonomiske Grunde og af Prestigehensyn at maatte kræve en Løn efter 1. Lønklasse med et Tillæg paa 4000 Kr. samt 6 Aars Lønanciennitet. Udvalget var enigt om at gaa med hertil. Angaaende hans Arbejde, vilde hans Medhjælpere paa Tegnestuen vel overtage Forretningen, saa hans Arbejder ret hurtigt kunde afvikles, dog saaledes, at han skal have Lov til at færdiggøre enkelte Arbejder som er omtrent færdigtegnede. Angaaende dette Spørgsmaal havde han talt med Akademisk Arkitektforenings Formand, der havde sluttet sig til hans Standpunkt, saa der vilde ikke komme nogen Kritik heraf. Udvalget indstillede altsaa at ansætte Mogensen paa disse Betingelser.
+"	1943	9	16
+"97"	1943-09-16	"closed"	"19430916B_67.pdf"	7	"367-1943"	"J. R. Fanger meddelte, at den konservative Gruppe ogsaa kunde stemme for Mogensen. Men naar han blev Stadsarkitekt, maatte han ogsaa være klar over, at han skal afgive sine private Arbejder. De Arbejder, som han fik Lov til at gøre færdige, vilde sikkert give ham en god Indtægt i de første Aar, derfor kunde det synes lidt kraftigt at forlange 4000 Kr. over 1. Lønklasse. Det var rimeligt, at han havde begyndt med lidt mindre og saa f. Eks. faaet et Tillæg, hvis han til sin Tid skal overtage Bygningsinspektoratet. Man maatte være klar over, at hvis man gik med til denne Løn, vilde der komme Krav fra andre Embedsmænd om Lønforhøjelse, og disse Krav kunde vanskeligt afvises.
+Borgmesteren havde ogsaa ønsket en noget lavere Begyndelsesløn, men Mogensen vilde ikke gaa for mindre, idet han hævdede, at Stillingen maatte være lige saa stor som Stadsingeniørens eller Belysningsdirektørens. Det var vel nok rigtigt, at der vilde komme Andragender om Løntillæg, men hvis man vilde have de bed Folk, maatte man ogsaa betale derfor.
+A. Mogensen ansattes paa de nævnte Betingelser.
+"	1943	9	16
+"98"	1943-09-16	"closed"	"19430916B_67.pdf"	7	"33_42-1943"	"Indstilling om, at Assistent paa Skattekontoret Eiler Holm ansættes i en ledig Stilling som Overassistent.
+Indstillingen vedtoges.
+"	1943	9	16
+"99"	1943-09-16	"closed"	"19430916B_67.pdf"	7	"33_41-1943"	"Indstilling om, at Stillingen som ledende Børnebibliotekar placeres i 5. Lønklasse og besættes med Frk. Bodil Schebye med Lønanciennitet fra lk 1937.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1943	9	16
+"100"	1943-09-16	"closed"	"19430916B_67.pdf"	8	"313-1943"	"Indstilling angaaende Besættelse af Lærerembeder ved Borgerskolerne. Følgende Indstilling forelaa:
+1. \"35\"-Lærerembede ved Eksamensmellemskolen, Ny Munkegade:
+1)Chr. Vest
+2)Chr. Schulz
+3)V. Hørslev Nielsen 
+7 Lærerembeder:
+I1) Erik Jepsen
+2)Agner Munk Hansen
+3)V. Villumsen
+II1) A. Munk Hansen
+2)Erik Balle
+3)Kjeld Hansen
+III1) V. Villumsen
+2)Hans Therkildsen
+3)Albert Johansen
+IVI) Erik Balle
+2)Erik Jepsen
+3)A. Munk Hansen
+V1) Hans Therkildsen
+2)V. Villumsen
+3)Erik Jepsen
+VII) Kjeld Hansen
+2)Albert Johansen
+3)Erik Balle
+VII1) Albert Johansen
+2)Kjeld Hansen
+3)Hans Therkildsen
+7Lærerindeembeder:
+I1) G. Vang Sørensen
+"	1943	9	16
+"101"	1943-09-16	"closed"	"19430916B_67.pdf"	9	"313-1943"	"2)E. Pind Olesen
+3)Q. Laursen
+II1) E. Pind Olesen
+2)B. Stegger Nielsen
+3)I. Nilsson
+III1)IG. Laursen
+2)K. Ulrik|
+3)I. Løhde Witt
+IV1) B. Stegger Nielsen
+2)G. Vang Sørensen
+3)E. Pind Olesen
+V1) K. Ulrik
+2)G. Laursen
+3)G. Vang Sørensen
+VI1) I. Nilsson
+2)I. Løhde Witt
+3)B. Stegger Nielsen
+VII1) I. Løhde Witt
+2)I. Nilsson
+3)K. Ulrik
+7Timelærerembeder;
+I1) Bent Riber
+2)Niels Albertsen
+3)Jens Pedersen
+II1) Niels Albertsen
+2)Ejnar Jensen
+3)Hans Boe
+III1) Jens Pedersen
+2)Peter Dethlefsen
+3)Niels Albertsen
+IV1) Ejnar Jensen
+2)Bent Riber
+3)Holger Schou
+"	1943	9	16
+"102"	1943-09-16	"closed"	"19430916B_67.pdf"	10	"313-1943"	"V1) Peter Dethlefsen
+2)Jens Pedersen
+3)Bent Riber
+VI1) Hans Boe
+2)Holger Schou
+3)Ejnar Jensen
+VII1) Holger Schou
+2)Hans Boe
+3)Peter Dethlefsen
+8Timelærerindeembeder:
+I1) Vibeke Balslev
+2)Karna Bech
+3)Ulla Skovbak
+II1) Kamma Povlsen
+2)Maria Pedersen
+3)Marie Sørensen
+III1) Karna Bech
+2)Else Byrith
+3)Vibeke Balslev
+IV1) Maria Pedersen
+2)Inger Moos
+3)Kamma Povlsen
+V1) Ulla Skovbak
+2)Vibeke Balslev
+3)Karna Bech
+VI1) Marie Sørensen
+2)Kamma Povlsen
+3)Maria Pedersen
+VII1) Else Byrith
+2)Ulla Skovbak
+3)Inger Moos
+VIII1) Inger Moos
+2)Marie Sørensen
+3)Else Byrith
+"	1943	9	16
+"103"	1943-09-16	"closed"	"19430916B_67.pdf"	11	"313-1943"	"8mandliige + 8 kvindelige faste Vikarpladser:
+1)Anton Quldsberg
+2)Erik Hansen
+3)Carl Christian Jensen
+4)Børge Lillelund
+5)Hans Christian Olsen
+6)Thomas Rahbek
+7)Jens Sigurd Thomsen
+8)Thorkild Tromholdt-Madsen
+1)Inga Christensen.
+2)Grethe Hougaard.
+3)Gytha Dreyer Jørgensen.
+4)Dagny Nørgaard Madsen.
+5)Gemma Mayntz.
+6)Bente Nathansen.
+7)Jytte Rosenlund.
+8)Rigmor Sørensen.
+Tiltraadtes.
+"	1943	9	16
+"104"	1943-09-16	"closed"	"19430916B_67.pdf"	11	"17_29-1943 og 17_26-1943 og 17_30-1943 og 17_36-1943"	"Indstilling om Eftergivelse af Hjælp til:
+a.(J.Nr.17_29-1943).Svend Tage Jensen.
+b.(J.Nr.17_26-1943).H. K. Kornmaaler.
+c.(J.Nr.17_30-1943).Eyvind I. Ibsen.
+d.(J.Nr.17_36-1943).William Jensen.
+Indstillingen vedtoges.
+"	1943	9	16
+"105"	1943-09-16	"closed"	"19430916B_67.pdf"	11	"17_37-1943"	"Indstilling om Eftergivelse af Hjælp ydet til Chr. J. B. Nielsen.
+Møller Rasmussen kunde ikke gaa med dertil, da han havde en Formue paa 4000 Kr., og en Del heraf var lagt til Side i samme Periode, som han havde faaet Hjælp.
+Sagen gik tilbage til Udvalget.
+"	1943	9	16
+"106"	1943-09-16	"closed"	"19430916B_67.pdf"	11	"824-1943"	"Andragende fra Arbejdernes Andelsboligforening om Terrænregulering i Riis-vangen.
+"	1943	9	16
+"107"	1943-09-16	"closed"	"19430916B_67.pdf"	12	"824-1943"	"Fra Stadsingeniørens Kontor forelaa følgende Skrivelse:
+\"Efter Henstilling fra Arbejdernes Andelsboligforening har jeg undersøgt Byggeforholdene i Riisvangens nordvestlige Del. Efter at Vejene er anlagt delvis paa Dæmninger, fremkommer der langs med disse nogle lavt liggende Grunde; de dybeste ligger indtil 1,5 m under Vej. Der vil ikke kunne bygges uden en Opfyldning, og Foreningen søger nu om en saadan, idet man dog er villig til at nøjes med en Højde, der ligger 2 å 3 Trin under Vejen.
+Paa medfølgende Plan er disse Arealer vist med gul Farve. I den yderste Karré, mærket 1, kan Fylden tages paa det Areal, der er brunt, og som ligger højere end Vejene. Det drejer sig om ca. 1800 ms. De næste Karréer, mærket 2, maa have Fylden andetsteds fra, og den foreslaas taget fra det Stykke af Hans Egedes Vej mellem Nordvestpassagen og Otto Sverdrups Vej, der endnu ikke er anlagt, men som senere skal afgraves. Dette giver 700 á 1000 m3, og ca. 1000 m3, som kommer til at mangle, mener Foreningen at kunne skaffe selv fra Grundudgravningerne.
+Arbejdet kan udføres i Forbindelse med Vejanlægene, og der er tilstrækkeligt med Tilskudspenge til den lille Udvidelse.
+Udgifterne vil saa blive: for Parcel 1 ca. 2000 Kr., der altsaa bliver en Ekstraudgift, men set paa Baggrund af Købesummen, godt 400,000 Kr., er saare ringe, og for Parcel 2 ca. 3000 Kr., der hører ind under de Udgifter til Hans Egedes Vej, der endnu ikke er bevilget.
+"	1943	9	16
+"108"	1943-09-16	"closed"	"19430916B_67.pdf"	13	"824-1943"	"Da man ved Grundkøbet ikke kunde overse denne Højdedifference, skal jeg anbefale, at Arbejdet udføres. Endvidere at det overdrages til de nuværende Entreprenører, saaledes at Jord- og Betonarbejdernes coop. Forretning faar Parcel 1 og Oscar M. Haugaard Parcel
+2efter de foreliggende Kontraktpriser.\"
+Fra Økonomidirektøren forelaa en Erklæring om, at Udgiften formentlig kan afholdes af indeværende Aars Raadighedsbeløb uden Forhøjelse af Bevillingen, og det henstilles, at hele Udgiften afholdes under Konto E, Bevilling til Vejanlæg ved Boligbyggeri i Riisvangen.
+Borgmesteren forelagde Forslaget. Sagen var lige blevet afleveret paa Byraadskontoret; den var ekspederet af Ingeniør Smith-Hansen, og Stadsingeniøren havde ikke haft Tid til at se derpaa. Taleren havde sagt til Stadsingeniøren, at man ikke ønskede at faa en saadan Indstilling, og han havde undskyldt sig med det daarlige Samarbejde paa hans Kontor. Taleren anbefalede Forslaget.
+J. R. Fanger syntes, det var en noget mærkelig Sag. Den gik altsaa ud paa, at Kommunen skal regulere den Jord, som Boligforeningen har købt.
+Borgmesteren bekræftede dette. Men man havde ogsaa forhøjet Grundprisen med 50 Øre, efter at Grunden faktisk var solgt. Man kunde maaske ogsaa paabegynde Arbejdet og saa senere tale med Boligforeningen om Betalingen.
+J. R. Fanger fandt det rimeligt, at Sagen først behandles i Udvalget. Man kunde jo holde
+"	1943	9	16
+"109"	1943-09-16	"closed"	"19430916B_67.pdf"	14	"824-1943"	"Møde næste Dag, og Sagen kunde eventuelt afgøres ved Cirkulation.
+Sigvald Nielsen anbefalede, at man i Betragtning af, hvad Boligforeningen har udført, gaar med til at bevilge de 5000 Kr. til Arbejdet.
+Ejner Mikkelsen syntes ogsaa, man kunde gaa med dertil for at faa Byggearbejdet i Gang.
+Unmack Larsen spurgte, om Sagen var saa presserende, at den ikke kunde vente, til man kunde tage en Udvalgsbehandling.
+Borgmesteren svarede, at Jorden skulde flyttes fra de høje til de lave Grunde, og indtil det skete, kunde der ikke begyndes paa Byggeriet. Men hvis man ønskede det, kunde Sagen ogsaa drøftes i Udvalget næste Dag.
+Sagen udsattes.
+15.Borgmesteren gav Meddelelse om en Forhandling med Besættelsesmyndighederne om Lempelse af Undtagelsestilstanden i Aarhus.
+"	1943	9	16
+"110"	1943-09-16	"open"	"19430916_147.pdf"	1	"no related record"	"Mødet den 16. Septbr. 1943.
+Fraværende: Kai Blicher og I. C. Sørensen.
+"	1943	9	16
+"111"	1943-09-16	"open"	"19430916_147.pdf"	1	"767-1943"	"Ministeriet for offentlige Arbejders Godkendelse af, at Havnen anvender 30000 Kr. til Forlængelse af en kommunal Overfaldskloak.
+Toges til Efterretning.
+"	1943	9	16
+"112"	1943-09-16	"open"	"19430916_147.pdf"	1	"206-1943"	"Meddelelse fra Aarhus Stiftamt om, at Kaptajn C. F. Mourier, Aarhus, er beskikket til Medlem af Søretten.
+Toges til Efterretning.
+"	1943	9	16
+"113"	1943-09-16	"open"	"19430916_147.pdf"	1	"43_1-1943"	"Andragende fra Universitetet om at faa Restbeløbet, 34567 Kr., af det bevilgede Tilskud udbetalt.
+Bevilgedes.
+"	1943	9	16
+"114"	1943-09-16	"open"	"19430916_147.pdf"	1	"785-1943"	"Indstilling om Udvidelse af Vestre Kirkegaard.
+Fra Stadsgartneren forelaa følgende Forslag:
+\"1) Vestre Kirkegaard udvides med ca. 1400 Normalgravsteder til en samlet Anlægsudgift af 48000 Kr.
+2)Det paa Arbejdsplanen for 1943-44 optagne Raadighedsbeløb paa 20000 Kr. forhøjes til 40000 Kr.
+"	1943	9	16
+"115"	1943-09-16	"open"	"19430916_147.pdf"	2	"785-1943"	"3)Der optages paa Arbejdsplanen for 1944-45 Restbeløbet til Kirkegaardsudvidelsen.
+4)Kloak- og Drænanlæget overdrages til de lavestbydende Murermester Ejner Mikkelsen m. fl. til et Beløb af 32000 Kr.\"
+Tiltraadt af Kirkegaardsbestyrelsen og Budgetudvalget.
+Borgmesteren oplyste, at der ikke var mange ledige Gravpladser tilbage paa Vestre Kirkegaard, og naar Indstillingen ikke var kommet tidligere, skyldtes det, at Stadsgartneren, som var ret ny i Embedet, ikke havde været opmærksom paa, at en Udvidelse var nødvendig. Skulde der komme en Epidemi, kunde man komme til at mangle Gravplads; derfor ønskede man en Forhøjelse af Beløbet paa Anlægsplanen, saa man straks kunde gaa i Gang med Udvidelsen.
+Indstillingen vedtoges.
+"	1943	9	16
+"116"	1943-09-16	"open"	"19430916_147.pdf"	2	"784-1943"	"Indstilling om Bevilling af 35000 Kr. til Istandsættelse af Køreveje og Gangstier paa Kirkegaardene.
+Tiltraadt af Budgetudvalget.
+Borgmesteren pegede paa, at det ofte var vanskeligt at færdes paa Kirkegaardene, selv om der stadig blev anvendt Grus til Gangene, og man ønskede derfor at asfaltere Hovedvejene og foreslog denne Bevilling dertil, saaledes at der anvendes ca. 5000 Kr. aarlig til Vejene.
+Indstillingen vedtoges.
+"	1943	9	16
+"117"	1943-09-16	"open"	"19430916_147.pdf"	2	"710-1943"	"Andragende fra Amtslægen om en ekstra Bevilling paa 48,75 Kr. til Udgivelse af Medicinalberetningen.
+Anbefalet af Budgetudvalget saaledes, at Beløbet optages som Tillægsbevilling til Konto 25.
+Overgik til 2. Behandling.
+"	1943	9	16
+"118"	1943-09-16	"open"	"19430916_147.pdf"	3	"759-1943"	"Indstilling fra Socialudvalget om Bevilling til Opførelse af en Garagebygning.
+Tiltraadt af Budgetudvalget saaledes, at Beløbet 3898,99 Kr. optages som Tillægsbevilling til Konto 12.
+Borgmesteren oplyste, at Garagen var beregnet til Politiet og opført ved Arbejdsanstalten. Det var tidligere godkendt af Byraadet, og der manglede blot en formel Godkendelse af Bevillingen.
+Overgik til 2. Behandling.
+"	1943	9	16
+"119"	1943-09-16	"open"	"19430916_147.pdf"	3	"758-1943"	"Andragende fra Danske Kvinders Samfundstjeneste om Bevilling af 5000 Kr. til Lærerlønninger ved to Vinterfritidshjem for Skolebørn.
+Anbefalet af Budgetudvalget saaledes, at Beløbet optages som Tillægsbevilling til Konto 25.
+Johanne Berg takkede for Bevillingen. Men Samfundstjenesten havde Planer om at oprette et Hjem mere, som skulde ligge paa Trøjborg, hvor der intet saadant fandtes, og hvis der senere skulde komme Andragende om Støtte til dette, vilde Taleren henstille, at man ser velvilligt derpaa. Det var selvfølgelig interimistiske Hjem, men de var oprettet i en Nødssituation, og der var særlig Brug for dem i en Tid, hvor mange Børn kun gik i Skole hver anden Dag.
+Unmack Larsen vilde benytte Lejligheden til at lægge et godt Ord ind for at støtte forebyggende Børneforsorg. I Aarhus var man vist en Del bagefter m. H. t. at oprette forebyggende Institutioner som Børnehjem, Daghjem, Vuggestuer, Fritidshjem o. lign. Der var over hele Landet Mangel paa saadanne Ting, og eftersom Tiden gik, og Krigen fortsattes, blev Forholdene stadig værre, og disse Institutioner blev
+"	1943	9	16
+"120"	1943-09-16	"open"	"19430916_147.pdf"	4	"758-1943"	"mere og mere nødvendige. Som Medlem af Boligkommissionen havde Taleren ogsaa set, at adskillige Børn i Aarhus levede under saa daarlige Forhold, at man vanskeligt kunde tænke sig det, og disse Forhold kunde kun afhjælpes ved en stor Indsats fra privat Side ved Oprettelse af private Institutioner. Men ogsaa fra Kommunens Side kunde der gøres en betydelig Indsats. Man burde ligesom enkelte andre Steder ved Opførelse af Boligkarréer indrette forskellige saadanne Hjem, men det blev næppe gjort, hvis ikke Kommunen havde et aabent Øje for disse Opgaver og var villig til at yde Støtte til deres Gennemførelse.
+Esther Aggebo vilde ogsaa anbefale at yde Tilskud til Fritidshjem, som var særlig nødvendige i denne Tid. Børneværnet havde et stort Arbejde med Børn, som var kommet paa Afveje, og der burde gøres alt muligt for at holde Børn paa ret Køl.
+J. R. Fanger gjorde opmærksom paa, at Kommunen i de senere Aar havde støttet enhver privat Institution som Børnehjem, Børnehaver, Vuggestuer o. s. v., naar der kom Andragende derom. Angaaende Spørgsmaalet om Indretning af saadanne Institutioner i de ny Karréer, saa var Unmack Larsen jo Formand for en Boligforening og havde altsaa Lejlighed til at gennemføre det.
+Unmack Larsen havde ikke appelleret til sig selv, men skulde gerne tage Henstillingen ad notam.
+Borgmesteren bemærkede, at det var en lidt ekstra Situation, hvor en Institution søger om Tilskud, og man saa siger, at de kan blot oprette flere Hjem og saa komme og faa flere
+"	1943	9	16
+"121"	1943-09-16	"open"	"19430916_147.pdf"	5	"758-1943"	"Penge! Der var muligvis noget at indhente paa disse Omraader, men Byraadet havde altid stillet sig velvilligt hertil og vilde sikkert ogsaa gøre det i Fremtiden.
+Overgik til 2. Behandling.
+"	1943	9	16
+"122"	1943-09-16	"open"	"19430916_147.pdf"	5	"771-1943"	"Indstilling om Bevilling til forskellige Udgifter, der i Regnskabsaaret 1942-43 midlertidigt er afholdt af Kassebeholdningen. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	16
+"123"	1943-09-16	"open"	"19430916_147.pdf"	5	"800-1943"	"Indstilling om, at der oprettes en \"Fond til Dækning af Udgifter ved Optagelse af Laan og ved Indfrielse af Obligationer samt Indløsning af Rentekupons m. v.\"
+Fra Hovedbogholderen forelaa følgende Forslag:
+\"Paa Budgettet for 1942-43 er der under Konto 1 k optaget et Beløb paa 75000 Kr. til Dækning af Udgifter ved Optagelse af Laan og ved Indfrielse af Obligationer samt Indløsning af Rentekupons m. v. (Heri ikke medregnet Kurstab ved Laanenes Optagelse).
+Udgiften hertil har imidlertid kun andraget 34750 Kr. 39 Øre, idet man grundet paa de ekstraordinære Forhold, hvorunder man er ude af Stand til at foretage Indbetaling af Afdrag og Renter af Laanet af 1909 samt Afdrag paa Laanet af 1930, har henlagt de paa Budgettet afsatte Afdrags- og Rentebeløb til særlige Fonds, hvorved de til de forskellige Indbetalingsterminer beregnede Indfrielsesomkostninger er udskudt til det Tidspunkt, hvor den endelige Indbetaling af Beløbene finder Sted.
+Da man til den Tid maa paaregne en større Udgift til Møntkurstab m. v., skal man herved tillade sig at henstille til det ærede
+"	1943	9	16
+"124"	1943-09-16	"open"	"19430916_147.pdf"	6	"800-1943"	"Udvalg, at Forskellen mellem det paa Budgettet opførte Beløb paa 75000 Kr. og den i 1942-43 posterede Udgift paa 34750 Kr. 39 Øre, 40249 Kr. 61 Øre henlægges ved Regnskabsafslutningen for 1942-43 til en Fond, \"Fond til Dækning af Udgifter ved Optagelse af Laan og ved Indfrielse af Obligationer samt Indløsning af Rentekupons m. v.\", hvoraf de forskellige Omkostninger vil kunne afholdes, naar Forholdene igen gør det muligt at paabegynde Indbetalingerne,\"
+Tiltraadt af Kasse- og Regnskabsudvalget.
+Indstillingen vedtoges.
+"	1943	9	16
+"125"	1943-09-16	"open"	"19430916_147.pdf"	6	"796-1943"	"Indstilling fra Vandværksudvalget om Levering af Vand til Skovdalkvarteret.
+Følgende Forslag forelaa:
+Grundlag for Overtagelse af Vandforsyningen i Skovdal.
+1)Aarhus Vandværk overtager gældfrit hele det eksisterende Hovedledningsnet i  Skovdal og forpligter sig til at vedligeholde dette paa samme Maade som for Aarhus’s Vedkommende. Den i Morbærvej manglende Gadeledning maa til sin Tid bekostes af Grundejerne langs denne Gade paa samme Maade som gældende for private Veje i Aarhus. Endvidere er det en Forudsætning, at Vandværket uden Hindringer kan foretage de med Anlæg og Vedligeholdelse af Ledninger m. m. forbundne Arbejder i Gaderne.
+2)Stikledningerne er trukne Rør og kan saaledes ikke godkendes af Vandværket. Dog vil man paa Grund af Forholdene se bort herfra og benytte dem, saa længe de er brugelige, men Stikledningerne skal, naar Vandværket ønsker det, omlægges til 40 mm støbte Rør.
+"	1943	9	16
+"126"	1943-09-16	"open"	"19430916_147.pdf"	7	"796-1943"	"Vandværket betaler Omlægningen fra Hovedledningen til og med Stophanen i Fortovet, medens Ejeren afholder Udgiften ved Omlægning derfra og til Ejendommens Stophane.
+3)Vandværket overtager samtlige Maalere tilhørende Grundejerne i Skovdal, regnet ialt 55 Stk., til en samlet Pris af 2000 Kr. Efter Overtagelsen af Maalerne afprøves disse paa Vandværkets Prøvestation, og Omkostningerne ved eventuel Reparation fradrages den samlede Overtagelsessum. Maalerne udlejes derefter af Vandværket til de paagældende Grundejere mod Betaling af den Maalerleje, som til enhver Tid er gældende i Aarhus. Nye Maalere udlejes af Vandværket mod sædvanlig Maalerleje.
+4)Prisen for Vand fra Vandværket fastsættes til 3 Øre over den til enhver Tid gældende Pris pr. m3 Vand i Aarhus, hvor Prisen for Tiden er 23 Øre pr. m3 for Husholdningsvand og 25 Øre pr. m3 for Næringsbrugsvand, herunder Haver.
+Indtil videre betales for Vand til Haver 7 Kr. pr. Taphane aarligt, der opkræves med 3,50 Kr. i henholdsvis April og Juli Kvartaler. Vandmaalere skal dog, naar Vandværket ønsker det, anbringes paa samme Maade som ved Haveindlæg i Aarhus.
+5)Vandværket overtager Administrationen og afkræver Vandafgiften hos de paagældende Grundejere paa samme Maade som i Aarhus.
+6) Samtlige Ejere af Ejendomme og Virksomheder, der forsynes med Vand fra Vandværket, underskriver Aarhus Vandværks Regulativ.
+7) Efter Overtagelsen maa kun de af Aarhus Vandværk anerkendte autoriserede Vand- og
+"	1943	9	16
+"127"	1943-09-16	"open"	"19430916_147.pdf"	8	"796-1943"	"Gasmestre arbejde med Ledninger i Skovdal, og det forudsættes, at Vandværket kan arbejde paa Ledningsnettet i Skovdal.
+Indstillingen vedtoges.
+"	1943	9	16
+"128"	1943-09-16	"open"	"19430916_147.pdf"	8	"3_39-1943 og 3_19-1943 og 3_37-1943 og 3_38-1943"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J.Nr.3_39 - 1943).Skattevæsenet.
+b.(J.Nr.3_19 - 1943).Observatoriet.
+c.(J.Nr.3_37 - 1943).Parkvæsenet.
+d.(J.Nr.3_38 - 1943).Stadsgartnerens Kontor.
+2.Behandling.
+Efterbevilling meddeltes.
+"	1943	9	16
+"129"	1943-09-16	"open"	"19430916_147.pdf"	8	"3_29-1943 og 3_25-1943 og 3_35-1943 og 3_36-1943 og 3_20-1943 og 3_6-1943"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_29 - 1943). Skovene.
+b.(J.Nr.3_25 - 1943).Mindeparken.
+c.(J.Nr.3_35 - 1943).Bygninger og Inventar.
+d.(J. Nr. 3_36 - 1943). Udvalget for Byens Udvidelse
+og Bebyggelse.
+e.(J. Nr. 3_20 - 1943). Vejvæsenet.
+f.(J. Nr. 3_6 - 1943). Belysningsvæsenet.
+Overgik til 2. Behandling.
+"	1943	9	16
+"130"	1943-09-16	"open"	"19430916_147.pdf"	8	"22_4-1943"	"Købekontrakt med Murermester R. K. Rasmussen angaaende en Grund ved Jyllandsallé.
+Godkendtes.
+"	1943	9	16
+"131"	1943-09-16	"open"	"19430916_147.pdf"	8	"801-1943"	"Forslag fra Vejteknisk Udtil Omnumerering af Ejendommene i Hjelmensgade.
+Indstillingen vedtoges.
+"	1943	9	16
+"132"	1943-09-30	"closed"	"19430930B_81.pdf"	1	"no related record"	"Mødet den 30. Septbr. 1943.
+(For lukkede Døre).
+Fraværende: Kai Blicher, J. R. Fanger, Chr. Nielsen og I. C. Sørensen.
+"	1943	9	30
+"133"	1943-09-30	"closed"	"19430930B_81.pdf"	1	"799-1943"	"Indenrigsministeriets Godkendelse af Optagelse af Kreditforeningslaan i Aldersrenteboligerne.
+Toges til Efterretning.
+"	1943	9	30
+"134"	1943-09-30	"closed"	"19430930B_81.pdf"	1	"804-1943"	"Licitationstilbud paa elektrisk Lys og Kraft i Maskinhuset ved Forrensningsanlæget i Riis Skov.
+Overdroges til Installatør T. Ehrenreich Petersen for 4960,60 Kr.
+"	1943	9	30
+"135"	1943-09-30	"closed"	"19430930B_81.pdf"	1	"799-1943"	"Indstilling om yderligere Kreditforeningslaan i Aldersrenteboligerne samt om Bemyndigelse for Borgmesteren til at underskrive Laanedokumenterne. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	30
+"136"	1943-09-30	"closed"	"19430930B_81.pdf"	1	"99_22-1943"	"Andragende fra Boligforeningen \"Ringgaarden\" om Statslaan til Underafdeling II ved Viborgvej.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Det indstilles, at Andragendet anbefales, saaledes at der udbetales et Statslaan paa 329800 Kr., og at Kommunen vedstaar sin
+"	1943	9	30
+"137"	1943-09-30	"closed"	"19430930B_81.pdf"	2	"99_22-1943"	"Garanti for Laanet, uanset at Garantien stiger med 4096 Kr. til 101996 Kr.\"
+Overgik til 2. Behandling.
+"	1943	9	30
+"138"	1943-09-30	"closed"	"19430930B_81.pdf"	2	"99_24-1943"	"Andragende fra Boligforeningen \"Ringgaarden\" om Statslaan paa 281000 Kr. med Kommunegaranti for 99500 Kr. til Opførelse af en Husrække ved Silkeborgvej.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler Andragendet og indstiller, at der ikke forlanges Bankgaranti for Betaling af Boligindskudene.
+Overgik til 2. Behandling.
+"	1943	9	30
+"139"	1943-09-30	"closed"	"19430930B_81.pdf"	2	"139-1943"	"Indstilling fra Lønudvalget angaaende Lønvilkaar m. v. for Prosektor W. Munck.
+Følgende Indstilling forelaa:
+\"Stillingen som Prosektor ved Aarhus Kommunes Hospitaler og Radiumstationen i Jylland og som Statsobducent i Aarhus lønnes med Slutlønnen i Tjenestemands-Regulativets 1. Lønklasse, for Tiden 9600 Kr. aarlig, plus de almindelige Regulerings- og Dyrtidstillæg, for Tiden 1962 Kr. for gifte, samt Tillæg paa 4800 Kr. og 2760 Kr. aarlig for Hvervene henholdsvis som Prosektor ved Radiumstationen og som Statsobducent.
+Prosektoren skal være villig til at paatage sig Undervisning i patologisk Anatomi ved Aarhus Universitet. Saafremt Honoraret herfor (foruden eventuelle Dyrtidsforhøjelser) overstiger 3600 Kr. aarlig, vil Ydelserne fra Kommunen være at nedsætte efter nærmere Forhandling med Lægeforeningen. Saafremt der for Undervisningen oppebæres almindelig Professorgage, vil Ydelserne fra Kommunen dog
+"	1943	9	30
+"140"	1943-09-30	"closed"	"19430930B_81.pdf"	3	"139-1943"	"ubetinget være at nedsætte med et Beløb, der svarer til Halvdelen af Professorgagen.
+Med Stillingen er forbundet Ret til Pension efter Kommunens almindelige Regler. Kun den regulativmæssige, faste Løn er pensionsgivende. Saafremt Stillingen besættes med en Læge, der ved Ansættelsen er over 40 Aar, regnes Pensionsalderen fra Ansættelsesdagen, idet der dog ved Ansættelsen gives den paagældende Lejlighed til at forøge sin Pensionsalder mod at indbetale til Pensionsfonden 5 % af 9600 Kr. aarlig for det Tidsrum, hvormed Pensionsalderen ønskes forøget. Er den paagældende under 40 Aar, er Pensionsvilkaarene de for Kommunens Tjenestemænd almindeligt gældende.
+Under Forudsætning af, at der af den pr. 1. Juli d. A. ansatte Prosektor, Dr. med. Willy Munck,til Kommunens Pensionsfond indbetaltes Kr. 4320,00, hvori indbefattet de af ham til Staten i hans tidligere Stilling indbetalte Pensionsbidrag, vilde Prosektor Muncks Pensionsalder ifølge Byraadets Vedtagelse af 26. August d. A. være at regne fra 1. Juli 1934.
+Idet meddeles, at Overførsel til Kommunen af de af Prosektor Munck til Staten indbetalte Pensionsbidrag nu har fundet Sted, indstiller Lønudvalget herved de ovenfor nævnte Løn-, Ansættelses- og Pensionsvilkaar for Stillingen som Prosektor og Statsobducent til Byraadets Vedtagelse.\"
+Indstillingen vedtoges.
+"	1943	9	30
+"141"	1943-09-30	"closed"	"19430930B_81.pdf"	3	"864-1943"	"Indstilling om Udbetaling af fuld Løn til Fuldmægtig Frk. Kruse under hendes Sygdom.
+Fra Borgmesteren forelaa følgende Skrivelse:
+"	1943	9	30
+"142"	1943-09-30	"closed"	"19430930B_81.pdf"	4	"864-1943"	"\"I Anledning af, at Fuldmægtig Frk. Kruse paa Byraadskontoret i denne Maaned har passeret et samlet Sygedageantal af 92 indenfor de sidste 12 Maaneder, skal jeg paa Foranledning af en Forespørgsel fra Frk. Kruse henstille, at Bestemmelsen i Tjenestemandsregulativet om Fradrag af 1/3 af Grundlønnen i et saadant Tilfælde ikke bringes til Anvendelse overfor Frk. Kruse under Hensyn til, at hun igennem en længere Aarrække med Assistentlønning har udført et betydeligt Arbejde paa Kontoret udover normal Arbejdstid uden at modtage særskilt Vederlag herfor\".
+Budgetudvalget indstiller, at der fortsat udbetales Frk. Kruse fuld Løn under hendes Sygdom i de kommende 3 Maaneder regnet fra den Dag, hun passerede det ovennævnte Sygedageantal.
+K. Mousten foreslog paa Gruppens Vegne, at det foreløbig bevilges for 1 Maaned.
+K. Moustens Forslag tiltraadtes.
+"	1943	9	30
+"143"	1943-09-30	"closed"	"19430930B_81.pdf"	4	"29_9-1943"	"Andragende fra Arbejdsmand ved Parkvæsenet J. Schiby om Afsked med Pension fra 1. Oktober 1943.
+Bevilgedes. Pensionen fastsættes til 952,04 Kr.
+"	1943	9	30
+"144"	1943-09-30	"closed"	"19430930B_81.pdf"	4	"17_39-1943"	"Indstilling fra Socialudvalget om, at den valgretsfortabende Virkning ved Ydelse af Kommunehjælp til P. W. Petersen bortfalder.
+Indstillingen vedtoges.
+"	1943	9	30
+"145"	1943-09-30	"closed"	"19430930B_81.pdf"	4	"17_38-1943"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet til Poul Snedker Jensen.
+Indstillingen vedtoges.
+"	1943	9	30
+"146"	1943-09-30	"open"	"19430930_155.pdf"	1	"no related record"	"Mødet den 30. Septbr. 1943.
+Fraværende: Kai Blicher, J. R. Fanger, Chr. Nielsen og I. C. Sørensen.
+"	1943	9	30
+"147"	1943-09-30	"open"	"19430930_155.pdf"	1	"494-1943"	"Indenrigsministeriets Godkenkendelse af Købet af Bethaniaforeningens Ejendom Skovvang.
+Toges til Efterretning.
+"	1943	9	30
+"148"	1943-09-30	"open"	"19430930_155.pdf"	1	"99_18-1943"	"Meddelelse fra Indenrigsministeriet om Bevilling af Statslaan til Tømrermester P. B. Kjeldsen.
+Toges til Efterretning.
+"	1943	9	30
+"149"	1943-09-30	"open"	"19430930_155.pdf"	1	"11_21-1943 og 11_24-1943 og 11_30-1943 og 22_5-1943 og 22_7-1943 og 11_23-1943 og 11_22-1943 og 11_29-1943 og 11_27-1943 og 11_28-1943 og 11_25-1943"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a.(J. Nr. 11_21-1943). Gasmester Chr. Johansen.
+b.(J. Nr. 11_24-1943). Sadelmager I. P. Jensen.
+c.(J. Nr. 11_30-1943). Lærer H. A. Rasmussen.
+d.(J. Nr. 22_5-1943). Driftsbestyrer A. Flach.
+e.(J.Nr.22_7-1943).Installatør P.H. Borup.
+f.(J.Nr.11_23-1943).Lærer Tage Krake.
+g.(J. Nr. 11_22 -1943). Murermester Th. P.Rasmussen.
+h.(J.Nr.11_29-1943).Lærer A. P.Rasmussen.
+i.(J.Nr.11_27-1943).Tømrermester O.Ottosen.
+j. (J. Nr. 11_28-1943). Lærer V. Chr. Smed. 
+k. (J. Nr. 11_25-1943). Rulleejer J. Flindt).
+Toges til Efterretning.
+"	1943	9	30
+"150"	1943-09-30	"open"	"19430930_155.pdf"	2	"824-1943"	"Indstilling om, at Kommunen afholder Udgiften ved Terrænregulering i „Riisvangen\". (Se B Side 77).
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Da Arbejdernes Andelsboligforening efter Opfordring herfra er gaaet saa hurtigt i Gang med Byggeriet, at den ikke har haft Lejlighed til ved Købets Afslutning at tage det nævnte Forhold i Betragtning, skal man indstille, at Stadsingeniørens Forslag tiltrædes, saaledes at Udgiften afholdes som foreslaaet af Økonomidirektøren\".
+Vedtaget ved Cirkulation.
+"	1943	9	30
+"151"	1943-09-30	"open"	"19430930_155.pdf"	2	"759-1943"	"Indstilling fra Socialudvalget om Bevilling til Opførelse af Garagebygning. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	30
+"152"	1943-09-30	"open"	"19430930_155.pdf"	2	"710-1943"	"IndstillingomBevillingaf ekstraordinært Tilskud til Udgivelse af Medicinalberetning. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	30
+"153"	1943-09-30	"open"	"19430930_155.pdf"	2	"758-1943"	"IndstillingomBevillingtil
+Lærerlønninger ved to Vinterfritidshjem. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	9	30
+"154"	1943-09-30	"open"	"19430930_155.pdf"	2	"808-1943"	"IndstillingomBevillingaf
+2590 Kr. til Installation af Fjernvarme i Kontorbygning paa Slagtehuset, der er udlejettil
+Aarhus Flæskehal.
+Udvalget foreslaar, at Lejeren afdrager Beløbet i 10 Aar og forrenter det til enhver Tid resterende Beløb med 5 %.
+Økonomidirektøren foreslaar, at Ydelsen, for at opnaa en konstant aarlig Leje i Afdragstiden,
+"	1943	9	30
+"155"	1943-09-30	"open"	"19430930_155.pdf"	3	"808-1943"	"beregnes som en Annuitet, der tillægges det aarlige Lejebeløb.
+Tilltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1943	9	30
+"156"	1943-09-30	"open"	"19430930_155.pdf"	3	"863-1943"	"Indstilling fra Udvalget for Folkekøkkenet om Bevilling paa 2860 Kr. til Indretning af Studenterbeboelse i Klostergade 28-30.
+Følgende Indstilling forelaa:
+\"Under Indtryk af overvældende Vanskeligheder for Universitetsstuderende ved i Byen at finde egnet Beboelse har Udvalget paa sit i Gaar afholdte Møde vedtaget at indstille, at de i Ejendommen Klostergade 28-30 paa 4.Sal værende 12 Værelser og af de paa 3. Sal værende 6 Værelser, ialt 18 Værelser, stilles til Raadighed for Udleje til fortrinsvis mindre bemidlede Studenter for en beskeden Pris.
+Ved Kommunens Overtagelse af Ejendommen, der tidligere blev drevet som Højskolehotel, erhvervedes en Del Hotelmøblement, der nu kunde anvendes ved Studenternes Beboelse. Der haves saaledes til Raadighed:
+18 mindre Borde med Udtræksskuffe,
+18 Træstole,
+18 Divaner og Senge med Madrasser og delvis med Tæpper,
+18 faste Vaskekummer eller Vaskesteder med Garniture, bortset fra 4-5 emaillerede Vandkander, ca. 14 Klædeskabe,
+Faste Gulvtæpper forefindes i de 10 Værelser. En Del Læselamper suppleres op til 18 ved Raadhusforvaltningens Bistand. 4 Lænestole suppleres ligeledes op gennem Raadhusforvaltningen
+"	1943	9	30
+"157"	1943-09-30	"open"	"19430930_155.pdf"	4	"863-1943"	"til 18 Stk., ligesom Forvaltningen kan stille 3 Smaaborde til Raadighed. Der mangler herefter af nødvendigt Udstyr 18 Bogreoler og 4 Klædeskabe.
+Saavel paa 3. som paa 4. Etage findes et Toiletrum med stor Vaskekumme, samt paa 3.Sal et Badeværelse, der kunde stilles til Raadighed et Par Morgentimer samt hver Lørdag Eftermiddag.
+Da en stor Del af Studenterne paa Grund af økonomiske Vanskeligheder er henvist til delvis selv at fremstille Kosten, foreslaas i et dertil egnet Køkkenrum med Elevator fra Folkekøkkenet i Stuen at installere Gas ved Ledninger og Rør fra 1. Sal til 3. Sal, samt Anskaffelse af 6-8 Gasapparater, samt i dette Rum at opsætte et Spiseskab med ca. 20-25 Rum, hver forsynet med Laas.
+Alt efter Værelsernes Beliggenhed, Størrelse og og Udstyr vil den maanedlige Lejepris kunne fastsættes til fra Kr. 25 - 30 til Kr. 40 - 45, og Værelserne holdes udlejet Aaret rundt med Undtagelse af Sommersæsonen (ca. 15. Juni-1. September), hvor i alt Fald en Del af Værelserne maa staa til Ungdomsherbergets Raadighed.
+Rengøringen for samtlige 18 Værelser foreslaas udført af en Husassistent fra Folkekøkkenet mod Afholdelse af hendes Løn, Kr. 80, saaledes at Folkekøkkenet yder hende Kosten samt tillægger Rengøringsredskaber og Rengøringsmidler mod som Vederlag at faa Husassistentens Arbejdskraft i de ledige Eftermiddagstimer, naar Kollegierengøringen er overstaaet.
+Saafremt Udvalget kan tiltræde Udlejningsplanen
+"	1943	9	30
+"158"	1943-09-30	"open"	"19430930_155.pdf"	5	"863-1943"	"henstiller man, at der opsættes elektriske Pærer i de Lampesteder, der i Øjeblikket er ude af Brug, og at Bestyrer Danneskov foranlediger Hovedrengøring afholdt i samtlige Rum og derefter møblerer disse. Endvidere henledes Opmærksomheden paa, at der i Ejendommen paa 1. Sal er installeret en Telefon, for hvilken Kommunen i 4 Aar har betalt, uden at den er blevet benyttet. Denne flyttes til Ejendommens 3. Etage til Afbenyttelse for Kollegianerne.
+Saafremt Fritidsklubben ikke faar fuld Udnyttelsesret til Lokalerne paa 2. Sal, vil der muligt blive 3 delvis møblerede Værelser til Raadighed for Studenterne samt 2 Værelser i Forbindelse med hinanden til Samlingsstue. Der forefindes dog ikke Inventar til dette fælles Opholdsrum.
+Det vil formentlig yderligere blive nødvendigt, at nogen Istandsættelse af det forhaandenværende Inventar finder Sted efterhaanden, og at Udgifterne hertil saavel som til Telefonabonnement, Rengøring, Omflytning etc. bestrides af de inkomne Lejebeløb.
+Universitetets Rektor, Professor, Dr. theol. J. Munck samt 4 Studenterraadsrepræsentanter har i Dag beset Lokalerne og udtrykt Ønske om saavidt muligt omgaaende at kunne faa Adgang til at disponere over Rummene, der, saafremt Udvalget kan tiltræde Forslaget, kan gøres klar til 15. September d. A.\"
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse og Budgetudvalget.
+Johanne Berg anbefalede Forslaget. Det var Værelser, der om Sommeren benyttedes af Vandrere, men stod ledige om Vinteren og derfor
+"	1943	9	30
+"159"	1943-09-30	"open"	"19430930_155.pdf"	6	"863-1943"	"burde udlejes, og Tanken havde ogsaa vakt stærk Tilslutning i Studenterkredse. Der var forskellige Smaating som Lys, Varme, Gas, Telefon o.lign., men det kunde der maaske senere tages Bestemmelse om.
+Borgmesteren syntes, det var en udmærket Foranstaltning. Budgetudvalget havde tiltraadt det saaledes, at der i Lejen er indbefattet Afgift for Varme, Lys, Telefon og Rengøring, hvorimod Gasforbruget maa fordeles paa Beboerne.
+Indstillingen tiltraadtes, idet Spørgsmaalet om Bevillingen overgik til 2. Behandling.
+"	1943	9	30
+"160"	1943-09-30	"open"	"19430930_155.pdf"	6	"846-1943"	"Indstilling om ændrede Regler for Kommunens Løn- og Pensionsudbetaling, samt om Bevilling af 1800 Kr. til Igangsættelse af Ordningen.
+Fra Økonomidirektøren forelaa Forslag om, at Kommunens Lønudbetalingssystem ændres saaledes, at hver enkelt Tjenestemands Løn anvises over hans Konto i den Bank, Tjenestemanden ønsker.
+Tiltraadt af Budgetudvalget, som samtidig foreslaar, at de maanedlige Løn- og Pensionsudbetalinger sker den sidste i den foregaaende Maaned for de Tjenestemænd og Funktionærer, der faar deres Løn forud.
+Borgmesteren anbefalede Foslaget. Det vilde sikkert vise sig at være en god Ordning, som der vilde blive almindelig Tilfredshed med.
+Indstillingen vedtoges, idet Spørgsmaalet om Bevillingen overgik til 2. Behandling.
+"	1943	9	30
+"161"	1943-09-30	"open"	"19430930_155.pdf"	6	"838-1943"	"Indstilling angaaende Tillægsbevilling til Anlæg af Finlandsgade og Fuglebakkevej m. v.
+Fra Vejteknisk Udvalg forelaa Forslag om Tillægsbevilling paa 15000 Kr. til Anlæg af Finlandsgade
+"	1943	9	30
+"162"	1943-09-30	"open"	"19430930_155.pdf"	7	"838-1943"	"og 34000 Kr. til Anlæg af Fuglebakkevej, idet der spares tilsvarende Beløb paa andre Veje.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1943	9	30
+"163"	1943-09-30	"open"	"19430930_155.pdf"	7	"788-1943"	"Indstilling fra Kirkegaardsbestyrelsen om Anskaffelse af en Regnemaskine saaledes at Udgiften, 1700 Kr., opføres paa næste Aars Budget.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1943	9	30
+"164"	1943-09-30	"open"	"19430930_155.pdf"	7	"805-1943"	"Andragende fra Dansk Ungdomssamvirke i Aarhus om Udbetaling af Tilskud.
+Det paa Budgettet afsatte Beløb paa 1000 Kr. bevilgedes.
+"	1943	9	30
+"165"	1943-09-30	"open"	"19430930_155.pdf"	7	"851-1943"	"Andragende fra Ungdomskorpsene i Aarhus om Udbetaling af Tilskud.
+Det budgetterede Beløb paa 2000 Kr. bevilgedes.
+"	1943	9	30
+"166"	1943-09-30	"open"	"19430930_155.pdf"	7	"837-1943"	"Indstilling om Oprettelse af et „Fond til Dækning af Pensionsbyrden vedrørende det tidligere kommunale Politi og Arrestvæsen\", samt om Henlæggelse til dette Fond.
+Fra Økonomidirektøren forelaa følgende Forslag.
+\"Ved det kommunale Politis Overgang til Staten den 1. April 1937 blev det bestemt, at Pensionsbyrden vedrørende de paa Overgangstidspunktet pensionerede Polititjenestemænd skulde beregnes og indbetales til Finansministeriet, idet samtidig aabnedes Adgang til en afdragsvis Berigtigelse af Beløbet.
+Der paahviler Aarhus Kommune, naar Ydelsen pr. 31. Marts 1944 - til hvilken der er udskrevet Skat paa Budgettet for indeværende
+"	1943	9	30
+"167"	1943-09-30	"open"	"19430930_155.pdf"	8	"837-1943"	"Aar - er betalt, en Restgæld til Beløb 546.312, 40 Kr. foruden det pr. samme Dato resterende Beløb af den af Havnen til Kommunens Kasse foretagne Indbetaling paa 57.454, 32 Kr. (Restbeløb 54.581,60 Kr.), hvortil kommer beregnede Renter 4 % p. a. 240.357,59 Kr.
+Under Henvisning til, at Kommunens Regnskab for 1942-43 forventes afsluttet med et væsentligt Overskud, skal man herved tillade sig at foreslaa, at der heraf henlægges nævnte
+Restgæld......................... 546.312,40 Kr.
+samt de af Finansministeriet beregnede Renter................... 240.357‘59 -
+Ialt... 786.669,99 Kr. til Imødegaaelse af denne Gælds- og Rentebyrde.
+Det henlagte Beløb i Forbindelse med Restbeløbet af den fra Havnen modtagne Indbetaling, nævnte 54.581,60 Kr., vil være at optage i Status under Passiv M: \"Fond til Dækning af Pensionsbyrden vedrørende det tidligere kommunale Politi- og Arrestvæsen\".
+Den aarlige Skatteudskrivning vil ved den foreslaaede Fondshenlæggelse lettes med ca. 50.000 Kr. i de førstkommende Aar, faldende i Tiden, indtil sidste Afdrag finder Sted (pr. 31. Marts 1963) til ca. 30.000 Kr.
+Da man i Forvejen har anbragt saa meget af Kommunens Kassebeholdning, som man finder forsvarligt, i rentebærende Statsgældspapirer, skal man ikke for Tiden fremkomme med Forslag om Frugtbargørelse af ovennævnte Henlæggelse\".
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1943	9	30
+"168"	1943-09-30	"open"	"19430930_155.pdf"	9	"806-1943"	"Forslag til Overenskomst mellem Aarhus Amtsraad og Byraad om Benyttelse af Arbejdsanstalten i Aarhus.
+Fra Socialudvalget forelaa følgende Forslag:
+§ 1.
+\"Aarhus Arbejdsanstalt indrettes i Bygningerne i Vester Allé 5, Aarhus; uden for Arbejdsanstaltens Omraade falder dog Vaskeribygningen, Hovedbygningens Loftetages sydlige og vestlige Fløj fra Kvindeafdelingen til Funktionærværelserne, Hovedbygningens 1. Sals Etage med Undtagelse af Forvalterens Lejlighed, Hovedbygningens Stueetages nordlige og vestlige Fløj fra Kontorerne til Arbejdsafdelingen, Kælderetagens Nord- og Vestfløj fra Kommandorummet til Opholdsstuen i Vestfløjen og endvidere Fritidshjemmets Legeplads.
+§ 2.
+Arbejdsanstalten ejes af Aarhus Kommune. Aarhus Byraad er berettiget til at tage Bestemmelse om Nybygninger til og Omforandringer i Anstaltens Bygninger; men Udgifter hertil er Amtsraadet uvedkommende, for saa vidt ikke anderledes bestemmes ved derom mellem Raadene truffen Overenskomst.
+§ 3.
+Der nedsættes en Bestyrelse for Arbejdsanstalten paa 5 Medlemmer, hvoraf 3 udpeges af Aarhus Byraad og 2 af Aarhus Amtsraad.
+Bestyrelsen vælger selv sin Formand og fastsætter de fornødne Bestemmelser om Forretningsordenen. Bestyrelsen skal inden Udgangen af hvert Aars Oktober udarbejde Overslag over Anstaltens Indtægter og Udgifter
+"	1943	9	30
+"169"	1943-09-30	"open"	"19430930_155.pdf"	10	"806-1943"	"i det følgende Regnskabsaar og tilstille Byraadet og Amtsraadet hver et Eksemplar af Overslaget.
+§ 4.
+Alle Amtsraadskredsens Kommuner og Aarhus Købstadkommune har Indlæggelsesret efter §§ 311 -22 til den af Socialministeriet til enhver Tid godkendte Takst saavel i Anstaltens almindelige Afdeling som i Forsørgelsesafdelingen. 
+§ 5.
+Udgifterne ved Anstaltens Drift fordeles efter Udløbet af hvert Regnskabsaar efter at være godkendt af Amtmanden paa Amtsraadskredsen og Aarhus Kommune efter Folketal, jfr. Forsorgslovens § 71.
+Fra 1. April 1943 udarbejde Regnskab efter det for Amtsraadet og Byraadet i Efteraaret 1942 forelagte Budgetforslag for Aarhus Arbejdsanstalt for 1943- 44, saaledes at de under dettes Konto H. 1. a. anførte Fællesudgifter - mellem Arbejdsanstalten og de øvrige under Konto Konto H. 1. nævnte og i Bygningerne i Vester Alle 5 indrettede Virksomheder - fordeles efter de i Bilag til nærværende Overenskomst \"Fordeling af Fællesudgifter\" for hver Specialpost anførte Fordelingstal.
+Udgifterne ved Indretning af Drift af eventuelle andre Virksomheder - uden for Arbejdsanstaltens Omraade - i Bygningerne iVester Alle er Arbejdsanstalten udvedkommende og kan derfor ikke - helt eller delvis - henføres under Konto XII. H. 1. A. \"Fællesudgifter\".
+§ 6.
+Anstalten ledes under Bestyrelsens Tilsyn af Direktøren for Aarhus Forsørgelsesvæsen.
+"	1943	9	30
+"170"	1943-09-30	"open"	"19430930_155.pdf"	11	"806-1943"	"Den af Aarhus Kommune ansatte Forvalter har Opsyn med Anstalten og de deri indlagte.
+§ 7.
+Anstaltens Funktionærer ansættes af Aarhus Kommune i Overenstemmelse med dennes Reglement, ligesom de lønnes og pensioneres efter disse.
+Anstaltens Bestyrelse afgiver dog Indstilling om Ansættelse af Forvalter, Opsynsmænd, Chauffører og Økonoma.
+§ 8.
+Enhver indlæggende Kommune maa afgive Oplysninger om hvert enkelt indlagt i det Omfang og i den Form, Bestyrelsen maatte fordre.
+§ 9.
+Denne Overenskomst gælder, medmindre Enighed om Ophævelse forinden opnaas, fra
+1.April 1943 til 1. April 1945. For saa vidt den ikke inden 1. April 1944 er opsagt fra en af Siderne, forbliver den i Kraft, indtil den med 1 Aars Varsel opsiges til en 1. April.\"
+Indstillingen vedtoges.
+"	1943	9	30
+"171"	1943-09-30	"open"	"19430930_155.pdf"	11	"271-1943"	"Forslag til endeligt Takstregulativ for Kommunehospitalets neurologisk-neurokirurgiske Afdeling.
+Fra Sygehusudvalget forelaa følgende Forslag:
+§ 1.
+Afdelingen modtager fra hele Landet Patienter, lidende af organiske Nervesygdomme, til neurologisk eller neurokirurgisk Behandling.
+Behandlingen for Kur og Pleje fastsættes saaledes pr. Dag:
+1.Paa Fællesstue:
+a.Grundtakst.......................4Kr.
+"	1943	9	30
+"172"	1943-09-30	"open"	"19430930_155.pdf"	12	"271-1943"	"b.For ubemidlede nydende Medlemmer af statsanerkendte Sygekasser og af Statsbanepersonalets Sygekasse og deres Børn (herunder Plejebørn anbragt i Familiepleje)
+under 15 Aar........................2Kr.
+2.Paa Enestue (efter Patientens derom
+fremsatte Begæring)................. 12Kr.
+§ 2.
+Ved Betalingens Beregning betragtes en Del af et Døgn som et helt Døgn, saaledes at baade Indlæggelsesdagen og Udskrivningsdagen medregnes.
+For den fastsatte Betaling nyder Patienten Lægehjælp, Operationer, Forbindsstoffer, Bandager til Benyttelse paa Afdelingen, Medicin, Røntgen, Massage, Pleje, Lys, Varme, Vask, Bade, Opvarmning og Bespisning efter Reglementet eller efter Lægens Forskrift.
+Ekstravagter betales med det Beløb, som udredes herfor af Hospitalet med Tillæg af 2Kr. i Kostpenge pr. Vagt. For ubemidlede nydende Medlemmer af statsanerkendte Sygekasser og af Statsbanepersonalets Sygekasse og deres Børn (herunder Plejebørn anbragt i Familiepleje) under 15 Aar betales dog kun Halvdelen af ovnnnævnte Beløb for Vagthold.
+§ 3.
+For saadan Efterbehandling, Ettersyn m. v. af udskrevne Patienter, der bør foretages paa Afdelingen, erlægges det halve af de i § 1, Stk. 2, Nr. 1 a. og b., fastsatte Takster.
+§ 4.
+I Tilfælde af, at Betalingen ikke erlægges, kan Kommunehospitalet lade sit Tilgodehavende
+"	1943	9	30
+"173"	1943-09-30	"open"	"19430930_155.pdf"	13	"271-1943"	"inddrive ved Udpantning hos den paagældende Patient eller hos dennes Kautionist.
+§ 5.
+Dette Regulativ træder i Kraft den 1. April 1943. Trykte Eksemplarer af Regulativet kan faas paa Sygehusets Kontor.
+Indstillingen vedtoges.
+"	1943	9	30
+"174"	1943-09-30	"open"	"19430930_155.pdf"	13	"809-1943"	"Indstilling om Indførelse af en ambulatorisk Virksomhed paa den dermatologiske Afdeling paa Marselisborg Hospital.
+Fra Sygehusudvalget forelaa følgende Forslag:
+Efter stedfunden Forhandling med den almindelige danske Lægeforening og Repræsentanter for Aarhus Universitet om en af undervisningsmæssige Grunde nødvendig Indførelse af en ambulatorisk Virksomhed paa den dermatologiske Afdeling er der mellem de forhandlende Parter opnaaet Enighed om følgende Ordning:
+\"Afdelingens Overlæge kan af sin Venteliste indkalde indenbys Sygekassepatienter til Undersøgelse med Henblik paa, om Indlæggelse er nødvendig eller om Behandlingen eventuelt kan foregaa ambulant. Saadanne Patienter, der ved Undersøgelsen skønnes at kunne behandles ambulant, vises tilbage til den henvisende Læge med en kort Vejledning angaaende Behandlingen, og kun i saadanne specielle Tilfælde, hvor Behandlingen har særlig undervisningsmæssig Interesse, maa Afdelingen paatage sig ambulant Behandling. For hver Undersøgelse og Behandling skal Sygekassen betale Hospitalet
+"	1943	9	30
+"175"	1943-09-30	"open"	"19430930_155.pdf"	14	"809-1943"	"5 Kr. Patienter over Sygekassegrænsen og udenbys Patienter modtages ikke.\"
+Saaledes foranlediget skal Udvalget herved indstille, at der til Afsnit B. i det af Indenrigsministeriet under 7. Oktober 1940 stadfæstede \"Tillæg til det af Indenrigsministeriet under 14.April 1926 stadfæstede Regulativ for Aarhus kommunale Hospitaler\" sker følgende Tilføjelse:
+For Undersøgelse og Behandling paa den dermatologiske Afdeling af dertil henviste'Medlemmer af de nævnte Sygekasser er Betalingen dog 5 Kr. pr. Ydelse.
+Indstillingen vedtoges.
+"	1943	9	30
+"176"	1943-09-30	"open"	"19430930_155.pdf"	14	"12_8-1943"	"Indstilling fra Socialudvalget om Brændselshjælp til Rentenydere.
+Følgende Forslag forelaa:
+\"Det indstilles, at der i Vinteren 1943-44 ydes Brændselshjælp til Aldersrentenydere, Invaliderentenydere, Personer, der i Medfør af Forsorgslovens §§ 247-48 oppebærer Hjælp til kronisk syge, og Personer, der oppebærer Forskud paa Invaliderente, saaledes at der ydes 10 hl Koks og 20 Sække Træ eller 100 Kr. kontant til Ægtepar, hvis Formue ikke overstiger 2500 Kr. og Indtægten ikke det fradragsfri Beløb, der for Tiden udgør 606 Kr. aarlig for Ægtepar med en Tilgangsalder paa 60 Aar, og enlige, hvis Formue ikke overstiger 1500 Kr. og Indtægten ikke det fradragsfri Beløb, der for Tiden udgør 402 Kr. aarlig for Mænd og 374 Kr. aarlig for Kvinder med Tilgangsalder 60 Aar.
+Endvidere indstilles, at der, hvis de paagældendes Formue og Indtægt overstiger forannævnte Grænser, ydes en noget mindre
+"	1943	9	30
+"177"	1943-09-30	"open"	"19430930_155.pdf"	15	"12_8-1943"	"Brændselsration, dog at der som Hovedregel ikke ydes Brændselshjælp, saafremt Formuen udgør mere end 6000 Kr. for Ægtepar og 4000 Kr. for enlige og Indtægten ikke mere end 1000 Kr. aarlig for Ægtepar og 700 Kr. for enlige.
+Antallet af Rationer, der skal uddeles efter foranstaaende Regler, anslaas til ca. 2800, og den samlede Udgift anslaas at ville udgøre ca. 411100 Kr., der fordeler sig saaledes:
+Naturaliebrændsel......... ca. 321780 Kr.
+Kontant Brændselshjælp .. ca. 43000 Kr. der agtes afholdt i Medfør af Folkeforsikringslovens § 40, Stk. 5, og Udgift til Kørsel af Brændsel ca. 46320 Kr., der afholdes i Medfør af samme Lovs § 79, Stk. 3.
+For saa vidt der ikke ved særlig Lovhjemmel eller paa anden Maade for indeværende Aar i Lighed med sidste Aar sker en Forhøjelse af det personlige Tillæg fra 7 1/2 til 10 % af Rentegrundbeløbet i foregaaende Regnskabsaar, vil det være nødvendigt at yde en Del af Brændselshjælpen efter Forsorgslovens § 293, Stk. 3., som Kommunehjælp, hvilket forudsætter, at mindst af Byraadet tilslutter sig.\"
+H. P. Jensen anbefalede paa Udvalgets Vegne Forslaget. Samtidig vilde Taleren henstille til Rentenyderne at spare Koksene saa længe som muligt; der var ganske vist foreslaaet, at der senere gives 5 hl Koks, men under de nuværende Forhold havde man ingen Garanti for, at de virkelig kan leveres.
+Borgmesteren pegede paa, at der i Indstillingen var antydet, at hvis det personlige
+"	1943	9	30
+"178"	1943-09-30	"open"	"19430930_155.pdf"	16	"12_8-1943"	"Tillæg ikke blev forhøjet i Aar, maatte en Del af Beløbet tages som Kommunehjælp. Men man havde i Dag faaet at vide, at denne Forhøjelse vil ske, saa der vilde ikke blive Tale om Kommunehjælp.
+Indstillingen vedtoges.
+"	1943	9	30
+"179"	1943-09-30	"open"	"19430930_155.pdf"	16	"3_29-1943 og 3_25-1943 og 3_35-1943 og 3_36-1943 og 3_20-1943"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J.Nr.3_29-1943).Skovene.
+b.(J.Nr.3_25-1943).Mindeparken.
+c.(J.Nr.3_35-1943).Bygninger og Inventar.
+d.(J.Nr.3_36-1943).Byens Udvidelse og Bebyggelse.
+e.(J. Nr. 3_20-1943). Vejvæsenet.
+2.Behandling.
+Efterbevilling meddeltes.
+"	1943	9	30
+"180"	1943-09-30	"open"	"19430930_155.pdf"	16	"3_32-1943 og 3_31-1943 og 3_27-1943 og 3_21-1943 og 3_34-1943 og 3_24-1943 og 3_22-1943 og 3_23-1943 og 3_26-1943 og 3_30-1943"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J.Nr.3_32-1943).Byraadet.
+b.(J.Nr.3_31- 1943).Byraadskontoret.
+c.(J.Nr.3_27-1943).Begravelsesvæsenet.
+d.(J.Nr.3_21-1943).Kommunehospitalet.
+e.(J.Nr.3_34-1943).Kommunehospitalets Fjernvarmeanlæg.
+f.(J.Nr.3_24-1943).Marselisborg Hospital.
+g.(J.Nr.3_22- 1943).Aarhus Tuberkulosestation.
+h.(J.Nr.3_23-1943).Forebyggelse af Barselfebers Udbredelse.
+i.(J.Nr.3_26-1943).Vandværket,
+j.(J.Nr.3_30-1943).Slagtehuset.
+Overgik til 2. Behandling.
+"	1943	9	30
+"181"	1943-09-30	"open"	"19430930_155.pdf"	16	"22_8-1943 og 22_9-1943 og 11_32-1943 og 11_37-1943 og 11_31-1943 og 11_33-1943 og 11_34-1943 og 11_38-1943 og 11_36-1943 og 11_35-1943"	"Købekontrakter med:
+a.(J. Nr. 22_8-1943). Murermester M. B. Mortensen angaaende en Grund ved Jyllands Allé.
+"	1943	9	30
+"182"	1943-09-30	"open"	"19430930_155.pdf"	17	"22_8-1943 og 22_9-1943 og 11_32-1943 og 11_37-1943 og 11_31-1943 og 11_33-1943 og 11_34-1943 og 11_38-1943 og 11_36-1943 og 11_35-1943"	"b.(J. Nr. 22_9-1943). Fyrbøder E. M. Jacobsen
+angaaende en Grund ved Jyllands Allé.
+c.(J. Nr. 11_32-1943). Lærer T. Dahl Nielsen angaaende en Grund ved Hans Egedes Vej.
+d.(J. Nr. 11_37-1943). Lærer A. T. Nielsen an-
+gaaende en Grund ved Hans Egedes Vej.
+e.(J. Nr. 11_31-1943). Fuldmægtig Kjeld Sørensen angaaende en Grund ved Jens Munks Vej.
+f.(J. Nr. 11_33-1943). Blikkenslager Louis Jensen angaaende en Grund ved Nordvestpassagen.
+g.(J. Nr. 11_34-1943). Forretningfører Carl Toft
+angaaende en Grund ved Nordvestpassagen.
+h.(J. Nr. 11_38-1943). Maskinmester M. C. Petersen angaaende en Grund ved Nordvestpassagen.
+i.(J. Nr 11_36- 1943). Arbejdsmand Th. Jensen
+angaaende en Grund i Bygvangen, 
+j. (J. Nr. 11_35-1943). Pottemager F. F. Gabel angaaende en Grund ved Upsalagade. Godkendtes.
+"	1943	9	30

@@ -1,7 +1,7 @@
 ---
 title: "Lesson 04 - Policies & Significance"
 author: "Adela Sobotkova"
-date: "23 August 2019"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
@@ -142,3 +142,8 @@ Through detailed research and the application of consistent criteria, significan
 **"In assessing significance, power is wielded in constructing societal memory and identity. Collection custodians therefore have a responsibility to consult affected communities and to be hospitable to alternative views in recognition of the fact that significance decisions inevitably privilege some memories and marginalise or exclude others."**
 
 Beware, the decisions we make in creating collections can marginalise communities or silence voices. Significance assessment has to remain sensitive to its biases.
+
+
+<font color="blue">
+Original content on this site is licensed under a Creative Commons Attribution 4.0 International License.
+</font>

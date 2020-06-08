@@ -1,0 +1,894 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1941-06-06	"closed"	"19410606B_115.pdf"	1	"no related record"	"Mødet den 6. Juni 1941.
+(For lukkede Døre).
+Fraværende: H J. Baden, Kai Blicher, Thomas Christensen, H. P. Jensen, Hans Madsen, Sigvald Nielsen, Johs. Riber, E. Rolander, J. P. N. Siig og S. F. Sørensen.
+"	1941	6	6
+"2"	1941-06-06	"closed"	"19410606B_115.pdf"	1	"300_5-1941"	"Indenrigsministeriets Godkendelse af Kommunens Garanti for Laan til Boligindskud for Chauffør J. H. A. Didrichsen.
+Toges til Efterretning.
+"	1941	6	6
+"3"	1941-06-06	"closed"	"19410606B_115.pdf"	1	"300_6-1941"	"Indenrigsministeriets Godkendelse af Kommunens Garanti for Laan til Boligindskud for Bagersvend S. H. Jensen og Chauffør N. H. Andersen.
+Toges til Efterretning.
+"	1941	6	6
+"4"	1941-06-06	"closed"	"19410606B_115.pdf"	1	"341-1941"	"Indstilling angaaende Radioanlæg paa Kommunhospitalets Tuberkuloseafdeling.
+Sygehusudvalget indstiller at overdrage Leverancen til Aage Havemann for 5585,20 Kr.
+Vedtaget ved Cirkulation.
+"	1941	6	6
+"5"	1941-06-06	"closed"	"19410606B_115.pdf"	1	"342-1941"	"Indstilling angaaende Opførelse af nyt Kedelanlæg ved Marselisborg Hospital.
+"	1941	6	6
+"6"	1941-06-06	"closed"	"19410606B_115.pdf"	2	"342-1941"	"Fra Stadsingeniøren forelaa Overslag, hvorefter de Arbejder, som paatænkes udført i Aar, vil andrage ca. 400000 Kr., medens Kedler og Stockere ifølge Tilbud vil andrage 101394 Kr.
+Tiltraadt af Sygehusudvalget og Budgetudvalget.
+Borgmesteren bemærkede, at et nyt Kedelanlæg var mere økonomisk, hvilket havde Betydning under de nuværende Brændselsforhold. Man mente at kunne holde sig indenfor det Beløb, som var opført paa Budgettet i Aar, men ellers kunde man vel tiltræde det saaledes, at den eventuelle Merudgift maa optages paa næste Aars Budget.
+Vedtaget ved Cirkulation.
+"	1941	6	6
+"7"	1941-06-06	"closed"	"19410606B_115.pdf"	2	"347-1941"	"Indstilling angaaende Fastsættelse af Afgiften for Omnibusruten Harald Jensens Plads-Moesgaard Strand.
+Borgmesteren meddelte, at Sporvejsudvalget var enigt om at henstille til Brolægningsudvalget at faa en anden Ordning af denne Rute, saaledes at han stryger Turen fra Harald Jensens Plads til Sporvejsremisen, idet Kørselen var meget uregelmæssig paa Grund af Benzinmangel. Man foreslog derfor at udsætte Sagen og sende den tilbage til Brolægningsudvalget til fornyet Overvejelse.
+Borgmesterens Forslag tiltraadtes.
+"	1941	6	6
+"8"	1941-06-06	"closed"	"19410606B_115.pdf"	2	"265-1941"	"Andragende fra Prosektor F. Gregersen om Afsked paa Grund af Alder fra 1. Juni d. A.
+Fra Sygehusudvalget forelaa følgende Indstilling:
+\"Tilbagesendes Byraadet med Anbefaling, at Afskedsansøgningen bevilges. Man skal samtidig henstille, at Prosektor Gregersen anmodes
+"	1941	6	6
+"9"	1941-06-06	"closed"	"19410606B_115.pdf"	3	"265-1941"	"om at fortsætte i Stillingen, indtil hans Efterfølger kan tiltræde. Hvis det ærede Byraad gaar med dertil, foreslaas Lønningen ordnet saaledes, at der pr. 1. Juni d. A. udbetales Prosektor den ham tilkommende Pension samt et Beløb svarende til Forskellen mellem Pensionen og hans nuværende Løn.\"
+K. Mousten anbefalede Forslaget, da der vilde gaa en Tid, inden Stillingen blev besat. Man vidste heller ikke rigtig, hvorledes Forholdet kom til at ligge overfor Statsobducenten.
+Indstillingen vedtoges.
+"	1941	6	6
+"10"	1941-06-06	"closed"	"19410606B_115.pdf"	3	"41_17-1941"	"Indstilling angaaende Afholdelse af en folkelig Jubilæumskoncert i Aarhus-Hallen.
+Budgetudvalget indstiller, at Forslaget tiltrædes, saaledes at Byraadet garanterer for indtil 1000 Kr. af et eventuelt Underskud.
+Borgmesteren henviste til det foreliggende Program og Budget, der var udarbejdet af Kapelmester Ankerstjerne Bertelsen. Der var opført en Udgift paa ca. 2600 Kr. og en Indtægt paa ca. 4000 Kr., men det var vist tvivlsomt, at der kom saa meget ind.
+Indstillingen vedtoges.
+"	1941	6	6
+"11"	1941-06-06	"closed"	"19410606B_115.pdf"	3	"257-1941"	"Klage fra Mejeriejer J. Hou-mark over den ham tildelte Erstatning for Nedlæggelse af to Mælkeudsalg.
+Fra Mælkeudvalget forelaa følgende Skrivelse: \"Idet Udvalget tilbagesender Hr. J. Houmarks Skrivelse, skal man udtale, at Udvalget ikke finder Anledning til at ændre ved den ham tildelte Erstatning, da man finder, at Houmark er blevet behandlet godt ved Erstatningens Fastsættelse, idet den Erstatning, der er tildelt, svarer til den Erstatning, der er fastsat
+"	1941	6	6
+"12"	1941-06-06	"closed"	"19410606B_115.pdf"	4	"257-1941"	"for Trøjborg Mejeri, naar Hensyn tages til Forholdet mellem Omkostningerne de to nævnte Steder.\"
+Tiltraadtes.
+"	1941	6	6
+"13"	1941-06-06	"closed"	"19410606B_115.pdf"	4	"257-1941"	"Klage fra S. A. Sørensen over den ham tildelte Erstatning for Nedlæggelse af en Mælkeforretning i Steen Billesgade 6.
+Mælkeudvalget kan ikke tiltræde, at Erstatningen ændres, idet de i Skrivelsen anførte Oplysninger er taget i Betragtning ved Erstatningens Fastsættelse.
+Tiltraadtes.
+"	1941	6	6
+"14"	1941-06-06	"closed"	"19410606B_115.pdf"	4	"195-1941"	"Andragende fra Fru Diliane J. Jensen om Bevilling af fri Proces mod Aarhus Kommune i Anledning af paastaaet Beskadigelse ved Operation paa Kommunehospitalet
+Fra Sygehusudvalget forelaa følgende Erklæring:
+\"Tilbagesendes Aarhus Byraad, idet henvises til vedlagte Erklæring fra Overkirurg Professor Aage Nielsen.
+Kommunehospitalet har ansvarsforsikret i Schweizisk Ulykkesforsikring A/S., Police Nr. 229. Selskabet er underrettet.
+Krav om Erstatning har ikke været forelagt Hospitalet eller Forsikringsselskabet, før Ansøgning om fri Proces er indsendt, hvorfor Andragendet ikke kan anbefales.\"
+Kunde ikke anbefales.
+"	1941	6	6
+"15"	1941-06-06	"closed"	"19410606B_115.pdf"	4	"238-1941"	"Andragende fra Gartner V. Sørensen, Viby, om Bevilling af fri Proces mod Aarhus Kommune i Anledning af paastaaet Skade ved Oversvømmelse af Aarhus Aa, mens Aa-overdækningen var under Opførelse.
+Budgetudvalget kan ikke anbefale Andragendet
+Kunde ikke anbefales.
+"	1941	6	6
+"16"	1941-06-06	"closed"	"19410606B_115.pdf"	5	"339-1941"	"Indstilling fra Skoleudvalget om Tildeling af Studielaan.
+Følgende Indstilling forelaa:
+\"Idet man hoslagt fremsender 17 indkomne Ansøgninger om Andel i Aarhus Byraads Studielaan, skal man tillade sig at anbefale, at der paa de i Statutter for det af Aarhus Kommune oprettede Fond for Ydelse af Studielaan til Studerende ved Aarhus Universitet og andre Uddannelsesanstalter i Aarhus, Stk. 4 anførte Laanebetingelser ydes nedennævnte Ansøgere de ved hver anførte Laan for Skoleaaret 1941 -42:
+1)Seminarieelev Bent Andersen... 600 Kr.
+2)-Vagn Eilertzen. . ..400\"
+3)-Tage Hansen..........300\"
+4)-Carl Chr. Jensen.400\"
+5)stud.mag.Jørgen Jensen........... 600\"
+6)Seminarieelev Niels Jespersen. . . 400 \"
+7)stud.mag.Thorkil Jespersen... . 400\"
+8)stud.med.Aage Jørgensen.......... 400\"
+9)Seminarieelev Myrla Larsen..........400\"
+10)-Lis Aase Møller..400\"
+11)stud.mag.Hans Rahbek............. 600\"
+12)Seminarieelev Tove Simonsen... 600 \" Skoleudvalget har ikke ment at kunne anbefale, at der ydes Studielaan til de øvrige 5 Ansøgere: Seminarieelev Bent Jensen, Seminarielev Gudrun Møller, Hans Nielsen, Poul Vandel og Harbo Sølvsteen.
+Studiefondets disponible Beholdning udgør pr. 31/3 1941 Kr. 8532,00. Saafremt ovenstaaende Indstilling tiltrædes, vil der derved for 1941-42 være disponeret over Kr. 5500,00, men ved paaregnet fortsat Understøttelse til de paagældende vil der yderligere være disponeret over Kr. 9600,00.\"
+Tiltraadtes.
+"	1941	6	6
+"17"	1941-06-06	"closed"	"19410606B_115.pdf"	6	"20_1-1941"	"Indstilling fra Legatudvalget om Bortgivelse af en Portion af Tandtekniker Weiss’ Legat.
+Tildeltes Enke Johanne Marie Hansen med 200 Kr. aarlig.
+"	1941	6	6
+"18"	1941-06-06	"closed"	"19410606B_115.pdf"	6	"20_2-1941"	"Indstilling fra Legatudvalget om Tildeling af en Portion af Søstrene Bjergets Legat.
+Tildeltes Frk. Alitta Borum med 100 Kr. aarlig.
+"	1941	6	6
+"19"	1941-06-06	"closed"	"19410606B_115.pdf"	6	"8_3-1941"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat paa Grund af urigtig Selvangivelse.
+Kommissionen foreslaar følgende Efterbetalinger:
+Klinikbestyrerinde Enkefru E. M.
+Tang, Ringkøbingvej 4, ... 4750 Kr. 00 Ø. 
+Vognmand T. S. Kjær, Marselis-
+borg Allé9,............... 1115\" 00 \" .
+Sygepl. Frk. A. S. Andersen, Sct.
+Jørgensvej 3, Roskilde, tidl.:
+Kathrinebjerg, Trøjborgvej,
+her .........................900\"00\"
+Værkmester M. H. T. Thygesen,
+Thorvaldsensgade 19 .........860\"00\"
+Repræsentant P. B. Holst, Helle-
+rupvej 2.....................493\"50\"
+8118 Kr. 50 Ø.
+Tiltraadtes.
+"	1941	6	6
+"20"	1941-06-06	"closed"	"19410606B_115.pdf"	6	"353-1941"	"Indstilling fra Socialvæsenet om Ansættelse af Sundhedsplejersker.
+Følgende Skrivelse forelaa:
+\"Idet man fremsender Ansøgning fra Sundhedsplejerske Frk. Magda Ostenfeldt, født den
+2.Januar 1906, skal man herved meddele, at hun er antaget fra 1. Juni 1941 med Løn efter
+"	1941	6	6
+"21"	1941-06-06	"closed"	"19410606B_115.pdf"	7	"353-1941"	"Indenrigsministeriets Cirkulære af 25. Oktober 1938. Samtidig fremsendes Ansøgning fra Sundhedsplejerske Frk. Else Espersen, født den 21. Januar 1906, der er ansat som Sommerferievikar i 4 Maaneder med en maanedlig Løn af 250 Kr.
+Man skal anmode Byraadet om at indhente Indenrigsministeriets Godkendelse af ovenstaaende.\"
+Tiltraadtes.
+"	1941	6	6
+"22"	1941-06-06	"closed"	"19410606B_115.pdf"	7	"12_3-1941"	"Indstilling fra Socialudvalget om personligt Tillæg til Alders- og Invaliderente-nydere.
+Indstillingen vedtoges.
+"	1941	6	6
+"23"	1941-06-06	"closed"	"19410606B_115.pdf"	7	"16_3-1941"	"Indstilling fra Socialudvalget om Ydelse af Tillægshjælp efter Forsorgslovens § 293, Stk. 2.
+Udsattes, da der ikke var 2/3 af Medlemmerne til Stede.
+"	1941	6	6
+"24"	1941-06-06	"closed"	"19410606B_115.pdf"	7	"22_3-1941"	"Indstilling angaaende Salg af et Areal ved Hadsherredsvej.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Det indstilles, at det paagældende Areal paa 230 m2 sælges til Prokurist Torben Knudsen for en Pris af 11,50 Kr. pr. m2, saaledes at Købesummen eventuelt afvikles i Forbindelse med Købesummen for den Parcel, som Forespørgeren i Forvejen har købt af Kommunen, Matr. Nr. 1 sr af Markj. fra Marselisborg.\"
+Borgmesteren oplyste, at Jorden stødte op til den Grund, hvor der eventuelt skulde bygges Amtsmandsbolig, men da Grunden var stor nok, kunde der ikke ske noget derved.
+Godkendtes.
+"	1941	6	6
+"25"	1941-06-06	"open"	"19410606_51.pdf"	1	"no related record"	"Mødet den 6. Juni 1941.
+Fraværende: H. J. Baden, Kai Blicher, Thomas Christensen, H. P. Jensen, Hans Madsen, Sigvald Nielsen, Johs. Riber, E. Rolander, J. P. N. Siig og S. F. Sørensen.
+"	1941	6	6
+"26"	1941-06-06	"open"	"19410606_51.pdf"	1	"121-1941"	"Meddelelse fra Indenrigministeriet om, at Tilskudet til Bygningsistandsættelser er forhøjet med 291730 Kr.
+Toges til Efterretning.
+"	1941	6	6
+"27"	1941-06-06	"open"	"19410606_51.pdf"	1	"112_2-1941"	"Meddelelse fra Indenrigsministeriet om Udbetaling af Statslaan i 2. Afsnit af \"Ringgaarden.\"
+Toges til Efterretning.
+"	1941	6	6
+"28"	1941-06-06	"open"	"19410606_51.pdf"	1	"335-1941"	"Indenrigsministeriets Godkendelse af, at Sygehusudvalget indenfor en samlet Sum af 12500 Kr. antager Tilbud paa en Række Smaating til den neurologisk-neurokirurgiske Afdeling.
+Toges til Efterretning.
+"	1941	6	6
+"29"	1941-06-06	"open"	"19410606_51.pdf"	1	"287-1941"	"Indenrigsministeriets Godkendelse af Tilbud paa Levering af Senge og Madrasser til den neurologisk-neurokirurgiske Afdeling.
+Toges til Efterretning.
+"	1941	6	6
+"30"	1941-06-06	"open"	"19410606_51.pdf"	1	"235-1941"	"Indenrigsministeriets Godkendelse af Salg af et Areal ved Aaboulevarden 9 til Tømrermester Chr. N. Withen.
+Toges til Efterretning.
+"	1941	6	6
+"31"	1941-06-06	"open"	"19410606_51.pdf"	2	"22_1-1941"	"Indenrigsministeriets Godkendelse af Købekontrakt med Murer Chr. Iversen.
+Toges til Efterretning.
+"	1941	6	6
+"32"	1941-06-06	"open"	"19410606_51.pdf"	2	"22_2-1941"	"Indenrigsministeriets Godkendelse af Købekontrakt med S. Stephansen.
+Toges til Efterretning.
+"	1941	6	6
+"33"	1941-06-06	"open"	"19410606_51.pdf"	2	"293-1941"	"Indenrigsministeriets Godkendelse af Køb af Gartner S. Sørensens Ejendom Skovvangsvej 182.
+Toges til Efferretning.
+"	1941	6	6
+"34"	1941-06-06	"open"	"19410606_51.pdf"	2	"62-1941"	"Meddelelse fra Undervisningsministeriet om, at der er bevilget Lektor ved Marselisborg Skole Poul Jørgensen Afsked med Pension fra 31/7 1941.
+Toges til Efterretning.
+"	1941	6	6
+"35"	1941-06-06	"open"	"19410606_51.pdf"	2	"276-1941"	"Meddelelse fra Undervisningsministeriet om, at der er bevilget Lærer ved Aarhus kommunale Skolevæsen Peter Stenum Afsked med Pension fra 31/7 1941.
+Toges til Efterretning.
+"	1941	6	6
+"36"	1941-06-06	"open"	"19410606_51.pdf"	2	"25_2-1941"	"Meddelelse fra Overbevillingsnævnet om Fornyelse af Beværterbevilling for Hotel Royal.
+Toges til Efterretning.
+"	1941	6	6
+"37"	1941-06-06	"open"	"19410606_51.pdf"	2	"23_1-1941"	"Regnskab for Aarhus Museum for 1940-41.
+Toges til Efterretning.
+"	1941	6	6
+"38"	1941-06-06	"open"	"19410606_51.pdf"	2	"30_62-1940"	"Andragende fra Indehaveren af Omnibusruten Højbjerg-Sporvejsremisen om Tilladelse til at køre ind paa Rutebilstationen.
+Anbefalet af Brolægningsudvalget og Sporvejsudvalget.
+Bevilgedes.
+"	1941	6	6
+"39"	1941-06-06	"open"	"19410606_51.pdf"	2	"124-1941"	"Indstilling fra Budgetudvalget om Bevilling af 4000 Kr. til et Klubhus til Idrætsforeningen 
+"	1941	6	6
+"40"	1941-06-06	"open"	"19410606_51.pdf"	3	"124-1941"	"foreningen A. I. A. paa Træningsbanen ved Marselis Boulevard.
+Følgende indstilling forelaa:
+\"Det indstilles, at der bevilges et Beløb paa 4000 Kr. til Opførelse af det paagældende Klubhus under Forudsætning af, at Planer og Overslag godkendes af Stadsgartneren.
+Beløbet foreslaas afholdt af Kassebeholdningen og eventuelt optaget paa det kommende Aars Budget.\"
+Indstillingen vedtoges.
+"	1941	6	6
+"41"	1941-06-06	"open"	"19410606_51.pdf"	3	"361-1941"	"Andragende fra Chr. IX’s Børnehjem om Udbetaling af Tilskud.
+Det paa Konto 25 opførte Beløb paa 16000 Kr. bevilgedes til Udbetaling med 1/4 ved hvert Kvartals Slutning.
+"	1941	6	6
+"42"	1941-06-06	"open"	"19410606_51.pdf"	3	"42_11-1941"	"Andragende fra Konduktørerne ved det ny Raadhus om Dyrtidstillæg.
+Lønudvalget foreslaar, at der fra 1. April d. A. at regne udbetales Konduktørerne et Tillæg svarende til den Forhøjelse, der for indeværende Finansaar er bevilget Statens Honorarlønnede, nemlig 5 %.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1941	6	6
+"43"	1941-06-06	"open"	"19410606_51.pdf"	3	"159-1951"	"Andragende fra Samfundet og Hjemmet for Vanføre om Fritagelse for kommunale Ejendomsskatter af Ortopædisk Hospital.
+Budgetudvalget indstiller, at Hospitalet fritages for kommunal Grundskyld og Ejendomsskyld, mod at der af Ejendommen svares Dækningsafgift i Overensstemmelse med Kommunens Vedtægt for Opkrævning af Dækningsafgift i Henhold til Lov Nr. 83 af 31. Marts 1926.
+Indstillingen vedtoges.
+"	1941	6	6
+"44"	1941-06-06	"open"	"19410606_51.pdf"	4	"348-1941"	"Andragende tra L. A. B. om Godkendelse af Vedtægter for L. A. B.’s Feriehjem ved Fløjstrup m. v.
+Budgetudvalget indstiller, at Byraadet godkender Vedtægterne samt erklærer sig villigt til at overtage L. A. B.’s Funktioner overfor Feriehjemmet saafremt L. A. B. skulde ophøre at eksistere.
+Indstillingen vedtoges.
+"	1941	6	6
+"45"	1941-06-06	"open"	"19410606_51.pdf"	4	"312-1941"	"Andragende fra Akademisk Skytteforening, Aarhus Afd., om Tilskud til Istandsættelse af Foreningens Bygning.
+Budgetudvalget kan ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1941	6	6
+"46"	1941-06-06	"open"	"19410606_51.pdf"	4	"345-1941"	"Andragende fra H. Rosendahl om Tilskud til Idrætskursus i Sportslejrskolen i Hørhaven.
+Budgetudvalget kan ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1941	6	6
+"47"	1941-06-06	"open"	"19410606_51.pdf"	4	"394-1941"	"Andragende fra Belysningsudvalget om ekstra Bevilling af 215000 Kr. til Fjernopvarmningsanlæg.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Anbefales, idet ovennævnte Beløb, ca. 215000 Kr., foreslaas overført fra det til Anskaffelse af Sporvogne m. m. paa Anlægsbudgettet for indeværende Aar afsatte Beløb af 250000 Kr., der ikke kommer til Anvendelse i Aar.\"
+Borgmesteren oplyste, at der var kommet flere Andragender om Levering af Fjernvarme, f. Eks. til Aarhus Haandværkerforening, Kvindernes Hus, Skansen o. fl., og da det vilde spare
+"	1941	6	6
+"48"	1941-06-06	"open"	"19410606_51.pdf"	5	"394-1941"	"Brændsel, anbefalede Udvalget en Udvidelse. Da det laa udenfor Budgettet, foreslog man at overføre Beløbet fra Sporvejenes Konto. Der var ganske vist bestilt Sporvogne hos Skandia, men der vilde ikke komme nogen Udbetaling i Aar.
+Indstillingen vedtoges.
+"	1941	6	6
+"49"	1941-06-06	"open"	"19410606_51.pdf"	5	"334-1941"	"Indstilling fra Skoleudvalget om Udvidelse af Finsensgades Skole med en Gymnastiksal og 6 Klasseværelser.
+Følgende Indstilling forelaa:
+\"Man tillader sig hermed at fremsende Forslag til Udvidelse af Borgerskolen, Finsensgade, til Byraadets Godkendelse. Uvidelsen omfatter en Gymnastiksal og 6 Klasseværelser, hvilket er 3 Klasseværelser mere end i det med Skrivelse af 8/6 1939 til Byraadet fremsendte Forslag, men for det første er der stor Trang til Forøgelse af Klasseværelser, og for det andet kan disse Klasseværelser efter det udarbejdede Forslag anskaffes relativt billigt, ligesom det vil passe bedst med Skolens Organisation (2 Mellemskolerækker + 2 Borgerskolerækker i saavel Drenge- som Pigeskolen).
+Udgiften ved Forslagets Gennemførelse vil andrage:
+Arkitektarbejder...............Kr.288055,00
+Ingeniørarbejder...............\"103000,00
+Ialt...Kr.391055,00
+Man tillader sig at foreslaa, at Skoleudvalget faar Bemyndigelse til at lade Arbejdet udføre, saaledes at de 95000 Kr., der er opført paa Anlægsbudgettet for 1941-42, kommer til Udbetaling for dette Formaal i 1941-42 og Resten i 1942-43.
+For saa vidt Forslagettiltrædes, bedes
+Planerne fremsendt til Undervisningsministeriets
+"	1941	6	6
+"50"	1941-06-06	"open"	"19410606_51.pdf"	6	"334-1941"	"Godkendelse (Min. Cirk. 17/11 1937), idet man formentlig kan forvente Statstilskud i Henhold til Lov om Folkeskolen af 18/5 1937, § 63 til de i Forslaget indeholdte Anlæg, der skyldes Bestemmelserne i den ny Folkeskolelov. Man tillader sig at gøre opmærksom paa Lov af 31/10 1940 om Ændring af Folkeskoleloven af 18/s 1937, § 63 nyt Stk. 3: For Arbejder af den i Stk. 1 omhandlede Art, der er paabegyndt efter 1/11 1940, og som bliver fuldført inden 1/10 1942, forhøjes Tilskuddet til hele det til Forrentning og Afbetaling af det optagne Laan medgaaende aarlige Beløb inden for de i Stk. 1 angivne Størstebeløb.\"
+Anbefalet af Budgetudvalget.
+Borgmesteren bemærkede, at det var en Bevilling paa ca. 400000 Kr., og der var paa Aarsbudgettet kun opført ca. 95000 Kr. hertil; men da der næppe vilde komme mere til Udbetaling i indeværende Aar, havde Budgetudvalget anbefalet at paabegynde Arbejdet.
+Indstillingen vedtoges.
+"	1941	6	6
+"51"	1941-06-06	"open"	"19410606_51.pdf"	6	"148_3-1941"	"Andragende fra Aarhus Universitet om Tilskud til Opførelse af den projekterede Hovedbygning for Universitetet.
+Fra Universitetsbestyrelsens Formand, Landsretssagfører Holst Knudsen, forelaa følgende Skrivelse:
+\"Paa Universitetets Vegne tillader jeg mig herved ærbødigst at andrage Byraadet om Tilskud til Opførelse af Universitetets projekterede Hovedbygning paa 337000 Kr., svarende til Udgifterne ved Fundering og ekstra Fundering, beregnet indtil Overkanten af fremtidig Terræn.
+"	1941	6	6
+"52"	1941-06-06	"open"	"19410606_51.pdf"	7	"148_3-1941"	"Ifølge hoslagte Skrivelse fra Arkitekt Møller fremkommer Beløbet saaledes:
+3500 m3 Beton å 70 Kr........... 245000 Kr.
+Afstivning af Jord 3000 m2 á 8 Kr. 24000 \" Jordarbejde 6500 m3 á 6 Kr....39000\"
+Paafyldning.....................11000\"
+Kloak- og Drænarbejde...........18000\"
+Ialt. .. 337000 Kr.
+Under Forudsætning af, at dette Universitets ærbødige Andragende bevilges, vil jeg samtidig meddele Ministeriet, at det ansøgte Statstilskud vil kunne nedsættes med det tilsvarende Beløb til 2.663000 Kr.
+Som det fremgaar af Arkitekt Møllers Skrivelse, er man i Henhold til Bestemmelsen i Byraadets Gavebrev paa Grunden, hvorefter Byen skænker Grunden med nødvendige Gadeanlæg og Ledninger, gaaet ud fra, at Aarhus Kommune udfører Fjernvarmeledning, Gadearbejder, Anlæg af Forbindelsesveje i Parken mellem Studenterkollegierne og Instituttet for Fysik og Kemi, Parkanlæget med Jordregulering og Terrasser foran Hovedbygningen og beder jeg samtidig Byraadet erklære sig enig i at betale Udgifterne ved disse Gadearbejder m. v., idet jeg i saa Fald vil kunne meddele Ministeriet, at Byraadets samlede Tilskud til Hovedbygningen herefter vil andrage 427000 Kr.
+Jeg skal bemærke, at denne min Anmodning fremkommer paa Forslag af Finansministeren personlig, der udtalte, at han naturligvis ikke kunde give noget Løfte om, at Statstilskudet vilde kunne blive bevilget, men at han mente, at Sagen vilde blive væsentlig fremmet,
+"	1941	6	6
+"53"	1941-06-06	"open"	"19410606_51.pdf"	8	"148_3-1941"	"hvis Byraadet vilde vedtage dette Forslag fra Ministerens Side.
+Det er naturligvis en Forudsætning for Byraadets Tilskud, at Ministeriet derefter bevilger 2.663000 Kr. til Hovedbygningens Opførelse.\"
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Det indstilles, at man som Tilskud til Universitetets projekterede Hovedbygning udfører den i Skrivelsen nærmere ommeldte Fundering og ekstra Fundering til et Beløb af 337000 Kr. samt udfører Gadearbejder, Anlæg af Forbindelsesveje i Parken mellem Studenterkollegierne og Instituttet for Fysik og Kemi og Parkanlæget med Jordregulering og Terrasser foran Hovedbygningen, saaledes at Byraadets samlede Tilskud til Hovedbygningen herefter vil andrage 427000 Kr.\"
+Borgmesteren meddelte, at der var ført flere Forhandlinger med Ministeriet om Bevilling af ca. 3 Mill. Kr. til Bygningen, og paa et vist Tidspunkt havde man egentlig opgivet det, især fordi det blev vanskeligt at skaffe Jern. Men efterhaanden som Forhandlingerne var skredet frem og særlig efter Formandens sidste Forhandling med Ministeren var der maaske Mulighed for en Bevilling, hvis Kommunen vilde gøre det første Skridt. Taleren vilde anbefale at tiltræde Forslaget under Forudsætning af, at Staten yder Resten, saa var der maaske Mulighed for, at Byen faar dette Byggeforetagende til Erstatning for de tidligere projekterede, som ikke blev til noget.
+Indstillingen vedtoges.
+"	1941	6	6
+"54"	1941-06-06	"open"	"19410606_51.pdf"	8	"226-1941"	"Andragende fra Aarhus Journalistforening om Tilladelse til Forlystelsespark paa Aaboulevarden i Rundskuedagene.
+"	1941	6	6
+"55"	1941-06-06	"open"	"19410606_51.pdf"	9	"226-1941"	"Budgetudvalget kan anbefale Andragendet saaledes, at der kun gives Tilladelse til Forlystelsespark den 4., 5. og 6. Juli d. A.
+Brolægningsudvalget anbefaler at give Tilladelsen de nævnte 3 Dage paa Betingelse, at Rundskuekomitéen refunderer Kommunen enhver Udgift foranlediget ved Opstillingen.
+Borgmesteren oplyste, at der var søgt om 6 Dage fra den 28. Juni, men Udvalget kunde ikke anbefale mere end 3 Dage. Det var heller ikke rimeligt at lave Rundskue i selve Jubilæumsdagene.
+Indstillingen vedtoges.
+"	1941	6	6
+"56"	1941-06-06	"open"	"19410606_51.pdf"	9	"344-1941"	"Indstilling fra Brolægningsudvalget angaaende Renovation i de Ejendomme, der ikke har installeret Vandklosetter.
+Følgende Indstilling forelaa:
+\"Da der for Tiden findes ca. 67 Ejendomme, som ikke har faaet installeret Vandklosetter, og som det af Hensyn til Forholdene vil være vanskeligt at faa gennemført, skal Udvalget anaefale, at Sundhedskommissionens Forslag om \"Horsens-Systemet\" s Indførelse for de tilbageværende Retirader i Kommunen tiltrædes, og at Brolægningsudvalget fra 1. Oktober d. A. overtager Renovationens Udførelse i Forbindelse med Dagrenovationen.
+Kommunens Renovationsentreprenør, Vognmand H. Christoffersen tillægger, vedligeholder og renholder de nye Beholdere uden Udgift for Grundejerne eller Kommunen. Afgiften fastsættes til 20 Kr. pr. Aar pr. Beholder. (Den nuværende Afgift er 16 Kr. pr. Aar, Vandkloset 12 Kr. pr. Aar Vandafgift).
+Afgiften vil blive opkrævet i Forbindelse med Dagrenovationsafgiften.\"
+"	1941	6	6
+"57"	1941-06-06	"open"	"19410606_51.pdf"	10	"344-1941"	"J. R. Fanger anbefalede Forslaget, som gik ud paa at indføre lukkede Spande, saa det kan køres bort om Dagen. Afgiften forhøjedes samtidig fra 16 Kr. til 20 Kr.
+Borgmesteren bemærkede, at en Del af disse Ejendomme skulde saneres, og man var saa ikke interesseret i at fordyre dem ved Indlæg af W.C. Naar det blev lukkede Spande, kunde det antagelig forenes med Sundhedsvedtægten.
+Indstillingen vedtoges.
+"	1941	6	6
+"58"	1941-06-06	"open"	"19410606_51.pdf"	10	"393-1941"	"Indstilling fra Skoleudvalget angaaende Skoleelevers Fribefordring paa Statsbaner og Privatbaner.
+Følgende Indstilling forelaa:
+\"Idet man forudsætter, at den i Undervisningsministeriets Bekendtgørelse af 9. Maj 1938, Afsnit I, omhandlede Adgang for skolesøgende Børn til Fribefordring paa Statsbanerne og Privatbanerne ogsaa bliver gældende for indeværende Sommer, tillader man sig herved at henstille, at Byraadet i Lighed med foregaaende Aar stiller det i forannævnte Bekendtgørelse § 2, Stk. 2, omhandlede Beløb af 10 % af Billetprisen til Raadighed, samt at der gives Adgang til Fribefordring for alle i Kommunen bosiddende Skoleelever (saavel Kommuneskolernes som Stats- og Privatskolernes Elever), naar de opfylder de i nævnte Bekendtgørelse stillede Betingelser.\"
+Indstillingen vedtoges.
+"	1941	6	6
+"59"	1941-06-06	"open"	"19410606_51.pdf"	10	"380-1941"	"Indstilling angaaende Færdiggørelse af Stadion og Cyklebanen ved almindelig Arbejdskraft i Stedet for ved Ungdomsarbejdere.
+Fra Stadsingeniøren forelaa følgende Indstilling:
+"	1941	6	6
+"60"	1941-06-06	"open"	"19410606_51.pdf"	11	"380-1941"	"\"Da alt Ungdomsarbejde udenfor Statslejrene er ophørt fra 1. April, og Arbejdet ved Stadion med Færdiggørelse af Fodboldbane Haandboldbane, Kastegaard og Adgangsveje, med Forplads til disse og til Cyklebanen ikke kom til Udførelse paa Grund af den haarde Vinter inden Fristens Udløb, skal jeg foreslaa, at dette Arbejde nu færdiggøres med almindelige Arbejdere. At søge det udført som Nødhjælpsarbejde vil dels tage Tid, dels rimeligvis blive lige saa dyrt, fordi Tilskudet kun kan blive meget ringe.
+Af Kommunens Tilskud til Ungdomsarbejdet (Cyklebanen) indtil 31. December 1940 resterer 2400 Kr. og i Byraadsmødet den 5. December 1940 blev til ovennævnte Arbejder bevilget 14000 Kr. hvilket vilde være tilstrækkeligt, da Statstilskudet dækkede næsten al Arbejdsløn til Ungdomsarbejderne.
+Overslaget over hele Arbejdet efter de forhøjede Priser udgør 35000 Kr. Med normal Arbejdskraft kan det reduceres til 30000 Kr. og heraf falder endnu paa Cyklebanen ca. 3000 Kr. og 2000 paa Stadion for Trin paa Tilskuerpladser, saaledes at der skal anvendes 25000 Kr.
+Udgiften til dette Arbejde var opført under Ungdomsarbejde med 25000 Kr. paa Brolægningsudvalgets Budgetforslag, men Summen er blevet nedskaaret til 10000 Kr. Jeg skal da foreslaa, at Arbejdet udføres ved Kommunens Foranstaltning med almindelig Arbejdskraft og at Konto Nr. 1836 forhøjes fra 10000 til de oprindelige 25000 Kr.\"
+Fra Budgetudvalget forelaa følgende Indstilling:
+"	1941	6	6
+"61"	1941-06-06	"open"	"19410606_51.pdf"	12	"380-1941"	"\"Foranstaaende Forslag om, at det nævnte Arbejde udføres ved Kommunens Foranstaltning med almindelig Arbejdskraft, og at Konto XIV
+3.c. Nr. 1836 forhøjes fra 10000 Kr. til de oprindelige 25000 Kr. tiltrædes og indstilles til Byraadets Vedtagelse.\"
+Borgmesteren anbefalede, Forslaget. Det drejede sig om en Forøgelse af Budgettet paa 15000 Kr. og hvis Beløbet ikke kunde dækkes paa Budgettet, maatte det overvejes, om det skal opføres paa næste Aars Budget.
+Indstillingen vedtoges.
+"	1941	6	6
+"62"	1941-06-06	"open"	"19410606_51.pdf"	12	"392-1941"	"Overenskomst angaaende Betaling for epidemiske Patienter fra Aarhus Amtsraadskreds paa Marselisborg Hospital.
+Fra Sygehusudvalget forelaa følgende Forslag: OVERENSKOMST For Behandling af epidemiske Patienter fra Aarhus Amtsraadskreds paa Marselisborg Hospital betales af Aarhus Amtskommune Marselisborg Hospitals Gennemsnitsudgift pr. Sygedag (heri ikke indbefattet Udgifter til Forrentning og Afdrag paa Laan til Sygehuset) med Fradrag af 25 %, dog saaledes at det Beløb, der vil være at udrede af Amtsfonden, ikke kan overstige 85 % af Gennemsnitsudgiften pr. Sygedag for Amtssygehuset i Aarhus (heri ikke indbefattet Forrentning og Afdrag paa Laan til Sygehuset). Opgørelse finder Sted paa samme regnskabsmæssige Grundlag som hidtil, og Afregning mellem Købstaden og Amtskommunen finder Sted efter Udløbet af hvert Kvartal, idet det foregaaende Regnskabsaars Gennemsnitsudgift pr. Sygedag foreløbig danner Grundlaget for Beregningen, saaledes at endelig Regulering finder Sted, naar Oplysning 
+"	1941	6	6
+"63"	1941-06-06	"open"	"19410606_51.pdf"	13	"392-1941"	"lysning om den endelige Gennemsnitsudgift pr. Sygedag i det paagældende Regnskabsaar foreligger.
+Transporten af Patienterne besørges af Amtssygehuset.
+Overenskomsten træder i Kraft den 1. Oktober d. A. og kan fra hver Side opsiges med 6 Maaneders Varsel.\"
+K. M o u s t e n oplyste, at hvis man skulde fortsætte med den nuværende Overenskomst, vilde Amtet komme over det Beløb, som udenbys Patienter betaler, og det fandt de var urimeligt. Sygehusudvalget var derfor gaaet med til en Ordning, hvorefter Taksten blev sat noget ned, og Kommunen kunde nok være tjent dermed, da det kun drejede sig om om 6 % af Patienterne.
+Borgmesteren mente, at Kommunen burde have haft noget mere. Det var i hvert Fald en god Forretning for Amtet, men Kommunen havde jo altid stillet sig velvillig overfor Amtet, ikke mindst Sygehusudvalget.
+Overenskomsten tiltraadtes.
+"	1941	6	6
+"64"	1941-06-26	"closed"	"19410626B_123.pdf"	1	"no related record"	"Mødet den 26. Juni 1941.
+(For lukkede Døre).
+Fraværende: Esther Aggebo, Kai Blicher, Thomas Christensen, K. Mousten, Chr. Nielsen, Sigvald Nielsen og I. C. Sørensen.
+"	1941	6	26
+"65"	1941-06-26	"closed"	"19410626B_123.pdf"	1	"121-1941"	"Andragender om Tilskud til Bygningsistandsættelser i Henhold til Lov af 31. Oktober 1940.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Meddelelse:
+Bevilgede Andragender.
+Jyllands Papir Værk A/S, Willemoesgade 15, samlet Udgift 12185 Kr - Tilskud 4265 Kr.
+Kreditforeningsdirektør N. M. Bak, Heibergsgade 28, samlet Udgift 2100 Kr. - Tilskud 735 Kr.
+Statslods P. Olsen, Kystvejen 21, samlet Udgift 2724 Kr. - Tilskud 955 Kr.
+Direktør E. Poulsen, Teglværksgade 14, samlet Udgift 829 Kr. - Tilskud 290 Kr.
+Isenkræmmer W. Knudsen, Sølystgade 21, samlet Udgift 380 Kr. - Tilskud 135 Kr.
+Tømrerm. P. A. Sørensen, Tordenskjoldsgade 19, samlet Udgift 1877 Kr. - Tilskud 655 Kr.
+Murerm. Harry Kudahl Jensen, Sdr. Ringgade 11, samlet Udgift 1250 Kr. - Tilskud 440 Kr.
+"	1941	6	26
+"66"	1941-06-26	"closed"	"19410626B_123.pdf"	2	"121-1941"	"Direktør Kai Blicher, Marselisvej 21, samlet Udgift 400 Kr. - Tilskud 140 Kr.
+Kobbersmedem. J. R. Jørgensen, Annagade 7-9, samlet Udgift 2093 Kr. - Tilskud 735 Kr.
+stud. jur. Ingolf Christiansen, I. Huitfeldsgade 63, samlet Udgift 1118 Kr. - Tilskud 390 Kr.
+Maskinfabrikken A/S Frichs, Østergade 3 a, samlet Udgift 870 Kr. - Tilskud 305 Kr.
+Fru Laura Reimers, Fredensgade 39, samlet Udgift 2331 Kr. - Tilskud 815 Kr.
+Købmand H. Bergmann, Nørrebrogade 24-26, samlet Udgift 900 Kr. - Tilskud 315 Kr.
+Husejer O. Jensen, Ole Rømersgade 7, samlet Udgift 485 Kr. - Tilskud 170 Kr.
+Samme, Fr. Allé 111, samlet Udgift 1156 Kr. - Tilskud 405 Kr.
+Enkefru Mary Jensen, Bruunsgade 42, samlet Udgift 551 Kr. - Tilskud 195 Kr.
+Overass. C. M. Larsen, Heibergsgade 1 a, samlet Udgift 338 Kr. - Tilskud 120 Kr.
+Malerm. R. J. Staalby, Fr. Allé 75 og 77, samlet Udgift 3358 Kr. - Tilskud 1175 Kr.
+Enkefru Else Stampe, Marselis Boulevard 39, samlet Udgift 265 Kr. - Tilskud 95 Kr.
+Enkefru Paula Haugaard, Janus la Coursgade
+10,samlet Udgift 677 Kr. - Tilskud 235 Kr.
+Samme, Saltholmsgade 11, samlet Udgift 361 Kr. - Tilskud 125 Kr.
+Samme, Vestergade 81, samlet Udgift 4626 Kr. - Tilskud 1620 Kr.
+Ingeniør Svend Thuesen, Marstrandsgade 26, samlet Udgift 608 Kr. - Tilskud 215 Kr.
+Samme, St. Billestorv 18, samlet Udgift 604 Kr. - Tilskud 210 Kr.
+"	1941	6	26
+"67"	1941-06-26	"closed"	"19410626B_123.pdf"	3	"121-1941"	"Husejerske Johanne Pihlkjær,Tordenskjoldsgade 20, samlet Udgift 850 Kr. - Tilskud 300 Kr.
+fhv. Skibsfører H. Kjær, Montanagade 66, samlet Udgift 871 Kr. - Tilskud 305 Kr.
+Vognmand L. Glass, Fredenstorv 10, samlet Udgift 1110 Kr. - Tilskud 390 Kr.
+Fabr. Jul. A. Jørgensen, Guldsmedgade 36, samlet Udgift 2240 Kr. - Tilskud 785 Kr.
+Direktør Flemming Jørgensen, Absalonsgade 49, samlet Udgift 2550 Kr. - Tilskud 895 Kr.
+Adolf Andersen, Silkeborgvej 188-190-192-194-196, samlet Udgift 2500 Kr. - Tilskud 875 Kr.
+Tømrerm. A. Andersen, Silkeborgvej 190, samlet Udgift 1165 Kr. - Tilskud 410 Kr.
+Samme, Silkeborgvej 192, samlet Udgift 1165 Kr. - Tilskud 410 Kr.
+Samme, Silkeborgvej 188, samlet Udgift 1165 Kr. - Tilskud 410 Kr.
+Tømrer S. B. Jensen, Sjællandsgade 91, samlet Udgift 455 Kr. - Tilskud 160 Kr.
+Direktør Svend Fogh, Ordrupvej 24, samlet Udgift 1675 Kr. - Tilskud 585 Kr.
+Petra Ripa, Dalgas Avenue 44, samlet Udgift 800 Kr. - Tilskud 280 Kr.
+Boghdl. Victor Hansen, Ordrupvej 28, samlet Udgift 557 Kr. - Tilskud 195 Kr.
+Betaniaforeningen, Skovvangsvej, samlet Udgift 504 Kr. - Tilskud 175 Kr.
+Ekspedient O. Heims, Arendalsvej 7, samlet Udgift 136 Kr. - Tilskud 50 Kr.
+fhv. Konstruktør N. C. Rasmussen, Michael-sensgade 8, samlet Udgift 583 Kr. - Tilskud 205 Kr.
+"	1941	6	26
+"68"	1941-06-26	"closed"	"19410626B_123.pdf"	4	"121-1941"	"Aarhus Kommune, Finsensgade 12, samlet Udgift 800 Kr. - Tilskud 280 Kr.
+Chauffør V. Mikkelsen, Sølystgade 54, samlet Udgift 862 Kr. - Tilskud 300 Kr.
+Slagterm. Folmer Boye Nielsen, Jægergaardsgade 84, samlet Udgift 1610 Kr. - Tilskud 565 Kr.
+Disponent H. Poulsen, Otto Rudsgade 5, samlet Udgift 1396 Kr. - Tilskud 490 Kr.
+Købmand A. Wilhelmsen, Nørreport 5, samlet Udgift 776 Kr. - Tilskud 270 Kr.
+Fru C. Stjer, Valdemarsgade 19-21, samlet Udgift 1598 Kr. - Tilskud 560 Kr.
+Maskinarb. V. J. Nielsen, Godthaabsgade 10,samlet Udgift 548 Kr. - Tilskud 190 Kr.
+Gas- og Vandm. Johs. Loft, de Mezasvej 18, samlet Udgift 976 Kr. - Tilskud 340 Kr.
+Kontorist Joh. Christensen, Viborgvej 4, samlet Udgift 607 Kr. - Tilskud 210 Kr.
+Kommunelærer J. P. Henriksen, Tordenskjoldsgade 21, samlet Udgift 881 Kr. - Tilskud 310 Kr.
+Malerm. P. Sørensen m. fl., Stadion Allé 34, samlet Udgift 753 Kr. - Tilskud 265 Kr.
+Samme, Stadion Allé 36, samlet Udgift 1306 Kr. - Tilskud 455 Kr.
+Tømrerm. N. Gravesen, Sdr. Ringgade 81, samlet Udgift 864 Kr. - Tilskud 300 Kr.
+Husejer Joh. Kjærulf Jensen, Mejlgade 51, samlet Udgift 683 Kr. - Tilskud 240 Kr.
+Gasværksarb. L. V. Lauersen, Sjællandsgade 6-8, samlet Udgift 2037 Kr. - Tilskud 715 Kr.
+Tømrerm. N. J. Olsen, m. fl., Langelandsgade 199 og 201, samlet Udgift 560 Kr. - Tilskud 195 Kr.
+"	1941	6	26
+"69"	1941-06-26	"closed"	"19410626B_123.pdf"	5	"121-1941"	"Tegnerske Frk. P. N. Clausen, Bulowsgade 12,samlet Udgift 620 Kr. - Tilskud 215 Kr.
+Aarhus ny Tømmergaard A/S, Dr. Margrethesvej 25, samlet Udgift 6600 Kr. - Tilskud 2310 Kr.
+K. F. U. M.s Centralforening, Klostergade 37, samlet Udgift 3969 Kr. - Tilskud 1390 Kr.
+Dagmar Jespersen, Sct. Paulsgade 18, samlet Udgift 326 Kr. - Tilskud 115 Kr.
+fhv. Husejer N. K. Nikolajsen, de Mezasvej 24, samlet Udgift 578 Kr. - Tilskud 200 Kr.
+Maskinass. Ferd. Jacobsen, Kirkegaardsvej 11, samlet Udgift 340 Kr. - Tilskud 120 Kr.
+Repræsentant Johs. Vosmar, Gentoftevej 16, samlet Udgift 250 Kr. - Tilskud 90 Kr.
+Enkefru K. Hedver, Sønder Allé 40, samlet Udgift 1476 Kr. - Tilskud 515 Kr.
+Revisor H. C. Hedver, Faaborggade 23, samlet Udgift 521 Kr. - Tilskud 180 Kr.
+Bogholderske Anna Hedver, Faaborggade 21, samlet Udgift 322 Kr. - Tilskud 115 Kr.
+Musiker J. Willy Aa. Paulsen, Mylius Erichsensvej 16, samlet Udgift 350 Kr. - Tilskud 125 Kr.
+Cecilie Christiansen, Odensegade 43, samlet Udgift 531 Kr. - Tilskud 185 Kr.
+Tømrerformand N. Knudsen, Frederiksgade 74, samlet Udgift 3507 Kr. - Tilskud 1225 Kr.
+Aarhus Fragtmandscentral, Mindet 16, samlet Udgift 2344 Kr. - Tilskud 820 Kr.
+Direktør Axel Jahn Neerlin, Skovbrynet 26, samlet Udgift 2651 Kr. - Tilskud 930 Kr.
+Murerm. Chr. Jensen Rasmussen, Aalborggade 19, samlet Udgift 2600 Kr. - Tilskud 910 Kr.
+"	1941	6	26
+"70"	1941-06-26	"closed"	"19410626B_123.pdf"	6	"121-1941"	"Samme, Aalborggade 26, samlet Udgift 540 Kr. - Tilskud 190 Kr.
+Andelsselskabet Gudenaacentralen, Viborgvej, samlet Udgift 1842 Kr. - Tilskud 645 Kr.
+Maskinfabr. A. Amstrup, Dr. Margrethesvej 79, samlet Udgift 1080 Kr. - Tilskud 380 Kr.
+Michael Hassing, Rosenkrantzgade 17, samlet Udgift 3750 Kr. - Tilskud 1315 Kr.
+Astrid Jensen, Faaborggade 10, samlet Udgift 659 Kr. - Tilskud 230 Kr.
+Kulhdl. J. J. Drotner, Grønnegade 43, samlet Udgift 1226 Kr. - Tilskud 430 Kr.
+Remissearb. P. Bach Sørensen, Hjortensgade 20, samlet Udgift 705 Kr. - Tilskud 245 Kr.
+Aarhus Haandværkerforening, Borggade 10-12-14, samlet Udgift 4680 Kr. - Tilskud 1640 Kr.
+Samme, Paradisgade 5-7, samlet Udgift 1600 Kr. - Tilskud 560 Kr.
+Væverske Elsa Andersen, Ndr. Ringgade 92, samlet Udgift 345 Kr. -- Tilskud 120 Kr.
+Bagerm. Trier Hansen, Tordenskjoldsgade 40, samlet Udgift 5753 Kr. - Tilskud 2015 Kr.
+Grosserer Carl Christensen, Silkeborgvej 39, samlet Udgift 625 Kr. - Tilskud 220 Kr.
+Partikulier Emil Nielsen, H. Pontoppidansgade 18, samlet Udgift 650 Kr. - Tilskud 230 Kr.
+Samme, Pontoppidansgade 20, samlet Udgift 650 Kr. - Tilskud 230 Kr.
+Aarhus Sømandshjem, Havnegade 20, samlet Udgift 770 Kr. - Tilskud 270 Kr.
+Boghl. Anders Andersen, Studsgade 8-10, samlet Udgift 460 Kr. - Tilskud 160 Kr.
+"	1941	6	26
+"71"	1941-06-26	"closed"	"19410626B_123.pdf"	7	"121-1941"	"Maskinfabr. Willy Johannsen, Grønnegade 50,samlet Udgift 1742 Kr. - Tilskud 610 Kr.
+A/S Aarhuus Privatbank, Bruunsgade 36, samlet Udgift 7715 Kr. - Tilskud 2700 Kr.
+Overass. F. Frederiksen, Teglværksgade 20, samlet Udgift 650 Kr. - Tilskud 230 Kr.
+Jernbanefunktionærernes Brugsforening, Sct. Paulsgade 21, samlet Udgift 4725 Kr. - Tilskud 1655 Kr.
+Begravelseskassen \"Aarhus\", Østergade 28-
+30,samlet Udgift 2750 Kr. - Tilskud 965 Kr.
+Samme, Østergade 28-30, samlet Udgift 975 Kr. - Tilskud 340 Kr.
+A/S De foren, jydske Farverier og Trikotagefabr., Dollerupvej 2, samlet Udgift 16832 Kr. - Tilskud 5890 Kr.
+Fabr. S. C. M. Christensen, Jægergaardsgade 48-50, samlet Udgift 938 Kr. - Tilskud 330 Kr.
+Købmand M. D. Harder, Studsgade 41, samlet Udgift 2300 Kr. - Tilskud 805 Kr.
+Stenhugger A. H. Kofoed, H. Drachmannsvej 5, samlet Udgift 375 Kr. - Tilskud 130 Kr.
+Kristian Kirks Telefonfabrikker A/S, Kystvejen 63, samlet Udgift 6822 Kr. - Tilskud 2390 Kr.
+Samme, Ryesgade 18, samlet Udgift 308 Kr. - Tilskud 110 Kr.
+Direktør L. N. Wimmelmann, Heibergsgade 11,samlet Udgift 675 Kr. - Tilskud 235 Kr.
+Murerm. K. Aasted Sørensen, Sct. Paulsgade 7, samlet Udgift 2800 Kr. - Tilskud 980 Kr.
+Skorstensfejerm. Arnold Nielsen, Valbyvej 7, samlet Udgift 790 Kr. - Tilskud 275 Kr.
+"	1941	6	26
+"72"	1941-06-26	"closed"	"19410626B_123.pdf"	8	"121-1941"	"Bagerm. Hans Taul, Ndr. Ringgade 88, samlet Udgift 1385 Kr. - Tilskud 485 Kr.
+Direktør E. Nymark, Oddervej 10, samlet Udgift 1588 Kr. - Tilskud 555 Kr.
+Overkelner Wilhelm Rasmussen, Stadion Allé 30, samlet Udgift 1811 Kr. - Tilskud 635 Kr.
+Snedkerm. M. J. Hinge, Jægergaardsgade 58 b og 60, samlet Udgift 1231 Kr. Tilskud 430 Kr.
+Læderhdl. P. C. Aggersbjerg, Hans Brogesgade 15, samlet Udgift 1340 Kr. - Tilskud 470 Kr.
+Snedkerm. Hans Chr. Hansen, Nørreport 27, samlet Udgift 800 Kr. - Tilskud 280 Kr.
+Murerm. Niels Christensen, Sct. Paulsgade 7a, samlet Udgift 512 Kr. - Tilskud 180 Kr.
+Malernes coop. Forretning, Amaliegade 5, samlet Udgift 665 Kr. - Tilskud 235 Kr.
+Enke P. Lyngsdal, Randersvej 102, samlet Udgift 1130 Kr. - Tilskud 395 Kr.
+Konstruktør Aksel Sørensen, Marselisborg Allé 33, samlet Udgift 1004 Kr. - Tilskud 350 Kr.
+Ane Johanne Madsen, Ole Rømersgade 5, samlet Udgift 1670 Kr. - Tilskud 585 Kr.
+Kørelærer M. G. Rasmussen, Vestergade 45, samlet Udgift 620 Kr. - Tilskud 215 Kr.
+Skotøjsfabr. A. Juncher-Høeg, Vesterbrogade 32, samlet Udgift 2248 Kr. - Tilskud 785 Kr.
+Civilingeniør M. V. Brøndum, Skovvejen 69, samlet Udgift 2604 Kr. - Tilskud 910 Kr.
+Grosserer Svend Aage Hansen, Skovvejen 127, samlet Udgift 555 Kr. - Tilskud 195 Kr.
+"	1941	6	26
+"73"	1941-06-26	"closed"	"19410626B_123.pdf"	9	"121-1941"	"Peter Kaae, Skovgaardsgade 2 a, samlet Udgift 489 Kr. - Tilskud 170 Kr.
+Købmand Peder Andersen Lose, H. Guldbergsgade 133, samlet Udgift 1248 Kr. - Tilskud 435 Kr.
+Frk. Edle Haugaard, Horsensgade 5, samlet Udgift 313 Kr. - Tilskud 110 Kr.
+Fru Margrethe Albeck, Ndr. Ringgade 106, samlet Udgift 160 Kr. - Tilskud 55 Kr.
+Fabr. A. P. Baunsgaard, Nørreport 26, samlet Udgift 8200 Kr. - Tilskud 2870 Kr.
+Bagerm. Frode Johansen, Mylius Erichsensvej 11, samlet Udgift 227 Kr. - Tilskud 80 Kr.
+Fru Hedvig Riis Knudsen, Lollandsgade 68, samlet Udgift 290 Kr. - Tilskud 100 Kr.
+Fabr. Johs. Elbæk, Aalborggade 3, samlet Udgift 300 Kr. - Tilskud 105 Kr.
+Fru C. S. E. Mentzel, Søndergade 45, samlet Udgift 408 Kr. - Tilskud 145 Kr.
+Sadelmagerm. A. M. Frislev, Frederiksgade 25, samlet Udgift 1154 Kr. - Tilskud 405 Kr.
+Bryggeriarb. I. E. Madsen, Samsøgade 79, samlet Udgift 626 Kr. - Tilskud 220 Kr.
+Fru Mary Kyster, Silkeborgvej 194, samlet Udgift 1109 Kr. - Tilskud 390 Kr.
+Samme, Silkeborgvej 196, samlet Udgift 1109 Kr. - Tilskud 390 Kr.
+Fabr. Laue J. Kyster, Rosensgade 36, samlet Udgift 996 Kr. - Tilskud 350 Kr.
+Fru Oline Andersen, Rosenkrantzgade 19, samlet Udgift 700 Kr. - Tilskud 245 Kr.
+Købmand N. P. Petersen, Jerichausgade 17, samlet Udgift 216 Kr. - Tilskud 75 Kr.
+Enkefru L. Rasmussen, St. Torv 9, samlet Udgift 955 Kr. - Tilskud 335 Kr.
+"	1941	6	26
+"74"	1941-06-26	"closed"	"19410626B_123.pdf"	10	"121-1941"	"Maskinarb. Hjalmar Fabritius, Otto Sverdrupsvej 10, samlet Udgift 545 Kr. - Tilskud 190 Kr.
+Husejer Alfred Pedersen, Chr. Wærumsgade 22, samlet Udgift 845 Kr. - Tilskud 295 Kr.
+Detailhdl. E. Jensen, Knudrisgade 9, samlet Udgift 195 Kr. - Tilskud 70 Kr.
+Bogholder Søren Christensen, Høgevej 11, samlet Udgift 1124 Kr. - Tilskud 395 Kr.
+Betaniaforeningens Diakonisse og Plejehjem, Hjarnøgade 3-5, samlet Udgift 1153 Kr. Tilskud 405 Kr.
+Samme, Skovvangsvej, Villa \"Abner\", samlet Udgift 714 Kr - Tilskud 250 Kr.
+Fru Merry Breinholm, Ørumsgade 16, samlet Udgift 199 Kr. - Tilskud 70 Kr.
+I.C. Bartels Arvinger, Aaboulevarden 46, samlet Udgift 1922 Kr. - Tilskud 675 Kr.
+Maskinarb. R. M. Madsen, Bülowsgade 56, samlet Udgift 900 Kr. - Tilskud 315 Kr.
+Fru Kirsten Marie Jensen, Ole Rømersgade 68, samlet Udgift 1427 Kr. - Tilskud 500 Kr.
+Snedker Hans Grilner, Møllevangsallé 46, samlet Udgift 1478 Kr. - Tilskud 515 Kr.
+Tømrerm. Paul Bang, Mejlgade 55, samlet Udgift 1825 Kr. - Tilskud 640 Kr.
+Maskinarb. Fr. Petersen, Evaldsgade 15, samlet Udgift 650 Kr. - Tilskud 230 Kr.
+Forretningsf. Albertus Rasmussen, Solsortevej 4, samlet Udgift 125 Kr. - Tilskud 45 Kr.
+Boghdl. Knud E. Lind, Annagade 45 a-b, samlet Udgift 4384 Kr. - Tilskud 1535 Kr.
+Samme, Banegaardsgade 2-4, samlet Udgift 10137 Kr. - Tilskud 3550 Kr.
+"	1941	6	26
+"75"	1941-06-26	"closed"	"19410626B_123.pdf"	11	"121-1941"	"Købmand Line Purup, Kirkegaardsvej 6, samlet Udgift 587 Kr. - Tilskud 205 Kr.
+Chauffør A. Skausen, St. Billes Torv 2-6, samlet Udgift 270 Kr. - Tilskud 95 Kr.
+Overass. E. Christiansen, Dalgas Avenue 23, samlet Udgift 210 Kr. - Tilskud 75 Kr.
+Købmand Andreas Skaarup, Skolegade 29-31,samlet Udgift 430 Kr. - Tilskud 150 Kr.
+Forretningsf. P. E. Rosbak, Borgporten 18, samlet Udgift 678 Kr. - Tilskud 235 Kr.
+Bagerm. R. F. Madsen, Silkeborgvej 96, samlet Udgift 189 Kr. - Tilskud 65 Kr.
+Fona Radio A/S, Frederiksallé 133, samlet Udgift 329 Kr. - Tilskud 115 Kr.
+Urmager Jens Tind, Mejlgade 34, samlet Udgift 439 Kr. - Tilskud 155 Kr.
+Handlende Harald Johansen, Dalgas Avenue 19, samlet Udgift 175 Kr. - Tilskud 60 Kr.
+Fotograf Riis Knudsen, Lille Torv 2, samlet Udgift 265 Kr. - Tilskud 95 Kr.
+Maskinarb. Th. Jørgensen, Sejrøgade 19, samlet Udgift 180 Kr. - Tilskud 65 Kr.
+Maskinarb. Viggo Mikkelsen, Annagade 45 a, samlet Udgift 148 Kr. - Tilskud 50 Kr.
+Frisørm. Wildner S.Christophersen,Kathrinebjergvej 106, samlet Udgift 2245 Kr. Tilskud 780 Kr. - Laan 1100 Kr.
+Kranfører Axel Nielsen, Fuglesangsallé 59, samlet Udgift 740 Kr. - Tilskud 260 Kr. -Laan 275 Kr.
+Husejer Astrid Jensen, Faaborggade 10, samlet Udgift 2577 Kr. - Tilskud 900 Kr. - Laan 900 Kr.
+Boghdl. J. M Lund, Horsensgade 15, samlet Udgift 1115 Kr. - Tilskud 390 Kr. - Laan 375 Kr.
+"	1941	6	26
+"76"	1941-06-26	"closed"	"19410626B_123.pdf"	12	"121-1941"	"Murerm. Anders Chr. Madsen, Mejlgade 72, samlet Udgift 1298 Kr. - Tilskud 455 Kr.
+Skomagerm. Hans Laurits Iversen, Hjelmensgade 7, samlet Udgift 1175 Kr. - Tilskud 410 Kr.
+Papdækkerm. H. Laursen, Gertrud Rasksvej 8, samlet Udgift 1115 Kr. - Tilskud 390 Kr.
+Kommunelærer H. S. Kirkegaard, H. Guld-bergsgade 69 c, samlet Udgift 225 Kr. - Tilskud 80 Kr.
+Kolonialhdl. F. Opderbeck, Banegaardsgade 33, samlet Udgift 352 Kr. - Tilskud 125 Kr.
+Murersv. Sigfred Jacobsen, Kaserneboulevarden 7, samlet Udgift 695 Kr. - Tilskud 245 Kr.
+Tømrer Søren Jacobsen, Mejlgade 78, samlet Udgift 401 Kr. - Tilskud 140 Kr.
+Tællerske Gerda U. Petersen, Guldsmedgade 14, samlet Udgift 1044 Kr. - Tilskud 365 Kr.
+Grosserer Marinus Nielsen, Molsgade 11, samlet Udgift 408 Kr. - Tilskud 145 Kr.
+Fru Meta Andersen, Mindegade 16, samlet Udgift 138 Kr. - Tilskud 50 Kr.
+Snedker J. C. Christensen, Vestergaardsgade 20, samlet Udgift 637 Kr. - Tilskud 225 Kr.
+Kogerske Johanne Medici, Jægergaardsgade 132, samlet Udgift 345 Kr. - Tilskud 120 Kr.
+Konditor Helga Knop, Bruunsgade 56, samlet Udgift 556 Kr. - Tilskud 195 Kr.
+Fabr. Aug. Schiller, Heibergsgade 3, samlet Udgift 517 Kr. ... Tilskud 180 Kr.
+Bagerm. Peter Robl, Marstrandsgade 30, samlet Udgift 717 Kr. - Tilskud 250 Kr.
+"	1941	6	26
+"77"	1941-06-26	"closed"	"19410626B_123.pdf"	13	"121-1941"	"Fru J. B. Åkerlund, H. Guldbergsgade 65, samlet Udgift 1100 Kr. - Tilskud 385 Kr.
+Fuldmægtig J. J. Lauritsen, Ellemarksvej 23, samlet Udgift 1622 Kr. - Tilskud 570 Kr.
+Kommunelærerinde Nanna Baadsgaard, Aarestrupsvej 15, samlet Udgift 112 Kr. - Tilskud 40 Kr.
+Erna G. Andersen, Nørrebrogade 6-8, samlet Udgift 166 Kr. - Tilskud 60 Kr.
+Slagterm. Ernst Mortensen, Vestergade 45, samlet Udgift 540 Kr. - Tilskud 190 Kr.
+Skræderm. P. S. Houlberg, Orla Lehmanns Allé 5-7-9, samlet Udgift 2262 Kr. - Tilskud 790 Kr.
+Købmand H. P. Friis, Østergade 1, samlet Udgift 1752 Kr. - Tilskud 615 Kr.
+Marie Kirstine Olsen, Ole Rømersgade 104, samlet Udgift 270 Kr. - Tilskud 95 Kr.
+Chauffør Niels Overgaard Jensen, Vester-gaardsgade 28, samlet Udgift 524 Kr. - Tilskud 185 Kr.
+Murerm. Morten Mortensen, Pontoppidansgade 28, samlet Udgift 330 Kr. - Tilskud 115 Kr.
+Kommunelærer A. M. Goul-Christensen, Hellerupvej 17, samlet Udgift 105 Kr. - Tilskud 35 Kr.
+Teglværksejer A. Vilh. Pedersen, Silkeborgvej 32-34-36, samlet Udgift 1150 Kr. - Tilskud 405 Kr.
+Samme, Silkeborgvej 38-40-42, samlet Udgift 1150 Kr. - Tilskud 405 Kr.
+Samme, Silkeborgvej 50-52-54, samlet Udgift 1350 Kr. - Tilskud 475 Kr.
+Samme, Silkeborgvej 44-46-48, samlet Udgift 1150 Kr. - Tilskud 405 Kr.
+"	1941	6	26
+"78"	1941-06-26	"closed"	"19410626B_123.pdf"	14	"121-1941"	"Møbelhdl. Astrid Hansen, Nørreallé 20, samlet Udgift 300 Kr. - Tilskud 105 Kr.
+Købmand Friis, N. W. Gadesvej 9, samlet Udgift 5586 Kr. - Tilskud 1955 Kr.
+Duus m. fl., Mejlgade 19, samlet Udgift 1094 Kr. - Tilskud 385 Kr.
+Fuldmægtig L. V. S. Praem, Haderslevgade 4, samlet Udgift 890 Kr. - Tilskud 310 Kr.
+Snedkermester Nordmar, Frederiksgade 12-14,samlet Udgift 617 Kr. - Tilskud 215 Kr.
+Oscar M. Haugaard, Frederiksgade 20, samlet Udgift 1670 Kr. - Tilskud 585 Kr.
+Dorthea Pedersens Dødsbo, Trepkasgade 21, samlet Udgift 2847 Kr. - Tilskud 995 Kr.
+Smedemester C. F. Studier, Kalmarsgade 4, samlet Udgift 173 Kr. - Laan 60 Kr.
+Fru Elisabeth Riis, Skolegade 21, samlet Udgift 9571 Kr. - Tilskud 3350 Kr.
+Købmand Marinus Johansen, Immervad 2, samlet Udgift 82722 Kr. - Tilskud 9900 Kr.
+Købmand Tage Hansen, Lauge Kochsvej 11, samlet Udgift 6241 Kr. Tilskud 1200 Kr. - Laan 3100 Kr.
+Danske Købmænds Handels A/S, Fredenstorv 8, samlet Udgift 480 Kr. - Tilskud 165 Kr.
+Bagermester Chr. Pedersen, Bethesdavej 12, samlet Udgift 1650 Kr. - Tilskud 580 Kr.
+Bagermester Otto Hansen, Viborgvej 25, samlet Udgift 1310 Kr. - Tilskud 460 Kr.
+Købmand P. Ehrenreich, Bruunsgade 34, samlet Udgift 10072 Kr. - Tilskud 3025 Kr.
+Malermester Guldby, Wærumsgade 27, samlet Udgift 6690 Kr. - Tilskud 2340 Kr.
+&lt;br&gt;
+"	1941	6	26
+"79"	1941-06-26	"closed"	"19410626B_123.pdf"	15	"121-1941"	"Assurancekomp. Baltica, Banegaardsplads 6-8-10, samlet Udgift 13162 Kr. - Tilskud 4605 Kr.
+Slagtermester A. S. Andersen, Skolegade 11, samlet Udgift 3886 Kr. - Tilskud 1360 Kr.
+Direktør O. Wandschneider, Kystvej 5, samlet Udgift 7678 Kr. - Tilskud 2685 Kr.
+Ølhandler K. P. Svendsen, Rosensgade 12, samlet Udgift 7813 Kr. - Tilskud 1920 Kr. - Laan 1250 Kr.
+Isenkræmmer V. Sørensen, Guldsmedgade 8, samlet Udgift 150 Kr. - Tilskud 55 Kr.
+Den alm. Brandforsikring for Landbygninger, Parkallé 15, samlet Udgift 1750 Kr. - Tilskud 615 Kr.
+Fabriksarb. S. E. Andersen, Hedemannsgade 15, samlet Udgift 574 Kr. - Tilskud 200 Kr.
+A/S Hans Schourup, Vestergade 8, samlet Udgift 39680 Kr. - Tilskud 13890 Kr.
+Sadelmager O. Hingsberg, Nyborggade 3, samlet Udgift 356 Kr. - Tilskud 125 Kr.
+Jul. Kysters Eftf., Stadionallé 13, samlet Udgift 12122 Kr. - Tilskud 4245 Kr.
+Ing. F. U. Hansen, Skovvangsvej 207, samlet Udgift 5021 Kr. - Tilskud 1560 Kr. - Laan 1550 Kr.
+Jydsk Handels- og Landbrugsbank, Lille Torv 6, samlet Udgift 14134 Kr. - Tilskud 4945 Kr.
+Kriminalass. P. Sandhøj, Herluf Trollesgade 51,samlet Udgift 548 Kr. - Tilskud 190 Kr.
+Skibshdl. Sophus Johnsen, Havnegade 32, samlet Udgift 1086 Kr. - Tilskud 380 Kr.
+Bladbud Augusta Gravesen, Janus la Coursgade 5, samlet Udgift 3700 Kr. - Tilskud 1295 Kr. - Laan 550 Kr.
+"	1941	6	26
+"80"	1941-06-26	"closed"	"19410626B_123.pdf"	16	"121-1941"	"Slagter Folmer Nielsen, Jægergaardsgade 86, samlet Udgift 544 Kr. - Tilskud 190 Kr.
+Fyrbøder A. S. Christensen, Østergade 15, samlet Udgift 643 Kr. - Tilskud 225 Kr.
+Skolebestyrer Danielsen, Hjelmensgade 4 a, samlet Udgift 1113 Kr. - Tilskud 390 Kr.
+Købmand V. F. Berg, Søndergade 29, samlet Udgift 4784 Kr. - Tilskud 1675 Kr. - Laan 1500 Kr.
+Frk. Regitze Petersen, Heibergsgade 2, samlet Udgift 1382 Kr. - Tilskud 485 Kr.
+Biografkontrolør C. A. Brøchner, Schleppe-grellsgade 5, samlet Udgift 1700 Kr. - Tilskud 595 Kr.
+Bagermester Holger Jensen, Sjællandsgade 1-5, samlet Udgift 4220 Kr. - Tilskud 1475 Kr.
+Fru A. Cedergreen, Bruunsgade 64, samlet Udgift 3884 Kr. - Tilskud 1360 Kr. - Laan 275 Kr.
+Bogtrykker A. Gam-Jensen, Badstuegade 17,samlet Udgift 1317 Kr. - Tilskud 460 Kr.
+Købmand M. D. Harder, Søndergade 8, samlet Udgift 854 Kr. - Tilskud 300 Kr.
+Tapetsererm. Th. Nielsen, Wilstersgade 10, samlet Udgift 4835 Kr. - Tilskud 1690 Kr.
+K. Kirks Telefonfabr., Kystvej 62, samlet Udgift 335 Kr. - Tilskud 117 Kr.
+Urmager Aage Sørensen, Ryesgade 4-6, samlet Udgift 30818 Kr. - Tilskud 10785 Kr. Laan 10775 Kr.
+Fru Marie Brøndum, Ny Tjørnegade 7, samlet Udgift 2649 Kr. - Tilskud 925 Kr.
+J. A. Alstrups Arvinger, Studsgade 5-7, samlet Udgift 852 Kr. - Tilskud 300 Kr.
+S.Nielsen og H. Madsen, Skovvangsvej 17, samlet Udgift 349 Kr. - Tilskud 120 Kr.
+"	1941	6	26
+"81"	1941-06-26	"closed"	"19410626B_123.pdf"	17	"121-1941"	"Brændehdl. Anna Christensen, Frederiksallé 146, samlet Udgift 619 Kr. - Tilskud 215 Kr.
+Restauratør Schov Christensen, Frederiksallé 61 a, samlet Udgift 2093 Kr. - Tilskud 735 Kr.
+Tømrerm. Paul Bang, Mejlgade 53, samlet Udgift 3672 Kr. - Tilskud 1285 Kr.
+Afslaaede Andragender:
+Arbmd. S. Chr. Meldgaard, Bethesdavej 5. Oscar M. Haugaard, Silkeborgvej 19.
+Borgmesteren oplyste, at man nu var kommet op paa 1,5 Mill. Kr. i Tilskud, og der var endnu nogle Andragender, som ikke var behandlede, Der kunde disponeres over ialt 1,7 Mill. Kr.
+Toges til Efterretning,
+"	1941	6	26
+"82"	1941-06-26	"closed"	"19410626B_123.pdf"	17	"466-1941"	"Licitationstilbud paa Udførelse af Kystsikringsarbejde ved Varna.
+Fra Stadsingeniøren forelaa følgende Indstilling:
+Udførelsen af Arbejdet: Entreprenør P. Crome for 54705 Kr.
+Stenleverancen: Aarhus Stenfiskerforening for 61400 Kr.
+Med øvrige Materialer og Administration samt en Anløbsbro for Sejlbaade ved Varna vil hele Udgiften andrage 180000 Kr.
+Tiltraadt af Budgetudvalget.
+J. R. Fanger gjorde opmærksom paa, at den nævnte Bro vilde koste ca. 7000 Kr., hvoraf Staten ydede Halvdelen, saa der blev en yderligere Bevilling paa 3500 Kr.
+Indstillingen vedtoges.
+"	1941	6	26
+"83"	1941-06-26	"closed"	"19410626B_123.pdf"	17	"435-1941"	"Licitationstilbud paa Installationer og Leverancer vedrørende sekundær Pumpestation ved V. Ringgade.
+"	1941	6	26
+"84"	1941-06-26	"closed"	"19410626B_123.pdf"	18	"435-1941"	"Vandværksudvalget indstiller at overdrage Leverancen til Bruun &amp;amp; Sørensen for 5581 Kr. Indstillingen vedtoges.
+"	1941	6	26
+"85"	1941-06-26	"closed"	"19410626B_123.pdf"	18	"449-1941"	"Licitationstilbud paa Leverance af Staalvinduer samt Blikkenslager- og Glarmesterarbejde til Stautrupværket.
+Fra Vandværksudvalget forelaa følgende Indstilling:
+Staalvinduer: Viby Staalvinduefabrik for 3382 Kr.
+Blikkenslagerarbejde: Ewald Lund for 1469,50 Kr.
+Glarmesterarbejde: Th. Justesen for 770 Kr. Indstillingen vedtoges.
+"	1941	6	26
+"86"	1941-06-26	"closed"	"19410626B_123.pdf"	18	"351-1941"	"Licitationstilbud vedrørende den neurologisk-neurokirurgiske Afdeling ved Kommunehospitalet.
+Fra Sygehusudvalget forelaa følgende Indstilling:
+Belysningslegemer: Firmaet \"Lyfa\" for 4223,45 Kr.
+Køleskab: Ths. Th. Sabroe for 5240 Kr.
+5 Stk. Bækkenkogere og 3 Stk. Varmeskabe: Firmaet \"Vesta\" for 4365 Kr.
+Staalborde og Bækkenstativer: Blikkenslagernes coop. Forretning for 3720 Kr.
+2 Vandsterilisatorer samt Fad- og Børstekoger: Fabr. Wilson for 8350 Kr.
+Forbindstofautoclave, Instrumentautoclave og Pumpe: \"G. E. M.\", København, for 20430 Kr.
+Sygeelevator: Th. B. Thrige for 9920 Kr. Borgmesteren meddelte, at Ministeriet havde godkendt Indstillingen, saafremt Tilbudene var uden Forbehold.
+Indstillingen vedtoges.
+"	1941	6	26
+"87"	1941-06-26	"closed"	"19410626B_123.pdf"	18	"467-1941"	"Indstilling fra 
+"	1941	6	26
+"88"	1941-06-26	"closed"	"19410626B_123.pdf"	19	"467-1941"	"Vandværksudvalget angaaende Funktionærboliger ved Stautrupværket.
+Følgende Indstilling forelaa:
+Vedrørende Stautrupværket.
+Stautrupværket forventes fuldført i Løbet af Sommeren og vil inden Efteraaret kunne indsættes i Driften. Da det er nødvendigt, at saavel Boremesteren som Maskinassistenten bor paa Stedet i umiddelbar Nærhed af Vandværket, har Udvalget overvejet at bygge de hertil nødvendige Funtionærboliger. Boligerne er tegnet af Stadsarkitekten og indeholdes i det oprindelige Overslag over det samlede Vandværksanlæg. Som Forholdene ligger, er Udvalget af den Formening, at det vil være rigtigst at spare saa meget som muligt paa disse Boliger og har derfor paatænkt at købe en tidligere foreslaaet Naboejendom, der vil være fortrinlig egnet til en fremtidig Udvidelse af Vandværket. Den paa Grunden værende Bygning vil kunne istandsættes, saaledes at Maskinassistenten vil kunne faa Bolig her.
+Vandværket skal derfor foreslaa det ærede Byraad at købe det paatænkte Areal, Matr. Nr. 10 v og 10 aa, paa 17842 Al2 med derpaa værende Bygning for en samlet Sum af ca. 12000 Kr., svarende til vedlagte Tilbud. Reparationerne kan i Henhold til vedlagte Forslag fra Stadsarkitekten udføres for 3200 Kr.
+Efter nærmere Gennemgang af Funktionærboligerne skal man foreslaa vedlagte Forslag fra Stadsarkitekten til et Hus for Boremesteren. Dette kan med de foretage Ændringer udføres af Bygningsentreprenøren for ca. 25000 Kr., excl, Arkitekthonorar,
+"	1941	6	26
+"89"	1941-06-26	"closed"	"19410626B_123.pdf"	20	"467-1941"	"Da det af Hensyn til Funktionærerne er nødvendigt at faa en Afgørelse i saa god Tid, at de paagældendes Lejeforhold kan bringes i Orden inden Oktober Flyttedag, skal man hermed tillade sig at anmode om Byraadets Godkendelse af ovennævnte Indstilling.\"
+H. J. Baden forelagde Forslaget, der var begrundet i, at det var nødvendigt at have Funktionærer ude ved Værket. Da man gerne vilde undgaa at bygge 2 Huse, foreslog man at købe Ejendommen ved Siden af Værket, og der var saa stort et Areal, at der kan bygges et nyt Hus paa samme Grund. Det vilde koste ca. 25000 Kr.; men Tilbudene vilde blive forelagt, efterhaanden som Arbejdet skred frem.
+J. R. Fanger havde intet mod Købet af Ejendommen, men vilde spørge, om det er nødvendigt, at Boremesteren bor derude; for han havde jo hidtil boet andre Steder. Det var rarest, hvis man kunde undgaa at bygge i Øjeblikket.
+H.J. Baden svarede, at Teknikerne fandt det nødvendigt, at han bor ude ved Værket, og han kunde ikke længere beholde sin nuværende Lejlighed. Man vilde bestræbe sig for at bygge saa billigt som muligt, og man kunde ogsaa faa mere end 1/8 af hans Løn i Husleje.
+Borgmesteren mente, at der i hvert Fald maatte bo een Funktionær derude. Men man kunde vel enes om at købe Huset og saa senere tage endelig Bestemmelse om et nyt Hus.
+Indstillingen vedtoges som af Borgmesteren foreslaaet.
+"	1941	6	26
+"90"	1941-06-26	"closed"	"19410626B_123.pdf"	20	"308-1941"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Magelæg med Komitéen for en ny Kirke paa Christiansbjerg.
+"	1941	6	26
+"91"	1941-06-26	"closed"	"19410626B_123.pdf"	21	"308-1941"	"Fra Stadsingeniøren forelaa følgende Erklæring:
+\"Kirkekomitéens Ønske om Ordningen af Magelæget foreslaas ordnet paa følgende Vilkaar:
+1)Kirkekomitéen tilskøder Aarhus Kommune Matr. Nr. 66 y af Markjorderne i Hasle Herred stor 1822 m2 fri for Hæftelser.
+2)Aarhus Kommune tilskøder til Gengæld Kirkekomitéen en Parcel af Matr. Nr. 106 aa beliggende paa Norges Plads paa vedlagte Plan Nr. 25434 k mrk. \"A\", skraveret med blaat, stor 1822 m2, fri for Hæftelser, bortset fra, at Grunden kun maa benyttes til Opførelse af en ny Kirke m. v.
+3)Kirkekomitéen tilskøder Aarhus Kommune eller Ordre Præsteboliggrunden, Matr. Nr. 66 z stor 700 m2 fri for Hæftelser.
+4)Aarhus Kommune tilskøder direkte eller gennem Fru Daugbjerg en ny Grund til Præstebolig:
+enten
+a)en Parcel af Matr. Nr. 106 a mrk. \"A\" og markeret med rødt, stor ca. 700 m2 tilhørende Fru Daugbjerg. Denne Ordning er betinget af, at Fru Daugbjerg uden særligt Vederlag vil overtage Matr. Nr. 66 z, den gamle Præsteboliggrund, som Kompensation for Grunden \"a\". Fruens Søn har lovet en velvillig Overvejelse heraf, hvis et Forslag fremsendes.
+eller
+b)en Parcel af Matr. Nr. 66 a beliggende paa Hjørnet af Frederikshaldsgade og Norgesgade, stor ca. 700 m2, paa Planen mrk. \"b\".
+"	1941	6	26
+"92"	1941-06-26	"closed"	"19410626B_123.pdf"	22	"308-1941"	"Tilfældet \"b\" bortfalder, saafremt \"a\" kan gennemføres.
+5)Saafremt Enkefru Daugbjergs Udstykningsplaner skulde betinge, at \"a\" udstykkes noget over 700 m2, tillægger Kommunen saa meget af det tidligere Vejareal ved Matr. Nr. 66 z, at Magelægget med Fru Daugbjerg kan gennemføres med lige store Arealer.
+6)Aarhus Kommune foranstalter snarest Frederikshaldsgade anlagt til Kirkegrunden og forsynet med normale Forsynings- og Afløbsledninger uden Udgift for de to Grunde som Kirkekomitéen overtager.
+7)Forsaavidt Norgesgade ikke anlægges, inden Kirken (respektive Krypten) tages i Brug, fortsættes Frederikshaldsgade til Stockholmsgade med mindst saa megen Slaggebelægning, at Omkørsel kan foretages. I Norgesgades Trace udføres, - ligeledes saafremt Gaden ikke anlægges - en Kirkesti befæstet med Slagger og Grus.
+8)Ved Byggearbejdets Afslutning anlægger Aarhus Kommune den nærmest omkring Kirken liggende Del af Norges Plads som Park; paa Planen er det omtrentlige Omfang angivet med grønt.
+9)Uanset den formelle Beliggenhed af Kirkens Skel skal Kirkens Omgivelser og Pladsarealet anlægges og beplantes efter en fælles Plan udarbejdet af Kirkens Arkitekt og Stadsgartneren. Ved Anlægget skal der anlægges fornøden Spadseresti fra Frederikshaldsgade til Pladsen vest for Kirken.
+10)Kirkearealet stilles til Raadighed saa hurtigt, som Kommunen kan faa det frigjort fra
+"	1941	6	26
+"93"	1941-06-26	"closed"	"19410626B_123.pdf"	23	"308-1941"	"det indgaaede Lejemaal, tidligst dog naar Kartoffelafgrøden er af Marken ca. 1. Juli 1941.
+11)Eventuelle Omkostninger betales af Aarhus Kommune.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Det indstilles, at det foran omhandlede Magelæg vedtages paa de i Stadsingeniørens foranstaaende Skrivelse nærmere omhandlede Vilkaar.\"
+Indstillingen vedtoges.
+"	1941	6	26
+"94"	1941-06-26	"closed"	"19410626B_123.pdf"	23	"221-1941"	"Indstilling fra Budgetudvalget
+om Forhøjelse af Kommunens Garanti for den nordiske Kunstudstilling i Aarhus-Hallen med 2000 Kr.
+Borgmesteren erindrede om, at der var garanteret for 15000 Kr., hvoraf Kommunen havde tegnet 5000 Kr. Komitéen havde nu ment, at Garantien maatte forhøjes med 5000 Kr., hvoraf Aarhus-Hallen tegnede 3000 Kr., og hvis de 18000 Kr. ikke slog til, skulde Kommunen garantere de næste 2000 Kr.
+Indstillingen vedtoges.
+"	1941	6	26
+"95"	1941-06-26	"closed"	"19410626B_123.pdf"	23	"448-1941"	"Indstilling fra Sygehusudvalget om Ansættelse af Overlæger ved Nervehospitalet.
+Følgende Indstilling forelaa:
+\"Efter at Stillingerne som Overlæger ved Kommunehospitalets neuromedicinske og neurokirurgiske Afdelinger har været opslaaet ledige, har der meldt sig 3 Ansøgere.
+Ansøgningerne har været tilstillet saavel Sundhedsstyrelsen som Aarhus Universitet til Udtalelse, og man skal herefter, idet Sagen fremsendes til Aarhus Byraad, anbefale, at Dr. Malmros ansættes som Overlæge ved 
+"	1941	6	26
+"96"	1941-06-26	"closed"	"19410626B_123.pdf"	24	"448-1941"	"neurokirurgisk Afdeling og Dr. med. Munch Petersen som Overlæge ved neuromedicinsk Afdeling paa de af Byraadet godkendte Betingelser.
+Med Hensyn til Tidspunktet for deres Tiltræden kan der i Øjeblikket ikke siges noget afgørende, men saa snart man fra Udvalgets Side kan fastslaa Tidspunktet for Bygningens Færdiggørelse, vil de vedkommende faa Meddelelse om Tidspunktet for Tiltrædelsen.
+Under Henvisning til Sundhedsstyrelsens og Aarhus Universitets Bemærkninger angaaende Dr. Malmros’ yderligere Uddannelse skal man foreslaa, at det overlades Sygehusudvalget at føre Forhandlinger med ham desangaaende, og at Ansættelse ikke meddeles Dr. Malmros, før disse Forhandlinger er tilendebragte med tilfredsstillende Resultat.\"
+Vald. Kloster gjorde opmærksom paa, at Dr. Malmros manglede noget i sin Uddannelse, og Udvalget foreslog, at han skal gaa ind paa at tage denne supplerende Uddannelse, før man ansætter ham.
+Borgmesteren mente, man kunde tiltræde Indstillingen og saa overlade til Sygehusudvalget at ordne dette Forhold og bestemme Tidspunktet for Tiltrædelsen.
+Indstillingen vedtoges.
+"	1941	6	26
+"97"	1941-06-26	"closed"	"19410626B_123.pdf"	24	"29_1-1941"	"Andragende fra Skolebetjent J. Andersen om Afsked med Pension fra 1. Oktober d. A.
+Bevilgedes. Pensionen fastsattes til 2280 Kr.
+"	1941	6	26
+"98"	1941-06-26	"closed"	"19410626B_123.pdf"	24	"454-1941"	"Indstilling fra Sygehusudvalget om Ansættelse af Maskinmester ved Kommunehospitalet.
+Fra Lønudvalget forelaa følgende Indstilling:
+"	1941	6	26
+"99"	1941-06-26	"closed"	"19410626B_123.pdf"	25	"454-1941"	"\"Lønudvalget tiltræder Indstillingen saaledes, at Maskinarbejder L. M. Andersen ansættes som Maskinmester af 2. Grad fra 1. Juni d. A. og med Lønanciennitet i 5. Lønklasse fra Ansættelsesdagen.
+Endvidere indstiller Udvalget i Anledning af, at Maskinvagten ved Kommunehospitalet er udvidet fra 2 til 3 Holds Skifte, at der fra 1.Juni d. A. at regne normeres en Stilling som Maskinmester af 2. Grad ved nævnte Hospital.\"
+Indstillingen vedtoges.
+"	1941	6	26
+"100"	1941-06-26	"closed"	"19410626B_123.pdf"	25	"452-1941"	"Andragende fra afskediget Arbejdsmand ved Brolægningsvæsenet Søren Nielsen om en aarlig Understøttelse.
+Lønudvalget foreslaar, at der ydes ham 300 Kr. aarlig uden Dyrtidstillæg.
+Indstillingen vedtoges.
+"	1941	6	26
+"101"	1941-06-26	"closed"	"19410626B_123.pdf"	25	"381-1941"	"Andragende fra fhv. Nød-tørftsopsyn Karen Nielsen om fortsat Understøttelse.
+Lønudvalget foreslaar, at der ydes hende 150 Kr. aarlig uden Dyrtidstillæg.
+Indstillingen vedtoges.
+"	1941	6	26
+"102"	1941-06-26	"closed"	"19410626B_123.pdf"	25	"25_4-1941"	"Andragende fra Restauratør L. C. Larsen om Beværterbevilling i Centralhotellet.
+Anbefalet af Bevillingsnævnet paa Vilkaar, at Bevillingen stedbegrænses til Ejendommen Ryesgade 27, her.
+Tiltraadtes.
+"	1941	6	26
+"103"	1941-06-26	"closed"	"19410626B_123.pdf"	25	"25_5-1941"	"Andragende fra Restauratør Bjørn Rasmussen om Tilladelse til paa sin Beværterbevilling at drive Restauration paa Aarhus Cyklebane fra 1/5 til 1/10 d. A.
+Anbefalet af Bevillingsnævnet.
+Tiltraadtes.
+"	1941	6	26
+"104"	1941-06-26	"closed"	"19410626B_123.pdf"	26	"25_6-1941"	"Andragende fra Restauratør V. Rasmussen om Beværterbevilling til Restauration paa Stadion.
+Anbefalet af Bevillingsnævnet under Forudsætning af, at Handelsministeriet meddeler den fornødne Dispensation i Henhold til Beværterlovens §8,at Bevillingenstedbegrænses til
+\"Stadion\",og at Aarhus Idrætspark nedlægger
+sin i Kraft værende Bevilling.
+Tiltraadtes.
+"	1941	6	26
+"105"	1941-06-26	"closed"	"19410626B_123.pdf"	26	"17_4-1941 og 17_3-1941"	"Indstilling fra Socialudvalget om Eftergivelse
+af Hjælp ydet til:
+a.(J.Nr.17_4-1941).Arbejdsmand I. Laursen.
+b.(J.Nr. 17_3-1941).Anna K. Schwartz.
+Tiltraadtes.
+"	1941	6	26
+"106"	1941-06-26	"closed"	"19410626B_123.pdf"	26	"32_2-1941 og 32_1-1941"	"Indstilling fra Socialudvalget om Anbringelse
+paa Arbejdsanstalt af følgende:
+a.(J.Nr.32_2-1941).Arbejdsmand J. Nielsen.
+b.(J.Nr.32_1-1941).Arbejdsmand E. S. Aagaard.
+Tiltraadtes.
+"	1941	6	26
+"107"	1941-06-26	"closed"	"19410626B_123.pdf"	26	"16_3-1941"	"Indstilling fra Socialudvalget om Ydelse af Tillægshjælp efter Forsorgslovens § 293, Stk. 2.
+Indstillingen vedtoges.
+"	1941	6	26
+"108"	1941-06-26	"open"	"19410626_65.pdf"	1	"no related record"	"Mødet den 26. Juni 1941.
+Fraværende: Esther Aggebo, Kai Blicher, Thomas Christensen, K. Mousten, Chr. Nielsen, Sigvald Nielsen og I. C. Sørensen.
+"	1941	6	26
+"109"	1941-06-26	"open"	"19410626_65.pdf"	1	"113-1941"	"Indenrigsministeriets Samtykke til Anbringelse af Legatmidler i Aldersrenteboligerne i nordre Bydel.
+Toges til Efterretning.
+"	1941	6	26
+"110"	1941-06-26	"open"	"19410626_65.pdf"	1	"58-1941"	"Indenrigsministeriets Godkendelse af Kommunens Garanti for et Laan paa 575000 Kr. til Mejerierne.
+Toges til Efterretning.
+"	1941	6	26
+"111"	1941-06-26	"open"	"19410626_65.pdf"	1	"73-1941"	"Meddelelse fra Justitsministeriet om Teaterbevilling for Kasino.
+Toges til Efterretning.
+"	1941	6	26
+"112"	1941-06-26	"open"	"19410626_65.pdf"	1	"139-1941"	"Justitsministeriets Godkendelse af, at Prosektor Gregersen indtil videre fungerer som Prosektor.
+Toges til Efterretning.
+"	1941	6	26
+"113"	1941-06-26	"open"	"19410626_65.pdf"	1	"97-1941"	"Meddelelse fra Ministeriet for offentlige Arbejder om, at der er givet Rutebilejer N. B. M. Gaarsdal Generatorbevilling til en Omnibus paa Ruten Aarhus-Moesgaard Strand.
+Toges til Efterretning.
+"	1941	6	26
+"114"	1941-06-26	"open"	"19410626_65.pdf"	1	"40_16-1941"	"Ministeriet for offentlige Arbejders Godkendelse af, at Havnen giver 50000 Kr. til Udsmykning af det ny Raadhus.
+"	1941	6	26
+"115"	1941-06-26	"open"	"19410626_65.pdf"	2	"40_16-1941"	"Borgmesteren henstillede at rette en Tak til Udvalget og Havneingeniøren for Gaven (Tilslutning!).
+Toges til Efterretning.
+"	1941	6	26
+"116"	1941-06-26	"open"	"19410626_65.pdf"	2	"307-1941"	"Meddelelse fra Undervisningsministeriet om, at der er bevilget Lærerinde Frk. Olga Christensen Afsked med Pension.
+Toges til Efterretning.
+"	1941	6	26
+"117"	1941-06-26	"open"	"19410626_65.pdf"	2	"25_3-1941"	"Meddelelse fra Overbevillingsnævnet om Fornyelse af Beværterbevilling i Hotel Regina.
+Toges til Efterretning.
+"	1941	6	26
+"118"	1941-06-26	"open"	"19410626_65.pdf"	2	"414-1941"	"Meddelelse fra S. I. K. A. om Fordeling af Kommunens Tilskud til Boldklubberne.
+Toges til Efterretning.
+"	1941	6	26
+"119"	1941-06-26	"open"	"19410626_65.pdf"	2	"23_2-1941"	"Regnskab og Status for Aarhus Idrætspark for 1940-41.
+Toges til Efterretning.
+"	1941	6	26
+"120"	1941-06-26	"open"	"19410626_65.pdf"	2	"23_3-1941"	"Regnskab for Den gamle By i 1940-41.
+Toges til Efterretning.
+"	1941	6	26
+"121"	1941-06-26	"open"	"19410626_65.pdf"	2	"416-1941"	"Regnskab for Aftenskolen for Arbejdere i 1940-41.
+Toges til Efterretning.
+"	1941	6	26
+"122"	1941-06-26	"open"	"19410626_65.pdf"	2	"23_5-1941"	"Regnskab og Beretning for Amts-Arbejdsanvisningskontoret i 1940-41.
+Toges til Efterretning.
+"	1941	6	26
+"123"	1941-06-26	"open"	"19410626_65.pdf"	2	"455-1941 og 456-1941 og 457-1941 og 458-1941 og 459-1941 og 460-1941 og 461-1941 og 462-1941"	"Regnskab for Aaret 1940 for følgende af Aarhus Haandværkerforening bestyrede Legater:
+a.(J. Nr. 455-1941). Bødkermester Jens Bertelsens og Købmand Rasmus Knudsens Legat.
+b.(J. Nr. 456-1941). Slagtermester S. L. Hendriksens Legat.
+c.(J. Nr. 457-1941). Slagtermester Th. Jørgensens Legat.
+"	1941	6	26
+"124"	1941-06-26	"open"	"19410626_65.pdf"	3	"455-1941 og 456-1941 og 457-1941 og 458-1941 og 459-1941 og 460-1941 og 461-1941 og 462-1941"	"d.(J. Nr. 458-1941). Admiral Kriegers Legat.
+e.(J. Nr. 459-1941). Læderhandler Meiers Legat.
+f.(J. Nr. 460-1941 og 461 - 1941). Tømrermester J.Jensen Vroues Legater.
+g.(J. Nr. 462-1941). Snedkermester S. Ørums Legat.
+Toges til Efterretning.
+"	1941	6	26
+"125"	1941-06-26	"open"	"19410626_65.pdf"	3	"30_9-1941 og 30_6-1941 og 30_7-1941 og 30_10-1941 og 30_8-1941"	"Andragender om Fornyelse af Koncession for følgende Omnibusruter:
+a.(J.Nr.30_9-1941).Kolind-Aarhus.
+b.(J.Nr.30_6-1941).Rønde-Aarhus.
+c.(J.Nr.30_7-1941).Dejret-Aarhus.
+d.(J.Nr.30_10-1941).Søby-Aarhus.
+e.(J. Nr. 30_8-1941). Helgenæs-Aarhus.
+Brolægningsudvalget anbefaler, at Koncessionerne fornys indtil 1. Juni 1942 paa de for Ruterne tidligere stillede Betingelser.
+Tiltraadtes.
+"	1941	6	26
+"126"	1941-06-26	"open"	"19410626_65.pdf"	3	"437-1941"	"Andragende fra Landsforeningen til Kræftens Bekæmpelse om Tilskud.
+Bevilgedes.
+"	1941	6	26
+"127"	1941-06-26	"open"	"19410626_65.pdf"	3	"430-1941"	"Andragende fra Aarhus-Reklamens Arbejdsudvalg om Udbetaling af 2. og
+3.Rate af Tilskud.
+Borgmesteren erindrede om, at der tidligere var bevilget 40000 Kr. i 3 Aar. Første Aar fik de 15000 Kr., men i Fjor hævede de intet. Nu havde de store Udgifter til Reklame i Anledning af Jubilæet og søgte derfor om at faa Restbeløbet, 25000 Kr., i Aar.
+Bevilgedes.
+"	1941	6	26
+"128"	1941-06-26	"open"	"19410626_65.pdf"	3	"320-1941"	"Andragende fra Bagermester Holger Jensen om Godtgørelse for Tilbagerykning af Ejendommen Hjørnet af Nørregade og Sjællandsgade.
+"	1941	6	26
+"129"	1941-06-26	"open"	"19410626_65.pdf"	4	"320-1941"	"Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"I Overensstemmelse med Stadsingeniørens Forslag skal man indstille, at der tilbydes Ejeren en Erstatning paa 25 Kr. for hver m2, der rykkes tilbage, eller ialt 1125 Kr. under Forudsætning af, at Byggeriet paabegyndes snarest.\"
+Indstillingen vedtoges.
+"	1941	6	26
+"130"	1941-06-26	"open"	"19410626_65.pdf"	4	"385-1941"	"Indstilling fra Sygehusudvalget angaaende Regulativ for Hospitalsdirektøren samt Forslag til Ændring af Hospitalsregulativet.
+Følgende Forslag forelaa:
+A.
+Retningslinier for Ændringer i
+Regulativ for Aarhus Kommunes Hospitalsvæsen.
+1.Aarhus Kommunes Hospitaler bestyres under Byraadets Overtilsyn af et Hospitalsudvalg, valgt af Byraadet indenfor dets Midte.
+2.Under Hospitalsudvalget sorterer i sideordnede Stillinger en Direktør og Lægecheferne for de forskellige Hospitalsafdelinger. Lægechefer og Direktør ansættes af Byraadet efter Indstilling fra Hospitalsudvalget.
+3.Under Direktøren henlægges Overledelsen af Hospitalernes Administration og Økonomi.
+4.Under hver Lægechef henlægges, hvad der paa dennes Hospitalsafdeling vedkommer Sygebehandlingen, Sygeplejen og Laboratoriearbejdet.
+Den enkelte Lægechef er nærmeste Foresatte for Personalet paa den Afdeling, vedkommende leder.
+"	1941	6	26
+"131"	1941-06-26	"open"	"19410626_65.pdf"	5	"385-1941"	"Indenfor de enkelte Afdelings-Budgetters Rammer rekvirerer Lægecheferne gennem Hospitalskontoret til Afdelingens Normalforbrug.
+5.Hvor de under Paragrafferne 3 og 4 nævnte Omraader griber ind over hinanden, saaledes at administrative og økonomiske Forhold har Betydning for Afdelingernes Arbejde eller omvendt, skal Lægechefer og Direktør samarbejde.
+6.Samtlige Lægechefer danner et Lægeraad, der hvert 2. Aar vælger en Formand og en Næstformand blandt Medlemmerne; Genvalg kan højst finde Sted 2 Gange.
+7.Formanden for Lægeraadet og dennes Stedfortræder samt Direktøren deltager normalt i Hospitalsudvalgets Møder, men uden Stemmeret. Saafremt der behandles Sager af særlig Betydning for en enkelt Afdeling, tilkaldes normalt vedkommende Afdelingsleder (d. v s. Lægechef, Inspektør, Forstanderinde og Apoteker) til Deltagelse i Mødet. Lægeraadet samt hver enkelt Afdelingslæge kan forelægge Hospitalsudvalget Spørgsmaal til Drøftelse. I samtlige Sager af administrativ eller økonomisk Art skal Direktøren afæskes en Udtalelse, forinden Sagen optages til Drøftelse i Hospitalsudvalget. Direktøren udarbejder Dagsordenen for Hospitalsudvalgets Møder, idet Lægeraadets Formand i betimelig Tid faar Meddelelse om Tidspunktet for Mødets Afholdelse.
+8.Ved Hospitalsudvalgets Møder føres en kortfattet Protokol, der underskrives af samtlige tilstedeværende Medlemmer.
+9.I Hospitalsudvalgets Budgetforhandlinger deltager foruden Direktøren og Lægeraadets Formand samtlige Afdelingsledere.
+"	1941	6	26
+"132"	1941-06-26	"open"	"19410626_65.pdf"	6	"385-1941"	"B.
+Regulativ
+for
+Direktøren for Aarhus Kommunes Hospitalsvæsen.
+1.Under Ansvar overfor Udvalget har Direktøren i alle Spørgsmaal, der vedrører Hospitalernes Økonomi og Administration, den øverste Ledelse af Hospitalerne.
+2.Direktøren udarbejder og fremsender efter Samraad med Afdelingslederne inden Udgangen af November Maaned til Hospitalsudvalget Forslag til Budget for det kommende Finansaar.
+3.Under Hospitalsudvalgets Tilsyn administrerer han de paa Budgettet opførte Beløb. Om ekstraordinære Udgifter til Anskaffelse af Inventargenstande, Ombygninger etc. afgiver Direktøren Indstilling til Hospitalsudvalget; forsaavidt disse Udgifter vedrører Afdelingernes Arbejde, sker det efter forudgaaende Forhandling med vedkommende Afdelingschef.
+Direktøren foranlediger, at der hver Maaned tilgaar Lægecheferne en Opgørelse over, for hvor stort et Beløb den enkelte Afdeling har rekvireret i den forløbne Del af Finansaaret.
+4.Indkøb af det til den daglige Drift fornødne foregaar under Direktørens Overtilsyn, ligesom han i det Omfang, Udvalget maatte bestemme, foranlediger afholdt Licitationer. Han fører Overtilsyn med Bygge- og Reparationsarbejder i Samarbejde med den enkelte Afdelingsleder.
+5.I det Omfang, hvor Ansættelse og Afskedigelse ikke sker ved Indstilling fra Hospitalsudvalget til Byraadet, ansætter og afskediger Direktøren
+iSamraad med Hospitalsudvalget det fornødne
+"	1941	6	26
+"133"	1941-06-26	"open"	"19410626_65.pdf"	7	"385-1941"	"Personale. Hvor det drejer sig om Ansættelse eller Afskedigelse af Afdelingernes Personale, afgiver vedkommende Afdelingsleder Indstilling til Direktøren til Godkendelse af Udvalget.
+6.Direktøren er Inspektørernes nærmeste Foresatte, ligesom han i alle administrative og økonomiske Anliggender er nærmeste Foresatte for Hospitalsapotekeren og Forstanderinden.
+7.Anvisning af Hospitalsvæsenets Indtægter og Udgifter sker efter Direktørens Indstilling til Udvalget.
+8.Direktøren og Lægeraadsfortnanden paaser, at der mellem de lægelige og økonomisk-administrative Sider af Hospitalernes Virksomhed foregaar intimt Samarbejde.
+Fra Udvalget forelaa følgende Indstilling: \"Hermed fremsendes Forslag til Regulativ for den ny Hospitalsdirektør.
+Endvidere fremsendes til Godkendelse Forslag til Ændring af Hospitalsregulativet, idet det dog er Tanken, at dette Regulativ først skal træde i Kraft efter Hospitalsdirektørens Ansættelse, da Hospitalsregulativet iøvrigt paa flere Punkter skal omredigeres.\"
+Tiltraadtes.
+"	1941	6	26
+"134"	1941-06-26	"open"	"19410626_65.pdf"	7	"463-1941"	"Indstilling fra Lønudvalget om Ændring i Overenskomsten med de kommunale Arbejdsmænds Fagforening.
+Udvalget indstiller, at der i Overenskomsten vedtages følgende Ændring:
+\"For de i Overenskomstens § 3, Side 6 og 7, nævnte Arbejder, for hvilke Betaling er fastsat til 2 Kr. pr. Time, betales fra den 6. Juni 1941 almindelig Timeløn samt et Tillæg paa 50 Øre pr. Time. Betalingen for de omhandlede Arbejder skal dog altid udgøre mindst
+"	1941	6	26
+"135"	1941-06-26	"open"	"19410626_65.pdf"	8	"463-1941"	"2Kr. ialt pr. Time, indbefattet eventuelt Dyrtidstillæg.\"
+Tiltraadtes.
+"	1941	6	26
+"136"	1941-06-26	"open"	"19410626_65.pdf"	8	"464-1941"	"Indstilling fra Lønudvalget om Godkendelse af ny Overenskomst med Kommunens Hospitalsportører.
+Følgende Forslag forelaa:
+OVERENSKOMST
+mellem
+Aarhus Byraads Lønudvalg og Dansk KommunalArbejderforbund vedrørende de ved Aarhus kommunale Hospitaler beskæftigede Portører.
+§ I-
+Løn - og Ansættelsesforhold.
+Stk. 1 Lønnen er
+idet 1. Tjenesteaar......82Kr.maanedlig
+-2.-......87--
+-3.-......92--
+1.-......97--
+-5....... 102
+-6.- og derefter 112-
+alt foruden Ophold med Forplejning.
+Stk. 2. Efter mindst 4 Aars Tjeneste kan Portører ansættes som Tjenestemænd med Løn efter Tjenestemands-Regulativets 10. Lønklasse, idet Lønancienniteten regnes fra Tidspunktet for saadan Ansættelse, og under Forudsætning af, at Betingelserne for Ansættelse som Tjenestemand iøvrigt er til Stede. Forpligtelsen til at have Ophold med Forplejning paa Hospitalet bortfalder ved saadan Ansættelse, men Tjenesteforholdene, herunder Arbejdstiden, forbliver iøvrigt de samme som for de øvrige Portører gældende, jfr. dog § 2, 1. Stk. Der kan dog kun ansættes 7 Portører som Tjenestemænd.
+"	1941	6	26
+"137"	1941-06-26	"open"	"19410626_65.pdf"	9	"464-1941"	"Arbejdstid m. m.
+Stk. 1. Arbejdstiden er 8 Timer daglig, beliggende mellem Kl. 7 og Kl. 18 paa alle Ugens 7 Dage. Udenfor dette Tidsrum har de paa Hospitalerne boende Portører Pligt til at have Hjemmevagt efter Tur mod Erstatning med en halv Fridag for hver Hjemmevagt.
+Stk. 2. For Arbejde mellem Kl. 22 og Kl. 6 1/2 under Hjemmevagt betales Kr. 1,20 pr. Time, og mindste Betaling for Arbejde i nævnte Tidsrum er Kr. 1,20.
+Stk. 3. Portørerne har en ugentlig Fridag.
+§ 3.
+Særydelser.
+Stk. 1. Der betales til maanedslønnede Portører følgende Tillæg:
+1)Ved Funktion som Chauffør Kr. 3,50 pr. Dag.
+2)Ved Arbejde i Vaskeriet og ved Afløsning
+i Institutet Kr. 2,00 pr. Dag.
+3)Ved Snekastning, naar denne varer mindst
+2Timer daglig, samt ved Afløsning i Apoteket Kr. 1,00 pr. Dag.
+Stk. 2. Til aarslønnede Portører betales ved Arbejde i Vaskeriet og ved Bilkørsel paa Hospitalets Grund et Tillæg paa Kr. 1,00 pr. Dag. Tillægget for Bilkørsel er dog betinget af, at Kørselens Varighed er mindst 14 Dage og mindst 3 Timer pr. Dag.
+§ 4.
+Beklædning.
+Der gives Portørerne fri Arbejdskittel som hidtil samt et Par Benklæder aarlig.
+§ 5.
+Sygekasse.
+Portørerne er forpligtet til for egen Regning at være Medlem af en statsanerkendt Sygekasse.
+"	1941	6	26
+"138"	1941-06-26	"open"	"19410626_65.pdf"	10	"464-1941"	"Ferie.
+Vedrørende Ferie gælder den mellem Lønudvalget og de forskellige Organisationer indgaaede Overenskomst af 27. Juni 1939.
+§ 7.
+Kostgodtgørelse.
+Naar en Portør er fraværende paa Grund af Ferie (dog ikke enkelte Fridage) eller Sygdom, som behandles udenfor Kommunens Hospitaler, godtgøres der ham Kostpenge efter de Regler, som til enhver Tid er gældende for Kommunens Sygeplejersker, jfr. Tjenestemands-Regulativets § 17, Stk. 5.
+§ 8.
+Voldgift.
+Eventuelle Stridigheder, der maatte opstaa mellem et Hospital og dets Portører, og som ikke bilægges ved Forhandling mellem Hospitalets Ledelse eller Repræsentanter for Byraadet paa den ene Side og Repræsentanter for Organisationen paa den anden Side, henvises til en Voldgift, der vælges efter de i Tjenestemands-Regulativets § 14 indeholdte Regler.
+§ 9.
+Overenskomstens Ikrafttræden m. m.
+Stk. 1. Nærværende Overenskomst er gældende fra den 1.Juni 1941 at regne og kan fra hver af Parternes Side opsiges med 3 Maaneders Varsel til Ophør en 1. April. De i Overenskomstens § 1, Stk. 1, fastsatte Lønninger er dog gældende fra 1. April 1941 at regne.
+Stk. 2. Den for Hospitalsportørerne indgaaede Overenskomst af 22. December 1938 ophæves fra den 1. Juni 1941.
+Tiltraadtes.
+"	1941	6	26
+"139"	1941-06-26	"open"	"19410626_65.pdf"	11	"22-1941"	"Købekontrakt med Murernes coop. Forretning angaaende en Grund ved Gerlachsgade.
+Godkendtes.
+"	1941	6	26
+"140"	1941-06-26	"open"	"19410626_65.pdf"	11	"11_2-1941"	"Købekontrakt med C. P. Dethlefsen angaaende en Grund i Vorrevangen.
+Godkendtes.
+"	1941	6	26
+"141"	1941-06-26	"open"	"19410626_65.pdf"	11	"11_3-1941"	"Købekontrakt med Fru Thyra Perregaard angaaende en Grund i Riisvangen.
+Godkendtes.
+"	1941	6	26
+"142"	1941-06-26	"open"	"19410626_65.pdf"	11	"22_3-1941"	"Købekontrakt med Fru Rigmor Haugaard angaaende en Grund ved Oddervej.
+Godkendtes.
+"	1941	6	26
+"143"	1941-06-26	"open"	"19410626_65.pdf"	11	"468-1941"	"Forslag fra Markudvalget om Bevilling af 745 Kr. til Reparation af Forpagterboligen paa Vorregaarden.
+Anbefalet af Budgetudvalget.
+Bevilgedes.
+27.Borgmesteren meddelte, at Byraadet tog Ferie til hen i August Maaned. Taleren antog, at Budgetudvalget kunde ordne eventuelle Arrangementer og mindre Udgifter i Anledning af Byjubilæet, og hvis det var større Sager, vilde de blive udsendt til Cirkulation.
+"	1941	6	26

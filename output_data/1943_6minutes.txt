@@ -1,0 +1,583 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1943-06-01	"open"	"19430601_51.pdf"	1	"no related record"	"Mødet den 1. Juni 1943.
+(Konstituerende).
+K. Mousten indtog som det ældste Medlem Formandspladsen og bød det ny Byraad velkommen, særlig de mange nye Medlemmer. Aarhus By havde i lang Tid været inde i en rig Udvikling, og det var af Betydning, at Byraadet ved sin Virksomhed kan lede og styre denne Udvikling. Det skete bedst ved, at Byraadet arbejder i Enighed og Fordragelighed, og fra den socialdemokratiske Gruppe kunde Taleren tilsige god Vilje til Samarbejde. Taleren foreslog, at Byraadet rejser sig og hilser paa de nye Medlemmer. (Tilslutning!).
+"	1943	6	1
+"2"	1943-06-01	"open"	"19430601_51.pdf"	1	"159-1943"	"Valg af Borgmester.
+Johanne Berg foreslog paa den socialdemokratiske Gruppes Vegne at genvælge Stecher Christensen til Borgmester.
+1.C. Sørensen erklærede, at den konservative Gruppe fandt det naturligt, at det største Parti vælger Borgmesteren, men man ønskede skriftlig Afstemning.
+Ved skriftlig Afstemning valgtes Stecher Christensen med 10 Stemmer, medens 11 stemmesedler var blanke.
+"	1943	6	1
+"3"	1943-06-01	"open"	"19430601_51.pdf"	2	"159-1943"	"K. Mousten ønskede Borgmesteren til Lykke med Valget. Man maatte nok forudse vanskelige Tider for Byen og Landet, men forhaabentlig vilde det lykkes for Borgmesteren at samle Byraadet om de Opgaver, der kommer til at foreligge.
+Borgmesteren indtog Formandspladsen og takkede for Valget. Taleren vilde bestræbe sig for at udføre Hvervet som Borgmester paa en Maade, der kan blive til Byens og Borgernes Gavn.
+"	1943	6	1
+"4"	1943-06-01	"open"	"19430601_51.pdf"	2	"159-1943"	"Valg af Næstformænd for Byraadet.
+Johanne Berg foreslog Overlærer K. Mousten til 1. Viceformand.
+J. R. Fanger udtalte, at lige saa naturligt, det er, at det største Parti vælger Borgmesteren, lige saa naturligt maatte det være, at det næststørste Parti vælger 1. Viceformand, og Taleren vilde foreslaa at vælge Landsretssagfører Sørensen.
+Ved skriftlig Afstemning fik Mousten 10 Stemmer og I. C. Sørensen 9, medens 2 Stemmesedler var blanke.
+Borgmesteren erklærede, at Mousten var valgt til 1. Viceformand, og efter Afstemningen kunde man vel betragte I. C. Sørensen som valgt til 2. Viceformand.
+Tiltraadtes.
+"	1943	6	1
+"5"	1943-06-01	"open"	"19430601_51.pdf"	2	"10_6-1943"	"Besættelse af Udvalg m. m.
+Fra Gruppeformændene forelaa følgende Forslag.
+Byraadets staaende Udvalg:
+For Kasse- og Regnskabsvæsenet (Budgetudvalget) :
+Borgmesteren, Formand,
+I. C. Sørensen,
+"	1943	6	1
+"6"	1943-06-01	"open"	"19430601_51.pdf"	3	"10_6-1943"	"K. Mousten,
+J. R. Fanger,
+S. Unmack Larsen.
+For Havnevæsenet:
+Borgmesteren, Formand,
+Kai Blicher,
+Chr. Nielsen,
+J. C. Sørensen,
+S. Unmack Larsen.
+For Socialforsorgen:
+Chr. Nielsen, Formand,
+C. Møller Rasmussen,
+H. P. Jensen,
+Esther Aggebo,
+G.Baunsgaard.
+For Børneværnet:
+Chr. Nielsen, Formand,
+Esther Aggebo,
+Erna Hedtoft Larsen,
+C. Møller Rasmussen.
+Suppleanter:
+G.Baunsgaard,
+Niels Laursen,
+Johanne Berg,
+Oluf Nielsen.
+samt valgte udenfor Byraadet Læge Niels Lassen, Realskolebestyrer Ax. Hansen, 
+Suppleanter:
+Fru Anna Rasmussen, Amtsraadssekretær. Frk. S. Ammitzbøll.
+"	1943	6	1
+"7"	1943-06-01	"open"	"19430601_51.pdf"	4	"10_6-1943"	"For Sygehusene:
+K. Mousten, Formand,
+Oluf Nielsen,
+Johanne Berg,
+Niels Laursen,
+S. Unmack Larsen.
+For Belysningsvæsenet og Sporvejene: Borgmesteren, Formand,
+J. R. Fanger,
+Sigv. Nielsen,
+Kai Blicher,
+Jens Jensen.
+Vejteknisk Udvalg:
+J. R. Fanger, Formand,
+Sigv. Nielsen,
+S. Lauritzen,
+Bernh. Jensen,
+Oluf Nielsen.
+For det offentlige Slagtehus:
+C. Møller Rasmussen, Formand, Jens Jensen,
+Niels Laursen.
+For Parkanlæg m. m.:
+Borgmesteren. Formand,
+J. Riber.
+Johanne Berg.
+For Skolevæsenet:
+K. Mousten, Formand,
+J. Riber,
+Johanne Berg,
+Esther Aggebo,
+Bernh. Jensen.
+"	1943	6	1
+"8"	1943-06-01	"open"	"19430601_51.pdf"	5	"10_6-1943"	"For Skovvæsenet:
+H. P. Jensen, Formand,
+J. Riber,
+Chr. Nielsen.
+For Markvæsenet:
+H.P. Jensen, Formand,
+Niels Laursen,
+G.Baunsgaard.
+For Vandværket:
+Ejner Mikkelsen, Formand,
+Jens Jensen,
+S. Lauritzen.
+For Byens Udvidelse og Bebyggelse Borgmesteren, Formand,
+C. Møller Rasmussen,
+K. Mousten,
+Ejner Mikkelsen,
+H.P. Jensen.
+For Andragender:
+S. Unmack Larsen, Formand,
+J. Riber.
+Sigv. Nielsen.
+For Biblioteksvæsen:
+Johanne Berg, Formand,
+Oluf Nielsen,
+S. Unmack Larsen.
+For Børnebiblioteker:
+Johanne Berg, Formand,
+J. Riber,
+S. Unmack Larsen.
+"	1943	6	1
+"9"	1943-06-01	"open"	"19430601_51.pdf"	6	"10_6-1943"	"For Affattelse af Rigsdagsvalglister: Borgmesteren, Formand,
+Oluf Nielsen,
+K. Mousten.
+Suppleanter:
+Johanne Berg,
+J. R. Fanger.
+Den kommunale Valgbestyrelse, herunder Affattelse af de kommunale Valglister: Borgmesteren, Formand,
+J. R. Fanger,
+K. Mousten.
+Suppleanter:
+Johanne Berg,
+Oluf Nielsen.
+For Revision af Skatterestancelister:
+H.P. Jensen, Formand,
+Niels Laursen,
+Ejner Mikkelsen.
+For Legater:
+Borgmesteren, Formand,
+Esther Aggebo,
+Chr. Nielsen.
+For Indkvartering:
+Borgmesteren, Formand,
+S. Lauritzen,
+Kaptajn G. J. J. A. Frisenvang.
+For Folkekøkkenet:
+Johanne Berg, Formand,
+Kai Blicher,
+Erna Hedtoft Larsen.
+"	1943	6	1
+"10"	1943-06-01	"open"	"19430601_51.pdf"	7	"10_6-1943"	"For Decisionen af Kommunens Regnskaber:
+G. Baunsgaard, Formand,
+Oluf Nielsen.
+For Gennemsyn af Havnens Regnskaber:
+K. Mousten, Formand,
+Niels Laursen.
+For Besættelse af Udvalg m. m.
+K. Mousten, Formand,
+J. C. Sørensen,
+Johanne Berg,
+J. R. Fanger,
+Chr. Nielsen.
+Midlertidige Udvalg:
+Udvalget for Opførelse af Boliger for Alders rentenydere:
+Borgmesteren, Formand,
+Ejner Mikkelsen og Medlemmerne af Socialudvalget.
+Prisudvalget (Handelsmsts Bek. af 19. Okt 1939 § 15):
+Borgmesteren, Formand,
+Kai Blicher,
+Bernh. Jensen.
+Brændselsudvalget (Handelsmst.s Bek af 3 April 1940):
+Sigv. Nielsen, Formand,
+Civilingeniør, Murermester B. Bak 
+Forretningsfører R. S. J. Skjødt-
+Forhandlingsudvalg ang. Byens Forsyning med Mælk m. v. (Handelsmst.s Bek. af 19. Aug. 1940) Borgmesteren, Formand,
+Oluf Nielsen,
+Erna Hedtoft Larsen.
+"	1943	6	1
+"11"	1943-06-01	"open"	"19430601_51.pdf"	8	"10_6-1943"	"Velfærdsudvalget (Byraadsbeslutning af 16. September 1940):
+Borgmesteren, Formand,
+Kai Blicher,
+Johanne Berg,
+J. C. Sørensen,
+Erna Hedtoft Larsen.
+Udvalget for Opførelse af et Lærlingehjem (Byraadsbeslutning af 15. Maj 1941): 
+Borgmesteren, Formand,
+Ejner Mikkelsen,
+K. Mousten,
+C. Møller Rasmussen,
+Chr. Nielsen.
+Bevillingsnævnet (Lov Nr. 99 af 29. Marts 1924): Borgmesteren, Formand, *)
+Politimesteren, *)
+S. Lauritzen,
+S. Unmack Larsen,
+Direktør Marinus Nielsen,
+Tjener Niels Jacobsen.
+Observatoriets Bestyrelse:
+S. Unmack Larsen, Formand,
+Niels Laursen,
+Erna Hedtoft Larsen,
+Observator Ruben Andersen, Kirkegaardsbestyrelsen (kgl. Anordning 17. Juli 1890):
+  Borgmesteren, Formand,
+Stiftsprovsten,
+Pastor Sølling,
+Johanne Berg,
+J. Riber.
+*Medlem i Henhold til Loven.
+"	1943	6	1
+"12"	1943-06-01	"open"	"19430601_51.pdf"	9	"10_6-1943"	"Skolekommissionen (Lov af 20. Maj 1933 § 3):
+K. Mousten, Formand,
+Esther Aggebo,
+Johanne Berg,
+J. Riber,
+Erna Hedtoft Larsen,
+Niels Laursen,
+Bernh. Jensen,
+Bankbud Friis Jensen,
+Uddeler Holger Jensen.
+Bygningskommissionen (Lov af 25. Marts 1933 § 19): Borgmesteren, Formand, *)
+Politimesteren, *)
+Bygningsinspektøren, *)
+Brandchefen, *)
+Ejner Mikkelsen,
+Sigv. Nielsen,
+Forretningsfører K. Kaasgaard,
+Arkitekt C. Friistiick Nielsen.
+Brandkommissionen (Lov af 25. Marts 1933 § 19): Politimesteren, Formand, *)
+Brandchefen, *)
+Bygningsinspektøren, *)
+J. R. Fanger,
+Sigv. Nielsen,
+C. Møller Rasmussen,
+Jens Jensen.
+Sundhedskommissionen (Lov af 25. Marts 1933 § 19, jfr. Sundhedsvedt. § 2): 
+Politimesteren, Formand,*)
+Amtslægen ,*)
+*Medlem i Henhold til Loven.
+"	1943	6	1
+"13"	1943-06-01	"open"	"19430601_51.pdf"	10	"10_6-1943"	"G.Baunsgaard,
+Oluf Nielsen,
+Arkitekt Wm. Klemann,
+Læge Tscherning,
+Læge Niels Lassen.
+Boligkommissionen (Lov af 31. Maj 1939 § 4):
+S. Unmack Larsen, Formand,
+Amtslæge Juul,
+Murer S. F. Sørensen,
+Bygningsinspektør Kr. Møller,
+S. Lauritzen,
+Arkitekt Wm. Klemann,
+Niels Laursen.
+Kommissionen for Afholdelse af Sanitets- Gas og Vandmesterprøven i Aarhus. Gasværksbestyreren,
+Stadsingeniøren,
+S. Lauritzen.
+Jens Jensen.
+Af Byraadet er valgt: til Medlemmer af Bestyrelsen for Aarhus Universitet:
+Borgmesteren,
+K. Mousten,
+J. C. Sørensen.
+til Medlemmer af Bestyrelsen for Aarhus tekniske Skole:
+Borgmesteren,
+Ejner Mikkelsen,
+til Medlemmer af Bestyrelsen for Aarhus-Hallen Borgmesteren,
+J. R. Fanger.
+"	1943	6	1
+"14"	1943-06-01	"open"	"19430601_51.pdf"	11	"10_6-1943"	"til Medlem af Bestyrelsen for Aarhus Museums Kunstafdeling:
+J. C. Sørensen.
+til Medlem af Bestyrelsen for Aarhus Museums historiske Afdeling:
+S. Unmack Larsen.
+til Medlemmer af Bestyrelsen for Naturhistorisk Museum:
+K. Mousten,
+J. Riber,
+S. Unmack Larsen.
+til Medlemmer af Bestyrelsen for Købstadmuseet \"Den gamle By\":
+Borgmesteren,
+J. C. Sørensen.
+til Medlemmer af Aarhus Teaters Repræsentantskab:
+Borgmesteren,
+J. C. Sørensen,
+K. Mousten,
+J. R. Fanger,
+Johanne Berg.
+til Medlemmer af Bestyrelsen for Aarhus Ridehal:
+Borgmesteren,
+Niels Laursen,
+til Medlemmer af Bestyrelsen for Aarhus Turistforening:
+Borgmesteren,
+Oluf Nielsen,
+Johanne Berg.
+"	1943	6	1
+"15"	1943-06-01	"open"	"19430601_51.pdf"	12	"10_6-1943"	"til at føre Tilsyn med Biografteatervirksomheden (Lov Nr. 105 af 31. Marts 1933 § 19):
+K. Mousten,
+J. C. Sørensen,
+Johanne Berg.
+til Medlemmer af Mindeparkens Repræsentantskab :
+Borgmesteren,
+Esther Aggebo,
+Johanne Berg,
+Niels Laursen,
+G.Baunsgaard.
+Suppl.
+Bernh. Jensen,
+J Riber,
+Erna Hedtoft Larsen,
+S. Lauritzen,
+Jens Jensen.
+til Medlemmer af Idrætsparkens Repræsentantskab :
+Sigv. Nielsen,
+J. C. Sørensen,
+Jens Jensen,
+Kai Blicher,
+G.Baunsgaard.
+til Medlemmer af Bestyrelsen for Radiumstationen:
+K. Mousten,
+Oluf Nielsen,
+Johanne Berg,
+Købm. Vald. Kloster.
+Redaktør Fr. Højmark, Suppl. for Medlemmerne.
+"	1943	6	1
+"16"	1943-06-01	"open"	"19430601_51.pdf"	13	"10_6-1943"	"til Medlem af Landstingsvalgbestyrelsen (Lov Nr. 139 af 11. April 1920 § 58):
+K. Mousten.
+til Medlem af Udvalg efter Lov om Folkeforsikring af 20. Maj 1933 § 8:
+Oluf Nielsen.
+til at føre det i Retsplejeloven af 11. April 1916, § 793, omhandlede Tilsyn med Varetægtsfangers Behandling:
+Bernh. Jensen,
+S. Lauritzen.
+til Bestyrelsen for Christian den Niendes Børnehjem:
+Chr. Nielsen,
+Esther Aggebo,
+G.Baunsgaard,
+Amtsraadssekretær Frk. Ammitzbøll,
+Fru Glavind,
+Fru Ebba Blicher,
+Erna Hedtoft Larsen.
+til Medlem af Udvalg efter Lov om Tilsyn med Herberger, Arbejdshjem m. m. af 7. April 1936 § 8, jfr. § 5:
+C. Møller Rasmussen.
+til Medlemmer af Bestyrelsen for Arbejdsanstalten i Aarhus:
+Chr. Nielsen, Formand,
+C. Møller Rasmussen,
+H.P. Jensen.
+til Medlemmer af Ungdomsskolenævnet (Lov Nr. 312 af 4. Juli 1942):
+Johanne Berg,
+Esther Aggebo.
+"	1943	6	1
+"17"	1943-06-01	"open"	"19430601_51.pdf"	14	"10_6-1943"	"til Medlemmer af Aarhus Amts Skoleraad (Lov Nr. 211 af 20. Maj 1933 § 21. jfr. Bek. af 21. Febr. 1935):
+K. Mousten,
+Esther Aggebo,
+Sigv. Nielsen,
+J. Riber,
+Johanne Berg,
+Lærerinde Frk. Inger Jørgensen,
+Fru M. Bitsch,
+Forstanderinde Frk. Grethe Mondrup, 
+Undersøger Magn. Petersen,
+Niels Laursen,
+Bernh. Jensen,
+Fru Ellen Kirsten Sørensen.
+Erna Hedtoft Larsen,
+Suppl.:
+Folketingsmand Holger Eriksen,
+Fru Murermester Thyra Mikkelsen,
+Fru Agnete Ejbye-Ernst,
+Skolebestyrer Fru K. Nordby, 
+Slagtehusinsp. Alex. Jensen,
+Oluf Nielsen,
+Chr. Nielsen,
+Okerass. Rud. Jensen,
+Fru Bryggeriarb. Simonsen,
+Bankbud Friis Jensen,
+H.P. Jensen,
+Journalist Sv. Egly,
+Murer S. F. Sørensen.
+til Medlem af Overformynderiets Laanebestyrelse for Aarhus Amt (Lov af 26. Maj 1868, § 8):
+Ejner Mikkelsen.
+"	1943	6	1
+"18"	1943-06-01	"open"	"19430601_51.pdf"	15	"10_6-1943"	"til Medlem af Bestyrelsen for Aarhus-Hammel-Thorsø Jernbane:
+H.P. Jensen.
+Suppl.
+Sigv. Nielsen.
+til Medlem af Bestyrelsen for Sjelles Legat: 
+Esther Aggebo.
+til Vurderingsmænd i Henhold til Lov Nr. 352 af 7. August 1922 - § 10, jfr. Indenrigsmst.s Cirk. af 6. Februar 1937.
+Aarhus nordre Skyldkreds:
+1. Distrikt:
+Murerm. Bromann,
+Murer A. L. Hinge. Suppl.,
+Tømrerm. A. Winkler,
+Murerm. Norskov Christensen, 
+
+Suppl.,
+2. Distrikt:
+Murerm. Klostergaard Sørensen,
+Malerm. S. Lauritzen, Suppl.,
+Tømrer Thorvald Jensen,&lt;br&gt;
+Tømrer Sv. Aa. Petersen, Suppl.,
+3. Distrikt:
+Tømrerm. Klostergaard,
+Tømrerm. N. Haugaard, Suppl.,
+Murer S. F. Sørensen,
+Murer Marius Andersen, Suppl., 
+Aarhus søndre Skyldkreds:
+1. Distrikt:
+Maler Albert Rasmussen, 
+Tømrer Anders Jensen, Suppl.,
+Tømrerm. A. P. Skorstengaard,
+Tømrerm. H.Øvlisen, Suppl.,
+2. distrikt:
+Arkitekt C. Fühstück Nielsen,
+Arkitekt N. Chr. Skjøth Suppl.,
+Forretningsfører Aug. Borg,
+Blikkensl. Bertel Jensen, Suppl.,
+"	1943	6	1
+"19"	1943-06-01	"open"	"19430601_51.pdf"	16	"10_6-1943"	"3. Distrikt:
+Murer Jens Jensen,
+Tømrer Harald Jensen, Suppl., 
+Malerm. Himmelstrup,
+Smedem. M. Laigaard, Suppl.
+1.C. Sørensen gjorde opmærksom paa, at der vist var glemt et Par Valg, nemlig Tilsynsraadet for Arbejdsanvisningskontoret og 1 Medlem til Epidemikommissionen.
+Borgmesteren henstillede, at man i Dag nøjes med at vælge de foreslaaede, og saa kunde Udvalget komme med Forslag til Valg til de Hverv, som ikke var kommet med.
+Indstillingen vedtoges.
+"	1943	6	1
+"20"	1943-06-01	"open"	"19430601_51.pdf"	16	"408-1943"	"Indstilling fra Skoleudvalget om, at Kommunen betaler 10 % af Billetprisen ved Fribefordring af Skoleelever paa Jernbanerne.
+Indstillingen vedtoges.
+"	1943	6	1
+"21"	1943-06-10	"closed"	"19430610B_29.pdf"	1	"no related record"	"Mødet den 10. Juni 1943.
+(For lukkede Døre).
+"	1943	6	10
+"22"	1943-06-10	"closed"	"19430610B_29.pdf"	1	"99_6-1943"	"Andragende fra Arbejdernes Andelsboligforening om Udbetaling af Statslaan i 24 Dobbelthuse paa Matr. Nr. 60 a af Markj.
+-2. Behandling.
+Indstillingen vedtoges.
+"	1943	6	10
+"23"	1943-06-10	"closed"	"19430610B_29.pdf"	1	"99_4-1943"	"Andragende fra Arbejdernes Andelsboligforening om Udbetaling af Statslaan i 9 Dobbelthuse paa Matr. Nr. 54 an af Markj.
+-2. Behandling.
+Indstillingen vedtoges.
+"	1943	6	10
+"24"	1943-06-10	"closed"	"19430610B_29.pdf"	1	"206-1943"	"Indstilling om, at Skibsreder O. Larsen fritages for Hvervet som Medlem af Søretten og at fhv. Kaptajn, Revisor C. F. Mourier beskikkes i Stedet.
+Anbefaledes.
+"	1943	6	10
+"25"	1943-06-10	"closed"	"19430610B_29.pdf"	1	"401-1943"	"Indstilling fra Skoleudvalget om Optagelse af Elever i Marselisborg Gymnasium.
+Udvalget indstiller, at følgende optages:
+Grethe Birk, Chr.
+Doris Lund Møller, Fins.
+Gustav Wolder, Fjord.
+Poul W. Nielsen, Munk.
+"	1943	6	10
+"26"	1943-06-10	"closed"	"19430610B_29.pdf"	2	"401-1943"	"Preben S. A. Hansen, Munk.
+Marie Vangkilde, Fins.
+Bent K. Sørensen, Fjord.
+Erik W. Hede, Munk.
+Jørgen Fris Jensen, Munk.
+Elahrt Hauptmann, Fins.
+Karsten Tolderlund, Fjord.
+B. Pedersen-Danhøj, Munk.
+Robert Bruun, Fins.
+Kaj G. Nielsen, Munk.
+Indstillingen vedtoges.
+"	1943	6	10
+"27"	1943-06-10	"closed"	"19430610B_29.pdf"	2	"749-1942"	"Indstilling fra Havneudvalget om, at Belysningsmester E. Jacobsen efter Ansøgning bevilges Afsked uden Pension fra 10. Oktober 1942 at regne.
+Indstillingen vedtoges.
+"	1943	6	10
+"28"	1943-06-10	"closed"	"19430610B_29.pdf"	2	"33_20-1943"	"Indstilling fra Havneudvalget om, at Maskinmester S. P. Jensen fra 1. Oktober 1942 udnævnes til Belysningsmester og Kraninspektør med Løn efter 5. Lønklasse og Anciennitet fra 1 September 1937.
+Indstillingen vedtoges.
+"	1943	6	10
+"29"	1943-06-10	"closed"	"19430610B_29.pdf"	2	"8_10-1943"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat.
+Kommissionen foreslaar følgende Efterbetalinger.
+Købmand H. P. Friis, N. W. Gadesvej 9................................ 70000Kr.
+Tandlæge Frk Ragnhild Teilmann,Gentofte...........................2100\"
+Fhv. Uddeler M. Chr. Christensen,
+Otto Rudsgade84...............200\"
+Kontorassistent Frk. E. C. M. Lassen, Nørregade32...............15\"
+Ialt 72315Kr.
+Tiltraadtes.
+"	1943	6	10
+"30"	1943-06-10	"closed"	"19430610B_29.pdf"	3	"17_17-1943 og 17_18-1943"	"Indstilling fra Socialudvalget om Ydelse af Sygehjælp uden Fattighjælps Virkning til:
+a. (J. Nr. 17_17-1943). Anna S. M. Lademann.
+b. (J. Nr. 17_18-1943). Ellen M. E. Pedersen. Indstillingen vedtoges.
+"	1943	6	10
+"31"	1943-06-10	"open"	"19430610_67.pdf"	1	"no related record"	"Mødet den 10. Juni 1943.
+"	1943	6	10
+"32"	1943-06-10	"open"	"19430610_67.pdf"	1	"159-1943"	"Valg af Borgmester.
+Borgmesteren bemærkede, at det var en lidt morsom Sag at faa til 2. Behandling, idet der var blevet sagt, at Formaliteterne ikke var helt i Orden, da Valget blev foretaget. Taleren bad Mousten lede Valget.
+K. Mousten indtog Formandspladsen og udtalte, at reelt var der ikke Tvivl om, at Valget var i Orden, men formelt skulde der stemmes 2 Gange, naar der ikke var absolut Flertal. Taleren spurgte, om der blev foreslaaet andre til Hvervet.
+-Da det ikke var Tilfældet, vilde der blive foretaget skriftlig Afstemning.
+Stecher Christensen valgtes til Borgmester med 11 Stemmer, medens 9 Stemmesedler var blanke, og 1 Medlem var fraværende.
+Borgmesteren indtog Formandspladsen og takkede atter for Valget. For ikke at faa mere Vrøvl om Sagen havde Taleren denne Gang afgivet Stemme.
+"	1943	6	10
+"33"	1943-06-10	"open"	"19430610_67.pdf"	1	"301-1943"	"Indenrigsministeriets Samtykke til Kommunens Køb af Grunden Matr. Nr. 1836 af Bygr.
+Toges til Efterretning.
+"	1943	6	10
+"34"	1943-06-10	"open"	"19430610_67.pdf"	2	"11_7-1943 og 11_5-1943 og 11_6-1943 og 22_1-1943"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a.(J. Nr. 11_7-1943). Fru Rigmor Thomsen.
+b.(J. Nr. 11_5-1943). Trafikassistent S. J. Sveller.
+c.(J. Nr. 11_6-1943). Arbejdsmand W. Justesen.
+d.(J. Nr. 22_1-1943). Repræsentant Kay Petersen. Toges til Efterretning.
+"	1943	6	10
+"35"	1943-06-10	"open"	"19430610_67.pdf"	2	"99_1-1943"	"Meddelelse fra Indenrigsministeriet om Bevilling af Statslaan til cand. pharm. P. Ahnfeldt Mollerup til en Villa i Riisvangen.
+Toges til Efterretning.
+"	1943	6	10
+"36"	1943-06-10	"open"	"19430610_67.pdf"	2	"286-1943"	"Meddelelse fra Undervisningsministeriet om, at der efter Ansøgning er meddelt Adjunkt ved Marselisborg Skole J. Chr. Madsen Afsked paa Grund af Ansættelse ved Aarhus Universitet.
+Toges til Efterretning.
+"	1943	6	10
+"37"	1943-06-10	"open"	"19430610_67.pdf"	2	"366-1943"	"Regnskab for Jul. Philipsons Legat i 1942.
+Toges til Efterretning.
+"	1943	6	10
+"38"	1943-06-10	"open"	"19430610_67.pdf"	2	"227-1943"	"Indstilling fra Budgetudvalget om Ændringer i Kommunens Styrelsesvedtægt, hvorefter Lønudvalget og Udvalget for Bygninger og Inventar ophæves. - 2. Behandling.
+K. Mousten meddelte, at der ikke var helt Enighed herom i Gruppen, hvorfor Taleren vilde foreslaa, at Spørgsmaalet om Ophævelse af Lønudvalget og Oprettelse af et Lønningsraad udgaar af Forslaget, medens Indstillingen iøvrigt vedtages.
+Indstillingen vedtoges med den af K. Mousten foreslaaede Ændring.
+"	1943	6	10
+"39"	1943-06-10	"open"	"19430610_67.pdf"	2	"227-1943"	"Indstilling fra Budgetudvalget om Optryk af Kommunens Styrelsesvedtægt med Indføjelse af de i Tidens Løb foretagne Ændringer og Tilføjelser. - 2. Behandling.
+"	1943	6	10
+"40"	1943-06-10	"open"	"19430610_67.pdf"	3	"227-1943"	"Borgmesteren bemærkede, at Spørgsmaalet om Lønudvalget og Lønningsraadet foreløbig maatte stilles i Bero.
+Indstillingen vedtoges med den nævnte Ændring.
+"	1943	6	10
+"41"	1943-06-10	"open"	"19430610_67.pdf"	3	"354-1943"	"Indstilling fra Socialudvalget om Bevilling til en Feriekoloni i Jerup Statsungdomslejr. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	6	10
+"42"	1943-06-10	"open"	"19430610_67.pdf"	3	"382-1943"	"Indstilling angaaende Tilskud til en Pensionsordning for Hjemmesygeplejersker.
+-2. Behandling.
+Indstillingen vedtoges.
+"	1943	6	10
+"43"	1943-06-10	"open"	"19430610_67.pdf"	3	"219-1943"	"Indstilling om Bevilling af 400 Kr. til Christiansbjerg Børnehave til Indretning af Legeplads med Legeredskaber, saaledes at Udgiften afholdes som Tillægsbevilling til Konto 8 i Budgettet for 1943-44.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1943	6	10
+"44"	1943-06-10	"open"	"19430610_67.pdf"	3	"273-1943"	"Indstilling om, at det til Folkebørnehaven Granly bevilgede Tilskud paa 1000 Kr. til Opførelse af et Fritidshjem forhøjes til 3000 Kr., og at Forhøjelsen afholdes som Tillægsbevilling til Konto 25 i Budgettet for 1943-44.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1943	6	10
+"45"	1943-06-10	"open"	"19430610_67.pdf"	3	"453-1943"	"Indstilling om Tillægsbevilling til Konto II B i Budgettet for 1943-44 til Installation af nyt elektrisk Stik og Indretning af W. C. og Toiletter i Ejendommen Mejlgade 59.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1943	6	10
+"46"	1943-06-10	"open"	"19430610_67.pdf"	3	"451-1943"	"Indstilling fra Belysningsudvalget om Tillægsbevilling paa 75000 Kr. til
+"	1943	6	10
+"47"	1943-06-10	"open"	"19430610_67.pdf"	4	"451-1943"	"Anskaffelse af Askeudskillere til Elektricitetsværket.
+Borgmesteren oplyste, at det var nødvendigt for at undgaa den store Røg- og Støvplage i Kvarteret. Man havde ment at kunne spare dem, idet det vilde hjælpe, naar det ny Kedelanlæg kom i Drift; men da mange Værker omkring i Jylland var standset, var Aarhusværket blevet saa overbelastet, at man vedblivende ogsaa maatte bruge de gamle Kedler.
+Overgik til 2. Behandling.
+"	1943	6	10
+"48"	1943-06-10	"open"	"19430610_67.pdf"	4	"360-1943"	"Indstilling fra Vandværksudvalget om Bevilling af 20000 Kr. til Forarbejder til Sikring af fremtidige Trykledninger til nye Vandindvindingsanlæg, saaledes at der for indeværende Aar stilles det paa Arbejdsplanen afsatte Beløb paa 10000 Kr. til Raadighed.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1943	6	10
+"49"	1943-06-10	"open"	"19430610_67.pdf"	4	"239-1943"	"Indstilling om, at det til Landsforeningen for Hjemstavnskultur afsatte Tilskud deles lige mellem Foreningen og det af Lektor Regnar Knudsen oprettede Institut for Hjemstavnsforskning.
+Indstillingen vedtoges.
+"	1943	6	10
+"50"	1943-06-10	"open"	"19430610_67.pdf"	4	"424-1943"	"Andragende fra Aarhus Byorkester om Udbetaling af Tilskud.
+Budgetudvalget indstiller, at Tilskudet udbetales med 3500 Kr. maanedlig i 10 Maaneder.
+Bernhard Jensen udtalte, at naar Kommunen yder et forholdsvis stort Tilskud til et kommunalt Orkester, var det sikkert Byraadets Mening, at Musikken skal komme de flest mulige af Borgerne til gode. En Del af Beløbet var jo til Friluftskoncerter, som var meget populære, men for Tiden afholdtes disse Koncerter paa
+"	1943	6	10
+"51"	1943-06-10	"open"	"19430610_67.pdf"	5	"424-1943"	"Byens Torve og Pladser paa et temmeligt tidligt Tidspunkt om Aftenen, hvor mange Mennesker, særlig Husmodre var afskaaret fra at komme til Stede, og der var ogsaa for faa Siddepladser til ældre Folk. Taleren vilde derfor henstille, at nogle af disse Koncerter afholdes Søndag Eftermiddag. En Arbejderfamilie havde ikke Raad til at gaa paa Restauration for at høre Musik, og Skovrestauranterne havde afskaffet Koncerterne; men man burde have noget lignende som i Fælledparken i København, saa mange flere kunde faa Adgang til at høre Koncerterne. Der kunde nok findes et Sted i Skoven eller maaske i Vennelyst, hvor Folk kunde ligge i Græsset eller sidde paa Bænke og nyde Musikken. Det skulde ikke være nogen Kritik af Orkestret, men en Henstilling om at faa mere ud af det Tilskud, som var bevilget.
+Borgmesteren kunde godt sympatisere med denne Tanke, hvis det af praktiske Grunde kunde gennemføres. Antagelig vilde Parkudvalget tage Henstillingen under Overvejelse.
+Indstillingen vedtoges.
+"	1943	6	10
+"52"	1943-06-10	"open"	"19430610_67.pdf"	5	"67-1943"	"Andragende fra Medlemmer af Aarhus Byorkester om Tilskud til Afholdelse af Skolekoncerter som Beskættigelsesforanstaltning.
+Budgetudvalget kan ikke anbefale Andragendet.
+Borgmesteren oplyste, at man ikke havde noget mod saadanne Koncerter, men der havde ikke været Tid til at behandle Sagen rigtig, hvorfor Udvalget mente, at man i Aar burde opgive disse Koncerter.
+Kunde ikke bevilges.
+"	1943	6	10
+"53"	1943-06-10	"open"	"19430610_67.pdf"	6	"10_7-1943 og 10_8-1943 og 10_9-1943 og 10_4-1943"	"Indstilling fra Udvalget for Besættelse af Udvalg m. m. om Valg til forskellige Hverv.
+Følgende Indstilling forelaa:
+a.(J. Nr. 10_7-1943). Kornnævn.
+Nyt Valg foretages ikke.
+b.(J. Nr. 10_8- 1943). Tilsynsraad for Amts-Arbejdsanvisningskontoret.
+Formand: Overlærer N. C. Larsen.
+Suppleant: Landsretssagfører K. Rønnow. Medlemmer: Forretningsfører Leonhard Hansen og Direktør L. Mikkelsen.
+Suppleanter: Formand Chr. Jensen og Driftsingeniør N. Nielsen.
+c.(J. Nr. 10_9-1943). Medlem af Bestyrelsen for Hads-Ning-Herreders Jernbane: Murermester Ejner Mikkelsen.
+d.(J. Nr. 10_9-1943). Bestyrelsen for Frederiksberg Boligselskab:
+Konsul Kai Blicher og Murer S. F. Sørensen.
+e.(J. Nr. 10_4-1943). Naturfredningsnævnet for Aarhus Amtsraadskreds:
+Frk. Johanne Berg.
+Suppleant: Overlærer Johs. Riber.
+f.(J. Nr. 10_4-1943). Taksationskommissionen i Henhold til Lov om Naturfredning:
+Murermester Ejner Mikkelsen.
+g.(J. Nr. 10_9-1943). Synsmænd i Henhold til Lov om Hærens Forsyning med Heste og Vogne:
+Vognmand S. P. M. Pedersen og Overpolitibetjent N. S. Nielsen.
+h.(J. Nr. 10_9-1943). Vurderingskommissionen i Henhold til samme Lov: Automobilhandler N. Schrøder.
+"	1943	6	10
+"54"	1943-06-10	"open"	"19430610_67.pdf"	7	"10_7-1943 og 10_8-1943 og 10_9-1943 og 10_4-1943"	"i.(J. Nr. 10_9 - 1943). Medlem af Overepidemi- kommissionen:
+Kontorchef Oluf Nielsen,
+ j. (J. Nr. 10_9-1943). Bestyrelsen for Grosserer Ravnsø og Hustrus Legater: Formand Chr. Nielsen og Fru Esther Aggebo.
+Indstillingen vedtoges.
+"	1943	6	10
+"55"	1943-06-10	"open"	"19430610_67.pdf"	7	"418-1943"	"Meddelelse fra Købstadfor-
+eningen om alm. Købstadmøde den 18-19. August.
+Til Repræsentanter valgtes Borgmesteren, K. Mousten, Unmack Larsen, J. R. Fanger, Johs. Riber og I. C. Sørensen.
+"	1943	6	10

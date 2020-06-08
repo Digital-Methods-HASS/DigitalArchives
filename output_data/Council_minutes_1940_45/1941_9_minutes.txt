@@ -1,0 +1,773 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1941-09-11	"closed"	"19410911B_165.pdf"	1	"no related record"	"Mødet den 11. Septbr. 1941.
+(For iukkede Døre).
+Fraværende: Borgmesteren, Thomas Christensen, Vald. Kloster, Hans Madsen, Chr. Nielsen og I. C. Sørensen.
+Mødet lededes af Viceborgmester E. Stecher Christensen.
+"	1941	9	11
+"2"	1941-09-11	"closed"	"19410911B_165.pdf"	1	"112-1941"	"Andragende om Støtte til Bygningsistandsættelser i Henhold til Lov af 17. Februar 1941.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Meddelelser: Bevilgede Andragender.
+Sproglærer L. Pedersen, Sønderallé 32, Tilskud forhøjet med 265 Kr.
+Den alm. Brandforsikring for Landbygninger, Parkallé 15, Tilskud forhøjet med 615 Kr.
+Carl A. Brøchner, Schleppegrellsgade 5, Laan 850 Kr.
+P. S. Houlberg, Søndergade 30, samlet Udgift 3835 Kr. - Tilskud 1340 Kr.
+Entreprenør O. M. Haugaard, Silkeborgvej 126, samlet Udgift 668 Kr. - Tilskud 235 Kr.
+Samme, Silkeborgvej 128, samlet Udgift 481 Kr. - Tilskud 170 Kr.
+Samme, Silkeborgvej 130, samlet Udgift 328 Kr.
+-Tilskud 115 Kr.
+"	1941	9	11
+"3"	1941-09-11	"closed"	"19410911B_165.pdf"	2	"112-1941"	"Malerm. H. Chr. Secher, Sct. Olufsgade 1, samlet Udgift 670 Kr. - Tilskud 235 Kr. Toges til Efterretning.
+"	1941	9	11
+"4"	1941-09-11	"closed"	"19410911B_165.pdf"	2	"535-1941"	"Licitationstilbud paa Kultransportanlæg til Kedelhus ved Marselisborg Hospital.
+Sygehusudvalget indstiller at overdrage Arbejdet til A. M. Nielsen Holst for 22476,20 Kr. Vedtaget ved Cirkulation.
+"	1941	9	11
+"5"	1941-09-11	"closed"	"19410911B_165.pdf"	2	"576-1941"	"Licitationstilbud paa Kedelanlæg, Isolering og elektriske Anlæg til Kedelhus ved Marselisborg Hospital.
+Fra Sygehusudvalget forelaa følgende Indstilling:
+Kedelanlæg: H. Chr. Hansen for 33844 Kr. Isolering: Jydsk Isoleringskompagni for 5973,20 Kr. Elektriske Anlæg: \"Eifa\" for 7844,10 Kr. Vedtaget ved Cirkulation.
+"	1941	9	11
+"6"	1941-09-11	"closed"	"19410911B_165.pdf"	2	"600-1941"	"Licitationstilbud paa Bygning af Dækningsgrave.
+Budgetudvalget indstiller, at Arbejdet ved Bygning af Tilflugtsrum paa Frederiksbjerg Torv, ved Dalgas Avenue, Marienlundsskolen og Møllevangsallé overdrages til Jord- og Betonarbejdernes coop. Forretning for 15380 Kr.
+Vedtaget ved Cirkulation.
+"	1941	9	11
+"7"	1941-09-11	"closed"	"19410911B_165.pdf"	2	"631-1941"	"Licitationstilbud paa Bygningsarbejder ved Lægeboligen til Neurologisk Afdeling.
+Fra Sygehusudvalget forelaa følgende Indstilling:
+a.Murerarbejde: Ejner Mikkelsen for 53900 Kr.
+b.Tømrerarbejde: E. Christensen og A. P. Jacobsen for 21262 Kr.
+c.Snedkerarbejde: Chr N. Withen for 15789 Kr.
+"	1941	9	11
+"8"	1941-09-11	"closed"	"19410911B_165.pdf"	3	"631-1941"	"d.Smedearbejde: Blikkenslagernes coop. Forretning for 998 Kr.
+e.Blikkenslagerarbejde: H. Chr. Hansen &amp;amp; Co. for 398 Kr.
+f.Glarrnesterarbejde: P. M. Sørensen for 1004,47 Kr.
+g.Malerarbejde: Malernes coop. Forretning for 4875 Kr.
+h.Staalvinduer: Christensen og Nielsen for 14929 Kr.
+Indstillingen vedtoges.
+"	1941	9	11
+"9"	1941-09-11	"closed"	"19410911B_165.pdf"	3	"631-1941"	"Licitationstilbud paa Bygningsarbejder ved Sygeplejerskebolig til Neurologisk Afdeling.
+Fra Sygehusudvalget forelaa følgende Indstilling:
+a.Murerarbejde: Ove Schrøder for 113800 Kr.
+b.Tømrerarbejde: H. L. Nielsen &amp;amp; Søn for 44340 Kr.
+c.Snedkerarbejde : Einar Pedersen for 29280 Kr.
+d.Smedearbejde: Blikkenslagernes coop. Forretning for 2756 Kr.
+e.Glarrnesterarbejde: P. M. Sørensen for 1669,92 Kr.
+f.Blikkenslagerarbejde: R. Hinge for 1085 Kr.
+g.Malerarbejde: J. Jeremiassen for 9800 Kr.
+h.Staalvinduer: L. Hammerich &amp;amp; Co for 29550 Kr.
+Indstillingen vedtoges.
+"	1941	9	11
+"10"	1941-09-11	"closed"	"19410911B_165.pdf"	3	"631-1941"	"Licitationstilbud paa Ingeniørarbejder ved Lægebolig og Sygeplejerskebolig til Neurologisk Afdeling.
+Fra Sygehusudvalget forelaa følgende Indstilling:
+a.Koldt- og Varmtvandsanlæg til Lægebolig: B. A. Olesen &amp;amp; Sønner for 2900 Kr.
+"	1941	9	11
+"11"	1941-09-11	"closed"	"19410911B_165.pdf"	4	"631-1941"	"Koldt- og Varmtvandsanlæg til Sygeplejerskebolig: Blikkenslagernes coop. Forretning for 5478 Kr.
+b.Spildevandsanlæg: H. Chr. Hansen &amp;amp; Co. for 5715 Kr.
+c.Sanitetsvarer: Brdr. Dahl. for 8839,53 Kr.
+d.Centralvarmeanlæg: B. A. Olesen &amp;amp; Sønner for 21650 Kr.
+e.Elektriske Anlæg: \"Eifa\" for 18618 Kr.
+Indstillingen vedtoges.
+"	1941	9	11
+"12"	1941-09-11	"closed"	"19410911B_165.pdf"	4	"631-1951"	"Licitationstilbud paa Personelevator til Sygeplejerskebolig ved Neurologisk Afdeling.
+Sygehusudvalget indstiller at overdrage Leverancen til \"Eifa\" for 7060 Kr.
+J. R. Fanger pegede paa, at de to laveste Tilbud, fra Eifa og Carl Thumand, var nøjagtig ens, 7060 Kr, De kunde vel lave Arbejdet lige godt, og det var derfor ikke retfærdigt at foretrække det ene fremfor det andet, hvorfor Taleren vilde foreslaa, at det afgøres ved Lodtrækning.
+K. Mousten oplyste, at man for nylig havde haft et lignende Tilfælde, hvor Thumand fik Leverancen af en Elevator. Men her var det vist ligegyldigt, hvem der fik Arbejdet, idet Thumand i begge Tilfælde kom til at levere Elevatoren og Eifa den elektriske Installation.
+Sigvald Nielsen fandt det mest praktisk at give Arbejdet til det Firma, som har Hovedentreprisen, og det var ogsaa Kotume at gøre dette. Hr. Fangers Stilling var et konservativt Tricks, fordi det drejede sig om et cooperativt Foretagende. De Konservalive burde respektere de cooperative Forretninger, som man fra den anden Side respekterede Haandværksmestrene, saa blev man fri for alle disse Angreb og Skriverier.
+"	1941	9	11
+"13"	1941-09-11	"closed"	"19410911B_165.pdf"	5	"631-1951"	"Stecher Christensen mente, det var en Strid om ingenting, for hvis Thumand fik Leverancen, vilde han entrere med Eifa om at lave Installationen, og hvis Eifa fik Leverancen, vilde Thumand som Repræsentant for Trige komme til at levere Elevatoren til Eifa.
+J. R. Fanger havde aldrig set et rent elektrisk installationsfirma bygge Elevator, og der var ogsaa andre Maskiner ved en saadan, som ikke havde noget med elektrisk Installation at gøre. Hvorvidt Thumand i begge Tilfælde kom til at levere Elevatoren, fremgik ikke af Sagen. Taleren havde ikke kritiseret de cooperative Forretninger; men naar de 2 Tilbud var ens, var det naturligt at foretage Lodtrækning eller ogsaa give Leverancen til Triges Repræsentant, naar dette Firma skulde levere Elevatoren.
+E. Winterberg syntes, det var tor lille en Sag at strides om. Thumand var Repræsentant for Trige, og Eifa havde faaet sit Tilbud gennem ham. Hvis han fik Leverancen, skulde han entrere med en Installatør, og det blev Eifa. Han fik sin Provision i begge Tilfælde. Installationen betød vel ca. Halvdelen af Prisen for Elevatoren, saa det var ikke betydningsløst. Thumand havde faaet Leverancen af en Elevator, som kostede dobbelt saa meget, og saa var der ikke Grund til nogen Kritik.
+K. Mousten gjorde opmærksom paa, at det elektriske Arbejde ikke drejede sig om Tilslutning alene; det var ogsaa til Døre, Spillet o. s. v., saa det var en ret betydelig Del af Leverancen.
+J. R. Fanger syntes, at naar det faktisk var ligegyldigt, skete der intet ved at foretage Lodtrækning, og Taleren vilde stille Forslag derom.
+"	1941	9	11
+"14"	1941-09-11	"closed"	"19410911B_165.pdf"	6	"631-1951"	"Forslaget om Lodtrækning forkastedes med 8 Stemmer mod 6, hvorefter Udvalgets Indstilling vedtoges.
+"	1941	9	11
+"15"	1941-09-11	"closed"	"19410911B_165.pdf"	6	"684-1941"	"Licitationstilbud paa Ingeniørarbejder ved Udvidelsen af Finsensgades Skole.
+Fra Skoleudvalget forelaa følgende Indstilling: Varmeanlæg: Blikkenslagernes coop. Forretning
+for 18772,35 Kr.
+Sanitet: Samme for 11713,70 Kr.
+Isolering: Janus A. Lind for 1991 Kr.
+Elektrisk Installation: M. J. Hestbæk for 5037,87
+Kr.
+Indstillingen vedtoges.
+"	1941	9	11
+"16"	1941-09-11	"closed"	"19410911B_165.pdf"	6	"566-1941"	"Indstilling fra Skoleudvalget angaaende Tømrerarbejdet ved Udvidelsen af Finsensgade Skole. (Side 151).
+K. Mousten meddelte, at Tømrermestrene Jørgensen &amp;amp; Elsborg, der som de lavest bydende havde faaet Arbejdet overdraget, ikke havde været at formaa til at afslutte Kontrakt om Arbejdet, hvorfor Udvalget foreslog at overdrage dette til den næstlaveste, Tømrermester Einar Pedersen, der havde erklæret sig villig til at staa ved sit Tilbud paa 34870 Kr. Desuden forbeholdt man sig eventuelt at gøre Erstatningskrav gældende mod det første Firma for den Merudgift, som herved paaføres Kommunen.
+Indstillingen vedtoges.
+"	1941	9	11
+"17"	1941-09-11	"closed"	"19410911B_165.pdf"	6	"42_1-1941"	"Indstilling fra Budgetudvalget
+angaaende en Ordning af Marmorleverancen til Raadhuset.
+Følgende Indstilling forelaa:
+\"Efter at der den 31. Juli 1940 var truffet en Ordning angaaende Marmorleverancen til det nye Raadhus, blandt andet angaaende Pristillæg til Leverancen, hvilken Ordning godkendtes 
+"	1941	9	11
+"18"	1941-09-11	"closed"	"19410911B_165.pdf"	7	"42_1-1941"	"af Byraadet i Mødet den 30. Juli s. A, er der paany opstaaet Divergenser angaaende Leverancen. Disse Divergenser, der til syvende og sidst bunder i den ekstraordinære Situation, der er opstaaet siden Overenskomsten om Leverancen blev afsluttet i 1939
+-som det formentlig vil være Byraadet bekendt, brydes Marmoret i Norge - har medført en Retssag mellem Marmorleverandøren A/S Ankerske Marmorforretning, København, og Stenhuggerfirmaerne Christensen og Brdr. Kofoed, Aarhus, der har Opsætningen af Marmoret i Entreprise.
+Sagen drejer sig oprindelig om Brækage til et Beløb af 1558,12 Kr. og Udgifter til Krigsforsikring 5274 Kr., som A/S Ankerske forlanger udbetalt. Hertil kommer yderligere, at da A/S Ankerske ikke havde opfyldt hele Leverancen til den 1. Maj d. A. som aftalt den 31. Juli 1940, tog man Forbehold med Hensyn til Betaling af det ved samme Lejlighed aftalte Pristillæg, hvorefter Betalingen af Pristillægget indstilledes. A/S Ankerske ophævede herefter Kontrakten for yderligere Leverancer og krævede Pristillægget for det allerede leverede Marmor Kr. 19566 Kr. med Renter betalt.
+Sagen blev yderligere kompliceret ved, at det viste sig, at der skulde bruges mere Marmor til Raadhuset end oprindelig regnet med.
+Stenhuggermestrene anerkendte, at A/S Ankerske havde Krav paa Brækage 1558,12 Kr., for saa vidt angik Beløbet for Pristillægget Kr. 19566 blev det for Udvalget oplyst, at det meste af Leverancen var opfyldt i Midten af Maj Maaned d. A., og at Forsinkelsen skyldtes
+"	1941	9	11
+"19"	1941-09-11	"closed"	"19410911B_165.pdf"	8	"42_1-1941"	"saadanne Aarsager, at Udvalget, hvis man inden
+1.Maj d. A. var blevet gjort bekendt med disse Aarsager, vilde have indrømmet en Forlængelse af Leveringsfristen. Under disse Omstændigheder var Udvalget af den Opfattelse, at man ikke kunde nægte Marmorforretningen det nævnte Pristillæg.
+Idet Sagen laa saaledes, og man maatte anse det for ønskeligt, om der kom en Ordning paa Mellemværendet, saaledes at Marmorleverancerne til Raadhuset kunde genoptages, optog man Forhandling med A/S Ankerske og Kommunens Hovedentreprenør Oscar M. Haugaard og Stenhuggermestrene angaaende en forligsmæssig Ordning. Saafremt Sagen ikke kom i Orden nu, maatte man regne med, at man først efter Krigens Slutning kan faa Marmoret, idet det, efter hvad Raadhusarkitekterne nu oplyser, er højst usandsynligt, at man andet Steds end hos A/S Ankerske kan faa Marmor, der svarer til det, der allerede er opsat.
+Efter nogle vanskelige Forhandlinger enedes man om en Ordning, som angivet i vedlagte Udkast til \"Tillæg til Aftaler af 7/6 1939 og 31/7 1940 mellem Stenhuggerfirmaerne Chr. Christensen og Brdr. Kofoed, Aarhus, i Forening og A/S Ankerske Marmorforretning, København,\" saaledes at der vil være at træffe nærmere Aftale mellem Kommunen paa den ene Side og Entreprenør Haugaard og Stenhuggermestrene paa den anden Side angaaende den Indflydelse, som Forliget vil faa paa Forholdet mellem Kommunen og de nævnte.
+Idet man iøvrigt henviser til vedlagte Skrivelse af 5. ds. fra Landsretssagfører I. C. Sørensen og dermed fulgte Afskrift at Skrivelse
+"	1941	9	11
+"20"	1941-09-11	"closed"	"19410911B_165.pdf"	9	"42_1-1941"	"3.s. M. fra A/S Ankerske’s Sagfører, Højesteretssagfører Viggo Carstensen, skal man herved indstille Ordningen til Byraadets Godkendelse.\"
+\"Tillæg til Aftaler af 7/6. 1939 og 31/7. 1940 mellem Stenhuggerfirmaerne Chr. Christensen og Bdr. Kofoed, Aarhus, i Forening og A/S Ankerske Marmorforretning, København.
+Aftalerne af 7/6 1939 og 31/7 1940 er bortfaldet, efter at der i Dag er indgaaet følgende Forlig:
+Ved Accept af Ordre af D. D. fra Christensen og Kofoed forpligter Ankerske sig til at levere ca. 850 m2 2 ½ cm. Plader, efter de i Ankerske’s Besiddelse værende Maalspecifikationer, minus hvad der er leveret i Henhold til Fakturaer. løvrigt gentages de almindelige Bestemmelser i den oprindelige Kontrakt af 7/6 1939.
+Leveringen finder Sted hurtigst muligt, efter at Ankerske har modtaget endelig Maalspecifikation fra Christensen og Kofoed. Denne Maalspecifikation vil være at levere senest 15. September d. A. Det bemærkes, at hvis den sidste Specifikation fra Christensen og Kofoed ikke er overensstemmende med de allerede givne Maalspecifikationer, vil dette medføre nogen Forsinkelse.
+Christensen og Kofoed sørger for fornøden Indførselsbevilling.
+Prisen for de ca. 850 m2 2 ½ cm. Plader er 51 Kr. pr. m2 cif eller fragtfrit Aarhus. Eventuel Krigsassurance for dette Parti betales af Ankerske. Eventuel Kursstigning paa norske Kroner bæres af Ankerske.
+Betalingen skersom hidtil med 3 Maaneders rentefri Accept.
+"	1941	9	11
+"21"	1941-09-11	"closed"	"19410911B_165.pdf"	10	"42_1-1941"	"Christensen og Kofoed betaler senest d. 15. ds. ved Indbetaling til Ankerskes Konto j A/S Købmands og Haandværkerbanken i Aarhus Kr. 24568,69 til fuld Afgørelse af det i Tillæg af 11/7 1941 til Stævning af 7/3 1941 nævnte Beløb Kr. 26398,12 + Renter til d. 15. ds., idet bemærkes, at Sagens Omkostninger er dækket i den Pris, som D. D. er aftalt for Levering af 850 m2 2 ½ cm. Plader.
+Herefter hæver Ankerske de paabegyndte Retssager mod Christensen og Kofoed, og ingen af Parterne vil for Retten paastaa Omkostninger.
+Skulde særlige Forhold opstaa ved Leveringen af nævnte ca. 850 m2, vil Ankerske give Byraadet direkte Meddelelse.\" &lt;br&gt;Stecher Christensen oplyste, at Kommunen havde tilbageholdt godt 19000 Kr. af Marmorforretningens Tilgodehavende, fordi Marmoret var leveret 14 Dage for sent; men det tilbød man senere at se bort fra. Marmorforretningen krævede endvidere 1500 Kr. for Brækage og et Beløb til Krigsassurance, og det var det sidste Beløb, som hele Striden stod om. Efter en Forhandling mente man at være kommet til Enighed, men saa blev de to Parters Sagførere uenige, og det endte med, at Kommunen gav Afkald paa Levering af mere Marmor. Senere kom nye Forhandlinger i Stand, og endelig enedes man om et Forlig. Udvalget indstillede dette til Godkendelse, da det var rarest at faa det manglende Marmor.
+J. R. Fanger gjorde opmærksom paa, at det ogsaa var bestemt, at Ankerske for de resterende 850 m2 skal have en Pris af 51 Kr. pr. m2 i Stedet for som tidligere 36 Kr.
+"	1941	9	11
+"22"	1941-09-11	"closed"	"19410911B_165.pdf"	11	"42_1-1941"	"Stecher Christensen erkendte, at dette Forhold ikke var særlig nævnt i Indstillingen, men det fremgik af Forliget.
+Indstillingen vedtoges.
+"	1941	9	11
+"23"	1941-09-11	"closed"	"19410911B_165.pdf"	11	"215-1941"	"Indstilling fra Udvalget for Opførelse af et Lærlingehjem angaaende en Grund til dette samt om Antagelse af Arkitekter og Ingeniører.
+Følgende Indstilling forelaa:
+\"Idet man vedlagt fremsender Skrivelse af 4. Juni d. A. fra Stadsingeniøren angaaende Forslag til Placering af det projekterede Lærlingehjem i Aarhus, skal man indstille, at den under Nr. 4 nævnte Grund ved Gustav Holms Vej, stor ca. 3200 m2, stilles til Raadighed for Udvalget til det nævnte Hjem. Man undlader ikke at bemærke, at de Stærkstrømsledninger, der fører over Grunden, kan medføre visse Vanskeligheder med Hensyn til Bebyggelsen. Man forbeholder sig senere at komme tilbage til dette Spørgstmaal, hvis det skulde blive paakrævet.
+Samtidig skal man indstille, at Arkitekterne Erik Hedeager og Ali Rasmussen samt Frühstück Nielsen, Aarhus, antages til i Forening at udfore Arkitektarbejdet ved Lærlingehjemmet paa de i vedlagte Overenskomstudkast nærmere angivne Vilkaar, samt at Ingeniørerne Niepoort og Wied antages til at udføre Ingeniørarbejdet ligeledes i Overensstemmelse med det medfølgende Overenskomstudkast.\"
+\"Udvalget for Byens Udvidelse og Bebyggelse tiltræder, at den forannævnte Grund stilles til Disposition som Byggegrund for Lærlingehjemmet
+Fra Stadsarkitekten forelaa Meddelelse
+"	1941	9	11
+"24"	1941-09-11	"closed"	"19410911B_165.pdf"	12	"215-1941"	"om, at Ingeniørarbejder nu vil andrage 57000 Kr. i Stedet for som tidligere anslaaet 35000 Kr. Den samlede Overslagssum bliver derefter 247000 Kr.
+Stecher Christensen forelagde Indstillingen. Taleren gik ud fra, at der skal betales den sædvanlige Pris for Grunden, 6 Kr. pr. m2.
+Indstillingen vedtoges.
+"	1941	9	11
+"25"	1941-09-11	"closed"	"19410911B_165.pdf"	12	"625-1941"	"Købekontrakt med \"Arke\" angaaende en Grund ved Gustav Holms Vej.
+Stecher Christensen oplyste, at Grunden var paa 1130 m2 og kostede 6 Kr. pr. m2. Samtidig skulde Arke afstaa en Strimmel langs Grenaavej til dennes Udvidelse.
+Godkendtes.
+"	1941	9	11
+"26"	1941-09-11	"closed"	"19410911B_165.pdf"	12	"646-1941"	"Henvendelse fra Hads-Ning Herreders jernbane om Kommunens Deltagelse i Dækning af eventuelt Underskud samt Anmodning om at sende Delegerede til Banens Generalforeamling den 30. ds.
+Fra Budgetudvalget fordna følgende Indstilling:
+\"Det indstilles at lade den fungerende Borgmester E. Stecher Christensen og Ingeniør Fanger repræsentere Kommunen paa Banens Generalforsamling den 30. ds. med Bemyndigelse til - under Forbehold af Indenrigsministeriets Samtykke - at lade Aarhus Kommune garantere for en til Kommunens Andel i Banens Aktiekapital svarende Del af et Underskud paa indtil 60000 Kr. for Driftsaaret 1941-42 under Forudsætning af, al de øvrige interesserede Amts By- og Sognekommuner paa tilsvarende Maade paatager sig en forholdsvis Del af Garantien for det nævnte Underskud.\"
+"	1941	9	11
+"27"	1941-09-11	"closed"	"19410911B_165.pdf"	13	"646-1941"	"Stecher Christensen henviste til den medfølgende Beretning, hvoraf fremgik, at Driften i den forløbne Del af indeværende Aar havde været tilfredsstillende, og hvis det fortsattes, blev der muligvis intet Underskud til næste Aar.
+Indstillingen vedtoges.
+"	1941	9	11
+"28"	1941-09-11	"closed"	"19410911B_165.pdf"	13	"542-1940"	"Udkast til Lejekontrakt med Staten angaaende Ejendommen Mejlgade 3 med Forkøbsret for Staten til Mejlgade 3 og 5.
+Følgende Kontrakt forelaa:
+LEJEKONTRAKT
+Aarhus Byraad paa Aarhus Kommunes Vegne udlejer herved fra 1. Februar 1942 at regne til Justitsministeriet paa Statens Vegne til Kontorer o. lign. for Aarhus Politi den Kommunen tilhørende Ejendom Mejlgade 3 i Aarhus (Hjørnet af Mejlgade og Rosensgade).
+For Lejemaalet gælder følgende Vilkaar:
+1.
+Lejemaalet vedvarer uopsigeligt fra begge Sider til den 1. April 1949, til hvilket Tidspunkt det ophører uden forudgaaende Opsigelse.
+2.
+Lejeren tiltræder den lejede Ejendom den
+1.Februar 1942 i den Stand, hvori Ejendommen da er og forefindes.
+3.
+Det paahviler i Lejetiden Lejeren at holde den lejede Ejendom forsvarligt vedlige indvendigt, mens den udvendige Vedligeholdelse paahviler Udlejeren.
+4.
+Den den lejede Ejendom i Henhold til Politivedtægten paahvilende Renholdelsespligt med Hensyn til Gade og Fortove overtages i Lejetiden 
+"	1941	9	11
+"29"	1941-09-11	"closed"	"19410911B_165.pdf"	14	"542-1940"	"af Lejeren, der ligeledes renholder den til Ejendommen hørende Gaardsplads.
+5.
+Lejen andrager 16000 Kr. aarligt, der erlægges kvartaarsvis forud med 4000 Kr. hver 1. Januar, 1. April, 1. Juli og 1. Oktober, første Gang den 1. Februar 1942 for Tiden fra 1. Februar til 31. Marts 1942.
+6.
+Lejeren overtager ved Lejemaalets Tiltrædelse de i Ejendommen værende Gardiner, herunder Rullegardiner og Mørklægningsgardiner, Gardinstænger og Vinduesmarkiser og betaler samtidig herfor et kontant Beløb, stort Kr.
+7.
+Kommunen udreder de en Ejer sædvanlig paahvilende Skatter og Afgifter, herunder Brandforsikringspræmie af Ejendommen.
+Lejeren betaler Forbruget af Vand, Gas og Elektricitet i Lejetiden.
+Ligeledes betaler Lejeren Udgifterne til Ejendommens Opvarmning i Overensstemmelse med derom foreliggende Aftale med Aarhus Belysningsvæsen.
+8.
+Idet den til Ejendommen høiende Gaardsplads tillige tjener til Gaardsplads for Ejendommen Mejlgade 5, Aarhus, maa Lejeren kun benytte Gaarden paa en saadan Maade, som er forenelig med den Lejerne i Mejlgade Nr. 5tilkommende Benyttelsesret.
+Lejeren er bekendt med, at den Del af Gaarden, der ligger ved Gavlen, og Hjørnet
+"	1941	9	11
+"30"	1941-09-11	"closed"	"19410911B_165.pdf"	15	"542-1940"	"af Sidebygningen til Mejlgade 5 er udlejet til Lejeren af den nævnte Sidebygning.
+9.
+Ved Lejemaalets Ophør skal Lejeren aflevere det lejede, med hvad dertil hører, i samme Stand som ved Overleveringen med Undtagelse af Forringelse, som hidrører fra Ælde og almindeligt Slid og Mangler, som det paahviler Udlejeren at udbedre.
+10.
+I Lejetiden har Lejeren Ret til naar som helst at købe den lejede Ejendom sammen med Ejendommen Mejlgade 5 for en kontant Købesum af 280000 Kr.
+Skulde der i Lejetiden melde sig en Køber til de nævnte Ejendomme, og Staten ikke inden 3 Uger efter af Byraadet at være opfordret dertil har erklæret, at den vil købe Ejendommene, har Byraadet Ret til at sælge Ejendommene til den paagældende Køber, selvfølgelig med Respekt af den i nærværende Kontrakt omhandlede Lejeret.
+11.
+Omkostningerne ved nærværende Kontrakts Stempling udredes af Lejeren.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Vedlagt fremsende til Godkendelse Udkast til Lejekontrakt mellem Staten og Kommunen angaaende Ejendommen Mejlgade 3, Aarhus, med Forkøbsret for Staten til nævnte Ejendom sammen med Ejendommen Mejlgade 5.
+Det tilføjes, at man agter at tilbyde Staten de i Mejlgade 3 værende Gardiner, herunder
+"	1941	9	11
+"31"	1941-09-11	"closed"	"19410911B_165.pdf"	16	"542-1940"	"Rullegardiner, Mørklægningsgardiner med Gardinstænger samt Lamper for ca. 60 % af Anskaffelsessummen.\"
+Indstillingen vedtoges.
+"	1941	9	11
+"32"	1941-09-11	"closed"	"19410911B_165.pdf"	16	"685-1941"	"Indstilling fra Budgetudvalget om ændrede Regler for Godtgørelse af Udgifter ved Tjenesterejser for Tjenestemænd og Byraadsmedlemmer.
+Fra Økonomidirektøren forelaa følgende Forslag:
+I.
+Dagpenge 1 - 5 Lønklasse: 22 Kr. pr. Døgn 6 - 12 ” : 18 ” ”
+Under Udstationering udover 8 Dage nedsættes Dagpengene med 20 %.
+Dagpenge beregnes for hvert Døgn (24 Timer), som den paagældendes Fraværelse varer. For overskydende Del af Døgn eller for Fraværelse, der ikke varer 24 Timer, beregnes halve Dagpenge pr. paabegyndt halve Døgn (12 Timer). Tiden for Afrejse fra og Ankomst til Tjenestestedet skal, naar Rejse foretages med jernbane, Dampskib eller anden offentlig, regelmæssig Befordring, regnes efter paagældende Befordrings planmæssige Afgangs- og virkelige Ankomsttid.
+Indtil videre beregnes dog for Rejse med en Dags Ophold i København Dagpenge for 3 Dage.
+II.
+Befordringsudgifter Tjenestemænd i 1 - 5 Lønklasse erholder godtgjort Udgiften til Billet m. v. til 1 Klasse Tog og Dampskib, saafremt 1 Klasse benyttes. Tjenestemænd i 6 og lavere Lønklasser
+"	1941	9	11
+"33"	1941-09-11	"closed"	"19410911B_165.pdf"	17	"685-1941"	"erholder godtgjort Udgiften til Befordring paa Fællesklasse samt 2 Klasse paa Dampskib.
+Eventuelle andre i Rejsens Formaal nødvendige Befordringsudgifter efter Regning.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Foranstaaende Regler indstilles til Byraadets Godkendelse, saaledes at Reglerne ogsaa kommer til at gælde for Byraadsmedlemmer, idet Dagpengene til disse dog sættes til 30 Kr. pr. Døgn, heri indbefattet Godtgørelse for Arbejdstab, og saaledes, at den for Udarbejde gælder særlige Regler, som skal godkendes af Budgetudvalget.\"
+Stecher Christensen pegede paa, at det for Tiden kneb med at faa Diæterne til at slaa til, og der var kommet Andragende om at faa dem sat op, hvorfor Udvalget foreslog nye Regler.
+J. R. Fanger fandt det naturligt, at Diæterne sættes op i Stedet for, at der skal skrives Ekstraregninger. Der var det nye, at man indførte halve Døgn, hvis et Døgn blev overskredet med 1 Time. Hvis Tiden blev over 8 Dage, skete der en Nedsættelse. Hvor det drejede sig om Embedsmænd paa Udearbejde i længere Tid, blev det beregnet som Ugepenge, der nærmere skulde fastsættes.
+K. Mousten erindrede om, at Udvalget ogsaa havde talt om, at naar Byraadsmedlemmer faar 30 Kr. i Diæter, maatte der ikke skrives ekstra for Repræsentation. Det burdes ogsaa siges her.
+Stecher Christensen vilde ogsaa pointere, at det maatte indskrænkes til det mindst mulige, og det samme gjaldt for Embedsmændene. Naar der var sat 30 Kr. til Byraadsmedlemmer, var der ogsaa taget Hensyn til Arbejdstab.
+"	1941	9	11
+"34"	1941-09-11	"closed"	"19410911B_165.pdf"	18	"685-1941"	"S.F. Sørensen fandt, at Byraadsmedlemmer maatte være daarligt lønnede, hvis der var beregnet Tab af Arbejdsløn i de 30 Kr. Nu var der maaske ikke mange, der fik Arbejdstab, men ellers var det en latterlig ringe Sum at beregne herfor.
+Stecher Christensen oplyste, at efter Loven var det ikke tilladt at give noget for Arbejdstab. Selvfølgelig var ingen saa daarligt lønnet, at 30 Kr. kunde dække ogsaa for Arbejdstab, men man var her gaaet en Mellemvej.
+Indstillingen vedtoges.
+"	1941	9	11
+"35"	1941-09-11	"closed"	"19410911B_165.pdf"	18	"438-1941"	"Indstilling fra Skolekommissionen til Besættelse af Lærerembeder.
+Følgende Indstilling forelaa:
+6 Lærerembeder.
+I.1. Aksel Findal, Aarhus.
+2.Hans Sørensen, do.
+3.Leo Clausen, do.
+II.1. Sven Hørning, do.
+2.Alfred Fredbøg, do.
+3,P. V. Jørgensen, do.
+III.1. P. V. Jørgensen, do.
+2.Aksel Findal. do.
+3.Sven Hørning, do.
+IV.1. Hans Sørensen, do.
+2.Leo Clausen, do.
+3.Alfred Fredbøg, do.
+V.1. Leo Clausen, do.
+2.P. V. Jørgensen, do.
+3.Hans Sørensen, do.
+VI.1. Alfred Fredbøg, do.
+2.Sven Hørning, do.
+3.Aksel Findal, do.
+6 Lærerindeembeder.
+I.1. Paula Jensen, Aarhus.
+"	1941	9	11
+"36"	1941-09-11	"closed"	"19410911B_165.pdf"	19	"438-1941"	"2.Rigmor Villumsen, Aarhus.
+3.E. Vilstrup Olesen, do.
+II.1. Rigmor Villumsen, do.
+2.Paula Jensen, do.
+3.Margrethe Eriksen, do.
+III.1. Signe Jacobsen, do.
+2.Margrethe Eriksen, do.
+3.Paula Jensen. do.
+IV.1. E. Vilstrup Olesen,do.
+2.Ingrid Fledelius, do.
+3.Rigmor Villumsen, do.
+V.1. Ingrid Fledelius, do.
+2.E. Vilstrup Olesen, Aarhus.
+3.Signe Jacobsen, do,
+VI.1. Margrethe Eriksen, do.
+2.Signe Jacobsen,do.
+3.Ingrid Fledelius,do.
+6 Timelærerembeder.
+I.1. Aage Rasmussen, Aarhus.
+2.Erik Jepsen,do.
+3.Villiam Villumsen, do.
+II.1. Poul Froberg Møller, do.
+2.Agner Munk Hansen, do.
+3.Aage Rasmussen,do.
+III.1. Tage Dahl Nielsen,do.
+2.Aage Rasmussen,do.
+3.Poul Froberg Møller, do.
+IV.1. Villiam Villumsen, do.
+2.Poul Froberg Møller, do.
+3.Tage Dahl Nielsen, do.
+V.1. Erik Jepsen,do.
+2.Tage Dahl Nielsen, do.
+3.Agner Munk Hansen, do.
+VI.1. Agner Munk Hansen, do.
+2.Villiam Villumsen, do.
+3.Erik Jepsen,do
+"	1941	9	11
+"37"	1941-09-11	"closed"	"19410911B_165.pdf"	20	"438-1941"	"6Timelærerindeembeder.
+I.1. Else Rasmussen,Aarhus.
+2.Kirsten Strunge,do.
+3.Ingrid Andersen,do.
+II.1. Karen Maigaard-Hansen, do.
+2.Ellen Nielsen,do.
+3.Else Bjørn,do.
+III.1.Ellen Nielsen,do.
+2.Else Bjørn,do.
+3.Else Rasmussen,do.
+VI.1.Kirsten Strunge,do.
+2.Ingrid Andersen,do.
+3.Karen Maigaard-Hansen,Aarhus.
+V.1.Ingrid Andersen,do.
+2.Karen Maigaard-Hansen,do.
+3.Kirsten Strunge,do.
+VI.1.Else Bjørn,do.
+2.Else Rasmussen,do.
+3.Ellen Nielsen,do.
+12 faste Vikarpladser. Mandlige: Einar Christensen, Leo Fristed, Erling Hansen, Frede Knudsen, Verner Kristensen og Holger Moth.
+Kvlndelige: Else Baadsgaard, Lilly Hansen, Inger Skovgaard Jensen, Elin Klitgaard, Helga Nyholm og Inge Selmer. indstillingen vedtoges saaledes, at de som Nr. 1 indstillede ansattes.
+"	1941	9	11
+"38"	1941-09-11	"closed"	"19410911B_165.pdf"	20	"188-1941"	"Indstilling fra Skolekommissionen til Besættelse af et Lektorembede ved Marselisborg Skole.
+Følgende Indstilling forelaa:
+1)Adjunkt A. P. Rossen, Aarhus.
+2)Adjunkt C. H. Andersen, Viborg.
+3)Adjunkt H. Kamla, Nykøbing F.
+A. P. Rossen ansattes.
+"	1941	9	11
+"39"	1941-09-11	"closed"	"19410911B_165.pdf"	21	"150_1941"	"Skrivelse fra Landbrugsministeriet angaaendede Vilkaar, paa hvilke Stadsdyrlæge S. O. Koch kan anerkendes som kontrollerende Dyrlæge ved Aarhus Slagtehus.
+Følgende Skrivelse forelaa:
+\"Med Henvisning til Forhandlingerne den
+7.d. M. hos Landbrugsministeren vedrørende Stillingen som kontrollerende Dyrlæge ved Aarhus offentlige Slagtehuse skal man herved meddele, at Ministeriet indtil videre vil kunne godkende Dyrlæge S. O. Koch som kontrollerende Dyrlæge ved Slagtehuset paa nedenstaaende Betingelser:
+Dyrlægen skal i Slagtehusets daglige Aabningstid have Slagtehuset som sit faste Tjenestested. Han skal altid være til Stede paa Slagtehuset, naar der er veterinært Arbejde at udføre, og i gørligt Omfang selv udøve Kødkontrollen.
+Dyrlægen maa, hvad hans Tjeneste ved det offentlige Slagtehus angaar, ikke undergives anden Instruks eller meddeles andre Paalæg end den Instruks og de Paalæg, som gives ham af Ministeriet for Landbrug og Fiskeri og af Veterinærdirektoratet.
+Dyrlægen er, hvad hans Tjeneste ved det offentlige Slagtehus angaar, udelukkende undergivet Veterinærdirektoratets Tilsyn.
+Den som Afdelingsdyrlæge ved Slagtehuset foreslaaede Stilling ændres til en Stilling som 1. Reservedyrlæge. Denne saavel som eventuel yderlige veterinær Assistance skal godkendes af Veterinærinspektøren i Aarhus, og Lønningen fastsættes efter Aftale med nævnte Veterinærinspektør.
+Ministeriet vil endvidere være villig til,
+"	1941	9	11
+"40"	1941-09-11	"closed"	"19410911B_165.pdf"	22	"150_1941"	"saafremt foranstaaende Betingelser antages af Byraadet, hvorom man forventer at modtage Meddelelse, at godkende Dyrlæge S. O. Koch som kontrollerende Dyrlæge ved den til Slagtehuset henlagte Kontrolstation for slagtet Fjerkræ.\"
+Tiltraadtes.
+"	1941	9	11
+"41"	1941-09-11	"closed"	"19410911B_165.pdf"	22	"675-1941"	"Indstilling angaaende fast Ansættelse af Dyrlæge G. Faulenborg som
+kontrollerende Dyrlæge ved Sundhedskommissionens Laboratorium.
+Fra Lønudvalget forelaa følgende Indstilling: \"Fremsendes til Byraadet, idet man efter at have forhandlet med Veterinærinspektøren i Aarhus indstiller, at nævnte Dyrlæge fra 1. April d. A. at regne fastansættes som Reservelæge ved Sundhedskommissionens Laboratorium med Pligt til at assistere ved Kødkontrollen paa Aarhus offentlige Slagtehus, og saaledes, at Ansættelsen sker i 3. Lønklasse med Lønanciennitet fra 1. Maj 1940.\"
+Indstillingen vedtoges.
+"	1941	9	11
+"42"	1941-09-11	"closed"	"19410911B_165.pdf"	22	"676-1941"	"Indstilling angaaende fast Ansættelse af Dyrlæge K. Grønlund Thomsen som 2. Reservedyrlæge ved Slagtehuset.
+Fra Lønudvalget forelaa følgende Indstilling: \"Tilbagesendes, idet Lønudvalget efter at have Forhandlet med Veterinærinspektøren indstiller, at nævnte Dyrlæge fastansættes som 2. Reservedyrlæge i 4. Lønklasse med Lønanciennitet fra 1. Maj 1940.\"
+Indstillingen vedtoges.
+"	1941	9	11
+"43"	1941-09-11	"closed"	"19410911B_165.pdf"	22	"661-1941"	"Indstilling fra Belysningsudvalget angaaende Besættelse af Stillingen som Maalermester ved Gasværket.
+Følgende Indstilling forelaa:
+"	1941	9	11
+"44"	1941-09-11	"closed"	"19410911B_165.pdf"	23	"661-1941"	"\"Under Henvisning til den tidligere givne Meddelelse om, at Gasværkets Maalermester er afgaaet ved Døden, meddeles herved, at Stillingen har været opslaaet ledig, og at der er indkommet de paa hoslagte Fortegnelse opførte 33 Ansøgninger.
+Man tillader srg herved at indstille nedennævnte Ansøgere til Stillingen i den nævnte Rækkefølge:
+1)Værkfører H. C. Puch, København.
+2)Værkfører Dørge Nielsen, Aarhus.
+3)Værkfører Kai Mortensen, København.
+Stillingen har hidtil været normeret i 5. Lønklasse, men man tillader sig at indstille, at Stillingen fremtidig normeres i 4. Lønklasse, i hvilken ligeledes Maalermester-Stillingen ved Elektricitetsværket er normeret.
+Samtidig indstilles, at Belysningsudvalget i Samraad med Lønudvalget bemyndiges til at yde Maalermesteren, der ansættes, en saadan Lønanciennitet i 4. Lønklasse, som er passende i Forholdtil den paagældendes hidtidige Indtægt.
+Endelig tillader man sig at foreslaa, forsaavidt Pladsen besættes med den som Nr. 1 indstillede Ansøger, som er 43 Aar, at der under Henvisning til Pensionsregulativets § 1, Stk. 3, gives ham Ret til Pension efter Pensionsregulativet og eventuelt saaledes, at der efter nærmere Indstilling fra Belysningsudvalget og Lønudvalget gives ham Adgang til Erhvervelse af forøget Pensionsalder ved Efterbetaling af Pensionsfondsbidrag.\"
+Stecher Christensen anbefalede Indstillingen og foreslog at ansætte Nr. 1, Værkfører H. C. Puck.
+E. Winterberg vilde ikke sige noget om
+"	1941	9	11
+"45"	1941-09-11	"closed"	"19410911B_165.pdf"	24	"661-1941"	"selve Indstillingen; men Pladsen blev opslaaet i
+5.Lønklasse, og nu kom der Forslag om, at Manden skal anbringes i 4. Lønklasse. Det var en Trafik, som Lønudvalget ellers havde advaret stærkt imod. Taleren fandt ogsaa Fremgangsmaaden forkert, for ved straks at opslaa Stillingen i 4. Lønklasse havde man maaske faaet flere og mere kvalificerede Ansøgere frem. Ligeledes havde Lønudvalget tidligere henstillet at ansætte saa unge Folk som muligt; saa forstod man ikke rigtigt, at der nu skal ansættes en Mand paa 43 Aar, og tilmed havde man lovet ham at komme ind under det ordinære Pensionsregulativ i Stedet for under det, som var lavet til Folk, der var over 40 Aar ved Ansættelsen.
+Stecher Christensen svarede, at Stillingen tidligere var i 5. Lønklasse, og man burde næppe gaa til 4. Lønklasse, før man saa Ansøgerne. Den foreslaaede maatte placeres i 4. Lønklasse og eventuelt have nogen Anciennitet, hvis man ønskede at faa ham. Forøvrigt havde man ofte ansat ældre Folk under Pensionsregulativet, naar det var Folk i ledende Stillinger.
+J. R. Fanger mente, at Belysningsudvalget ved en Fejltagelse havde opslaaet Stillingen i
+4.Lønklasse uden at indhente Byraadets Sanktion dertil. Manden var 43 Aar, og man var først ved at forbigaa ham paa Grund af hans Alder, men da man havde talt med ham, var man klar over, at det skulde være ham. Men normalt var det for høj en Alder til Ansættelse ved Kommunen. Skulde han ansættes i 5. Lønklasse, kom han til at gaa ned i Løn.
+Indstillingen vedtoges saaledes, at H. C. Puck ansattes.
+"	1941	9	11
+"46"	1941-09-11	"closed"	"19410911B_165.pdf"	25	"22_19-1941"	"Andragende fra Handelsforeningen af 1887’s Stiftelse om Dekort ved kontant Indfrielse af Købesummen for en Parcel ved H. Pontoppidansgade.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at der tilbydes Foreningen en Dekort paa 6% af Restkøbesummen, saafremt denne indfries nu.
+Indstillingen vedtoges.
+"	1941	9	11
+"47"	1941-09-11	"closed"	"19410911B_165.pdf"	25	"25_8-1941"	"Indstilling angaeende Fastsættelse af Afgift for Restaurant \"Maritza\", Frederiksgade, for Tilladelse til at holde aaben til Kl. 24.
+Budgetudvalget foreslaar, at der ydes en Afgift paa 500 Kr. aarlig.
+Indstillingen vedtoges.
+"	1941	9	11
+"48"	1941-09-11	"closed"	"19410911B_165.pdf"	25	"25_7-1941"	"Andragende fra Frk. Ellen M. Haugaard om Beværterbevilling for Hotel \"Jylland.\"
+Anbefalet af Bevillingsnævnet paa Vilkaar, at Bevillingen stedbegrænses til Ejendommen Studsgade 64-66, Aarhus.
+Tiltraadtes.
+"	1941	9	11
+"49"	1941-09-11	"closed"	"19410911B_165.pdf"	25	"447-1941"	"Indstilling fra Belysningsudvalget om Afskrivning af Restancer for Gas og Elektricitet.
+Udvalget foreslaar følgende Afskrivninger for Aarene 1935-36 og 1936-37:
+Elektricitet.......................... 6516,99Kr.
+Gas................................... 3967,36\"
+Kokslevering..................................12,00\"
+Ialt 10496,35Kr.
+Indstillingen vedtoges.
+"	1941	9	11
+"50"	1941-09-11	"closed"	"19410911B_165.pdf"	25	"17_10-1941 og 17_9-1941"	"Indstilling fra Socialudvalget angaaende Eftergivelse af Hjælp ydet til:
+"	1941	9	11
+"51"	1941-09-11	"closed"	"19410911B_165.pdf"	26	"17_10-1941 og 17_9-1941"	"a.(J. Nr. 17_10-1941). Chr Winholt.
+b.(J. Nr. 17_9-1941). Lars P. Larsen.
+Tiltraadtes.
+"	1941	9	11
+"52"	1941-09-11	"closed"	"19410911B_165.pdf"	26	"record_id unknown"	"Stecher Christensen meddelte, at der fra Amtmanden var kommet en Indbydelse til Byraadet om at deltage i et Møde den 16. ds. paa Østergades Forsamlingsbygning om Egnsplanlægning."	1941	9	11
+"53"	1941-09-11	"open"	"19410911_89.pdf"	1	"no related record"	"Mødet den 11. Septbr. 1941.
+Fraværende: Borgmesteren, Thomas Christensen, Vald. Kloster, Hans Madsen, Chr. Nielsen og I. C. Sørensen.
+Mødet lededes af Viceborgmester Stecher Christensen.
+"	1941	9	11
+"54"	1941-09-11	"open"	"19410911_89.pdf"	1	"631-1941"	"Indenrigsministeriets Godkendelse af forskellige Tilbud paa Arkitekt- og Ingeniørarbejder ved Lægebolig og Sygeplejerskebolig til den neurologiske Afdeling.
+Toges til Efterretning.
+"	1941	9	11
+"55"	1941-09-11	"open"	"19410911_89.pdf"	1	"11_4-1941 og 22_4-1941"	"Indenrigsministeriets Godkendelse af Købekontrakter rned:
+a.(J. Nr. 11_4-1941). Murer K. Mortensen.
+b.(J. Nr. 22_4-1941). Murernes coop. Forretning. Toges til Efterretning.
+"	1941	9	11
+"56"	1941-09-11	"open"	"19410911_89.pdf"	1	"131-1941"	"Indenrigsministeriets Godkendelse af Sammensætningen af Aarhus Boligkommision.
+Toges til Efterretning.
+"	1941	9	11
+"57"	1941-09-11	"open"	"19410911_89.pdf"	1	"73-1941"	"Meddelelse fra Justitsministeriet om Teaterbevilling i \"Kasino.\"
+Toges til Efterretning.
+"	1941	9	11
+"58"	1941-09-11	"open"	"19410911_89.pdf"	1	"23_12-1941"	"Regnskab for Aarhus Museums Kunstafdeling i 1940-41.
+Toges til Efterretning.
+"	1941	9	11
+"59"	1941-09-11	"open"	"19410911_89.pdf"	2	"23_13-1941"	"Fortegnelse over anmeldte Byggeforetagender i 1940-41.
+Toges til Efterretning.
+"	1941	9	11
+"60"	1941-09-11	"open"	"19410911_89.pdf"	2	"138_3-1941"	"Arbejds- og Socialministeriets Godkendelse af Arbejdet \"Legepladser ved Vestre Ringgade\" som Beskæftigelsesarbejde.
+Stecher Christensen meddelte, at Kommunens Udgift hertil vilde blive 13800 Kr. og Statstilskudet 3300 Kr.
+Henvistes til Brolægningsudvalget.
+"	1941	9	11
+"61"	1941-09-11	"open"	"19410911_89.pdf"	2	"144-1941"	"Arbejdsministeriets Godkendelse af Arbejdet „Afgravning ved Langenæs” som Beskæftigelsesarbejde.
+Stecher Christensen meddelte, at Kommunens Udgift hertil blev 313000 Kr. og Statstilskudet 586000 Kr.
+Henvistes til Brolægningsudvalget.
+"	1941	9	11
+"62"	1941-09-11	"open"	"19410911_89.pdf"	2	"145-1941"	"Arbejdsministeriets Godkendelse af Arbejdet „Langenæstunnelen” som Beskæftigelsesarbejde.
+Stecher Christensen meddelte, at Kommunens Udgift hertil blev 268000 Kr. og Statstilskudet 132000 Kr.
+Henvistes til Brolægningsudvalget.
+"	1941	9	11
+"63"	1941-09-11	"open"	"19410911_89.pdf"	2	"387-1941"	"Indstilling fra Budgetudvalget om, at det paatænkte Beskæftigelsesarbejde, Overdækning af Banegraven henlægges.
+Stecher Christensen oplyste, at Statsbanerne kun vilde gaa med til Overdækning langs Hallssti, og der stilledes saa mange Betingelser, at Arbejdet vilde blive altfor dyrt.
+Indstillingen vedtoges.
+"	1941	9	11
+"64"	1941-09-11	"open"	"19410911_89.pdf"	2	"682-1941"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Lempelser i Salgsvilkaarene for Kommunens Grunde.
+Følgende Indstilling forelaa:
+"	1941	9	11
+"65"	1941-09-11	"open"	"19410911_89.pdf"	3	"682-1941"	"\"For at bidrage til Igangsættelse af Byggeri skal man indstille, at de tidligere Lempelser der i en vis Overgang blev indrømmet Købere af Kommunens Byggegrunde til høj Bebyggelse, paany kommer til Anvendelse forsaavidt angaar saadanne Grunde.
+Lempelserne en følgende: Rentefrihed i 5 Aar og Afdragsfrihed i 10 Aar samt at Kommunens Prioritet kan rykke tilbage indenfor 80% af Ejendommens Vurderingssum, fastsat i Overensstemmelse med Lov af 19. Marts 1869. Man skal dog foresiaa, at Lempelserne udvides, saaledes at Kommunens Pantebrev i Stedet for at respektere 2 foranstaaende Prioriteter maa respektere 3 Prioriteter, der alle skal være enten Laan af offentlige Midler eller Statslaan efter Udvalgets nærmere Godkendelse. Rente- og Afdragsfriheden bortfalder ved 2. Ejerskifte.
+De nævnte Lempelser foreslaas kun indrømmet forsaavidt angaar Grunde, paa hvilke Bebyggelse paabegyndes inden 1. Juni 1942 og fortsættes uden ufornødent Ophold.\"
+Stecher Christensen anbefalede Forslaget.
+Indstillingen vedtoges.
+"	1941	9	11
+"66"	1941-09-11	"open"	"19410911_89.pdf"	3	"670-1941"	"Andragende fra „Kosmorama” om Fritagelse for Kommuneskat.
+Anbefalet af Budgetudvalget.
+Bevilgedes.
+"	1941	9	11
+"67"	1941-09-11	"open"	"19410911_89.pdf"	3	"597-1941"	"Andragende fra Martha-For-bundet om Tilskud til Kursus i Husgerning, Syning og Sundhedslære.
+Skoleudvalget anbefaler, at der ydes 50 Øre pr. Time for ialt 1548 Undervisningstimer.
+Indstillingen vedtoges.
+"	1941	9	11
+"68"	1941-09-11	"open"	"19410911_89.pdf"	4	"613-1941"	"Andragende fra Hjemkonsulentkredsen om Tilskud til Husholdningskursus for ubemidlede Husmødre.
+Skoleudvalget anbefaler, at der ydes 50 Øre pr. Time for 300 Undervisningstimer.
+Indstillingen vedtoges.
+"	1941	9	11
+"69"	1941-09-11	"open"	"19410911_89.pdf"	4	"570-1941"	"Andragende fra Dansk Tunghøreforening om Tilskud til Foreningens Erhvervs-og Vejledningskontor samt Apparatsamlinger.
+Socialudvalget foreslaar at yde et Tilskud paa 100 Kr. for 1 Aar.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1941	9	11
+"70"	1941-09-11	"open"	"19410911_89.pdf"	4	"645-1941"	"Andragende fra Arbejdsteknisk Skole i København om Tilskud til Kursus i Aarhus.
+Budgetudvalget anbefaler at yde et Tilskud paa 1/3 af Udgiften eller 2550 Kr.
+Indstillingen vedtoges.
+"	1941	9	11
+"71"	1941-09-11	"open"	"19410911_89.pdf"	4	"607-1941"	"Henstilling fra Rigsforeningen „Kampen mod Gigten” om, at Kommunen indtræder som Medlem af Foreningen.
+Budgetudvalget indstiller, at man lader Aarhus Kommune indtræde som livsvarigt Medlem og som Kontingent betaler 200 Kr. en Gang for alle.
+Indstillingen vedtoges.
+"	1941	9	11
+"72"	1941-09-11	"open"	"19410911_89.pdf"	4	"674-1941"	"Indstilling fra Lønudvalget angaaende nye Overenskomster med Kommunens Rengøringskvinder.
+Følgende Forslag forelaa:
+OVERENSKOMST 
+mellem Aarhus Byraads Lønudvalg og Kvindeligt Arbejderforbund, Afdeling 7, Aarhus, vedrørende de ved Aarhus Kommune og Aarhus Havn beskæftigede Medlemmer af nævnte Afdeling.
+"	1941	9	11
+"73"	1941-09-11	"open"	"19410911_89.pdf"	5	"674-1941"	"§ 1.
+Rengøringsarbejde i Skolerne.
+Stk. 1. Timelønnen for fornævnte Arbejde fastsættes til 4/5 af den til enhver Tid for de kommunale Arbejdsmænd gældende Grundtimeløn - som for Tiden er 142 Øre - idet Brøkdele af Ører, der er mindre end 1/2 bortkastes ved Beregningen, medens større Brøkdele forhøjes til hel Øre. Ved Tidspunktet for Overenskomstens Ikrafttræden er Timelønnen saaledes 114 Øre. For varigt beskæftigede Rengøringskvinder omregnes den saaledes fremkomne Timeløn til Maanedsløn, idet Arbejdstiden regnes til 62 Timer gennemsnitlig pr. Maaned.
+Stk. 2. Hvis en maanedslønnet Rengøringskvinde ved Sygdom eller af anden Aarsag er forhindret i at udføre sit Arbejde, fradrages der i Lønnen en Timeløn for hver Time, hun er fraværende, idet en Morgenrengøring regnes til 1 1/2 Time, en Ugevask til 6 Timer, en 14 Dages Rengøring til 10 Timer, Rengøringerne i Februar og Pinse til hver 13 Timer, Hovedrengøringer i Julen, Paasken og Efteraarsferien til hver 20 Timer og Sommerferierengøringen til 54 Timer.
+Stk. 3. Der ydes ikke Ekstrabetaling for det undtagelsesvis forøgede Arbejde, der kan blive med Rengøring efter Haandværkere.
+Stk. 4. Maanedslønnede Rengøringskvinder har Ferie med Skolerne efter endt Hovedrengøring.
+Stk. 5. Opsigelse af enkelte Pladser sker gensidigt med 2 Maaneders Varsel til Fratrædelse den 1. i en Maaned.
+"	1941	9	11
+"74"	1941-09-11	"open"	"19410911_89.pdf"	6	"674-1941"	"§ 2.
+Rengøringsarbejde Kontorer m. m.
+Stk. 1. Timelønnen for fornævnte Arbejde er til enhver Tid den samme, som i Henhold til § 1, Stk. 1, betales for Rengøringsarbejde i Skolerne. For varigt beskæftigede Rengøringskvinder omregnes Timelønnen til Maanedsløn iHenhold til Rengøringskvindernes gennemsnitlige Antal maanedlige Arbejdstimer ved de respektive Institutioner. Saafremt der ydes Bolig m. m. eller andre Særydelser, fradrages dette i Lønnen. Der gives ikke særlig Betaling for Arbejde paa Søn- og Helligdage, jfr. dog Stk. 2.
+Stk. 2. For Hovedrengøring samt beordret Ekstraarbejde betales paa Hverdage Kr. 1,00 pr. Time og paa Søn- og Helligdage Kr. 1,25 pr. Time.
+Stk. 3. Vedrørende Ferie gælder den mellem Lønudvalget og de forskellige Organisationer indgaaede Overenskomst af 27 Juni 1939.
+Stk. 4. Opsigelse af enkelte Pladser sker gensidigt med 14 Dages Varsel til Fratrædelse den 1. i en Maaned.
+§ 3.
+Almindelige Bestemmelser.
+Stk. 1. Foruden den i § 1, Stk. 1, og Stk. 2, fastsatte Løn betales i Henhold til Forligsnævnet Formandsskabs Kendelse af 4. Marts 1941 et Dyrtidstillæg paa 22 1/2 Øre pr. Time, hvilket Tillæg vil være at regulere i Lighed med Dyrtidstillæg til kvindelige Arbejdere i Industrivirksomheder, men dog saaledes at Beløbet afrundes til nærmeste hele eller halve Ører.
+"	1941	9	11
+"75"	1941-09-11	"open"	"19410911_89.pdf"	7	"674-1941"	"Stic. 2. Under Sygdom som Følge af Tilskadekomst i Tjenesten betales fuld Løn i indtil 3 Maaneder. Derudover ydes ikke Løn under Sygdom.
+Stk. 3. Vikarer antages i paakommende Tilfælde af den paagældende Institution.
+Stk. 4. Eventuelle Stridigheder, der maatte opstaa mellem Rengøringskvinderne og Kommunen, og som ikke bilægges ved Forhandling med de respektive Administrationsgrenes Ledere eller Udvalg, henvises til en Voldgift bestaaende af 4 Medlemmer, hvoraf Aarhus Byraad udpeger 2 Medlemmer blandt den stedlige Arbejdsgiverforenings Medlemmer, medens Kvindeligt Arbejderforbund udpeger 2Medlemmer. Ingen af Voldgiftsmændene maa være beskæftiget ved Aarhus Kommune (Havn) eller være Medlem af Aarhus Byraad. Opnaas der ikke Enighed inden for Voldgiften, vælger denne en Opmand, som afgør Stridsspørgsmaalet. I Tilfælde af, at der ikke opnaas Enighed om Valget af Opmand, udnævnes denne af Politimesteren. Der kan ikke erklæres Strejke, forinden Stridsspørgsrnaalet har været behandlet af Voldgiften.
+Stk. 5. Nærværende Overenskomst træder i Kraft den 1. April 1941 og er gældende, indtil den med mindst 3 Maaneders Varsel opsiges af een af Parterne til Ophør en 1. April. Ved Overenskomstens Ikrafttræden ophæves Overenskomst af 20. Juni 1938.
+Stk. 6. Ingen af de ved nærværende Overenskomst Ikrafttræden gældende Maanedslønninger maa nedsættes som Følge af Overenskomstens Oprettelse, medmindre den paagældende
+"	1941	9	11
+"76"	1941-09-11	"open"	"19410911_89.pdf"	8	"674-1941"	"Rengøringskvindes Arbejdsomraade nedsættes.
+OVERENSKOMST 
+mellem Aarhus Byraads Lønudvalg og Kvindeligt Arbejderforbund i Danmark, Afdeling 1, Aarhus, vedrørende de under Aarhus Sporveje ved Rengøring af Sporvogne og Trambusser beskæftigede Rengøringskvinder.
+Den normale Arbejdstid er 48 Timer ugentlig (6x8 Timer). Arbejdstiden falder sædvanligvis fra Kl. 25- 7 incl. 1/2 Times Spisepause, der medregnes som Arbejdstid.
+§ 2.
+Timelønnen er 4/5 af den for Kommunens Arbejdsmænd til enhver Tid gældende Grundtimeløn, som for Tiden er 142 Øre, idet Brøkdele af Ører, der er mindre en 1/2, bortkastes ved Beregningen, medens større Brøkdele forhøjes til hel Øre. Ved Tidspunktet for Overenskomstens Ikrafttræden er Timelønnen saaledes 114 Øre.
+Foruden den ovenfor fastsatte Løn udbetales i Henhold til Forligsnævnets Formandsskabs Kendelse af 4. Marts 1941 et Dyrtidstillæg paa 22 1/2 Øre pr. Time, hvilket Tillæg vil være at regulere i Lighed med Dyrtidstillæg til kvindelige Arbejdere i Industrivirksomheder, men dog saaledes at Beløbet afrundes til nærmeste hele eller halve Ører.
+§ 3.
+Vedrørende Ferie gælder den mellem Lønudvalget og de forskellige Organisationer indgaaede Overenskomst af 27. Juni 1939.
+"	1941	9	11
+"77"	1941-09-11	"open"	"19410911_89.pdf"	9	"674-1941"	"Til Rengøringskvinder, der har været beskæftiget et helt Regnskabsaar, betales i det følgende Regnskabsaar i Sygdomstilfælde, som dokumenteres ved Lægeattest eller Sygekassebog med Lægepaategning, 2/3 Løn for indtil 78 Sygedage (Arbejdsdage) indenfor et Tidsrum af 12 Maaneder, dog med Fradrag af den Pengehjælp, der ydes af Sygekasse eller ved Ulykkesforsikring, idet Rengøringskvinderne er pligtige i en Sygekasse at sikre sig en Pengehjælp af mindst 2 Kr. pr. Dag, for saa vidt dette Beløb kan opnaas.
+Under Sygdom som Følge af Tilskadekomst iTjenesten betales til fornævnte Rengøringskvinder fuld Løn i de første 13 Uger med Fradrag af Dagpenge fra Sygekasse eller Ulykkesforsikring.
+§ 5.
+Som Regler for Behandling af faglig Strid gælder den af Hovedorganisationerne senest vedtagne Norm.
+§ 9.
+Denne Overenskomst træder i Kraft den 1.April 1941 og er gældende, indtil den med mindst 3 Maaneders Varsel opsiges af een af Parterne til Ophør en 1. April. Ved nærværende Overenskomsts Ikrafttræden ophæves Overenskomsten af 20. Juni 1938.
+Stecher Christensen gjorde opmærksom paa, at efter den nye Overenskomst vilde disse Kvinders Løn staa i et vist Forhold til Arbejdsmændenes Løn, saa det i Fremtiden vilde gaa ganske automatisk.
+Indstillingen vedtoges.
+"	1941	9	11
+"78"	1941-09-11	"open"	"19410911_89.pdf"	10	"409-1941"	"Udkast til ny Overenskomst med de visiterende Læger.
+Fra Socialudvalget forelaa følgende Forslag:
+\"Mellem Aarhus Byraad og de visiterende Læger i Aarhus afsluttes følgende Overenskomst:
+Der ansættes i Aarhus Købstadskommune 2visiterende Læger, hvorhos den paa Marselisborg Hospital indrettede ambulante Klinik medvirker ved den offentlige Behandling af Kønssygdomme i Aarhus Kommune.
+De 2 visiterende Læger lønnes med hver 5500 Kr. aarlig i Grundløn + det til enhver Tid gældende Tillæg til Statens Honorarer.
+Hertil kommer et Vederlag af 2000 Kr. til hver som Godtgørelse for Husleje, Klinikassistance, Porto m. m. Endvidere ydes der hver Læge 240 Kr. til Vikar i 4 Ugers Sommerferie og 10 Kr. pr. Dag i indtil 3 Maaneder til Vikar i Sygdomstilfælde, forsaavidt Sygdommen varer udover 4 Dage.
+Der ydes Marselisborg Hospital 1,25 Kr. pr. Konsultation, 3000 Kr. aarlig for Overlægens Tilsyn, 125 Kr. maanedlig til Reservelægen og 50 Kr. maanedlig til vedkommende Lægekandidat.
+Ordningen træder i Kraft den 1. Juli 1941.
+Opsigelse kan ske med 3 Maaneders Varsel til den 1. i Maanederrie Januar, April, Juli og Oktober.\"
+Tiltraadt af Sygehusudvalget.
+Indstillingen vedtoges.
+"	1941	9	11
+"79"	1941-09-11	"open"	"19410911_89.pdf"	10	"554-1941"	"Sagen angaaende Overflytning af Kommunens Grundejerforsikringer fra Forsikringsselskabet Frejr
+"	1941	9	11
+"80"	1941-09-11	"open"	"19410911_89.pdf"	11	"554-1941"	"til Købstadkominunernes Forsikringsforening. (Side 86).
+Fra Budgetudvalget forelaa følgende Erklæring: \"Tilbagesendes Aarhus Byraad med Bemærkning, at Budgetudvalget maa henholde sig til sin Indstilling af 13. f. M.\"
+Stecher Christensen henviste til den foreliggende Redegørelse fra Økonomidirekrøren, som viste, at i de sidste 10 Aar havde Selskabet i Præmie faaet godt 9000 Kr. mere, end der var udbetalt i Erstatning, saa det passede ikke, naar der var sagt, at Selskabet havde haft Tab ved Kommunen. Der var i Dag kommet en Skrivelse fra Forsikringsforeningen i Aarhus, hvori det henstilles, at man ikke foretager Overflytninger af Forsikringer for Tiden, da det var meget daarlige Tider for Forsikringsagenterne, idet deres Honorarer ikke var forøget, og det var næsten umuligt at tegne nye Forsikringer. Taleren mente dog, at man maatte henholde sig til Byraadets tidligere Vedtagelse.
+Kai Blicher tvivlede ikke om, at Økonomidirektørens Opgørelse var rigtig, men det var ikke helt rigtigt at lægge en 10 aarig Periode til Grund, idet Skaderne særlig havde fundet Sted i de sidste 2 Aar. Nu forelaa der ogsaa en anden Grund til ikke at foretage Overføringen, nemlig at man derved tog en Indtægt fra aarhusianske Assurandører, og det burde Byraadet ikke være interesseret i, naar Tiderne var saa vanskelige for disse Mennesker. Taleren vilde stille Forslag om, at man akcepterer Frejrs Forslag og venter med at overføre alle Forsikringer indtil 1946.
+Møller Rasmussen vilde støtte Konsul Blichers
+"	1941	9	11
+"81"	1941-09-11	"open"	"19410911_89.pdf"	12	"554-1941"	"Forslag om at se Tiden lidt an, før man flytter Forsikringerne.
+J. P. N. Siig vilde ligeledes støtte Forslaget fra Bygninger og Inventar. Der fandtes Forsikringer, som først udøb i 1948, og naar Selskabet saa tilbød at lave Skæringspunkt i 1946, viste det sig ogsaa fra den pæne Side. Selskabet havde altid været kulant overfor Kommunen som Kunde, og man burde bøje sig for de af Konsul Blicher nævte Argumenter.
+J. R. Fanger erindrede om, at Byraadet i sin Tid vedtog at overflytte Forsikringerne, ganske vist imod de Konservatives Stemmer. Der var saa kommet Ændringsforslag fra Udvalget for Bygninger og Inventar, men da der blev holdt stærkt paa, at man ikke burde fravige Byraadets tidligere Vedtagelse, var Taleren i Budgetudvalget gaaet med til dette Synspunkt. Nu var der kommet en Henstilling fra Forsikringsfolkene om ikke at overføre Forsikringer i denne Tid, og af Hensyn hertil vilde Taleren ogsaa stemme for, at man venter med at overføre Forsikringerne, saa længe Krigen varer.
+Stecher Christensen erklærede, at dette Forslag kunde der ikke stemmes om, da det ikke var paa Dagsordenen. Her drejede det sig om, hvorvidt man skulde overføre Frejrs Forsikringer, efterhaanden som de udløb, eller ikke, og det vilde nu blive sat under Afstemning.
+Budgetudvalgets Indstilling vedtoges med 8 Stemmer mod 5.
+"	1941	9	11
+"82"	1941-09-11	"open"	"19410911_89.pdf"	12	"11_5-1941"	"Købekontrakt med Murerarbejdsmand Niels Andersen angaaende en Grund i Vorrevangen.
+Godkendtes.
+"	1941	9	11
+"83"	1941-09-11	"open"	"19410911_89.pdf"	13	"11_6-1941"	"Købekontrakt med Vognstyrer A. V. Petersen angaaende en Grund i Vorrevangen.
+Godkendtes.
+"	1941	9	11
+"84"	1941-09-11	"open"	"19410911_89.pdf"	13	"22_6-1941"	"Købekontrakt med Snedkermester A. Th. Olesen angaaende en Grund ved Steinmannsgade.
+Godkendtes.
+"	1941	9	11
+"85"	1941-09-11	"open"	"19410911_89.pdf"	13	"22_5-1941"	"Købekontrakt med Vognmand Zacher Nielsen angaaende en Grund ved Ankersgade.
+Godkendtes.
+"	1941	9	11
+"86"	1941-09-11	"open"	"19410911_89.pdf"	13	"3_14-1941 og 3_5-1941 og 3_12-1941 og 3_11-1941 og 3_6-1941 og 3_7-1941 og 3_8-1941 og 3_9-1941 og 3_10-1941 og 3_13-1941"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_14-1941). Sporvejene.
+b.(J. Nr. 3_5- 1941). Bygninger og Inventar.
+c.(J. Nr. 3_12- 1941). Kommunehospitalets Fjernvarmeanlæg.
+d.(J. Nr. 3_11 -1941). Kommunehospitalet.
+e.(J. Nr. 3_6-1941). Elektricitetsværket.
+f.(J. Nr. 3_7- 1941). Gasværket.
+g.(J. Nr. 3_8-1941). Forbrændingsanstalten.
+h.(J. Nr. 3_9- 1941). Svømmehallen.
+i.(J. Nr. 3_10-1941). Fjernopvarmningsanlæget. 
+k. (J. Nr. 3_13-1941). Vej- og Kloakvæsenet.
+Overgik til 2. Behandling.
+"	1941	9	11
+"87"	1941-09-11	"open"	"19410911_89.pdf"	13	"3_2-1941 og 3_1-1941 og 3_3-1941"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr 3_2-1941). Slagtehuset.
+b.(J. Nr. 3_1-1941). Bygningskommissionen.
+c.(J. Nr. 3_3-1941). Skolevæsenet.
+2.Behandling.
+J. R. Fanger bemærkede, at der var ret store Overskridelser paa flere af Budgetterne, og Spørgsmaalet var, hvordan Kommunens samlede Regnskab vilde komme til at se ud. Der var bl. a. henlagt en Del fra Kommunens Værker til Fornyelsesfond, og Taleren vilde tage det Forbehold, at man til sin Tid overvejer at gøre
+"	1941	9	11
+"88"	1941-09-11	"open"	"19410911_89.pdf"	14	"3_2-1941 og 3_1-1941 og 3_3-1941"	"disse Henlæggelser mindre, hvis Regnskabet ikke kan balancere.
+Stecher Christensen havde det Indtryk, at Regnskabet vilde vise Balance.
+Efterbevilling meddeltes.
+"	1941	9	11
+"89"	1941-09-11	"open"	"19410911_89.pdf"	14	"660-1941"	"Indstilling fra Belysningsudvalget angaaende Takster for Gas og Elektricitet.
+Følgende Indstilling forelaa:
+\"Herved tillader man sig at indstille til Byraadet, at Grundprisen for Gas, 34 Øre pr. m3, fra Maaleraflæsningen pr. 1. Juli d. A. at regne nedsættes med 2 Øre pr. m3 og øvrige Takster i Forhold hertil, hvilken Nedsættelse paa det det nærmeste svarer til den Mindreværdi, Gassen har som Følge af, at Gasværket har været og fremdeles er henvist til at bruge Kul af ringe Kvalitet.
+Det foreslaas, at Nedsættelsen gøres gældende foreløbig for Tiden indtil Maaleraflæsningen pr. 1. Januar 1942, saaledes at Nedsættelsen altsaa gælder for det forløbne Juli Kvartal og det kommende Oktober Kvartal d. A.
+Samtidig meddeles, at Udvalget paa Grundlag af den af Byraadet tidligere givne Bemyndigelse har vedtaget, at de nugældende Takster for Elektricitet ogsaa skal være gældende for det kommende Oktober Kvartal, hvorved dog bemærkes, at de nugældende Sommer - Grundforbrug for Bolig - Elektricitet erstattes med de tidligere vedtagne Vinter - Grundforbrug, som findes anført i vedlagte Takstblad for Januar Kvartal 1941 for Levering af Elektricitet.
+De nugældende Takstblade for Gas og Elektricitet vedlægges ligeledes.\"
+"	1941	9	11
+"90"	1941-09-11	"open"	"19410911_89.pdf"	15	"660-1941"	"Stecher Christensen anbefalede Indstillingen. Under normale Forhold vilde man nok have foreslaaet en større Nedsættelse, men det kunde maaske betyde forøget Forbrug, og ingen vidste, hvordan det kom til at ligge med Kul i Vinter.
+Indstillingen vedtoges.
+"	1941	9	11
+"91"	1941-09-19	"closed"	"19410919B_191.pdf"	1	"no related record"	"Mødet den 19. Septbr. 1941.
+(For lukkede Døre).
+Fraværende: Borgmesteren, Esther Aggebo, Kai Blicher, Thomas Christensen og E. Rolander.
+Mødet lededes af Viceborgmester Stecher Christensen.
+"	1941	9	19
+"92"	1941-09-19	"closed"	"19410919B_191.pdf"	1	"631-1941"	"Tilbud paa et Luftkonditioneringsanlæg til Operationsstuen i Neurologisk Afdeling.
+Sygehusudvalget indstiller at overdrage Arbejdet til De forenede Jernstøberier for 29295 Kr.
+Indstillingen vedtoges.
+"	1941	9	19
+"93"	1941-09-19	"closed"	"19410919B_191.pdf"	1	"655-1941"	"Henvendelse fra Hads-Ning Herreders Jernbane om, at Kommunen paatager sig Andel i Dækning af Driftsunderskud. - 2. Behandling.
+Indstillingen vedtoges.
+"	1941	9	19
+"94"	1941-09-19	"closed"	"19410919B_191.pdf"	1	"637-1941"	"Andragende fra Kunstmaler G. Knækkenborg Ølsgaard Willemoesgade 29, om fri Proces ved Retssag mod Kommunen.
+Fra Brolægningsudvalget forelaa følgende Erklæring:
+\"Brolægningsudvalget kan ikke anbefale Andragendet, idet man ikke kan se nogen rimelig Anledning til at føre en saadan Sag, da han ligesom enhver anden Grundejer ifølge Politivedtægten har Renholdelsespligt langs,
+"	1941	9	19
+"95"	1941-09-19	"closed"	"19410919B_191.pdf"	2	"637-1941"	"hele sin Grund. Han henviser til, at der ikke er Facaderet for Grunden mod Ringgaden, men dette har intet at gøre med Renholdelsen og betyder blot, at han slipper for at betale til Ringgadens Anlæg, indtil han agter at benytte en Facaderet til at skaffe Ejendommen Adgang til denne Gade.
+Det kan synes urimeligt at paalægge en Ejendom mere Renholdelsespligt ved at føre en ny Gade forbi den, men samtidig gives der den bedre Udnyttelsesmuligheder, saaledes at Værdien faktisk bliver større.\"
+Tiltraadtes.
+"	1941	9	19
+"96"	1941-09-19	"closed"	"19410919B_191.pdf"	2	"43_5-1941"	"Indstilling fra Budgetudvalget om Oprettelse og Besættelse af en Stilling som Overassistent paa Raadhusforvalterens Kontor.
+Udvalget indstiller, at Overassistent paa Havnevæsenets Kontor, August Hansen, forflyttes til denne Stilling paa samme Vilkaar som gælder for hans nuværende Stilling.
+E. Winterberg erindrede om, at man i sin Tid vedtog at lade Budgetudvalget forestaa Raadhusbyggeriet, men deri laa næppe en Bemyndigelse til at oprette Stillinger og gøre Indstillinger til Besættelse af disse. Det var sket et Par Gange før og sikkert gjort udmærket; men Taleren henstillede, at Byraadet faar en Plan over, hvilke Stillinger der skal oprettes, og hvorledes Administrationen af Raadhuset skal ordnes, om det skal høre under Budgetudvalget, eller der skal oprettes et særligt Raadhusudvalg.
+Stecher Christensen svarede, at det jo hørte under Centraladministrationen, og derfor var det naturligt, at Budgetudvalget beskæftigede sig dermed.
+"	1941	9	19
+"97"	1941-09-19	"closed"	"19410919B_191.pdf"	3	"43_5-1941"	"J. R. Fanger henstillede at undersøge Spørgsmaalet om, hvor meget der skal betales af Pensionsfonden naar en Mand forflyttes. Ved en Pensionsforsikring var Sagen ligetil, idet Forsikringen fulgte med, men ellers havde man ingen fast Bestemmelse, og Kommunen havde f. Eks. faaet en meget stor Regning fra Staten til Politiets Pensioner.
+Stecher Christensen svarede, at Spørgsmaalet kunde undersøges nærmere.
+Indstillingen vedtoges.
+"	1941	9	19
+"98"	1941-09-19	"closed"	"19410919B_191.pdf"	3	"710-1941"	"Tilbud fra Arbejder Spare-og Laanekassen paa et Laan til Kommunen paa 3/4 Mill. Kr.
+Følgende Tilbud forelaa:
+\"I Fortsættelse af behagelig Samtale meddeler vi, at vi kan tilbyde Aarhus Kommune et Laan stort 3/4 Mill. Kr. Laanet vil være at overtage snarest mulig og senest 1. Oktober d. A. og ydes mod sædvanlig Kommunegaranti, forrentes med 4 V2 % p. A. at erlægge første Gang i 11. December Termin d. A. og at amortisere med 2½ % pr. Termin,første Gang i Juni Termin 1941.\"
+Budgetudvalget anbefaler at modtage Tilbudet, og at der senere tages Bestemmelse om, hvad Laanet skal anvendes til.
+Det vedtoges at modtage Laanet under Forbehold af Ministeriets Sanktion.
+"	1941	9	19
+"99"	1941-09-19	"closed"	"19410919B_191.pdf"	3	"708-1941"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om, at der gives Gartnernes Auktionshal i Aarhus Forkøbsret til 15/2 1947 paa et ca. 33000 m2 stort Areal Syd for Katrinebjergvej.
+Indstillingen vedtoges.
+"	1941	9	19
+"100"	1941-09-19	"closed"	"19410919B_191.pdf"	4	"8_15-1941"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat paa Grund af urigtig Selvangivelse.
+Kommissionen foreslaarfølgende Efterbetalinger: Dødsboet efter Møbelhandler C. J. Ring, Montanagade 15.............. 135319 Kr. 70 Øre
+Dødsboet efter Direktør Kristian Kirk, Kystvej 6350000\" 00\"
+Dødsboet efter Partikulier J. Nielsen, Trepkasg. 1411800\" 00\"
+A/S Aarhus Kul-Kompagni125963\"83\"
+Direktør G. B. Reffs, Jyderup, tidl.: Molsgade 2..7233\" 60\"
+Sygepl. Frk. A. Nørregaard Petersborg pr. Løgstør, tidl.: R. Liisbergsgade 32900\"00\"
+Husejer Jørgen Nielsen Ravn, Vesterbrogade 5750\"00\"
+Retouchør W. C. J. Schwiegershausen  Lergraavsvej 11,Kbhvn. tidl.: Ørumsgade 34..................700\"00\"
+Rentier Jens Sørensen,
+Søndervang pr. Viborg, tidl.: Mejlgade 19....700\"00\"
+Tandlæge E. Warrer, Kystvej 55 ....................499\"40\"
+ps. Kæmnerfuldmægtig Frk. A. l. H. Jørgensen, Hjarnøgade 3-5 ..............340\"00\"
+Ialt336206Kr. 53Øre
+Tiltraadtes.
+"	1941	9	19
+"101"	1941-09-19	"closed"	"19410919B_191.pdf"	4	"17_11-1941"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet til Karl Petersen.
+Tiltraadtes.
+"	1941	9	19
+"102"	1941-09-19	"open"	"19410919_105.pdf"	1	"no related record"	"Mødet den 19. Septbr. 1941.
+Fraværende: Borgmesteren, Esther Aggebo, Kai Blicher, Thomas Christensen og E. Rolander.
+Mødet lededes af Viceborgmester Stecher Christensen.
+"	1941	9	19
+"103"	1941-09-19	"open"	"19410919_105.pdf"	1	"680-1941"	"Indenrigsministeriets Godkendelse af Tilbud paa Instrumenter og Apparater til Neurologisk Afdeling.
+Ministeriet godkender Tilbud fra Firmaet Brock &amp;amp; Michelsen paa 30600,50 Kr.
+Toges til Efterretning.
+"	1941	9	19
+"104"	1941-09-19	"open"	"19410919_105.pdf"	1	"506-1941"	"Undervisningsministeriets Godkendelse af, at Timelønnen for Vikartimer ved Skolevæsenet forhøjes til 2,30 Kr.
+Toges til Efterretning.
+"	1941	9	19
+"105"	1941-09-19	"open"	"19410919_105.pdf"	1	"40_1-1941"	"Meddelelse fra Borgergavekomitéen om, at Indsamlingen til Klokkespillet er afsluttet, og at der er fremkommet et Restbeløb paa 2131,42 Kr. udover de tidligere indkomne 94000 Kr.
+Toges til Efterretning.
+"	1941	9	19
+"106"	1941-09-19	"open"	"19410919_105.pdf"	1	"30_22-1941"	"Andragende fra Vognmand Oscar Sørensen, Foldby, om Tilladelse til at overtage Fragtruten Tinning-Aarhus.
+Anbefalet af Brolægningsudvalget paa Betingelser, at de for Ruten tidligere givne Vilkaar fremdeles skal være gældende.
+Tiltraadtes.
+"	1941	9	19
+"107"	1941-09-19	"open"	"19410919_105.pdf"	2	"700-1941"	"Meddelelse om Generalforsamling i Hammelbanen den 22. September d. A.
+Til at repræsentere Byraadet valgtes H. J. Baden og J. R. Fanger.
+"	1941	9	19
+"108"	1941-09-19	"open"	"19410919_105.pdf"	2	"441-1941"	"Andragende fra Dansk Ungdomssamvirke for Aarhus og Omegn om økonomisk Støtte.
+Budgetudvalget indstiller at yde 1000 Kr.
+Tiltraadtes.
+"	1941	9	19
+"109"	1941-09-19	"open"	"19410919_105.pdf"	2	"641-1941"	"Andragende fra Komitéen for en ny Kirke paa Christiansbjerg om yderligere Tilskud.
+Budgetudvalget indstiller, at der bevilges 25000 Kr. at udbetale efter nærmere Andragende fra Komitéen.
+Stecher Christensen oplyste, at man mente, at Staten vilde yde det samme Tilskud som Kommunen.
+Indstillingen vedtoges.
+"	1941	9	19
+"110"	1941-09-19	"open"	"19410919_105.pdf"	2	"126-1941"	"Indstilling fra Socialudvalget om Brændselshjælp til Aldersrente- og Invalide-rentenydere.
+Udvalget indstiller, at der ydes en Brændselshjælp paa 12 Sk. Træ og 8 hl Koks.
+Fra Budgetudvalget forelaa følgende Erklæring:
+\"Budgetudvalget har intet imod, at Brændselshjælpen udvides som foreslaaet under Forudsætning af, at det af Specialudvalget nævnte Lovforslag vedtages, saaledes at det Beløb, der af Staten stilles til Raadighed som personligt Tillæg i indeværende Regnskabsaar, forhøjes fra 7 1/2 % til 12 % af sidste Aars Rentegrundbeløb.\"
+Indstillingen vedtoges.
+"	1941	9	19
+"111"	1941-09-19	"open"	"19410919_105.pdf"	3	"709-1941"	"Forslag fra Budgetudvalget til Beskæftigelsesarbejder.
+Fra et Udvalg af Embedsmænd forelaa følgende Forslag:
+Kommunens Beskæftigelsesplan af September 1941. 
+Fjernvarmeledning til Kommunehospitalet...................... 1400000 Kr.
+Istandsættelse af Kalmargade. . . .19000\"
+-- Blaamejsevej ..65000\"
+-- Falkevej .......31000\"
+AnlægafFrederikshaldsgadeI..34000\"
+--FrederikshaldsgadeII..17000\"
+--Stockholmsgade.........49000\"
+--Norges Allé............60000\"
+Jordarbejde bag Frichs Fabriker.120000\"
+Kloakrensningsanlæg for Nordre
+Bydel I ........................400000\"
+Udvidelse af Botanisk Have......381000\"
+Stier langs Aaen og Brabrand Sø 642000 \"
+Anlæg af Reykjaviksgade.........126000\"
+Ialt... 3344000 Kr. 
+Ansøgte Statstilskud 1365000 Kr.
+Tilskud fra private..148000 \"
+-------------- 1513000 \"
+Kommunens Udgift... 1831000 Kr.
+Fra Økonomidirektøren forelaa Meddelelse om, at Kommunen i Forvejen har optaget Laan til paabegyndte eller vedtagne Arbejder til et Beløb af 15,1 Mill. Kr., og med de her foreslaaede 1,8 Mill. Kr. vil der altsaa blive en samlet Laaneoptagelse paa ca. 16,9 Mill. Kr.
+Desuden forelaa en Beregning over Kommunens Udgift pr. beskæftiget Arbejder sammenlignet med Kommunehjælpen, hvoraf fremgik,
+"	1941	9	19
+"112"	1941-09-19	"open"	"19410919_105.pdf"	4	"709-1941"	"at den gennemsnitlige Udgift pr. Uge blev 108,30 Kr., medens Kommunehjælpen androg 15,89 Kr.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Det indstilles, at de i Direktør Wegeners og Stadsingeniørens vedlagte Forslag anførte Arbejder indsendes til Arbejds- og Socialministeriet til Godkendelse som Beskæftigelsesarbejder, dog saaledes, at man tager Forbehold mod Arbejdernes Iværksættelse, indtil der fra Ministeriet foreligger Underretning om, hvilke Tilskud der fra Staten kan forventes til de enkelte Arbejder.\"
+Stecher Christensen forelagde Sagen og oplyste, at Budgetudvalget havde undersøgt de Muligheder, der var for Igangsættelse af Arbejde i Aarhus, og derefter indstillede man det foreliggende Forslag. Den samlede Udgift blev ca. 3344000 Kr., og Kommunens Udgift var anslaaet til 1831000 Kr. Det vilde give en Beskæftigelse paa 16900 Arbejdsuger. Angaaende de enkelte Arbejder, saa havde nogle af dem været fremme før, men var blevet udsat af Hensyn til Kommunens Økonomi. Nu indstillede man disse Arbejder til Ministerens Godkendelse, men forsaavidt med et Forbehold fra Byens Side, som man ogsaa havde gjort Ministeren opmærksom paa ved tidligere Forhandlinger, at det vilde være vanskeligt at opstille en Plan og sige, at man ønsker dette gennemført, naar det var afhængigt af, hvor stort Statstilskudet dertil kunde blive. Det laa ogsaa i Særindstillingen fra de to Embedsmænd, at hvis der ikke kunde opnaas mindst det opførte Tilskud, var man betænkelig ved at anbefale Arbejderne til Udførelse. løvrigt fremgik
+"	1941	9	19
+"113"	1941-09-19	"open"	"19410919_105.pdf"	5	"709-1941"	"det af Planen, at det nu er ved at ebbe ud med Mulighederne for Ekstraarbejder i Aarhus. Det var kun naturligt, idet Aarhus Kommune gennem Aarene havde gjort en meget betydelig Indsats til Bekæmpelse af Arbejdsløsheden. I Ti-aaret 1931 - 1941 havde Kommunen hertil haft en Udgift paa 51,8 Mill. Kr., hvoraf 12 Mill. Kr. var afholdt af Driften. Det var en storstilet Indsats, saa der var ikke Grund til at bebrejde Aarhus noget i den Retning. Men en saa stor Indsats betød ogsaa, at Kommunens Økonomi anspændtes, og det Tidspunkt nærmede sig, hvor Økonomien ikke mere er i Stand til at bære ekstraordinære Arbejders Igangsættelse. Disse store Projekter var vedtaget i Byraadet Aar efter Aar, og det var maaske ikke gaaet op for alle, hvad det betød for Byen i økonomisk Henseende. Ved Begyndelsen af Finansaaret 1933 var Kommunens Gæld 35,9 Mill. Kr.; den 1/4 1941 var Gælden steget til 49,8 Mill., og med de Arbejder, som Kommunen havde vedtaget og delvis sat i Gang, vilde Gælden ved Udgangen af indeværende Aar, fraregnet alle Afdrag i den mellemliggende Periode, andrage mindst 60 Mill. Kr. I 1932 - 33 anvendte Kommunen til Renter og Afdrag 2,3 Mill. Kr., i 1941-42 vilde de samme Poster udgøre 5,4 Mill., og i 1943-44 vilde det blive 6,7 Mill. Kr. Denne Udgift var altsaa i Løbet af en halv Snes Aar blevet tredoblet. Kommunens Udgift til Forsørgelsesvæsenet i 1932-33 var 3024000 Kr., og i 1941-42 var den steget til 6,75 Mill. Erfaringen havde vist, at disse Budgetter sjældent kan holde, og i hvert Fald vilde Udgiften ikke blive mindre; tilmed kunde man vente en Vinter med særlig stor Arbejdsløshed. Stillingen var derfor, at om et
+"	1941	9	19
+"114"	1941-09-19	"open"	"19410919_105.pdf"	6	"709-1941"	"Aar vilde Udgiften til Renter og Afdrag samt Socialudgifterne udgøre 13,5 Mill. Kr. eller med andre Ord hele Kommunens Skatteindtægt. Man maatte derfor forudse en Skattestigning; hvor stor den vilde blive, skulde Taleren ikke komme ind paa, men den vilde blive tvingende nødvendig.
+Angaaende disse Beskæftigelsessager havde man været ude for nogle interessante, men bedrøvelige Standpunkter. Det begyndte med, at et af Byens Blade i Foraaret meddelte, at alle de opstillede Arbejder skulde udføres, hvilket som bekendt ikke var Tilfældet, og i den Anledning henstillede Borgmester H. P. Christensen i Byraadsmødet den 17. April 1941 til Journalisterne at læse Sagerne igennem, før de refererede dem. Det samme var sket for kort Tid siden, da det samme Blad skrev, at Kommunen havde indsendt Forslag til Arbejder for over 7 Mill. Kr. og kun faaet ganske lidt deraf bevilget. Det var ganske misvisende, for der var ikke fra Byraadets Side indsendt eller vedtaget at indsende Forslag til alle disse Arbejders Igangsættelse. Desværre skete det beklagelige, at den konservative Gruppeformand plumpede i og udtalte til Bladet, at han var forbløffet over Oplysningerne i Bladet, og han udtalte, at efter hans Opfattelse var det vedtaget, at alle Forslagene til 7 Mill. Kr. skulde indsendes til de bevilgende Myndigheder. Det kunde selvfølgelig ske ved et Uheld, at man plumper i; men der havde ikke staaet noget i Bladet om, at det var en Fejltagelse fra hans Side, for Byraadet havde aldrig vedtaget, at alle disse Arbejder skulde sendes til Ministeriet. Det fremgik ogsaa af de Oplysninger, som Taleren havde tilstillet Bladet, at det var en Spiseseddel,
+"	1941	9	19
+"115"	1941-09-19	"open"	"19410919_105.pdf"	7	"709-1941"	"hvor Byraadet kunde vælge mellem Forslagene. Det var beklageligt, at daarligt informerede Journalister benytter en saadan Sag til at lave Rummel paa, naar de intet Overblik har over Sagernes Gang. De burde vide, at Byraadet enstemmig er gaaet ind for de Arbejder, der var Tale om, og ligeledes at man allerede i Marts Maaned havde opført de ekstraordinære Arbejder, som man evnede at udføre. Der var ogsaa det interessante i dette Standpunkt, at de Folk, som altid klagede over, at Skatterne var for store, nu kræver, at Kommunen skal ofre mange Millioner, og det kunde i hvert Fald ikke gøres, uden at Skatterne vilde stige ganske væsentligt. Byraadet maatte gøre sig klart, at en Skattestigning er den eneste Udvej til at skaffe Dækning for de forøgede Udgifter.
+Udover disse Arbejder var der meget andet, der stiller store Krav til Kommunens Økonomi. Man havde for nylig vedtaget at bygge et Lærlingehjem til 1/4 Mill. Kr., og man havde givet Tilsagn om at ville bekoste Fundamenteringen m. m. til den nye Universitetsbygning. Boligspørgsmaalet begyndte ogsaa at banke paa Døren. Man havde lige faaet en Redegørelse fra Bygningsinspektøren, hvoraf det fremgik, at det nu begynder at knibe med Lejligheder til mindre bemidlede. Dette Spørgsmaal kom man ogsaa til at tage op, og det kunde ikke løses uden mange Penge. Den bedste Løsning her var maaske at bygge Aldersrenteboliger, og Taleren havde anmodet Stadsarkitekten om at fremkomme med en Redegørelse for Opførelse af saadanne i Vestre Bydel. Det fremgik altsaa heraf, at der for Tiden stilles overordentlig store Krav til Aarhus Bys Økonomi, og Taleren kunde fuldtud
+"	1941	9	19
+"116"	1941-09-19	"open"	"19410919_105.pdf"	8	"709-1941"	"slutte sig til de Udtalelser, der blev fremsat paa Kæmnerforeningens Aarsmøde, at Købstædernes Økonomi vilde blive meget stærkt truet, hvis man gik ind paa Statens Krav om Igangsættelse af de mange Arbejder, idet Statens Tilskud dertil var utilstrækkeligt. Naar man alligevel her gik ind for disse Arbejders Udførelse, var det for at modvirke Arbejdsløsheden. Taleren henstillede, at man baade indenfor og udenfor Byraadet lader alle Samarbejdets gode Kræfter medvirke til, at Udviklingen kan blive saaledes, som alle er bedst tjent med, og at man søger at løse Spørgsmaalet paa en saglig og forsvarlig Maade uden angribelige Standpunkter og Særmeninger, og at man ikke spiller Bold med Spørgsmaal af vital Betydning for alle.
+I. C. Sørensen udtalte, at den forelagte Beskæftigelsesplan ikke var saa stor som mange andre Planer, der tidligere havde været drøftet i Budgetudvalget, men det var en fast og overskuelig 
+Plan. Der var enkelte af Arbejderne, som kunde diskuteres, bl. a. Udvidelsen af Botanisk Have. Det var paa en Maade et udmærket Arbejde at udføre, men der var den Hage derved, at det vilde gaa ud over Kolonihaverne, og det vilde give en hel Del Kritik fra Kolonihavefolkenes Side, idet de ofte var gaaet for nær. Naar Taleren var gaaet med til dette Forslag, havde det været medvirkende, at man er i Stand til at skaffe disse Folk Haver andetsteds, f. Eks, i Oldjorden bag Vestre Kirkegaard. Det var et af de store Arbejder, som der kunde kræves særlig stort Tilskud til, særlig naar man tog i Betragtning, hvad Aarhus Kommune har gjort i de sidste 10 Aar til Bekæmpelse af Arbejdsløsheden. Det vanskeligste var, at Tilskud til den Slags Arbejder
+"	1941	9	19
+"117"	1941-09-19	"open"	"19410919_105.pdf"	9	"709-1941"	"bevilges efter særlig Lov, og f. Eks. København havde derigennem faaet store Tilskud. Men Aarhus havde ved de store Arbejder i de senere Aar trukket en Mængde Arbejdere til Byen; nu mærkede Byen derfor Arbejdsløshedens Svøbe mere end de fleste Byer, og af den Grund burde Byen have en Undtagelsesstilling paa samme Maade som København havde i visse Retninger; dette Synspunkt burde stærkt fremhæves overfor Ministeren.
+En Del af de tidligere nævnte Arbejder var nu blevet droppet; det gjaldt saaledes Banegravens Overbygning og Altanvejen til Riisskov. Med stor Forundring hørte man i den konservative Gruppe, af dette Forslag var nedsablet i den socialdemokratiske Gruppe, til Trods for at Forslaget laa hos Ministeriet. Taleren vilde ligesom Stecher Christensen appellere til det gode Samarbejde, men saa maatte man ikke forsøge at drive Gæk med hinanden. Projektet til Altanvejen blev i Fjor indsendt til Ministeriet; det blev stadig behandlet der, og saa sent som i Maj Maaned i Aar havde Stecher Christensen som fungerende Borgmester besvaret Forespørgsler angaaende denne Sag, til Trods for at den socialdemokratiske Gruppe med alle Stemmer mod Borgmesterens havde vedtaget ikke at gennemføre Forslaget. Det havde været rigtigst baade overfor Ministeriet og overfor den konservative Gruppe at meddele dette, og naar det ikke var sket, var Taleren berettiget til at udtale sin Forbløffelse over, at der ikke var sket mere derved og heller ikke ved andre Forslag. Det var en Fejl at behandle denne Sag som en Mulighed, man kunde regne med, naar Flertallet faktisk havde forkastet den, og hvis Resultatet af denne
+"	1941	9	19
+"118"	1941-09-19	"open"	"19410919_105.pdf"	10	"709-1941"	"Diskussion kunde blive, at man hører op med noget saadant i Fremtiden, var der dog vundet noget derved. Naar Borgmesteren Gang paa Gang forhandlede med Ministeriet om disse Arbejder, maatte man faa det Indtryk, at de stadig er i Live og har Mulighed for at gennemføres. Derfor behøvede Forslagene ikke at være vedtaget af Byraadet, men Budgetudvalget havde arbejdet med dem i Haab om at faa det rigtige Tilskud dertil, og hvis det skete, vilde Forslagene vel blive vedtaget af Byraadet, saafremt ikke andet kom i Vejen. Men der havde været noget uklart i hele Ekspeditionen af disse Sager, og det maatte man have Lov til at blive lidt forbavset over. Naar man i Fjor i den vanskelige Arbejdsløshedsperiode offentliggjorde de Forslag, man ønskede at sætte i Gang, og der saa ikke kom andet derud af end Afgravningen ved Langenæs med Tunnellen, saa mindede det noget om det gamle Ord, at Bjerget barslede og fødte en Mus.
+Man burde heller ikke bilde de aarhusianske Arbejdere ind, at man tumler med saa store Problemer, hvis det ikke er Meningen, at de skal gennemføres eller behandles videre; derfor trængte denne Sag i høj Grad til klare Linier, og derfor var man enstemmig gaaet ind for det foreliggende Forslag. Nu vidste man, hvad det drejede sig om, nemlig Arbejder til ca. 3 Mill. Kr., hvoraf Kommunen skal svare 1,8 Mill. Af dette Beløb var ca. 1 Mill. Kr. til Fjernvarmeledningen til Kommunehospitalet; det var forsaavidt ikke særligt rentabelt, men selvfølgelig en kommunal Opgave. Taleren havde det Hovedprincip, at hvis man har Valget mellem Arbejde og Understøttelse, maa man vælge Arbejdet, selv
+"	1941	9	19
+"119"	1941-09-19	"open"	"19410919_105.pdf"	11	"709-1941"	"om det vil koste Penge, og selv om Økonomidirektøren ser lidt sort paa det. Man var inde i en meget vanskelig kommunalpolitisk Situation, og det at sætte Arbejder i Gang var af meget stor Værdi langt ud over det økonomiske; hvis man skulde klare Sammenholdet og Samarbejdet, var det vigtigste Problem ikke at skaffe Understøttelse, men at skaffe Arbejde. Havde der foreligget nogen Misforstaaelse angaaende disse Planer, saa skyldtes det den socialdemokratiske Gruppe, fordi den havde været med til at arbejde med Beskæftigelsesforslag, som det ikke var Gruppens Hensigt at gennemføre.
+Hans Madsen fandt, at det var en meget omfangsrig Plan, som Udvalget kom med, og der havde været nogen Rimelighed i, at Budgetudvalget for en Del Arbejders Vedkommende havde spurgt de Udvalg, som almindeligvis har med disse Arbejder at gøre. Det var heller ikke urimeligt, om man i Byraadet havde haft et regulært Beskæftigelsesudvalg, hvor de Udvalg, som havde med Beskæftigelsen at gøre, var repræsenteret, eventuelt i Forbindelse med et Embedsmandsudvalg. Disse Ord skulde undtagelsesvis ikke betragtes som nogen Kritik af Budgetudvalget, fordi Planen skulde laves meget hurtigt; men det vilde være rimeligt, om man overvejede en Ændring af dette Forhold i Fremtiden. Det var noget andet, hvis man paatænkte en virkelig gennemgribende Ændring af Byens Styreform; men at ændre den midlertidig til at lade Budgetudvalget bestemme det hele var ikke helt korrekt overfor de øvrige Medlemmer.
+Det var mange Penge, Udvalget nu kom og forlangte bevilget. Forslaget om Fjernvarme kostede ca. 1 1/2 Mill. Kr., og af dette Beløb var kun
+"	1941	9	19
+"120"	1941-09-19	"open"	"19410919_105.pdf"	12	"709-1941"	"350000 Kr. Arbejdsløn; derfor var det som Beskæftigelsesforanstaltning et meget ringe Arbejde, men andre Interesser maatte vel gøre sig gældende her. Ogsaa Altanvejen var beskæftigelsesmæssigt et daarligt Arbejde, idet der vilde gaa altfor meget til Materialer, Kørsel o. s. v. De opførte Vejarbejder var adskilligt mere værd og vilde give ca. 1 Mill. Kr. i Arbejdsløn; derfor maatte man, hvis man fik Valget mellem forskellige Arbejder, foretrække disse; det vilde i hvert Fald et Beskæftigelsesudvalg gøre. Endelig var der den Svaghed ved Planen, at man ikke laver noget for de faglærte, men at det hele er beregnet for ufaglærte Folk. Derfor var det maaske formaalstjenligt at lade andre Udvalg se lidt paa den Side af Sagen, for der fandtes ogsaa mange ledige blandt de faglærte. Taleren saa her bort fra Byggefagene, som altid indirekte var interesseret i Vejarbejder, der som Regel førte Byggeri med sig. Men for de andre Fag var der ikke gjort noget, og der var den Mærkelighed, at man for Tiden ikke har mere end 7-800 Arbejdere i Byen, som kan henvises til disse Foranstaltninger. I Januar Maaned var Tallet 3200, i Marts godt 2000, og næste Vinter kom man vel op paa lignende Tal. Taleren fandt ikke, at der var Pessimisme i Økonomidirektørens Beretning, men derimod Sans for Realiteter, for man kom ikke uden om, at rent økonomisk var det en dyr Maade at imødegaa Arbejdsløsheden paa; det var langt billigere med Understøttelse, men der var næppe nogen i Byraadet, som var Tilhænger af dette Princip i Stedet for Arbejde. Det kostede meget at holde en Mand i Arbejde, men til Gengæld fik man saa noget for Pengene
+"	1941	9	19
+"121"	1941-09-19	"open"	"19410919_105.pdf"	13	"709-1941"	"og tillige Tilskud fra Staten, som ellers vilde gaa til andre Byer.
+Der var tillige Spørgsmaalet om Fremskaffelse af Materialer, og Taleren vilde her spørge, om det er muligt f. Eks. at skaffe de nødvendige Rør m. m. til Fjernvarmeanlæget. Cement udgjorde en betydelig Del af Materialet til Vejanlæg, og her var det rart, om Ministeriet vilde have lidt Indseende med Prisen paa Cement og sørge for, at det blev til at købe til en rimelig Pris. Cement var faktisk det eneste, man nu havde til Vejbygning, og saa burde Prisen kunne sættes ned i Forhold til det store Forbrug. Taleren var Tilhænger af Udvidelsen af Botanisk Have, som beskæftigelsesmæssigt var et af de bedste Arbejder. Det var beklageligt, at det vilde gaa ud over Kolonihaverne, men Byen kunde ikke staa i Stampe af den Grund, og man maatte saa støtte Markudvalget i dets Bestræbelser for at fremskaffe nye Haver. Altanvejen var der forholdsvis lidt Arbejde i, og man maatte være varsom med saadanne Arbejder, hvis der kun bevilges Tilskud til Arbejdslønnen; derfor spurgte man hos Beskæftigelsescentralen, om der kunde forventes Tilskud til Materialer; men det Svar, der blev givet, var saaledes, at Arbejdet vilde blive uoverkommeligt for Byen. Planen burde dog have været forelagt Byraadet, før man sendte Forslaget til Ministeriet, og ligeledes burde Udvalget for Byens Udvidelse og Bebyggelse samt Vejvæsenets Udvalg have haft noget at vide derom.
+Endelig var der et Spørgsmaal, som trængte sig paa, idet Forsørgelsesudvalget flere Gange havde henstillet at anvende uorganiserede Arbejdere til et eller andet Arbejde. Det var forstaaeligt, at Udvalget gerne vilde af med nogle
+"	1941	9	19
+"122"	1941-09-19	"open"	"19410919_105.pdf"	14	"709-1941"	"af sit ret faste Klientel, og her kunde man maaske overlade disse f. Eks. Arbejdet ved Frichs Fabrikker med 70000 Kr. i Arbejdsløn. En Sammenblanding af disse med organiserede Folk vilde maaske ikke blive saa godt. Hvis Byraadet kunde slutte sig til denne Henstilling, kunde det bemærkes i Vedtagelsen.
+H.P. Jensen udtalte sin Tilfredshed med, at der var kommet en fast Plan for de Arbejder, som man tænker paa at udføre; det var nødvendigt ogsaa efter de Tal, som Viceborgmesteren anførte, og det skulde nødig komme dertil, at en skøn Dag var der ikke flere Penge at bruge af. Udvidelsen af Botanisk Have var et af de bedste Arbejder, da det vilde give det største Tilskud fra Staten. Paa den anden Side maatte man beklage, at mange Kolonihaver skal ryddes til Fordel for Planen. Men der maatte først og fremmest skaffes Arbejde, og naar Byens Udvikling krævede Nedlæggelse af Haver, var det vanskeligt at gaa imod det. Markudvalget havde tidligere været stillet overfor at skulle skaffe Jord til mange nye Haver, og man havde regnet med at have tilstrækkelig Jord til normal Tilgang og til Erstatning for Haverne ved Skanderborgvej; men det havde vist sig at være utilstrækkeligt, og Oldjorden var vist allerede overtegnet, saa det blev nødvendigt at skaffe nye Arealer, og Udvalget havde ogsaa saadanne til Raadighed. Maaske man tidligere var gaaet Kolonihavefolkene for nær, men i de sidste Aar havde der i Byraadet været Lydhørhed overfor deres Krav. Det kunde være betænkeligt at paalægge den kommende Slægt at forrente og afdrage 60 Mill. Kr., men forhaabentligt fik man Tilskud fra Staten. Taleren gik dog ud fra, at hvis der ikke kan
+"	1941	9	19
+"123"	1941-09-19	"open"	"19410919_105.pdf"	15	"709-1941"	"ydes tilstrækkeligt Tilskud, er Kommunen ikke i Stand til alene at skaffe Penge dertil, og dette Standpunkt burde stærkt fastholdes overfor Ministeriet.
+J. R. Fanger forstod Planen saaledes, at hvis man faar de Tilskud, der er regnet med, vil Arbejderne blive sat i Gang, saafremt der kan skaffes Materialer dertil. Angaaende Fjernvarmeanlæget, saa havde Direktør Wegener undersøgt dette og mente, at der var Mulighed for at fremskaffe Rørene. Der var ikke saa megen Beskæftigelse ved dette Arbejde, men under normale Forhold skulde det have været udført, og hvis Tilskudet kunde dække Prisstigningen, var det forsvarligt at udføre det. Forøvrigt gav det indirekte Arbejde til de mange, der skal lave Materialer o. lign. Arbejdet med Brendstrupvej var meget ønskeligt, men det var ikke med paa Planen, fordi der var Udsigt til her at faa Tilskud fra Vejfonden, og det samme gjaldt Dr. Margrethes Vej. Det var rigtigt, at der ogsaa skulde være Arbejde til de faglærte; men Kommunen havde ogsaa for Tiden meget Arbejde i Gang, Færdiggørelse af Raadhuset, Neurologisk Afdeling, Udvidelse af Marselisborg og Finsensgades Skoler, og nu var det vedtaget at bygge et Lærlingehjem og Hovedbygning til Universitetet. Ogsaa Loven om Tilskud til Bygningsistandsættelser blev forlænget.
+Det var Hans Madsens gamle Kæphest at angribe Budgetudvalget; men dettes Medlemmer var ogsaa Medlemmer af de vigtigste Udvalg og havde derigennem Kontakt med disse. Taleren havde dog ikke noget imod, at der nedsættes et særligt Beskæftigelsesudvalg, blot Hans Madsen saa kan faa Tid til at give Møde. Cementprisen
+"	1941	9	19
+"124"	1941-09-19	"open"	"19410919_105.pdf"	16	"709-1941"	"prisen skulde Byraadet næppe beskæftige sig med; det maatte Priskontrollen tage sig af. Der var ikke lige stor Begejstring for alle Arbejderne, men naar der skuldes samarbejdes, maatte man tage det ene med det andet. Talerens stærkeste Ønske var at faa Altanvejen til Riisskov, hvortil man ogsaa kunde forvente et Tilskud fra Vejlby Kommune; men dette Arbejde var jo nu stemt ned af Socialdemokraterne, uden at der var givet de Konservative nogen Meddelelse derom.
+Møller Rasmussen haabede, at man kunde faa samtlige Arbejder i Gang; det var den væsentligste Opgave for Byraadet at skaffe Arbejde. Taleren var ikke helt klar over Økonomidirektørens Udregning af, hvor meget det vil koste Kommunen at beskæftige en Arbejder, sammenlignet med Understøttelsen.
+E. Winterberg syntes, at Budgetudvalgets Stilling var forholdsvis let, for det havde haft lang Tid til at drøfte Forslagene, saa blev Byraadet kaldt sammen og skulde tvinges til paa staaende Fod at vedtage Forslagene og bevilge de store Beløb, skønt man ikke havde haft Tid til at sætte sig ind i Sagerne. Angaaende Fjernvarmeanlæget vilde Taleren foreslaa, at der optages en Forhandling med Sygehusudvalget og stilles Teknikere til Raadighed, som kan dokumentere, at det er et rentabelt Projekt. Det var ikke rart at stemme for noget, hvis man ikke var overbevist om dets Rigtighed, og det skulde helst være saaledes, at Byraadet med Glæde kunde gaa ind for Forslagene. Byraadet kunde eventuelt stille den Betingelse, at der skal forhandles med de interesserede Udvalg, og naar det var sket, kunde det endelig afgøres, o et Forslag skal fremmes eller ikke. Forudsætningen
+"	1941	9	19
+"125"	1941-09-19	"open"	"19410919_105.pdf"	17	"709-1941"	"maatte dog i alle Tilfælde være, at man fik det stipulerede Tilskud fra Staten. Hvis de menige Medlemmer i Byraadet ikke kunde komme med i Arbejdet, maatte de ogsaa fritages for Ansvaret for Vedtagelsen af Forslaget.
+Johanne Berg bemærkede, at Hr. Fanger havde antydet, at Udvidelsen af Botanisk Have vilde medføre store Driftsudgifter. Det var selvfølgelig rigtigt, men hertil var at sige, at naar Haven først blev anlagt, vilde der ikke ske andet end Vedligeholdelsen, og det var altsammen Udgift til Arbejdsløn, saa dette Moment burde der ogsaa regnes med.
+J. R. Fanger oplyste, at Belysningsudvalget havde beskæftiget sig med Fjernvarmeprojektet i lang Tid, og det var nu blevet saa dyrt, at man faktisk havde opgivet det. Men ved et Tilskud fra Staten blev Forholdet et andet, og samtidig kunde der spares 1800 tons Kul om Aaret. Beregningerne var foretaget af Belysningsvæsenet, og dem stod man ved, saa godt man kunde.
+Chr. Nielsen var enig med Hans Madsen i, at man ikke kunde indskrænke sig til at sætte Arbejder i Gang for organiserede. Man havde i længere Tid haft et større Antal uorganiserede beskæftiget ved Brændesavning, Stødoptagning o. l., og L. A. B. havde ogsaa faaet en Del beskæftiget. Disse Folk tyngede ellers haardt paa Socialvæsenets Budget. Taleren ønskede ikke at skælde Budgetudvalget ud, da man ogsaa kunde skylde Skarn for Uret! Men maaske kunde man tage Sagen saaledes, at denne Diskussion bliver 1.Behandling, saa kunde man i 8 Dage sætte sig ind i Sagerne og eventuelt ogsaa forhandle med de Udvalg, der skal udføre Arbejderne. 
+"	1941	9	19
+"126"	1941-09-19	"open"	"19410919_105.pdf"	18	"709-1941"	"Kritikken var vist ikke rettet mod Projekterne, men mod den Maade, Forslaget var kommet frem paa.
+Stecher Christensen vilde nødig gaa med til dette Forslag, da Ministeren havde bedt om at faa Planen tilsendt hurtigst muligt. (Chr. Nielsen: Saa tager jeg Forslaget tilbage!) Forslagene var debatteret i Budgetudvalget sammen med Teknikerne, og for Fjernvarmeanlægets Vedkommende var det ikke den rent tekniske Side, der skulde drøftes, men det forretningsmæssige for Kommunen, og det maatte selvfølgelig det samlede Byraad træffe Beslutning om; der vilde i hvert Fald ikke blive nogen Vanskelighed med Sygehusudvalget. Det var aldrig glædelig at opsige Kolonihaver, men Byens Udvikling krævede det, og man anviste Jord andetsteds til Haver. Taleren var personlig gaaet ind for, at der oprettes permanente Kolonihaver i Byens Omegn med 20, ja maaske med 40 Aars Uopsigelighed. Landsretssagfører Sørensen sprang pludselig over til at snakke om Altanvejen; det skulde vel dække over den Kendsgerning, at han var plumpet i, da han udtalte sin Forbløffelse til \"Aarhus Stiftstidende\". Hvad Altanvejen angik, saa blev den Sag indsendt til Ministeriet den 27. Juli 1940 for at se, hvor meget man kunde faa i Tilskud, saa vilde man bagefter diskutere, om Arbejdet skulde udføres. Ved en Forhandling med Ministeriet og Beskæftigelsescentralen, hvor ogsaa Landsretssagføreren var med, udtalte Friis Jespersen, at man ikke kunde forvente at faa Tilskud til denne Strandvej, da det var et Luksusarbejde. Dette Synspunkt sluttede Taleren sig til og havde siden indtaget samme Standpunkt i Byraadet. Senere var man i Ministeriet kommet i Tanker om, at der maaske alligevel var Mulighed
+"	1941	9	19
+"127"	1941-09-19	"open"	"19410919_105.pdf"	19	"709-1941"	"for Tilskud til Altanvejen, og der kom da den 16. Maj i Aar en Forespørgsel fra Ministeriet om, hvor meget Jern der eventuelt skulde bruges til Vejen. Taleren fungerede dengang som Borgmester i nogle Dage og underskrev da Svaret paa Borgmesterens Vegne, men havde ellers intet haft at gøre med Sagen, og det kunde i hvert Fald ikke siges, at Taleren ved denne Underskrift havde givet Tilslutning til Projektet. Altanvejen var et Luksusarbejde, og Kommunen havde ikke Raad til at ofre 800000 Kr. derpaa. Der var senere meddelt, at man kunde faa Tilskud til Vejen, hvis man kunde enes med Statsbanerne derom. Men det vilde blive meget dyrt for Kommunen at opnaa Enighed her, og at komme af med Østbanen, som ogsaa havde været paatænkt, var umuligt, saa længe den nuværende Generaldirektør stod for Styret. Nu var der et Projekt fremme om en Havn ved den permanente Badeanstalt, og hertil skulde der laves en Strandvej udenfor Banen; men saa vilde det da være taabeligt at lave en Vej ogsaa indenfor Banen. Taleren havde ikke søgt at bilde Arbejderne noget ind, men andre havde gjort det, nemlig de Journalister, som ikke kunde læse. Selvfølgelig var det rigtigt, at Arbejde er bedre end Understøttelse, og at man skal sætte saa meget i Gang, som Kommunen evner, men helst som normalt Arbejde og ikke som Nødhjælpsarbejde. Til Møller Rasmussens Forespørgsel vilde Taleren sige, at de af Økonomidirektøren nævnte Tal viste, hvad det kostede Kommunen pr. Uge, iberegnet Materialer, at have en Arbejder beskæftiget i Stedet for at yde Understøttelse. Hvorvidt der kunde skaffes Materialer til Fjernvarmeanlæget var ikke helt afgjort; det var
+"	1941	9	19
+"128"	1941-09-19	"open"	"19410919_105.pdf"	20	"709-1941"	"Meningen at udføre det paa en anden Maade end tidligere, og det mentes, at Materialerne kunde skaffes. Det var selvfølgelig Meningen, at Arbejderne skal sættes i Gang, hvis man kan faa de opførte Tilskud dertil. Det var kedeligt for Winterberg, at han skal tvinges til at tage Standpunkt saa hurtigt; men Forslaget var bygget paa nøjagtige Undersøgelse fra Embedsmændenes Side, og der var ikke Grund til at tvivle om, at Beregningerne kan holde. Angaaende Beskæftigelse af uorganiserede vilde Taleren henstille, at det overlades til Budgetudvalget at tage Beslutning derom.
+J. P. N. Siig vilde i Anledning af Viceborgmesterens Bemærkninger om en truende Boligmangel i Aarhus gøre opmærksom paa, at der den 1. Juli var 485 ledige Lejligheder i Aarhus, hvoraf 177 2-Værelsers, saa hvis nogen manglede Lejligheder, var det ikke paa Grund af Mangel paa saadanne; det maatte være af andre Grunde.
+I. C. Sørensen antog, at den socialdemokratiske Gruppe allerede omkring December Maaned havde vedtaget, at Altanvejen ikke skulde gennemføres, og det Standpunkt havde Stecher Christensen haft siden, men han havde ikke sagt det til nogen før for 1 1/2 Maaned siden. Det var rigtigt, at Friis Jespersen betegnede det som et Luksusarbejde; men der var givet Tilskud til mange Luksusarbejder. Centralen arbejdede videre med Sagen, og Byraadsmedlemmerne maatte tro, at der stadig var Liv i den; det troede Stecher Christensen selv, naar han som fungerende Borgmester den 29. Maj i Aar besvarede et Spørgeskema om Altanvejen, og tillige havde Kommunens Teknikere arbejdet med
+"	1941	9	19
+"129"	1941-09-19	"open"	"19410919_105.pdf"	21	"709-1941"	"Projektet, saaledes at det kunde danne Grundlag for afsluttende Forhandlinger mellem Beskæftigelsescentralen, Ministeriet og Byraadet. Men naar Flertallet faktisk havde vedtaget, at Forslaget ikke skulde gennemføres, hvad skulde saa alt dette til med at ulejlige Ministeriet, Beskæftigelsescentralen og Kommunens Teknikere; det var i hvert Fald at lege Kispus med Myndighederne og med Byraadets Mindretal. I mildeste Forstand kunde man sige, at der forelaa en Fejltagelse, men det burde i hvert Fald ikke gentage sig. Det var den samme Tanke, Arbejdsminister Kjærbøl var inde paa, at nu maatte han have denne Beskæftigelsesplan fra Aarhus; man kunde ikke vedblive at komme rendende til Ministeriet og snakke om et eller andet, naar det ikke var afgjort, om Kommunen overhovedet vil gennemføre det. Selvfølgelig havde man før Vedtagelsen Lov til at tale med Ministeren for at faa at vide, hvor stort et Tilskud der kunde forventes; men der maatte dog ligge en ærlig Mening bagved angaaende Udførelsen af Arbejderne, og det havde der ikke været angaaende Vejen til Riisskov.
+H.J. Baden antog ikke, der var ret mange i Byraadet, som vidste, hvordan den saakaldte Altanvej skulde se ud; men hvis der igen skulde blive Tale om at puste Liv i Altanvejen, kunde Skovudvalget godt være interesseret i at blive sat lidt ind i Sagen. Der var noget, som hed skovtekniske Hensyn, og der var ogsaa Fredskovsbestemmelser, som der skulde tages Hensyn til.
+I.C. Sørensen svarede, at Altanvejen nu var opgivet med den Motivering, at Havneingeniøren var ved at udarbejde Forslag til en
+"	1941	9	19
+"130"	1941-09-19	"open"	"19410919_105.pdf"	22	"709-1941"	"Havn mod Nord og i Forbindelse dermed en Strandvej langs Vandkanten. Dette Forslag var endnu ikke vedtaget, men Taleren var naturligvis klar over, at man ikke skal have 2 Veje parallelt med hinanden; derfor maatte Altanvejen stilles i Bero, indtil dette Havneprojekt var afklaret.
+Stecher Christensen indrømmede, at der tidligere var givet Tilskud til Luksusarbejder, men nu var man inde paa et andet Princip, nemlig at det skulde være Arbejder med produktive Formaal. Taleren havde ganske vist paa Borgmesterens Vegne underskrevet det tilsendte Spørgeskema, men der var udtrykkeligt overfor Ministeriet gjort opmærksom paa, at det var med alt muligt Forbehold, da der ikke var Sikkerhed for, at Forslaget kunde blive vedtaget i Byraadet. Landsretssagfører Sørensen havde selv i Budgetudvalget været med til at vedtage, at man skulde spørge Ministeriet, om der var Mulighed for Tilskud til disse Arbejder, og saa kunde, der dog ikke være noget at bebrejde Taleren. Men der var i denne Sag fra visse Kredse lavet en hel Del Arbejde, som hverken Byen eller Byraadet, heller ikke de Konservative var tjent med.
+Det vedtoges at oversende Beskæftigelsesplanen til Ministeriet og at overlade til Budgetudvalget at afgøre, om et af Projekterne kan udføres af ikke forsikrede Arbejdere.
+"	1941	9	19
+"131"	1941-09-19	"open"	"19410919_105.pdf"	22	"3_15-1941"	"Efterbevilling af Overskridelser i Regnskabet for Mindeparken.
+Overgik til 2. Behandling.
+"	1941	9	19
+"132"	1941-09-19	"open"	"19410919_105.pdf"	22	"3_14-1941 og 3_12-1941 og 3_11-1941 og 3_5-1941 og 3_13-1941 og 3_6-1941 og 3_7-1941 og 3_9-1941 og 3_10-1941 og 3_8-1941"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_14-1941). Aarhus Sporveje.
+b.(J. Nr. 3_12-1941). Kommunehospitalets Fjernvarmeanlæg.
+c.(J. Nr. 3_11-1941). Kommunehospitalet.
+"	1941	9	19
+"133"	1941-09-19	"open"	"19410919_105.pdf"	23	"3_14-1941 og 3_12-1941 og 3_11-1941 og 3_5-1941 og 3_13-1941 og 3_6-1941 og 3_7-1941 og 3_9-1941 og 3_10-1941 og 3_8-1941"	"d.(J. Nr. 3_5-1941). Bygninger og Inventar.
+e.(J. Nr. 3_13-1941). Vej- og Kloakvæsenet.
+f.(J. Nr. 3_6-1941). Elektricitetsværket.
+g.(J. Nr. 3_7-1941). Gasværket.
+h.(J. Nr. 3_9-1941). Forbrændingsanstalten.
+i.(J. Nr. 3_10-1941). Svømmehallen.
+j. (J. Nr. 3_8-1941). Fjernopvarmningsanlæget.
+2.Behandling.
+Efterbevilling meddeltes.
+"	1941	9	19
+"134"	1941-09-19	"open"	"19410919_105.pdf"	23	"11_7-1941"	"Købekontrakt med Ingeniør E. Glerup Olesen angaaende en Byggegrund ved Grenaavej.
+Godkendtes.
+"	1941	9	19

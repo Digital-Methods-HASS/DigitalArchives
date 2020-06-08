@@ -1,0 +1,207 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1945-04-19	"closed"	"19450419B_1.pdf"	1	"no related record"	"Mødet den 19. April 1945.
+(For lukkede Døre).
+Fraværende: Borgmesteren, Kai Blicher, Bernhard Jensen, Niels Laursen, Møller Rasmussen, Chr. Nielsen, I. C. Sørensen og Unmack Larsen.
+"	1945	4	19
+"2"	1945-04-19	"closed"	"19450419B_1.pdf"	1	"116-1944"	"Indenrigsministeriets Samtykke til Kommunens Garanti for Laan til Boligindskud for Kontorassistent P. S. Chr. Distier og Brandsynsassistent C. L. Møller.
+Toges til Efterretning.
+"	1945	4	19
+"3"	1945-04-19	"closed"	"19450419B_1.pdf"	1	"116-1944"	"Andragende fra Maler Ernst Fr. Rasmussen om Garanti for Laan til Boligindskud. - 2. Behandling.
+Indstillingen vedtoges.
+"	1945	4	19
+"4"	1945-04-19	"closed"	"19450419B_1.pdf"	1	"161-1945"	"Indstilling angaaende Udgiften til Opførelse af Aldersrenteboliger i vestre Bydel.
+Fra Økonomidirektøren forelaa følgende Skrivelse:
+\"1 Skrivelse af 31. Oktober f. A. androg Byraadet om Indenrigsministeriets Samtykke til, at Aarhus Kommune hos Vekselerfirmaet Thorkild G. E. Larsen, København, optog et Laan paa 5 Mill. Kr. til Dækning af Udgifterne ved Gennemførelsen af en Række i Skrivelsen
+"	1945	4	19
+"5"	1945-04-19	"closed"	"19450419B_1.pdf"	2	"161-1945"	"nævnte Arbejder, herunder Opførelse af Aldersrenteboligerne i vestre Bydel med 923.743,84 Kr.
+I Skrivelse af 15. November f. A. meddelte Indenrigsministeriet det ansøgte Samtykke.
+Da man imidlertid - med Budgetudvalgets Samtykke - for Tiden gør hele Refusions-spørgsmaalet vedrørende Aldersrenteboliger til Genstand for en nærmere Undersøgelse, og da det allerede paa indeværende Tidspunkt kan siges, at en Løbetid paa 20 Aar vil betyde et stærkt formindsket Refusionsbeløb for Kommunen, skal man tillade sig at foreslaa, at Ministeriets Samtykke indhentes til, at Opførelse af Aldersrenteboligerne udgaar af den i Byraadets Skrivelse af 31. Oktober f. A. indeholdte Fortegnelse, men at Beløbet, 923.743,84 Kr., overføres til Post til Dækning af Kommunens Beredskabsarbejder, herunder Projekteringsudgifter, hvorefter det til dette Formaal optagne Laan andrager 1.364.928,09 Kr.
+Om Financiering af Restudgiften ved Opførelsen af Aldersrenteboligerne vil der senere af Byraadet være at fremsende Ansøgning til Indenrigsministeriets Godkendelse.\"
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	4	19
+"6"	1945-04-19	"closed"	"19450419B_1.pdf"	2	"165-1945"	"Indstilling fra Socialudvalget om Godkendelse af, at Sygeplejerskerne Marie E. Andersen og Ellen V. Pedersen er ansatte som Sommerferievikarer for Sundhedsplejerskerne i 3 Maaneder fra 1. Juni d. A.
+Tiltraadtes.
+"	1945	4	19
+"7"	1945-04-19	"closed"	"19450419B_1.pdf"	2	"163-1945"	"Indstilling fra Skolekommissionen om Ansættelse af faste Vikarer ved Borgerskolerne.
+"	1945	4	19
+"8"	1945-04-19	"closed"	"19450419B_1.pdf"	3	"163-1945"	"Kommissionen foreslaar følgende Ansættelser: Mandlige Vikarer: Aage Agger, Jens Laursen og Ove Stranddorf.
+Kvindelige Vikarer: Myrla Larsen, Agnete Mosholt og Nielsine Skov.
+Tiltraadtes.
+"	1945	4	19
+"9"	1945-04-19	"closed"	"19450419B_1.pdf"	3	"176-1945"	"Indstilling angaaende Honorar til Maskinmesteren ved Raadhuset for visse Arrangementer i Raadhushallen.
+Lønudvalget indstiller, at der ydes Maskinmesteren et Honorar paa 15 Kr. pr. Dag i de Tilfælde, hvor hans Medvirken er nødvendig, og der betales Lejeafgift af Hallen.
+Indstillingen vedtoges.
+"	1945	4	19
+"10"	1945-04-19	"closed"	"19450419B_1.pdf"	3	"138-1945"	"Andragende fra Elektrikerne Arne Svinding og H. A. Poulsen om Autorisation som Elektroinstallatør.
+Anbefalet af Belysningsudvalget.
+Bevilgedes.
+"	1945	4	19
+"11"	1945-04-19	"closed"	"19450419B_1.pdf"	3	"12_13-1944"	"IndstillingfraSocialudvalget om personligt Tillæg til Rentenydere.
+Indstillingen vedtoges.
+"	1945	4	19
+"12"	1945-04-19	"closed"	"19450419B_1.pdf"	3	"16_43-1944"	"Indstillingfra Socialudvalget omYdelse af Kommunehjælpuden valgretsfor-tabende Virkning til 2 Personer.
+Indstillingen vedtoges.
+"	1945	4	19
+"13"	1945-04-19	"closed"	"19450419B_1.pdf"	3	"16_1-1945"	"Indstilling fra Socialudvalget om Ydelse af Kommunehjælp uden valgretsfortabende Virkning til 10 Personer.
+Indstillingen vedtoges.
+"	1945	4	19
+"14"	1945-04-19	"closed"	"19450419B_1.pdf"	3	"17_2-1945"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet 2 Personer.
+Indstillingen vedtoges.
+"	1945	4	19
+"15"	1945-04-19	"closed"	"19450419B_1.pdf"	3	"17_60-1944"	"Indstillingfra Socialudvalget omEftergivelse afHjælp ydet Carl Skovgaard.
+Indstillingen vedtoges.
+"	1945	4	19
+"16"	1945-04-19	"closed"	"19450419B_1.pdf"	4	"33_4-1945"	"Indstilling fra Socialudvalget om fast Ansættelse af Lærer ved Fritidshjemmet Carl Schulz.
+Udvalget indstiller, at Ansættelsen sker i 6. Lønklasse fra 1. Marts 1945 og med Anciennitet fra samme Dato.
+• Indstillingen vedtoges.
+"	1945	4	19
+"17"	1945-04-19	"closed"	"19450419B_1.pdf"	4	"168-1945"	"Andragende fra Johs. Sande-gaard om Tilladelse til midlertidig at oprette forskellige Bilparkeringspladser.
+Et Flertal af Vejteknisk Udvalgs Medlemmer kan anbefale, at J. Sandegaard faar Tilladelse til midlertidig at oprette Bilparkeringspladser mod Betaling i Lighed med Parkeringspladsen paa Bispetorvet følgende Steder: Banegaardspladsen, Sabroes Plads og Zoologisk Have.
+Udvalgets Formand kan ikke anbefale, at der for Tiden oprettes flere Parkeringspladser med Opsyn.
+J. R. Fanger var ikke enige med de øvrige Medlemmer i Udvalget. Det var for tidligt at røre ved dette Spørgsmaal, saa længe der var saa faa Biler. En Krone pr. Bil var ogsaa en høj Betaling, og det var heller ikke sikkert, at de foreslaaede Steder var de rigtige, men hvis det først var lavet, var det ikke let at komme af med det igen. Faren ved en saadan Ordning var, at Bilerne kører ind paa Gaden ved Siden af Pladsen, hvor de kan parkere gratis. Taleren kunde for Tiden ikke tiltræde Forslaget.
+Sigvald Nielsen henviste til, at Cykle-parkeringen havde givet en stor Indtægt, og da det var kommet arbejdshæmmede og Invalider til gode, var det i Realiteten sparet ved Socialvæsenet. Man ønskede nu at gaa videre og lave Bilparkering mod Betaling paa de nævnte Steder.
+"	1945	4	19
+"18"	1945-04-19	"closed"	"19450419B_1.pdf"	5	"168-1945"	"Angaaende Antallet af Biler kunde Taleren oplyse, at der paa Bispetorvet, hvor Ordningen var indført, fra den 1. til 19. April var parkeret 297 Biler, og sidste Uge havde Opsynet en Indtægt paa 69-71 Kr. Hr. Fanger ønskede vist, at det skulde lægges under Kgl. dansk Automobilklub, men Flertallet ønskede samme Ordning som ved Cykleparkeringen, som var til Gavn for Kommunen.
+Oluf Nielsen vilde anbefale Forslaget, fordi der i disse lovløse Tider er Trang til at have Opsyn med alt i Byen. Den offentlige Cykle-parkering havde været en Succes, og samtidig havde man hjulpet en Del arbejdshæmmede Folk til en Indtægt. Taleren fandt det derfor rigtigt, at man ogsaa laver offentlige Bilparkeringspladser, og hvis Folk ikke mente at have Raad til at parkere der, var der Pladser nok, hvor man kunde parkere gratis. Hvis de blot betalte 1 Kr., kunde de benytte hvilke Pladser, de vilde, i Løbet af Dagen; som Maanedsabonnement blev det kun 33 Øre pr. Dag, og der var samtidig en Ansvarsforsikring for de parkerede Biler. Af disse Grunde kunde Taleren anbefale Forslaget som en midlertidig Foranstaltning.
+J. R. Fanger var ikke med i nogen Automobilklub, men det var Kgl. dansk Automobilklub, som i sin Tid indførte det paa Bispetorvet, og 2 Mand blev førsørget derved. Saa opsagde Byen det, og naar det igen skulde indføres, havde det været høfligst først at tale med Klubben derom. Det var ikke Autobilejerne, som havde ønsket denne Ordning, men Sandegaard, som havde søgt derom, og med det nævnte Antal Biler var Taksten altfor høj.
+"	1945	4	19
+"19"	1945-04-19	"closed"	"19450419B_1.pdf"	6	"168-1945"	"Sigvald Nielsen bemærkede, at naar der blev ordnede Forhold, kunde Taksten muligvis ændres, men Ordningen burde i hvert Fald vedblive at være under Kommunen.
+Flertallets Indstilling vedtoges enstemmig med 9 Stemmer.
+"	1945	4	19
+"20"	1945-04-19	"open"	"19450419_1.pdf"	1	"no related record"	"Mødet den 19. April 1945.
+Fraværende: Borgmesteren, Kai Blicher, Bernhard Jensen, Niels Laursen, Møller Rasmussen, Chr. Nielsen, 1. C. Sørensen og Unmack Larsen.
+"	1945	4	19
+"21"	1945-04-19	"open"	"19450419_1.pdf"	1	"22_40-1944 og 22_41-1944 og 11_38-1944 og 11_39-1944 og 11_40-1944 og 11_41-1944 og 11_42-1944 og 11_43-1944 og 11_44-1944 og 11_45-1944 og 11_37-1944"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a.(J. Nr. 22_40-1944). Kabelmester G. Højsgaard.
+b.(J. Nr. 22_41-1944). Konstruktør H. P. Sølvsten.
+c.(J. Nr. 11_38-1944). Murer G. Moesgaard.
+d.(J. Nr. 11_39-1944). Ekspedient E. Nilsson.
+e.(J. Nr. 11_40-1944). Maskinsnedker T. Hansen.
+f.(J. Nr. 11_41-1944). Fyrbøder A. S. Christensen.
+g.(J. Nr. 11_42 -1944). Malermester H. Kjeldsen.
+h.(J. Nr. 11_43 -1944). Pakmester O.N. Jakobsen.
+i.(J. Nr.11_44-1944). Svejser P. V. Kristensen,
+j.(J. Nr. 11_45-1944). Montør H. Sønderholm.
+k. (J. Nr. 11_37-1944). Automobilforhandler Chr. Jørgensen.
+Toges til Efterretning.
+"	1945	4	19
+"22"	1945-04-19	"open"	"19450419_1.pdf"	1	"119-1945"	"Meddelelse fra Undervisningsministeriet om Bevilling af Statstilskud til Ole Rømer-Observatoriet.
+Toges til Efterretning.
+"	1945	4	19
+"23"	1945-04-19	"open"	"19450419_1.pdf"	2	"1719-1944"	"Meddelelse fra Ministeriet for off. Arbejder om Approbation af Havne- og Brotakst for Aarhus Havn.
+Toges til Efterretning.
+"	1945	4	19
+"24"	1945-04-19	"open"	"19450419_1.pdf"	2	"63-1945"	"Meddelelse fra Arbejdsministeriet om, at et Arbejde bestaaende af Høfdeanlæg og Kystsikring ved Marselisborg og Moesgaard Skove er godkendt som Beredskabsarbejde.
+Toges til Efterretning.
+"	1945	4	19
+"25"	1945-04-19	"open"	"19450419_1.pdf"	2	"91-1945"	"Meddelelse fra Justitsministeriet om Godkendelse af Overenskomster mellem Brandvæsenet og Redningskorpsene om Assistance i Ildebrandstilfælde.
+Toges til Efterretning.
+"	1945	4	19
+"26"	1945-04-19	"open"	"19450419_1.pdf"	2	"92-1945"	"Regnskaber for Boligforeningen Ringgaarden og dens Underafdelinger i 1944.
+Godkendtes.
+"	1945	4	19
+"27"	1945-04-19	"open"	"19450419_1.pdf"	2	"3_1-1945"	"Indstilling fra Belysningsudvalget om forskellige Tillægsbevillinger til Værkernes Driftsbudgetter for 1944-45.
+Følgende Indstilling forelaa:
+Gasværket.Udgifter.........401.000Kr.
+Indtægter..............240.000\"
+Difference.............161.000Kr.
+forventes dækket ved Besparelser paa andre Udgiftskonti.
+Elektricitetsværket. Udgifter.......1810.000Kr.
+Indtægter ,. . . .1762.000\"
+Difference....48.000Kr.
+forventes dækket ved Besparelser paa andre Udgiftskonti.
+Svømmehallen. Udgifter..............70.000Kr.
+Indtægter..........94.000\"
+Merindtægten.......24.000Kr.
+anvendes tilFormindskelseaf
+Elektricitetsværkets Tilskud.
+"	1945	4	19
+"28"	1945-04-19	"open"	"19450419_1.pdf"	3	"3_1-1945"	"Fjernvarmeanlæget. Udgifter..........287.000Kr.
+Indtægter......285.000\"
+Difference ....2.000Kr.
+forventes dækket ved Besparelser paa andre Udgiftskonti. Forbrændingsanstalten. Udgifter.. .524.000Kr.
+Indtægter. .506.000\"
+Difference .18.000Kr.
+forventes dækket vedBe-
+sparelser paa andre Udgiftskonti.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	4	19
+"29"	1945-04-19	"open"	"19450419_1.pdf"	3	"73-1945"	"Sagen angaaende Anlæg af en Sti omkring Brabrand Sø.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Som Byraadet formentlig vil erindre, var der paa den Plan over Beredskabsarbejder, som Byraadet vedtog den 2. Februar 1944, optaget et Arbejde bestaaende i Anlæg af en Gang-og Cyklesti omkring Brabrand Sø.
+Efter at Stadsingeniøren havde udarbejdet en foreløbig Plan over Stien samt Overslag m. v., der vedlægges, blev Spørgsmaalet behandlet paa et Møde af Repræsentanter for underskrevne Udvalg samt de interesserede Oplandskommuner, Viby, Aaby, Brabrand og Ormslev-Koldt. Paa dette Møde var der Enighed om, at der var Interesse for Stien, og det besluttedes derfor at henstille til Byraadet og de respektive Sogneraad at nedsætte et Udvalg bestaaende af 5 Repræsentanter for Aarhus
+"	1945	4	19
+"30"	1945-04-19	"open"	"19450419_1.pdf"	4	"73-1945"	"Byraad samt 1 Repræsentant for hvert af Sogneraadene til at fremkomme med endelige Planer over Udkast til Fordeling af Udgifterne mellem Kommunerne, hvilke Planer og Udkast vil blive forelagt Byraadet og Sogneraadene til Godkendelse, samt til at foreslaa Stiens eventuelle Anlæg.
+Under Henvisning hertil skal man indstille, at Medlemmerne af nærværende Udvalg vælges som Byraadets Repræsentanter i det paagældende Udvalg.\"
+Sigvald Nielsen udtalte, at Vejteknisk Udvalg var lidt fortørnet over dette Forslag, for dette Udvalg plejer altid at anlægge Veje og Stier. Udvalget for Byens Udvidelse og Bebyggelse havde ført Forhandlinger med Oplandskommunerne angaaende Sagen, men det havde været rimeligt, at Vejudvalget havde faaet et Par Repræsentanter i dette Forhandlingsudvalg, og det kunde vel ske endnu. Forøvrigt burde Formanden for Vejteknisk Udvalg have udtalt sig herom.
+J. R. Fanger havde ikke noget imod, at Udvalget for Byens Udvidelse og Bebyggelse forhandler om Anlæg af Stien; men det var næppe Meningen, at dette Udvalg ogsaa skal anlægge Stien, idet saadanne Arbejder altid blev udført af Vejteknisk Udvalg. Her var der dog en Vanskelighed, idet Oplandskommunerne skal være medbestemmende, og det maatte ogsaa tages i Betragtning, at Arbejdet skal laves af henviste Arbejdere. Man kunde maaske gaa den Vej at vælge et særligt Udvalg med Repræsentanter fra begge Udvalg, ellers maatte det overlades til Vejteknisk Udvalg at udføre Arbejdet.
+"	1945	4	19
+"31"	1945-04-19	"open"	"19450419_1.pdf"	5	"73-1945"	"K. Mousten mente ikke, man kunde vælge et Udvalg paa 7 Medlemmer fra Aarhus, idet Oplandskommunerne i Forvejen fandt, at Aarhus havde temmelig mange Repræsentanter. Men man kunde maaske lade det Punkt i Indstillingen om Stiens Anlæg udgaa i Dag og saa enes om det øvrige.
+Johanne Berg sluttede sig hertil. Udvalget for Byens Udvidelse og Bebyggelse kunde forhandle med de øvrige Kommuner, men det var rimeligt, at Vejteknisk Udvalg anlægger Stien.
+Sigvald Nielsen henstillede at udsætte hele Sagen og først tage en Forhandling mellem de to Udvalg.
+J. R. Fanger kunde tænke sig at vælge 3 Medlemmer af Udvalget for Byens Udvidelse og Bebyggelse og 2 af Vejteknisk Udvalg. Taleren kunde ogsaa slutte sig til Moustens Forslag om at udsætte det sidste Punkt eller ogsaa ændre det til, at Arbejdet skal udføres af Vejteknisk Udvalg.
+K. Mousten vilde ikke tage Ansvaret for den foreslaaede Ændring; saa maatte man hellere udsætte hele Sagen.
+Oluf Nielsen var tilfreds med Forslaget, hvis man ændrer det sidste Punkt til, at Arbejdet skal udføres af Vejteknisk Udvalg. Vejarbejder udførtes altid af dette Udvalg, og det burde ogsaa gælde i dette Tilfælde.
+K. Mousten mente ikke, man kunde vedtage en Ændring af Forslaget i Dag, da det ikke var Aarhus Kommune alene, som skal træffe Bestemmelse derom.
+Sigvald Nielsen vilde saa foreslaa at udsætte hele Sagen.
+Sagen udsattes.
+"	1945	4	19
+"32"	1945-04-19	"open"	"19450419_1.pdf"	6	"252-1945"	"Indstilling fra Skovudvalget om, at et Arbejde bestaaende i Oprensning af Damme i Marselisborg Skov optages blandt Kommunens Beredskabsarbejder.
+Fra Udvalget forelaa Meddelelse om, at Udgiften vil andrage ca. 80.000 Kr.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	4	19
+"33"	1945-04-19	"open"	"19450419_1.pdf"	6	"1745-1944"	"Indstilling om Fastsættelse af Lejen for Husvildeboligerne i Vennelysts Restaurationsbygning.
+Fra Bygningsinspektøren forelaa Forslag om, at Lejen sættes til 12 Kr. pr. m2.
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse.
+Indstillingen vedtoges.
+"	1945	4	19
+"34"	1945-04-19	"open"	"19450419_1.pdf"	6	"162-1945"	"Indstilling om, at Kommunen indmeldes som Medlem af Jydsk psykoteknisk Forening.
+Anbefalet af Budgetudvalget, idet Kontingentet andrager 50 Kr. aarlig.
+Indstillingen vedtoges.
+"	1945	4	19
+"35"	1945-04-19	"open"	"19450419_1.pdf"	6	"155-1945"	"Forslag fra Belysningsudvalget til Kontrakt angaaende Fjernvarmeforsyning paa Frederiksbjerg m. v.
+Følgende Indstilling forelaa:
+\"Fremsendes til Byraadet med Indstilling om, at Tilslutning til den projekterede Fjernvarmeforsyning paa Frederiksbjerg sker paa de i nævnte Kontraktudkast indeholdte Betingelser.
+Under Forudsætning af, at det ærede Byraad tiltræder Indstillingen, forhøjes den Byraadet tidligere meddelte anslaaede Anlægsudgift paa 3 Mill. Kr. med ca. 500.000 Kr.,
+"	1945	4	19
+"36"	1945-04-19	"open"	"19450419_1.pdf"	7	"155-1945"	"nemlig med det Beløb, som skønnes at medgaa til Etablering af Stikledninger og Reguleringspartier, som oprindelig var tænkt at skulle betales af Grundejerne kontant.\"
+Fra Økonomidirektøren forelaa følgende Erklæring:
+\"Det tidligere Projekt vedrørende Anlæg af en Fjernvarmeledning til Frederiksbjerg, der er godkendt som Beredskabsarbejde af Beskæftigelsescentralen med et Tilskud paa 80 + 40 %, forudsatte - i Lighed med tidligere Praksis - at Grundejerne selv afholdt de ved Indlægning af Stikledninger og Etablering af Reguleringsparti m. v. forbundne Udgifter.
+Udvalget for Aarhus Belysningsvæsen foreslaar nu den hidtidige Praksis ændret derhen, at Belysningsvæsenet afholder de omhandlede Udgifter, mod at disse tilbagebetales af Grundejerne gennem en Forhøjelse af Varmetaksten. Dette Forslag vil medføre, at Overslagssummen forøges med ca. 500.000 Kr. til ca. 3.500.000 Kr.
+Forslaget betyder endvidere en Ændring af den hidtidige Takstpolitik, hvor Taksten udelukkende har været fastsat i Relation til den forbrugte Varmemængde. En saadan Takstpolitik rummer imidlertid den Fare, at Belysningsvæsenet i meget milde Vintre eller i Perioder med mange ledige Lejligheder ikke opnaar tilstrækkelige Indtægter til Dækning af de faste Udgifter (Forrentning og Afskrivning m. m.), som er uafhængige af Produktionens Størrelse, hvorfor Belysningsvæsenet i givet Fald kan blive udsat for ret betydelige Tab.
+"	1945	4	19
+"37"	1945-04-19	"open"	"19450419_1.pdf"	8	"155-1945"	"Belysningsvæsenet har derfor foreslaaet Taksten ændret saaledes, at denne kommer til at bestaa af en fast Afgift, der maa erlægges uden Hensyn til den forbrugte Varmemængde samt en Afgift, der varierer dels med den forbrugte Varmemængde og dels med Brændselsprisen.
+Da denne Varmetakst ifølge Belysningsvæsenet svarer til den hidtil anvendte Varmetakst for en Ejendom med normal Benyttelsestid med Tillæg af de omhandlede Udgifter til Stikledninger og Reguleringsparti m. v., og da den faste Afgift ifølge indhentede Oplysninger hos Belysningsvæsenet, selv naar Hensyn tages til den Del af Afgiften, der skal dække Forrentning og Afskrivning af Installationen, udgør den væsentligste Del af den samlede Varme-afgift, vides der intet herfra at erindre imod, at Taksten fastsættes som foreslaaet af Udvalget for Aarhus Belysningsvæsen, og at Kommunen udreder de omhandlede Udgifter vedrørende Installationerne.
+Vedrørende Finansieringen af det paagældende Arbejde skal man tillade sig at bemærke følgende:
+Da en Del af Arbejdet ved Indlægning af Stikledninger og Reguleringsparti m. v. ikke kan udføres med henvist Arbejdskraft, og da det forøvrigt maa anses for yderst tvivlsomt, om Kommunen kan opnaa Tilskud til denne Del af Arbejdet, skal man - efter forudgaaende Forhandling med Direktør Jonasson - foreslaa, at den Del af Stikledningerne, der er beliggende i Gaden, henregnes under Beredskabsarbejdet og indarbejdes i det under Udarbejdelse værende Detailprojekt, medens den
+"	1945	4	19
+"38"	1945-04-19	"open"	"19450419_1.pdf"	9	"155-1945"	"resterende Del af Arbefdet betragtes som et særskilt Projekt, der udelukkende finansieres af Kommunen - formentlig ved Laanoptagelse.
+Naar Detailprojektet derfor til sin Tid er udarbejdet, vil dette blive forelagt Arbejdsministeriet til Godkendelse, ligesom hele Bevillingsspørgsmaalet til den Tid vil blive forelagt Byraadet til Vedtagelse.\"
+Tiltraadt af Budgetudvalget i Overensstemmelse med Økonomidirektørens Erklæring.
+Indstillingen vedtoges.
+"	1945	4	19
+"39"	1945-04-19	"open"	"19450419_1.pdf"	9	"132-1945"	"Indstilling fra Skoleudvalget om, at Fortsættelsesskolen i Christiansgade nedlægges, og at der i Stedet for oprettes \"Aarhus kommunale Fortsættelseskursus.\"
+K. Mousten oplyste, at Skolen var gaaet tilbage i de senere Aar, og Skolekommissionen og Skolenævnet mente, at man ved at give den et andet Navn og en anden Form kunde faa mere Tilslutning. Et saadant Kursus kunde oprettes baade efter Aftenskoleloven og Ungdomsskoleloven.
+Indstillingen vedtoges.
+"	1945	4	19
+"40"	1945-04-19	"open"	"19450419_1.pdf"	9	"509-1944"	"Endeligt Skøde til Kommunen paa Matr. Nr. 94 b af Viby.
+Godkendtes.
+"	1945	4	19
+"41"	1945-04-19	"open"	"19450419_1.pdf"	9	"333-1944"	"Endeligt Skøde til Kommunen paa Matr. Nr. 39 c og 96 b af Viby.
+Godkendtes.
+"	1945	4	19
+"42"	1945-04-19	"open"	"19450419_1.pdf"	9	"22_1-1945 og 11_1-1945 og 11_2-1945 og 11_3-1945 og 11_4-1945 og 11_5-1945"	"Forslag til Købekontrakter med:
+a.(J. Nr. 22_1-1945). Restauratør Kai Thostrup
+angaaende en Grund ved Bøgebjergvej.
+b.(J. Nr. 11_1-1945). Mekaniker S. Kragelund
+angaaende en Grund ved Hirsevangen.
+"	1945	4	19
+"43"	1945-04-19	"open"	"19450419_1.pdf"	10	"22_1-1945 og 11_1-1945 og 11_2-1945 og 11_3-1945 og 11_4-1945 og 11_5-1945"	"c.(J. Nr. 11_2-1945). Arbejdsmand A. Bugtrup angaaende en Grund ved Havrebakken.
+d.(J. Nr. 11_3-1945). Uddeler A. Hansen angaaende en Grund ved Bakkevænget.
+e.(J. Nr. 11_4-1945). Maskinarbejder A. Jürgensen angaaende en Grund ved Bakkevænget.
+f.(J. Nr. 11_5-1945). Tømrermester Otto Ottosen angaaende en Grund ved Frithiof Nansens Vej.
+Godkendtes.
+"	1945	4	19

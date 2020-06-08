@@ -1,0 +1,256 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1945-02-08	"closed"	"19450208B_215.pdf"	1	"no related record"	"Mødet den 8. Februar 1945.
+(For lukkede Døre).
+Fraværende: Kai Blicher, Johanne Berg og Unmack Larsen.
+"	1945	2	8
+"2"	1945-02-08	"closed"	"19450208B_215.pdf"	1	"749-1944"	"Indenrigsministeriets Godkendelse af Plan for Oprettelse af en Karantænestation i Aarhus.
+Toges til Efterretning.
+"	1945	2	8
+"3"	1945-02-08	"closed"	"19450208B_215.pdf"	1	"1583-1944"	"Meddelelse fra Vaaben-brødreforeningen om Bortgivelse af Slagtermester P. M. Jensen og Hustrus Legat.
+Toges til Efterretning.
+"	1945	2	8
+"4"	1945-02-08	"closed"	"19450208B_215.pdf"	1	"1591-1944"	"Indstilling om, at Budgetudvalget bemyndiges til at opsige Kommunens Restskyld til Kommunernes Kreditforening.
+Borgmesteren oplyste, at Udvalget flere Gange havde diskuteret Spørgsmaalet, og ingen vidste, hvordan det kom til at ligge i den nærmeste Tid, men Udvalget ønskede Bemyndigelse til eventuelt at opsige Laanet, hvis man skønner, at Tidspunktet er rigtigt, og ligeledes om Betalingen
+"	1945	2	8
+"5"	1945-02-08	"closed"	"19450208B_215.pdf"	2	"1591-1944"	"skal ske kontant eller ved Kasseobligationer.
+Indstillingen vedtoges.
+"	1945	2	8
+"6"	1945-02-08	"closed"	"19450208B_215.pdf"	2	"1592-1944"	"Indstilling om Akcept af Tilbud til Kommunen paa en Ejendom.
+Borgmesteren forelagde Sagen, der drejede sig om en Gave til Kommunen fra Grosserer Jens P. Larsen. Han var nu en gammel Mand og ønskede Papirerne ordnet, men Overdragelsen skulde først finde Sted paa hans 70 Aars Fødselsdag, og Sagen maatte ikke omtales før den Tid. Det var en pæn Gave, som bestod af en Ejendom i Hinge paa ca. 53Tdr. Land Ager og Skov og en herskabelig Bygning paa Grunden, og Værdien androg 80-100.00 Kr. Foreløbig var den lejet ud til en københavnsk Grosserer, som havde ofret meget derpaa, men efter nogle Aar vilde Kommunen kunne disponere over den.
+J. R. Fanger spurgte, om der var tænkt nærmere over, hvad den skal anvendes til.
+Borgmesteren svarede, at det var Giverens Tanke, at den skal anvendes til Feriehjem, og den eneste Betingelse var, at det skulde være Borgere fra Aarhus, saa der var et ret stort Spillerum. Eventuelt kunde der bygges flere Feriekolonier derude; men det vilde senere blive afgjort. Taleren anbefalede, at Byraadet med Tak modtager Gaven.
+Tiltraadtes.
+"	1945	2	8
+"7"	1945-02-08	"closed"	"19450208B_215.pdf"	2	"1593-1944"	"Indstilling angaaende en Bevilling til særlige Formaal.
+Borgmesteren meddelte, at Københavns Kommune havde faaet Tilladelse til at foretage visse Indkøb af Levnedsmidler, og man havde da drøftet at foretage noget lignende i Aarhus.
+"	1945	2	8
+"8"	1945-02-08	"closed"	"19450208B_215.pdf"	3	"1593-1944"	"Nu forelaa der et Forslag fra de Embedsmænd, der havde med Sagen at gøre. Det var tidligere vedtaget at købe 5.000 Tdr. Kartofler, og de fleste af disse var leveret. Hensigten med Forslaget var at have et Beredskabslager i Kommunen, hvis Tilførslerne til Byen skulde svigte, og man foreslog at anvende indtil 700.000 Kr. hertil. Det vilde senere blive afgjort, hvor Lageret skal opbevares.
+Møller Rasmussen havde hørt, at der var fabrikeret Lys til flere Kommuner, og spurgte, om saadanne ogsaa skulde leveres til Aarhus.
+Borgmesteren svarede, at Aarhus havde faaet et Parti Stearinlys, som man tænkte sig at anvende i Beskyttelsesrummene, men Luftværnet havde foreløbig ikke villet tillade dette. Det syntes uforstaaeligt, da Erfaringen havde vist, at ved Bombeangreb bliver de elektriske Ledninger næsten altid ødelagt.
+Forslaget tiltraadtes.
+"	1945	2	8
+"9"	1945-02-08	"closed"	"19450208B_215.pdf"	3	"1543-1944"	"Indstilling fra Brandkommissionen om Uddeling af Hæderstegn for 25 Aars god Tjeneste ved Brandvæsenet.
+Kommissionen indstiller, at Hæderstegnet tildeles Brandmændene Karl J. Hansen og F. J. V. Johansen samt Maskinpasser O. Stig Nielsen.
+Tiltraadtes.
+"	1945	2	8
+"10"	1945-02-08	"closed"	"19450208B_215.pdf"	3	"206-1944"	"Indstilling fra Skoleudvalget om Godtgørelse paa 600 Kr. aarlig til Overlæreren ved Nørrebrogades Skole for Afsavn af Tjenestebolig.
+Indstillingen vedtoges.
+"	1945	2	8
+"11"	1945-02-08	"closed"	"19450208B_215.pdf"	3	"1458-1944"	"Andragende fra Bibliotekar af 1. Grad ved Folkebiblioteket P. Kirkegaard om Afsked.
+"	1945	2	8
+"12"	1945-02-08	"closed"	"19450208B_215.pdf"	4	"1458-1944"	"Anbefalet af Lønudvalget saaledes, at Afskedigelsen sker fra 1. Januar 1945, og de af Andrageren til Pensionsfonden ydede Bidrag tilbagebetales ham.
+Indstillingen vedtoges.
+"	1945	2	8
+"13"	1945-02-08	"closed"	"19450208B_215.pdf"	4	"33_55-1944"	"Indstilling fra Biblioteks-
+udvalget om, at Stillingen som Bibliotekar af 1. Grad ved Folkebiblioteket besættes med Frk. Mine Islev, Aarhus.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	2	8
+"14"	1945-02-08	"closed"	"19450208B_215.pdf"	4	"29_18-1944"	"Andragendefra Arkitekt H. A. Bredal, Stadsingeniørens Kontor, om Afsked med Pension fra 1/4 1945.
+Bevilgedes. Pensionen fastsattes til 3.680 Kr.
+"	1945	2	8
+"15"	1945-02-08	"closed"	"19450208B_215.pdf"	4	"33_56-1944"	"Indstilling fraBelysnings-
+udvalget om, at Ingeniør ved Gasværket J. Klinke Laursen fra 1/1 1945 forfremmes til Afdelingsingeniør.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	2	8
+"16"	1945-02-08	"closed"	"19450208B_215.pdf"	4	"288-1944"	"Indstilling fra Sygehusudvalget
+om, at Hospitalsinspektør ved Kommunehospitalet P. Qwist fastansættes fra 1/6 1945, og at der fra 1/1 1945 ydes ham to Alderstillæg.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	2	8
+"17"	1945-02-08	"closed"	"19450208B_215.pdf"	4	"33_44-1944"	"Indstilling fra Sygehusudvalget om, at Overassistent ved Marselisborg Hospital K. A. E. Rasmussen fra 1/4 forfremmes til Fuldmægtig.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	2	8
+"18"	1945-02-08	"closed"	"19450208B_215.pdf"	4	"33_57-1944"	"Indstilling fraVandværks-
+udvalget om fast Ansættelse af Maskinmester ved Stautrupværket F. O. Andersen.
+"	1945	2	8
+"19"	1945-02-08	"closed"	"19450208B_215.pdf"	5	"33_57-1944"	"Tiltraadt af Lønudvalget saaledes, at der ydes ham 600 Kr. aarlig for Arbejde udover normal Arbejdstid.
+Indstillingen vedtoges.
+"	1945	2	8
+"20"	1945-02-08	"closed"	"19450208B_215.pdf"	5	"1499-1944"	"Indstilling fra Sporvejsudvalget om, at der ydes Maskinarbejder C. Locht fuld Løn i 1 Maaned udover det Tidspunkt, da hans Løn under Sygdom skulde nedsættes med 73.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	2	8
+"21"	1945-02-08	"closed"	"19450208B_215.pdf"	5	"29_17-1944"	"Andragende fra Sirenepasser ved Havnen J. F. Klein om Afsked med Pension fra 1/4 1945.
+Bevilgedes. Pensionen fastsattes til 2.800 Kr.
+"	1945	2	8
+"22"	1945-02-08	"closed"	"19450208B_215.pdf"	5	"1598-1944"	"Fastsættelse af Pension til Enken efter Formand ved Vejvæsenet Aug. Petersen.
+Pensionen fastsattes til 1.303,70 Kr.
+"	1945	2	8
+"23"	1945-02-08	"closed"	"19450208B_215.pdf"	5	"1599-1944"	"Fastsættelse af Pension til Enken efter Overassistent paa Stadsingeniørens Kontor Viggo Hansen.
+Pensionen fastsattes til 1.445,37 Kr.
+"	1945	2	8
+"24"	1945-02-08	"closed"	"19450208B_215.pdf"	5	"1600-1944 og 1601-1944 og 1492-1944 og 1422-1944 og 1338-1944"	"Indstilling fra Lønudvalget angaaende forskellige Understøttelser.
+Udvalget foreslaar følgende aarlige Understøttelser uden Dyrtidstillæg:
+a.(J.Nr.1600-1944).Fhv. Arbejdsmand ved Vejvæsenet Chr. Frandsen 150 Kr.
+b.(J.Nr.1601 -1944).Fhv. Arbejdsmand ved Vejvæsenet HansKnudHansen 150Kr.
+c.(J.Nr.1492-1944).Fhv. Rengøringsassistent ved Skolevæsenet Kirsten Marie Olsen 100 Kr.
+d.(J. Nr. 1422-1944). Fhv. Rengøringsassistent ved Skolevæsenet Ane Kirstine Laursen 100 Kr.
+"	1945	2	8
+"25"	1945-02-08	"closed"	"19450208B_215.pdf"	6	"1600-1944 og 1601-1944 og 1492-1944 og 1422-1944 og 1338-1944"	"e.(J. Nr. 1338-1944). Fhv. Rengøringsassistent Anna Møller. Udvalget kan for Tiden ikke anbefale Understøttelse, da hendes Mand er beskæftiget ved Kommunen. Indstillingen vedtoges.
+"	1945	2	8
+"26"	1945-02-08	"closed"	"19450208B_215.pdf"	6	"1006-1944"	"Indstilling om Afskrivning af uerholdelige Skatter.
+Udvalget foreslaar følgende Afskrivninger:
+For Skatteaaret 1943-1944 .... 33.018,08 Kr.
+For tidligere Aar................. .. 48.575,89 \"
+Ialt... 81.593,97 Kr~
+Tiltraadtes.
+"	1945	2	8
+"27"	1945-02-08	"closed"	"19450208B_215.pdf"	6	"16_37-1944"	"Indstilling fra Socialudvalget om fortsat Ydelse af Kommunehjælp som Tillægshjælp efter Forsorgslovens § 293 til en nærmere angiven Person.
+Indstillingen vedtoges.
+"	1945	2	8
+"28"	1945-02-08	"closed"	"19450208B_215.pdf"	6	"16_36-1944"	"Indstilling fra Socialudvalget om, at Kommunehjælp ydet 2 Personer ikke skal have valgretsfortabende Virkning.
+Indstillingen vedtoges.
+"	1945	2	8
+"29"	1945-02-08	"closed"	"19450208B_215.pdf"	6	"17_50-1944"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet 4 nærmere angivne Personer.
+Indstillingen vedtoges.
+"	1945	2	8
+"30"	1945-02-08	"closed"	"19450208B_215.pdf"	6	"17_49-1944 og 17_48-1944 og 17_47-1944 og 17_51-1944"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet til:
+a.(J. Nr. 17_49-1944). Søren Holger Iversen.
+b.(J. Nr. 17_48-1944). Peter Joh. Andersen.
+c.(J. Nr. 17_47-1944). Harald Chr. Sørensen.
+d.(J. Nr. 17_51-1944). Henry Harald Jensen. Indstillingen vedtoges.
+"	1945	2	8
+"31"	1945-02-08	"closed"	"19450208B_215.pdf"	6	"99_62-1944"	"Andragende fra Tømrermester
+"	1945	2	8
+"32"	1945-02-08	"closed"	"19450208B_215.pdf"	7	"99_62-1944"	"Hans Olsen om Statslaan til en Ejendom Rudolph Wulffs Gade 18. - 2. Behandling. Indstillingen vedtoges.
+"	1945	2	8
+"33"	1945-02-08	"closed"	"19450208B_215.pdf"	7	"99_61-1944"	"Andragende fra Murerm. Th. P. Rasmussen og I. A. Sørensen om Statslaan til en Ejendom Rudolph Wulffs Gade 20. -
+2.Behandling.
+Indstillingen vedtoges.
+"	1945	2	8
+"34"	1945-02-08	"open"	"19450208_177.pdf"	1	"no related record"	"Mødet den 8. Februar 1945.
+Fraværende: Kai Blicher, Johanne Berg og Unmack Larsen.
+"	1945	2	8
+"35"	1945-02-08	"open"	"19450208_177.pdf"	1	"1001-1944"	"IndenrigsministerietsSam-tykke til Køb af et Areal af Gaardejer Karl Kjeldsen, Vejlby.
+Toges til Efterretning.
+"	1945	2	8
+"36"	1945-02-08	"open"	"19450208_177.pdf"	1	"1482-1944"	"IndenrigsministerietsSamtykke til Magelæg med Fabrikant R. Thomsen, Finderupvej 3.
+Toges til Efterretning.
+"	1945	2	8
+"37"	1945-02-08	"open"	"19450208_177.pdf"	1	"22_29-1944"	"IndenrigsministerietsGod-kendelse af Købekontrakt med Entreprenør H. Aarslev.
+Toges til Efterretning.
+"	1945	2	8
+"38"	1945-02-08	"open"	"19450208_177.pdf"	1	"1074-1944"	"IndenrigsministerietsGod-kendelse af, at der ved Kommunen ansættes yderligere 1 Sundhedsplejerske.
+Toges til Efterretning.
+"	1945	2	8
+"39"	1945-02-08	"open"	"19450208_177.pdf"	1	"99_45a-1944"	"Meddelelse fra Indenrigsministeriet om Bevilling af Statslaan til Arbejdernes Andelsboligforening.
+Toges til Efterretning.
+"	1945	2	8
+"40"	1945-02-08	"open"	"19450208_177.pdf"	1	"65-1944"	"Meddelelse fra Arbejdsministeriet om Godkendelse af Detailprojekt for Beredskabsarbejdet Oprensning af Damme.
+Toges til Efterretning.
+"	1945	2	8
+"41"	1945-02-08	"open"	"19450208_177.pdf"	2	"1545-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Bevilling af 20.500 Kr. til Indretning af 6 Husvildeboliger i Keglebanen paa Vennelyst.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	2	8
+"42"	1945-02-08	"open"	"19450208_177.pdf"	2	"1546-1944"	"Forslag fra Stadsarkitekten om Bevilling af 4.000 Kr. til Anskaffelse af 2.000 Særtryk af \"Arkitekten\"s Nummer om Aarhus Raadhus.
+Tiltraadt af Budgetudvalget paa Betingelse af, at de i Hæftet indeholdte polemiske Bemærkninger om Hagedorn Olsens Udsmykning af Væggen i Forhallen omredigeres eller udelades.
+Borgmesteren anbefalede Indstillingen paa den nævnte Betingelse, idet de af Arkitekt Erik Møller fremsatte Bemærkninger maatte staa for hans egen Regning.
+Indstillingen vedtoges.
+"	1945	2	8
+"43"	1945-02-08	"open"	"19450208_177.pdf"	2	"1475-1944"	"Indstilling fra Budgetudvalget om, at der bevilges Den gamle By et ekstraordinært Tilskud paa 2.225,63 Kr. som Halvdelen af Krigsforsikringens første Rate for 1945.
+Indstillingen vedtoges.
+"	1945	2	8
+"44"	1945-02-08	"open"	"19450208_177.pdf"	2	"238-1944"	"Indstilling fra Markudvalget om Bevilling af 45.791,26 Kr. til ekstraordinær Afskrivning i Anledning af Nedrivning af Bygningerne paa Christianslyst.
+Indstillingen vedtoges.
+"	1945	2	8
+"45"	1945-02-08	"open"	"19450208_177.pdf"	2	"1547-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Bevilling af 1.000 Kr. til Mikrofotografering af Stadsarkitektens Arkiv.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	2	8
+"46"	1945-02-08	"open"	"19450208_177.pdf"	2	"1549-1944"	"Indstilling fra Parkudvalget
+"	1945	2	8
+"47"	1945-02-08	"open"	"19450208_177.pdf"	3	"1549-1944"	"om Bevilling af 9.600 Kr. til Kapitalbevilling Nr. K. 17 til Udvidelse af Botanisk Have.
+Tiltraadt af Budgetudvalget.
+J. R. Fanger spurgte, om dette Arbejde stadig var i Gang.
+Borgmesteren vidste ikke, om der arbejdedes i Øjeblikket, men der havde været arbejdet dermed, og Bevillingen skyldtes Stigning af Arbejdsløn og Materialepriser.
+Indstillingen vedtoges.
+"	1945	2	8
+"48"	1945-02-08	"open"	"19450208_177.pdf"	3	"1548-1944"	"Indstilling fra Kirkegaards-bestyrelsen om, at der af Bevillingen til Udvidelse af Vestre Kirkegaard yderligere stilles 3.100 Kr. til Raadighed i indeværende Regnskabsaar.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	2	8
+"49"	1945-02-08	"open"	"19450208_177.pdf"	3	"1570-1944"	"Andragende fra Aarhus Teater om Fornyelse af Teaterbevilling.
+Anbefaledes.
+"	1945	2	8
+"50"	1945-02-08	"open"	"19450208_177.pdf"	3	"30_9-1944"	"Andragende om Tilladelse til Overdragelse af Fragtruten Randers-Spørring- Aarhus.
+Anbefalet af Vejteknisk Udvalg paa samme Betingelser som hidtil.
+Tiltraadtes
+"	1945	2	8
+"51"	1945-02-08	"open"	"19450208_177.pdf"	3	"1596-1944"	"Indstilling fra Vejteknisk Udvalg om Ændringer i Reglementet for Droske-kørsel.
+Følgende Indstilling forelaa:
+\"Efter førte Forhandlinger med Taxa skal Udvalget anbefale til Byraadef at vedtage nedennævnte midlertidige Ændringer til Droskereglementet:
+§ 1. Droskerne skal være pligtig at køre med mindst 5 Passagerer.
+"	1945	2	8
+"52"	1945-02-08	"open"	"19450208_177.pdf"	4	"1596-1944"	"§ 4. Stk. 3, bibeholdes, idet tilføjes:
+Saafremt en Vognmand fremsender Andragende om Tilladelse til midlertidigt at tage Ophold i en anden Kommune, og der foreligger en Begrundelse herfor, som Udvalget kan godkende, vil Tilladelsen kunne gives for en begrænset Tid af f. Eks. 5 Aar.
+§ 5. Stk. 1. Den givne Tilladelse til en Holdeplads for en autoriseret Droske er strengt personlig og kan ikke overdrages til en anden Person tilføjes:
+dog kan hans Enke faa Tilladelse til at fortsætte Forretningen, dog ikke længere end til den gængse Aldersgrænse 70 Aar.
+§ 12. Ændres saaledes: De for Tiden kørende 24 Drosker skal være i Drift mindst 16 Timer i Døgnet, og der maa være Vogne til Disposition hele Døgnet. Taxa forpligter sig til at modtage Bestilling paa Kørsel i Aarhus, naar Bestilling indgives senest Kl. 17, Dagen før Kørslen skal finde Sted. Mindst 8 Vogne skal være forpligtet til at modtage Telefonbesked paa Kørsel i Aarhus og Forstæder. Taxa har ved Telefonbestilling Ret til at møde l/4 Time før og efter det Klokkeslet, Vognen er bestilt, og Ret til at afkræve for en bestilt Tur,hvis den ikke er annulleret mindst 2Timer før Fremmødet. Endvidere har Chaufføren Ret til at køre efter 5 Minutters Ventetid og til at fremsende Regning paa den bestilte Tur.
+Disse Ændringer i Reglementet, som er midlertidige, træder i Kraft straks.
+"	1945	2	8
+"53"	1945-02-08	"open"	"19450208_177.pdf"	5	"1596-1944"	"J. R. Fanger forelagde Indstillingen.
+Borgmesteren havde haft en Henvendelse fra Jordemoderforeningen med Klage over, at det næsten var umuligt at faa en Vogn til at køre for dem. Det blev maaske nødvendigt at drøfte dette Forhold senere og faa en Ordning, for hverken Redningskorpsene eller Byvagten kunde paatage sig det. Taxa burde stille sig lidt mere velvillig overfor denne Kørsel.
+H.P. Jensen fandt det mest betydningsfuldt, at man kan bestille en Vogn Dagen i Forvejen. Betalingen opfordrede ikke til at flotte sig i den Retning, men den mest nødvendige Kørsel burde kunne faas.
+Erna Hedtoft Larsen syntes, det var rimeligt, at Ambulancetjenesten traadte til, naar det gjaldt Jordemoderkørsel; det kunde nok sidestilles med Sygdomstilfælde o. lign.
+Borgmesteren svarede, at Ambulancetjenesten ikke kunde paatage sig det.
+I.C. Sørensen mente ogsaa, man maatte have en Ordning med Taxa snarest mulig, saa at f. Eks. Jordemoderkørsel altid blev ekspederet.
+J. R. Fanger indrømmede, at her kunde man ikke bestille Vogn Dagen før, og naar Vognene var optaget, var det ikke let at faa fat paa dem. Taxa havde lovet at stille sig velvillig, men der var visse praktiske Vanskeligheder.
+Borgmesteren var klar over, at der var visse Vanskeligheder at overvinde, men Taxas Telefontjeneste havde i lang Tid været daarlig.
+Indstillingen vedtoges.
+"	1945	2	8
+"54"	1945-02-08	"open"	"19450208_177.pdf"	5	"973-1944"	"Andragende fra Tjener K. A. Sørensen, der har faaet Tilladelse til at benytte Cykletaxaer til Personbefordring, om i Stedet for at maatte benytte Elektrovogne.
+"	1945	2	8
+"55"	1945-02-08	"open"	"19450208_177.pdf"	6	"973-1944"	"Anbefalet af Vejteknisk Udvalg paa samme Betingelser som foreslaaet i Udvalgets Indstilling af 1. November 1944 som gældende for Taxacykler, samt indtil videre at benytte de for Taxacyklerne fastsatte Takster, indtil en Prøvetid har godtgjort, at Ændringer skulde være nødvendige.
+J. R. Fanger tvivlede om, at disse Vogne kom i Gang, men nu kunde Manden jo prøve, og der var Brug for saa megen Kørsel, som der kunde fremskaffes.
+Indstillingen vedtoges.
+"	1945	2	8
+"56"	1945-02-08	"open"	"19450208_177.pdf"	6	"1513-1944"	"Forespørgsel fra Købstadforeningen, om Kommunen vil tilslutte sig et Kommunernes Bogforlag til Forsyning af Skolerne med Skolebøger og Skolemateriel.
+Skoleudvalget kan for Tiden ikke anbefale Forslaget.
+K. Mousten oplyste, at et kommunalt Bogudvalg havde virket i nogle Aar, og man havde her i Byen faaet 10 % Rabat ved Køb af Skolebøger; det havde maaske ogsaa forhindret, at der ved Udgivelse af nye Udgaver blev foretaget unødvendige Ændringer. Derimod var man betænkelig ved at gaa med til et Forslag, da det maaske pædagogisk set vil forringe Bøgerne.
+I.C. Sørensen sluttede sig hertil.
+Udvalgets Indstilling tiltraadtes.
+"	1945	2	8
+"57"	1945-02-08	"open"	"19450208_177.pdf"	6	"1509-1944"	"Andragende fra Overportør M. G. Petersen som Ejer af Høegh Guldbergsgade 55, gennem hvilken Thunøstien gaar, om Tilladelse til at holde Dørene for det i Porten indrettede Tilflugtsrum lukkede om Natten.
+Anbefalet af Vejteknisk Udvalg.
+Bevilgedes.
+"	1945	2	8
+"58"	1945-02-08	"open"	"19450208_177.pdf"	7	"21_2-1944"	"Forslag fra Udvalget for Byens Udvidelse og Bebyggelse til Byggelinie for Vestergade mellem Møllegade og Vesterallé.
+Udvalget foreslaar, at Gadebredden fastsættes til 13 m.
+Indstillingen vedtoges.
+"	1945	2	8
+"59"	1945-02-08	"open"	"19450208_177.pdf"	7	"1584-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse til Byggelinier og Vejkoter for den Jyllands Papirværk tilhørende Ejendom ved Otto Rudsgade.
+Indstillingen vedtoges.
+"	1945	2	8
+"60"	1945-02-08	"open"	"19450208_177.pdf"	7	"626-1944"	"Indstilling fra Lønudvalget om Tilføjelser til Lønnings- og Pensionsregler for Sygeplejersker og Massøser.
+Følgende Indstilling forelaa:
+I § 1, Stk. 1 efter b. Plejemødre tilføjes: samt Forstanderinder ved Børneoptagelseshjemmene.
+I § 3 indsættes som nyt Stk. 2: For Massøsers Vedkommende gives en Ferie paa mindst 12 Arbejdsdage i Tiden mellem 2. Maj og 30. September.
+I §3 indsættes som nyt Stk. 3: For Sygeplejerskers Vedkommende gælder m. H. t. Tidspunktet for Feriens Afholdelse de i Medfør af Ferieloven til enhver Tid for Sygeplejersker gældende Regler.
+Stkr. 2 og 3 ændres til henholdsvis 4 og 5.
+Indstillingen vedtoges.
+"	1945	2	8
+"61"	1945-02-08	"open"	"19450208_177.pdf"	7	"1252-1944"	"Andragende fra Sygeplejerskerne ved Tuberkulosestationen om, at de maa blive aflønnet efter Dansk Sygeplejeraads Lønregulativ for Sundhedsplejersker.
+Lønudvalget kan ikke anbefale Andragendet.
+Borgmesteren oplyste, at man ikke
+"	1945	2	8
+"62"	1945-02-08	"open"	"19450208_177.pdf"	8	"1252-1944"	"kunde tiltræde det, da de ikke havde samme Uddannelse som Sundhedsplejerskerne.
+Kunde ikke bevilges.
+"	1945	2	8
+"63"	1945-02-08	"open"	"19450208_177.pdf"	8	"1469-1944"	"Indstilling fra Lønudvalget om Forhøjelse af Beklædningsgodtgørelse til Sundhedsplejerskerne og Tuberkulosestationens Sygeplejersker.
+Følgende Indstilling forelaa:
+\"Lønudvalget indstiller, at Beklædningsgodtgørelsen fra 1. Oktober 1944 at regne forhøjes fra 100 Kr. til 150 Kr. aarlig. Merudgiften vil udgøre 750 Kr. aarlig, hvoraf Kommunens Andel vil blive 350 Kr., medens Staten og Amtet betaler Resten.\"
+Indstillingen vedtoges.
+"	1945	2	8
+"64"	1945-02-08	"open"	"19450208_177.pdf"	8	"1597-1944"	"Indstilling fra Skoleudvalget om, at der for Opnaaelse af Understøttelse til fhv. Rengøringsassistenter i Kommuneskolerne i Almindelighed kræves mindst 10 Aars fast Tjeneste som Rengøringsassistent ved Kommunen.
+Indstillingen vedtoges.
+"	1945	2	8
+"65"	1945-02-08	"open"	"19450208_177.pdf"	8	"22_33-1944"	"Købekontrakt med Konfekturehandler M. Randers Piøen angaaende en Grund ved Bøgebjergvej.
+Godkendtes.
+"	1945	2	8
+"66"	1945-02-08	"open"	"19450208_177.pdf"	8	"22_34-1944"	"Købekontrakt med Ingeniør H. Haugaard angaaende en Grund ved Bøgebjergvej.
+Godkendtes.
+"	1945	2	8

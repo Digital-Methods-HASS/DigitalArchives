@@ -1,0 +1,991 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1942-10-01	"closed"	"19421001B_141.pdf"	1	"no related record"	"Mødet den 1. Oktober 1942.
+(For lukkede Døre).
+Fraværende: Kai Blicher, Thomas Christensen, J. R. Fanger og Vald. Kloster.
+"	1942	10	1
+"2"	1942-10-01	"closed"	"19421001B_141.pdf"	1	"855-1942"	"Meddelelse fra Belysningsudvalget om Overdragelse af Rotteudryddelsen.
+Følgende Meddelelse forelaa:
+\"Fremsendes til Byraadet, idet man til Efterretning oplyser, at man har vedtaget at overdrage Rotteudryddelsen til Ratin-Selskabet, København, for Aaret 1. Oktober 1942 til 30. September 1943 for et fast Beløb paa 10800 Kr., og saaledes at Udryddelsen iøvrigt vil foregaa efter samme Fremgangsmaade som hidtil.\"
+Toges til Efterretning.
+"	1942	10	1
+"3"	1942-10-01	"closed"	"19421001B_141.pdf"	1	"525-1942"	"Meddelelse fra Arbejdsmand ved Vejvæsenet Søren Chr. M. Jensen om. at han tilbagekalder sin Afskedsbegæring, da han ikke ønsker at modtage den tilbudte Understøttelse paa 150 Kr. aarlig.
+"	1942	10	1
+"4"	1942-10-01	"closed"	"19421001B_141.pdf"	2	"525-1942"	"Lønudvalget indstiller, at den pr. 1. April bevilgede Understøttelse bortfalder fra samme Dato.
+Toges til Efterretning.
+"	1942	10	1
+"5"	1942-10-01	"closed"	"19421001B_141.pdf"	2	"856-1942"	"Indstilling fra Mælkeudvalget om Godkendelse af Salg af Viby Mejeri til Mejeriet \"Vesterbro.\"
+Borgmesteren gjorde opmærksom paa, at ved Mælkeordningerne gik Bestræbelserne ud paa at faa saa faa Mejerier i Aarhus som muligt, og denne Sammenslutning faldt i Traad dermed.
+Indstillingen vedtoges.
+"	1942	10	1
+"6"	1942-10-01	"closed"	"19421001B_141.pdf"	2	"856-1942"	"Indstilling om Opsigelse af Statens Laan i Aldersrenteboligerne.
+Fra Økonomidirektøren forelaa følgende Indstilling:
+\"I de i søndre Bydel opførte Aldersrenteboliger er af Statskassen ydet Prioritetslaan, der pr. Dato er nedbragt til Kr. 469369,56. Laanene kan indfries med 1/4 Aars Varsel til 1.Januar.
+Da Laanene forrentes med 4 1/2 %, henstilles, at der omgaaende tilstilles Statskassen Meddelelse om Laanenes Opsigelse.\"
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1942	10	1
+"7"	1942-10-01	"closed"	"19421001B_141.pdf"	2	"831-1942"	"Indstilling om Køb af E. Steffensens Ejendom Matr. Nr. 91 m. fl. i Viby
+Stadsingeniøren foreslaar at købe Ejendommen for 12900 Kr.
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse og Budgetudvalget.
+Indstillingen vedtoges.
+"	1942	10	1
+"8"	1942-10-01	"closed"	"19421001B_141.pdf"	3	"858-1942"	"Indstilling fra Skattedirektøren om, at Kommunen stiller Tømrermester Jens Sørensens Ejendom Aaboulevarden 47 til Tvangsauktion til Dækning af Skatter og Afgifter.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1942	10	1
+"9"	1942-10-01	"closed"	"19421001B_141.pdf"	3	"845-1942"	"Indstilling om Ekspropriation af Fru Gloggengiesers Ejendom Fiskergade 3 til Gadeudvidelse i Medfør af Vejvedtægtens § 26.
+Borgmesteren oplyste, at den forlangte Pris var altfor høj. Der skulde laves Gadeanlæg til Jydsk Telefons Byggeri.
+Indstillingen vedtoges.
+"	1942	10	1
+"10"	1942-10-01	"closed"	"19421001B_141.pdf"	3	"796-1942"	"Indstilling fra Skovudvalget om Udleje af „Ørnereden”.
+Skovudvalget foreslaar at udleje Pavillonen til Restauratør N. C. Christensen, Thorsmølle, og at der under Lejemaalet gaar en Pavillon paa Moesgaard Strand, til Opførelse af hvilken Kommunen betaler 18000 Kr., delvis ved Levering af Træ, medens Lejeren betaler Resten, ca. 20400 Kr. Pavillonen bliver Kommunens Ejendom.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Tilbagesendes Aarhus Byraad med Bemærkning, at man kan tiltræde Skovudvalgets Indstilling, dog saaledes, at den Anpart, Kommunen skal tilsvare af Udgifterne til Opførelse af en Pavillon paa Moesgaard Strand, under ingen Omstændigheder maa overstige 18000 Kr., og saaledes, at det nævnte Beløb, 18000 Kr., afholdes som Tillægsbevilling til Anlægsbudgettet for indeværende Aar.
+Lejekontrakt med nærmere Vilkaar forventes forelagt Byraadet til Godkendelse.\"
+Borgmesteren forelagde Forslaget.
+"	1942	10	1
+"11"	1942-10-01	"closed"	"19421001B_141.pdf"	4	"796-1942"	"H. P. Jensen erindrede om, at Spørgsmaalet om en Pavillon ved Moesgaard flere Gange havde været fremme, men Skovudvalget havde været meget forsigtigt for ikke at komme til at gøre noget forkert, og særlig vilde man nødig have en stor Cementbygning opført derude. Naar Sagen nu kom frem, var Grunden den, at man skulde skifte Vært i Ørnereden, idet den nuværende ikke kunde klare sig længere; det gjaldt da om at finde en pæn og agtet Mand, der kunde opfylde sine Forpligtelser, og det var sikkert Tilfældet her. Taleren havde ikke noget imod, at Budgetudvalget havde begrænset Kommunens Tilskud til højst 18000 Kr., saa havde man en bestemt Linie at følge. Udvalget var enigt om, at en Pavillon derude skulde være i Tilslutning til Ørnereden, som ellers ikke kunde klare sig i Konkurrencen. Det var Meningen, at der skulde tages smaa Priser, og at Forholdene skulde vedblive at være som nu, saa det stadig blev et Sted for den brede Befolkning. Taleren takkede for Budgetudvalgets Tilslutning til Planen.
+E. Winterborg havde i Gruppen rejst det Spørgsmaal, om det ikke var klogt al indføre en Passus i Kontrakten, hvorefter Skovudvalget havde Ret til at være med til at fastsætte Priserne. Udvalget havde ikke ment dette nødvendigt, men Formanden havde givet Tilsagn om at ville følge Spørgsmaalet med nøje Opmærksomhed. Taleren vilde foreslaa at indføre en Bestemmelse om, at iler ikke maa afholdes Dans derude; det vilde være at bryde Idyllen at lave Negermusik om Aftenen med Damer, som flyver fra Bord til Bord; den Slags burde Egaa Fed have Eneret paa. Idyllen paa Moesgaard Strand maatte ikke ødelægges, som det var sket mange Steder ved de danske Kyster.
+"	1942	10	1
+"12"	1942-10-01	"closed"	"19421001B_141.pdf"	5	"796-1942"	"Borgmesteren troede ikke, man behøvede at nære Bekymringer i den Retning, naar det var den samme Vært, som drev Ørnereden, saa vilde eventuelle Baller nok blive afholdt der. Det kunde vist godt overlades til Skovudvalget.
+Indstillingen vedtoges.
+"	1942	10	1
+"13"	1942-10-01	"closed"	"19421001B_141.pdf"	5	"826-1942"	"Andragende fra Forældreskolen om Fritagelse for Kommuneskat for Aaret 1940 -41.
+Budgetudvalget anbefaler Fritagelse for 1940 -41 og fremefter i det Omfang, Institutionen fritages for Skat til Staten.
+Indstillingen vedtoges.
+"	1942	10	1
+"14"	1942-10-01	"closed"	"19421001B_141.pdf"	5	"825-1942"	"Andragende fra Sct. Knuds Stiftelse om Fritagelse for Kommuneskat for 1941-42.
+Anbefalet af Budgetudvalget.
+Bevilgedes.
+"	1942	10	1
+"15"	1942-10-01	"closed"	"19421001B_141.pdf"	5	"99_16-1942"	"Andragende fra Arbejdsmand H. Q. Bagger Cordt om Statslaan med Kommunegaranti til Ejendommen Østerøgade 6. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	1
+"16"	1942-10-01	"closed"	"19421001B_141.pdf"	5	"116-1942"	"Andragende om Garanti for Laan til Boligindskud i Arbejdernes Andelsboligforening.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler Garanti fer følgende Laan: 
+Arbejdsmand L. Sørensen 500 Kr.
+Murerarb. J. C. P. Jensen 400 Kr.
+Møller N. Chr. Eskesen 400 Kr.
+Overgik til 2. Behandling.
+"	1942	10	1
+"17"	1942-10-01	"closed"	"19421001B_141.pdf"	5	"634-1942"	"ValgafMedlemmertilUngdomsskolenævn i Henhold til Lov af 4/7. 1942 om Ungdomsskoler for den ufaglærte Ungdom.
+Johanne Berg og Esther Aggebo valgtes.
+"	1942	10	1
+"18"	1942-10-01	"closed"	"19421001B_141.pdf"	6	"744-1942"	"Indstilling fra Lønudvalget angaaende Hospitalsdirektør Sellerups Pensionsforhold.
+Udvalget indstiller, at Hospitalsdirektør Sellerups Pensionsalder regnes fra 10 Aars Dagen før hans Ansættelse, under Forudsætning af, at han ved Stillingens Tiltrædelse indbetaler 4800 Kr. til Kommunens Pensionsfond.
+Indstillingen vedtoges.
+"	1942	10	1
+"19"	1942-10-01	"closed"	"19421001B_141.pdf"	6	"835-1942"	"Indstilling fra Sundhedskommissionen om Ansættelse af to Dyrlæger ved Mælkekontrollen.
+Kommissionen indstiller at ansætte Dyrlægerne Poul Th. Madelung og Gunnar A. P. Mortensen.
+Tiltraadtes.
+"	1942	10	1
+"20"	1942-10-01	"closed"	"19421001B_141.pdf"	6	"859-1942"	"Indstilling fra Belysningsudvalget om, at Driftsbestyrer A. Flachs personlige Tillæg forhøjes til 2000 Kr. aarlig, og at der ydes Kontorchef J. A. Svendsen et personligt Tillæg paa 300 Kr. aarlig.
+Tiltraadt af Lønudvalget.
+Tiltraadtes.
+"	1942	10	1
+"21"	1942-10-01	"closed"	"19421001B_141.pdf"	6	"860-1942"	"Andragende fra Afdelingsingeniør hos Stadsingeniøren, M. Ovesen om Gratiale for forøget Arbejde som Følge af Krigstiden.
+Lønudvalget indstiller at yde et Gratiale paa 400 Kr.
+Tiltraadtes.
+"	1942	10	1
+"22"	1942-10-01	"closed"	"19421001B_141.pdf"	6	"33_19-1942"	"Indstilling om, at Vejinspektør K. V. Larsen paa Stadsingeniørens Kontor oprykkes i 2. Lønklasse.
+Lønudvalget indstiller, at Vejinspektør Larsen fra 1. November d. A. oprykkes i 2. Lønklasse med regulativmæssig Lønanciennitet fra 1/11. 1939.
+Tiltraadtes.
+"	1942	10	1
+"23"	1942-10-01	"closed"	"19421001B_141.pdf"	7	"812-1942"	"Andragende fra Ingeniør Erik Skov paa Stadsingeniørens Kontor om Afsked fra 1/10. d. A. paa Grund af Overgang til anden Stilling.
+Bevilgedes.
+"	1942	10	1
+"24"	1942-10-01	"closed"	"19421001B_141.pdf"	7	"33_18-1942"	"Indstilling om Oprykninger paa Skattekontoret ved Ekspeditionssekretær Niels Christensens Afgang.
+Budgetudvalget indstiller, at Fuldmægtig I. P. Laursen forfremmes til Ekspeditionssekretær, Overassistent Aage Benn til Fuldmægtig, og Assistent Børge K. Rasmussen til Overassistent.
+Tiltraadt af Lønudvalget saaledes, at de paagælgende oprykkes i Lønklasse fra 1. Oktober d. A. med regulativmæssig Lønanciennitet fra henholdsvis 1/7 1941, 1/7 1941 og 1/10 1942.
+Indstillingen vedtoges.
+"	1942	10	1
+"25"	1942-10-01	"closed"	"19421001B_141.pdf"	7	"33_19-1942"	"Indstilling fra Belysningsudvalget om, at Tegnerne H. C. F. Sørensen og C. R. Andersen fra 1/10. 1942 oprykkes som Konstruktører af 2. Grad, og at Stillingen som Overassistent ved Elektricitetsværkets Driftskontor fra samme Dato ændres til en Fuldmægtigstilling og besættes med Overassistent Svend Aage Andersen.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1942	10	1
+"26"	1942-10-01	"closed"	"19421001B_141.pdf"	7	"799-1942"	"Andragende fra Rengøringskvinde ved Borgerskolen i Munkegade Marie Hansen om Understøttelse.
+Lønudvalget indstiller, at der fra 1. Oktober d. A. ydes hende en Understøttelse paa 100 Kr. aarlig uden Dyrtidstillæg.
+Indstillingen vedtoges.
+"	1942	10	1
+"27"	1942-10-01	"closed"	"19421001B_141.pdf"	7	"762-1942"	"Andragende fra 
+"	1942	10	1
+"28"	1942-10-01	"closed"	"19421001B_141.pdf"	8	"762-1942"	"Rengøringskvinde ved Valdemarsgades Skole Anna Elise Holst om Understøttelse.
+Lønudvalget indstiller, at der fra 1. Oktober d. A. ydes hende en Understøttelse paa 100 Kr. aarlig uden Dyrtidstillæg.
+Indstillingen vedtoges.
+"	1942	10	1
+"29"	1942-10-01	"closed"	"19421001B_141.pdf"	8	"16_3-1942"	"Indstilling fra Socialudvalget om Ydelse af Tillægshjælp efter Forsorgslovens § 293, Stk. 2.
+Indstillingen vedtoges.
+"	1942	10	1
+"30"	1942-10-01	"closed"	"19421001B_141.pdf"	8	"17_12-1942 og 17_13-1942"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet til:
+a. (J. Nr. 17_12-1942). A. Chr. Petersen.
+b. (J. Nr. 17_13-1942). Kristine Kristensen.
+Tiltraadtes.
+"	1942	10	1
+"31"	1942-10-01	"closed"	"19421001B_141.pdf"	8	"800-1942"	"Valg af Tilsynsraad for Amts-Arbejdsanvisningskontoret.
+Til Formand foresloges Overlærer N. C. Larsen og til Medlemmer Forretningsfører Leonhard Hansen og Direktør L. Mikkelsen, med Formand Chr. Jensen og Driftsleder N. Nielsen som Suppleanter.
+Tiltraadtes.
+"	1942	10	1
+"32"	1942-10-01	"closed"	"19421001B_141.pdf"	8	"29_8-1942"	"Andragende fra Afdelingssygeplejerske ved Marselisborg Hospital Karen Degn om Afsked med Pension fra 1. Oktober d. A.
+Bevilgedes. Pensionen fastsattes ti! 1643,33 Kr.
+"	1942	10	1
+"33"	1942-10-01	"closed"	"19421001B_141.pdf"	8	"29_9-1942"	"Andragende fra Arbejdsmand ved Vejvæsenet Peter Sørensen om Afsked med Pension.
+Bevilgedes. Pensionen fastsattes tii 1022,40 Kr.
+"	1942	10	1
+"34"	1942-10-01	"closed"	"19421001B_141.pdf"	8	"29_10-1942"	"Andragende fra Arbejdsmand ved Vejvæsenet J. P. Andersen om Afsked med Pension.
+Bevilgedes. Pensionen fastsattes til 1081,02 Kr.
+"	1942	10	1
+"35"	1942-10-01	"open"	"19421001_139.pdf"	1	"no related record"	"Mødet den 1. Oktober 1942.
+Fraværende: Kai Blicher, Thomas Christensen, J. R. Fanger og Vald. Kloster.
+1.Takketelegram fra Kongen for den Hilsen, som Byraadet sendte til hans 72 Aars Fødselsdag.
+Toges til Efterretning.
+"	1942	10	1
+"36"	1942-10-01	"open"	"19421001_139.pdf"	1	"842-1942"	"Meddelelse fra Indenrigsministeriet om, at der er meddelt Apoteker J. H. Tielker Bevilling til at drive Søndergades Apotek.
+Toges til Efterretning.
+"	1942	10	1
+"37"	1942-10-01	"open"	"19421001_139.pdf"	1	"830-1942"	"Meddelelse fra Arbejds- og Socialministeriet om Tilskud i Henhold til Beskæftigelsesloven til „Den gamle By” til Opførelse af et Bindingsværkshus fra Aar 1500.
+Toges til Efterretning.
+"	1942	10	1
+"38"	1942-10-01	"open"	"19421001_139.pdf"	1	"41_3-1942 og 41_4-1942"	"Meddelelse fra Arbejds- og Socialministeriet om, at Istandsættelsen af Falkevej og Blaamejsevej som Beskæftigelsesforanstaltning er bortfalden.
+Toges til Efterretning.
+"	1942	10	1
+"39"	1942-10-01	"open"	"19421001_139.pdf"	1	"819-1942"	"Meddelelse fra Ministeriet for offentlige Arbejder om Godkendelse af Projekt til en Gangbro over Østbanegaardens Terræn.
+Toges til Efterretning.
+"	1942	10	1
+"40"	1942-10-01	"open"	"19421001_139.pdf"	2	"653-1942"	"Vurderingskommissionens Kendelse angaaende Erstatning for Afgivelse af Lokaler i Ejendommen „Centrum” til offentlig Tilflugtsrum.
+Kommissionen fastsætter en Erstatning paa 5000 Kr. for Tiden indtil 1/10. 1942 og en tilsvarende Erstatning for fremtidig Brug af Lokalerne.
+Toges til Efterretning.
+"	1942	10	1
+"41"	1942-10-01	"open"	"19421001_139.pdf"	2	"23_8-1942"	"Fortegnelse over anmeldte Byggeforetagender i 1941 -42.
+Toges til Efterretning.
+"	1942	10	1
+"42"	1942-10-01	"open"	"19421001_139.pdf"	2	"664-1942"	"Regnskab for Lærerinde Thora Madsens Legat for Aaret 1/8. 1941 til 1/8. 1942.
+Toges til Efterretning.
+"	1942	10	1
+"43"	1942-10-01	"open"	"19421001_139.pdf"	2	"746-1942"	"Overenskomst med Sygekassen \"Aarhus\" angaaende Overtagelse af den kommunale Sygepleje.
+Følgende Forslag forelaa:
+Overenskomst.
+§ 1.
+\"Sygekassen paatager sig at yde den Sygepleje (Vagt og Barselpleje), der vil kunne kræves af Kommunen i Medfør af Lov om offentlig Forsorg af 20. Maj 1933 § 33, jfr. § 274, samt til Rentenydere efter Folkeforsikringslovens § 79, Stk. 1.
+§ 2.
+Sygeplejen ydes efter de Regler, som er fastsat i den af Direktøren for Sygekassevæsenet godkendte Vedtægt for Sygekassens Sygeplejevirksomhed.
+Afgørelsen af, hvorvidt der foreligger Trang i Forsorgslovens Forstand eller efter Fortolkningen
+"	1942	10	1
+"44"	1942-10-01	"open"	"19421001_139.pdf"	3	"746-1942"	"af Folkeforsikringslovens § 79, træffes i hvert enkelt Tilfælde af det sociale Udvalg. Nydende Medlemmer af Sygekassen har dog altid Krav paa Sygepleje for Sygekassens Regning uden Hensyn til, om der foreligger saadan Trang eller ej.
+§ 3.
+Sygekassen skal efter hvert Regnskabsaars Afslutning tilstille Kommunalbestyrelsen behørigt revideret og af Generalforsamlingen (Repræsentantskabet) godkendt Regnskab samt Beretning vedrørende Sygeplejevirksomheden for det forløbne Aar, affattet paa det af Direktøren for Sygekassevæsenet fastsatte Skema.
+Regnskabet skal tilstilles Kommunalbestyrelsen senest 14 Dage efter Afholdelsen af Generalforsamlingen (Repræsentantskabsmødet).
+§ 4.
+For de Forpligtelser, Sygekassen ved nærværende Overenskomst paatager sig, betaler Kommunen til Kassen et aarligt Bidrag af 50 Øre pr. Indbygger ved hvert Kalenderaars Slutning med Halvdelen - anslaaet - den 1.April og Halvdelen - anslaaet - den 1. Oktober i paagældende Regnskabsaar. En Regulering foretages paa Grundlag af Aarhus Folkeregisters Optælling af Indbyggerantallet pr. 1. Januar det følgende Regnskabsaar. Den endelige Udligning finder Sted inden Udgangen af Januar Maaned.
+§ 5.
+Nærværende Overenskomst træder under
+"	1942	10	1
+"45"	1942-10-01	"open"	"19421001_139.pdf"	4	"746-1942"	"Forudsætning af Myndighedernes Godkendelse i Kraft den 1. November 1942 og vedvarer, indtil den af en af Parterne opsiges med 6 Maaneders Varsel til Ophør ti! en 1. Januar, dog tidligst 1. Januar 1946.\"
+Fra Socialudvalget forelaa tillige Meddelelse om, at de ved den kommunale Sygepleje fast ansatte Sygeplejersker Ella Josiassen, Ane Marie Andersen, Laura Axelsen, Anna Hunnerup og Emma Christensen overgaar til Sygekassen, som faar udbetalt de af disse indbetalte Pensionsbidrag, samt at Ella Josiassen fortsætter Ledelsen af Hushjælpen mod et aarligt Honorar paa 600 Kr., der betales af Aarhus Socialkontor.
+Tiltraadt af Lønudvalget.
+Esther Aggebo udtalte sin Glæde over denne Overenskomst, som vilde komme mange Familier til gode; men der burde ogsaa lyde en Tak til dem, som gennem mange Aar har gjort en Del af dette Arbejde, nemlig Menighedsplejerne. De glædede sig vist ogsaa over, at andre vil paatage sig Arbejdet, men der vilde sikkert ogsaa i Fremtiden blive et Arbejde til disse, og Taleren haabede, at man ogsaa i Fremtiden vil give Menighedsplejerne de Tilskud, som de har faaet gennem Aarene, saa de stadig kan gøre et godt og nyttigt Arbejde for de fattigste Mennesker.
+Borgmesteren antog, at alle kunde slutte sig hertil.
+Indstillingen vedtoges.
+"	1942	10	1
+"46"	1942-10-01	"open"	"19421001_139.pdf"	4	"12_6-1942"	"Indstilling fra Socialudvalget om Brændselshjælp til Rentenydere.
+Følgende Indstilling forelaa:
+"	1942	10	1
+"47"	1942-10-01	"open"	"19421001_139.pdf"	5	"12_6-1942"	"\"Det indstilles, at der til Aldersrentenydere, Invaliderentenydere, Personer der oppebærer Hjælp til visse kronisk syge efter Forsorgslovens §§ 247-48, og Personer der oppebærer Forskud paa Invaliderente i Vinteren 1942-43 ydes Brændselshjælp saaledes, at der til Personer, der oppebærer Rente eller Hjælp beregnet efter fradragsfri Indtægt og Formue ikke over 1000 Kr. for enlige og 1500 Kr. for Ægtepar, ydes 10 hl. Koks og 20 Sække Stødbrænde eller - saafremt de paagældende har Centralvarme - 100 Kr. kontant.
+Endvidere indstilles, at der efter særlig Ansøgning i Tilfælde hvor de paagældende har Indtægt og Formue udover forannævnte Grænser ydes Brændselsration nedsat i Forhold til de paagældendes Indtægt og Formue, dog at der som Hovedregel ikke ydes Brændselshjælp i Tilfælde, hvor Formuen udgør mere end 4000 Kr. for Ægtepar og 3000 Kr. for enlige, eller hvor Indtægten - foruden Renten - udgør mere end 850 Kr. aarlig for Ægtepar og 600 Kr. aarlig for enlige.
+Antallet af Rationer, der skal uddeles efter foranstaaende Regler, anslaas til ca. 2500, og den samlede Udgift anslaas at ville udgøre ca. 368250 Kr., der fordeler sig saaledes: 
+Naturalbrændeca.282500Kr.
+og kontant Brændselshjælp ca. 42000 Kr., 
+der agtes afholdt i Medfør af Folkeforsikringslovens § 40, Stk. 5, og Udgift til Kørsel af Brændsel ca. 43750 Kr., der afholdes i Medfør af samme Love § 79, Stk. 3.\"
+Borgmesteren bemærkede, at det muligvis
+"	1942	10	1
+"48"	1942-10-01	"open"	"19421001_139.pdf"	6	"12_6-1942"	"ikke kunde lade sig gøre at give dem Koks; men det kunde man senere komme tilbage til.
+Indstillingen vedtoges.
+"	1942	10	1
+"49"	1942-10-01	"open"	"19421001_139.pdf"	6	"460-1942"	"Andragende fra Aarhus Universitet om Udbetaling af Restbeløbet 34612 Kr. af det budgetterede Tilskud.
+Bevilgedes.
+"	1942	10	1
+"50"	1942-10-01	"open"	"19421001_139.pdf"	6	"55-1942"	"Indstilling fra Vejteknisk Udvalg om Bevilling til Udvidelse af Kystsikringen Varna-Moesgaard.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Det indstilles, at der til det omhandlede Arbejde bevilges det paa Anlægsbudgettet for indeværende Aar afsatte Beløb 44000 Kr.
+Samtidig maa man paatale, at Arbejdet er paabegyndt, inden Bevillingen er givet.\"
+Indstillingen vedtoges.
+"	1942	10	1
+"51"	1942-10-01	"open"	"19421001_139.pdf"	6	"529-1942"	"Indstilling angaaende Tillægsbevilling til L. A. B. til Anskaffelse af Værktøj til Stødoptagning. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	1
+"52"	1942-10-01	"open"	"19421001_139.pdf"	6	"862-1942"	"Indstilling angaaende Forhøjelse af Tilskudet til Idrætsklubberne. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	1
+"53"	1942-10-01	"open"	"19421001_139.pdf"	6	"428-1942"	"Indstilling fra Socialudvalget om Tillægsbevilling til Konto XII paa 2000 Kr. til Fabriksluftværn for Socialkontoret.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1942	10	1
+"54"	1942-10-01	"open"	"19421001_139.pdf"	6	"827-1942"	"Indstilling fra Biblioteksudvalget om Tillægsbevilling til Konto XXV paa 1570 Kr. til Udvidelse af Folkebibliotekets Tilflugtsrum.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1942	10	1
+"55"	1942-10-01	"open"	"19421001_139.pdf"	7	"760-1942"	"Andragende fra Danske Kvinders Samfundstjeneste om Tilskud til Lærerlønninger ved to Fritidshjem.
+Budgetudvalget anbefaler at yde et Tilskud paa 3275 Kr. som Tillægsbevilling til Konto XXV i Budgettet for indeværende Aar.
+Overgik til 2. Behandling.
+"	1942	10	1
+"56"	1942-10-01	"open"	"19421001_139.pdf"	7	"751-1942"	"Indstilling fra Skovudvalget angaaende Bevilling til Istandsættelse af Frederikshøj Kro.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Tilbagesendes Aarhus Byraad med Bemærkning, at der herfra intet vides at erindre imod, at Skovudvalgets Indstilling tiltrædes, dog under Forudsætning af, at Fru Christensen selv afholder Udgiften til Malerarbejdet 2356 Kr., hvorefter Kommunens Udgift vil blive 42244 Kr., hvilket Beløb foreslaas afholdt som Tillægsbevilling til Driftsbudgettet for indeværende Aar.\"
+Borgmesteren oplyste, at der havde været et stort Projekt fremme om Udvidelse af Frederikshøj Kro, men det var nu skrinlagt. Naar Budgetudvalget gik med til det foreslaaede, var det udfra den Forudsætning, at Frederikshøj Kro derved havde faaet de Reparationer og Forbedringer, som var tilstrækkelige gennem en lang Aarrække.
+H. P. Jensen meddelte, at Forholdene efter-haanden var blevet saaledes, at Restaurationen ikke kunde drives, hvis der ikke blev gjort noget, og ved stærke Regnskyl stod der Vand overalt i Lokalerne. Den foreslaaede Reparation var kun det nødtørftigste, men Udvalget mente ogsaa,
+"	1942	10	1
+"57"	1942-10-01	"open"	"19421001_139.pdf"	8	"751-1942"	"at efter denne Reparation kunde Frederikshøj klare sig i en Del Aar.
+Overgik til 2. Behandling.
+"	1942	10	1
+"58"	1942-10-01	"open"	"19421001_139.pdf"	8	"769-1942"	"Andragende fra Aarhus Husmoderforening om Tilskud efter Aftenskoleloven til to Kursus i Samfundslære.
+Anbefalet af Skoleudvalget.
+Bevilgedes.
+"	1942	10	1
+"59"	1942-10-01	"open"	"19421001_139.pdf"	8	"763-1942"	"Andragende fra Selskabet til Haandarbejdets Fremme om Tilskud efter Aftenskoleloven til Kursus i Haandgerning og Syning samt om Lokaler hertil.
+Anbefalet af Skoleudvalget, idet Lokaler kan anvises i Valdemarsgades Skole, men ikke Symaskiner.
+Tiltraadtes.
+"	1942	10	1
+"60"	1942-10-01	"open"	"19421001_139.pdf"	8	"851-1942"	"Andragende fra Arbejdsmændenes Arbejdsløshedskasse om midlertidig at maatte benytte et Areal af Paradisgades Skoles Grund ved Studsgade.
+Fra Skoleudvalget forelaa følgende Indstilling:
+\"Det anbefales midlertidig at Overlade Arbejdsmændenes Arbejdsløshedskasse en Del af det omhandlede Areal som vist paa medfølgende Tegning paa Betingelse af, at Plankeværket flyttes uden Udgift for Skolevæsenet, samt at Plankeværket, naar som helst det forlanges af Skolevæsenet, med 1 Maaneds Varsel flyttes tilbage ligeledes uden Udgift for Skolevæsenet.\"
+Indstillingen vedtoges
+"	1942	10	1
+"61"	1942-10-01	"open"	"19421001_139.pdf"	8	"755-1942"	"Andragende fra Aarhus Esperanto-Aftenskole om Tilskud efter Aftenskoleloven
+"	1942	10	1
+"62"	1942-10-01	"open"	"19421001_139.pdf"	9	"755-1942"	"til to Kursus i Esperanto samt om Lokaler hertil.
+Anbefalet af Skoleudvalget.
+Bevilgedes.
+"	1942	10	1
+"63"	1942-10-01	"open"	"19421001_139.pdf"	9	"852-1942"	"Forslag til ny Skoleplan og Undervisningsplan for Aarhus Borgerskoler.
+Fra Skolekommissionen forelaa følgende Indstilling :
+\"Hoslagt fremsendes Forslag til ny Undervisningsplan og Skoleplan til Byraadets Godkendelse.
+Forslagene er tiltraadt af Fælleslærerraadet med Undtagelse af sidste Stykke i Undervisningsplanens Indledning (Side 6): \"Der afholdes Standpunktprøver efter nærmere af Skolekommissionen trufne Bestemmelser\", jfr. medfølgende Erklæringer af 28A. 1942 og 2ik. 1942.
+Endvidere vedlægges Sognepræsternes Erklæring af 18/4. 1942, som Skolekommissionen har taget til Følge i det foreliggende Forslag.
+Undervisningsplanforslaget er iøvrigt udarbejdet i Henhold til Lov af 18/s. 1937 om Folkeskolen, hvorefter Borgerskolen deles i en Grundskole paa 5 Klassetrin samt en eksamensfri Mellemskole paa 3 Klassetrin.\"
+Fra Skoleudvalget forelaa følgende Erklæring:
+\"Skoleudvalget anbefaler de fremsendte Forslag til Byraadets Godkendelse, idet man bemærker, at da Timetallet for Grundskolen + den eksamensfri Mellemskole ikke er højere end i de nuværende Borgerskoleklasser, vil
+"	1942	10	1
+"64"	1942-10-01	"open"	"19421001_139.pdf"	10	"852-1942"	"Forandringen ikke medføre forøget Udgift for Skolevæsenet.\"
+K. Mousten forelagde Sagen. Den havde staaet paa Dagsordenen i lang Tid, og der havde været ført mange Forhandlinger med Lærerorganisationerne derom. Nu var man enedes om Forslaget med Undtagelse af Bestemmelsen om Standpunktprøver, som Læserne ikke vilde gaa med til. Skolekommissionen og Udvalget fastholdt imidlertid Bestemmelsen, og Taleren vilde foreslaa at fremsende Sagen saaledes.
+Indstillingen vedtoges.
+"	1942	10	1
+"65"	1942-10-01	"open"	"19421001_139.pdf"	10	"861-1942"	"Indstilling fra Lønudvalget om Forhøjelse af Dyrtidstillæget ti! timelønnede Haandværkere og Kedelpassere, som er fyldt 23 Aar.
+Udvalget indstiller, at Dyrtidstillæget fra 1. Oktober d. A. indtil videre forhøjes til 40 1/2 Øre pr. Time.
+Indstillingen vedtoges.
+"	1942	10	1
+"66"	1942-10-01	"open"	"19421001_139.pdf"	10	"499-1942"	"Andragende fra Ejere af Grunde ved Miltonsvej i Højbjerg om Fredning af en Række gamle Ege i Skellet mellem Aarhus og Højbjerg.
+Anbefalet af Skovudvalget og Udvalget for Byens Udvidelse og Bebyggelse, dog undtagen det Egetræ, der staar midt i den fremtidige Forlængelse af Schierups Vej.
+Tiltraadtes.
+"	1942	10	1
+"67"	1942-10-01	"open"	"19421001_139.pdf"	10	"684-1942"	"Indstillilng fra Udvalget for Byens Udvidelse og Bebyggelse angaaende Gadenavne i Riisvangen. (Side 112).
+Følgende Indstilling forelaa:
+\"Da der paa det nu foreliggende endelige
+"	1942	10	1
+"68"	1942-10-01	"open"	"19421001_139.pdf"	11	"684-1942"	"Projekt for Vejen i Riisvangen kun er afsat 7 Veje i Stedet for 8, kan Navet \"Pearyvej\" udgaa.\"
+Indstillingen vedtoges.
+"	1942	10	1
+"69"	1942-10-01	"open"	"19421001_139.pdf"	11	"3_10-1942 og 3_17-1942"	"Efterbevilling af Overskridelser i Regnskabet for.
+a. (J. Nr. 3_10-1942). Sporvejene.
+b. (J. Nr. 3_17-1942). Bygninger og Inventar.
+2.Behandling.
+Efterbevilling meddeltes.
+"	1942	10	1
+"70"	1942-10-01	"open"	"19421001_139.pdf"	11	"3_18-1942 og 3_19-1942 og 3_20-1942 og 3_21-1942"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_18-1942). Ejendomme under Udvalget for ByensUdvidelse ogBebyggelse.
+b.(J.Nr.3_19-1942).Vandværket.
+c.(J.Nr.3_20-1942).Observatoriet.
+d.(J.Nr.3_21-1942).Begravelsesvæsenet.
+Overgik til 2. Behandling.
+"	1942	10	1
+"71"	1942-10-01	"open"	"19421001_139.pdf"	11	"11_17-1942"	"Betinget Skøde med Det sociale Boligbyggeri angaaende Grunden til Blok I af Foreningens projekterede Byggeri ved Vestre Ringgade.
+Godkendtes.
+30.Borgmesteren gav nogle Oplysninger om Boligsituationen. Der havde meldt sig 51 husvilde Familier; af disse var nu indkvarteret i Rækkehusene 20 og i det gamle Skattekontor 8; 3 Familier var afvist, og 3 havde selv skaffet sig Bolig; de øvrige 17 Familier havde forhaabentlig selv skaffet sig Lejlighed. Der var nu indkvarteret 110 Familier i Kommunens Husvildeafdelinger, og man raadede herefter kun over 1 Beboelse i Mejlgade 8. Hvorledes Situationen vilde blive i de nærmeste Dage, vidste man ikke, men der vilde maaske melde sig flere. Omkring 15.Oktober blev Resten af Husvildeboligerne færdige, og der var Plads til 32 Familier. Taleren
+"	1942	10	1
+"72"	1942-10-01	"open"	"19421001_139.pdf"	12	"11_17-1942"	"vilde give disse Oplysninger ogsaa for overfor Grundejerne at understrege den alvorlige Situation; det var nemlig anmeldt, at adskillige Grundejere havde ledige Lejligheder, og Taleren vilde henstille til disse at vise Samfundssind og sørge for hurtigst mulig at faa dem lejet ud til Folk, der er hjemmehørende i Aarhus, og ikke slæbe fremmede Folk hertil i disse Tider.
+Taleren gav dernæst nogle Oplysninger om Brændselssituationen. I Fjor havde Belysningsvæsenet et stort Lager af Koks, som ikke var lette at sælge, fordi der var andre Koks i Handelen, som maaske var bedre. Men i Aar var det gaaet anderledes. Da K-Mærket blev sat i Kraft, drejede det sig om 400000 hl til Byens Ejendomme, og der var udleveret ca. 230000 hl, saa der manglede ca. 170000 hl, da Salget blev standset. Der kom stadig Brændsel til Landet, men de 75 % heraf gik til Øerne. Man haabede inden Nytaar at kunne indløse K-Mærkerne, og der blev vel saa ikke sat andre Mærker i Kraft inden den Tid; men hvis ikke Folk havde sikret sig indenlandsk Brændsel, Tørv eller Brunkul, vilde de komme i en slem Situation. Alt tydede paa, at Folk i Aarhus kun i ringe Grad havde sikret sig indenlandsk Brændsel trods Myndighedernes Opfordring, og den regnfulde Sommer havde vanskeliggjort Leveringen. Den Koks, som Gasværket producerede, skulde bruges til Gasfremstilling, og Importørerne havde heller ikke noget. Det var vist ikke blot i Aarhus, at Forholdet var saaledes, men ogsaa i andre Byer; men man vilde gøre alle mulige Bestræbelser for at fremskaffe Brændsel til Byen.
+"	1942	10	1
+"73"	1942-10-15	"closed"	"19421015B_149.pdf"	1	"no related record"	"Mødet den 15. Oktober 1942.
+(For lukkede Døre).
+Fraværende: H. J. Baden, Thomas Christensen, Hans Madsen, E. Rolander og E. Winterberg.
+"	1942	10	15
+"74"	1942-10-15	"closed"	"19421015B_149.pdf"	1	"116-1942"	"Indenrigsministeriets Samtykke til, at Kommunen garanterer for Laan til Boligindskud for Lejere i Arbejdernes Andelsboligforening og \"Ringgaarden\".
+Toges til Efterretning.
+"	1942	10	15
+"75"	1942-10-15	"closed"	"19421015B_149.pdf"	1	"917-1942"	"Indstilling fra Budgetudvalget om, at Kommunen afholder Udgifterne ved fhv. Borgmester Jakob Jensens Begravelse.
+Borgmesteren meddelte, at Udvalget havde givet Tilsagn herom, da det skulde afgøres ret hurtigt. Udgiften var endnu ikke gjort op.
+Indstillingen vedtoges.
+"	1942	10	15
+"76"	1942-10-15	"closed"	"19421015B_149.pdf"	1	"796-1942"	"Bevilling til Opførelse af en Pavillon ved Moesgaard Strand. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	15
+"77"	1942-10-15	"closed"	"19421015B_149.pdf"	1	"789-1942"	"Indstilling fra Budgetudvalget angaaende Tilskud til Zoologisk Have.
+Følgende Indstilling forelaa:
+"	1942	10	15
+"78"	1942-10-15	"closed"	"19421015B_149.pdf"	2	"789-1942"	"\"Det indstilles, at der i indeværende Aar ydes Haven et yderligere Tilskud paa 50000 Kr., der udbetales med 6500 Kr. i de kommende 7 Maaneder fra og med førstkommende November d. A. og saaledes, at der 1/1 1943 udbetales yderligere 5000 Kr. til Dækning af et Afdrag paa Havens Kassekredit i Jydsk Handels- og Landbrugsbank.
+Tilskudet foreslaas afholdt som Tillægsbevilling paa Konto 25 i Budgettet for indeværende Aar.\"
+Borgmesteren erindrede om, at Kommunen tidligere havde vedtaget at yde Garanti for et Laan paa 130000 Kr. Det havde hidtil været forrentet med 5 1/2 %, men Banken var nu gaaet ned til 5 %. Sidste Aar betalte Kommunen 30000 Kr. til Vinterdriften og 5000 Kr. for Adgang for Skolebørn. Man kunde spørge, om det ikke var klogt at lukke Haven, men Taleren mente, at det saa skulde være sket for længe siden, før man ofrede saa mange Penge derpaa, og man regnede med at kunne komme igennem med det foreslaaede Beløb. Samtidig havde man anmodet Stadsingeniøren om sammen med Skovudvalget at undersøge, om der er Mulighed for gennem Beskæftigelsesloven at faa en Udvidelse af Haven, uden at det koster ret meget; den var for Tiden noget sur og ildelugtende, og Bygningerne var til Dels raadne, saa det saa ikke saa godt ud for Øjeblikket. De fleste Byer lukkede nu deres zoologiske Haver, og det vilde være en Fordel for Aarhus, hvis man stod med en god Have, naar der atter kom normale Forhold.
+"	1942	10	15
+"79"	1942-10-15	"closed"	"19421015B_149.pdf"	3	"789-1942"	"Johanne Berg takkede for Borgmesterens Udtalelser om, at man vil forsøge at modernisere Haven, for den var i Øjeblikket i en Tilstand, som Aarhus By næppe kunde være bekendt. Hvis ikke der snarest kunde gøres noget ved den, burde man hellere likvidere den.
+Borgmesteren svarede, at nu kunde man afvente Forslag fra Stadsingeniøren og Skovudvalget.
+Overgik til 2. Behandling.
+"	1942	10	15
+"80"	1942-10-15	"closed"	"19421015B_149.pdf"	3	"116-1942"	"Indstilling om Kommunegaranti for Boligindskud fra Lejere i Arbejdernes Andelsboligforening. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	15
+"81"	1942-10-15	"closed"	"19421015B_149.pdf"	3	"895-1942"	"Indstilling angaaende Accept af Tilbud fra Ny jydske Købstad-Creditforening paa Laan i Kommunens Beboelsesejendomme.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Idet man fra Ny jydske Købstad-Creditforening har indhentet Tilbud paa Laan i Kommunens Beboelsesejendomme, skal man herved indstille, at der accepteres Laan i Creditforeningens 9. Serie i de paa medfølgende Fortegnelse fra Økonomidirektøren angivne Ejendomme, paa hvilken de Laan, hvormed de enkelte Ejendomme behæftes, er anført udfor hver Ejendom.
+Samtidig skal man henstille, at Borgmesteren faar Bemyndigelse til paa Byraadets Vegne at underskrive de Pantebreve, der skal udfærdiges i Anledning af Laanesagens Ordning.
+Om Laaneprovennernes Anvendelse vil der senere fremkomme Indstilling.\"
+Desuden forelaa Fortegnelse over Tilbud paa
+4% Laan (4 1/2 % Ydelse) i følgende Ejendomme:
+"	1942	10	15
+"82"	1942-10-15	"closed"	"19421015B_149.pdf"	4	"895-1942"	"Vejlegade 12 .........................76000Kr.
+\"10 ........................ 38000\"
+\"8 ........................25500\"
+\"6 ........................25500\"
+\"4 ........................ 29000\"
+Sdr. Ringgade48-50...............75500\"
+\"\"40-46 ............... 165000\"
+\"\"36-38 ............... 58000\"
+Max Müllersgade 18....................30000\"
+1619500\"
+\"\"14...............19000\"
+\"\"12...............19500\"
+\"\"10 ............... 22500\"
+\"\"21-23...............70000\"
+\"\"13-19............... 158000\"
+\"\"9-11............... 60000\"
+\"\"8...............19500\"
+\"6...............19000\"
+\"\"4...............19500\"
+\"\"2 C...............45000\"
+Trepkasgade 22-26 ....................87000\"
+\"16 ...............22500\"
+14 ................25000\"
+\"15 ...............33000\"
+1333000\"
+1133000\"
+\"9 ...............33000\"
+7 .................33000\"
+533000\"
+Læssøesgade 83-85.....................61000\"
+77.................22500\"
+75.................19500\"
+Ingerslevs Boulevard 24 ..............55000\"
+\"\"22 ..........46000\"
+\"\"20 ..........46000\"
+\"\"18 ..........46000\"
+"	1942	10	15
+"83"	1942-10-15	"closed"	"19421015B_149.pdf"	5	"895-1942"	"Ingerslevs Boulevard 16 .............35000Kr'
+14 ........... 55000\"
+Har. Jensens PI. 1 A.................85000\"
+Gerlachsgade 13 .....................32000\"
+\"11...................19500\"
+\" 9.......................23000\"
+\" 7 ....................19500\"
+\"5 ....................23000\"
+\" 3 ....................19500\"
+\"1 .................... 26000\"
+De Mezasvej 21 ......................45000\"
+\" 19 ...................35000\"
+\" 1735000\"
+\"15 ....................35000*
+\"14...................35000\"
+\" 13 ................... 35000\"
+\" 12...................35000*
+\" 11 ...................35000\"
+Chr.KiersPlads6 .................55000\"
+\"\"\"4 ................. 51500\"
+\"\"\"2 .................58000\"
+PoulM.Møllersvej 1-39 ............ 115000\"
+\"\"\"41-65 .......... 75000\"
+\"\"\"67-77 ..........34000\"
+\"\"\"79-95 ..........50000\"
+2688500 Kr.
+Overgik til 2. Behandling.
+"	1942	10	15
+"84"	1942-10-15	"closed"	"19421015B_149.pdf"	5	"29_7-1942"	"Andragende fra Ingeniør ved Havnen J. la Cour om Afsked med Pension fra 1.November d. A.
+Bevilgedes. Pensionen fastsattes til 3255 Kr.
+"	1942	10	15
+"85"	1942-10-15	"closed"	"19421015B_149.pdf"	5	"29_11-1942"	"Andragende fra Kabelformand ved Belysningsvæsenet Magnus Jensen om Afsked med Pension fra 1. Januar 1943.
+Bevilgedes. Pensionen fastsattes til 2611,11 Kr.
+"	1942	10	15
+"86"	1942-10-15	"closed"	"19421015B_149.pdf"	6	"29_12-1942"	"Andragende fra Chauffør ved Belysningsvæsenet J. M. Chr. Sørensen om Afsked med Pension fra 1. Januar 1943.
+Bevilgedes. Pensionen fastsattes til 2340 Kr.
+"	1942	10	15
+"87"	1942-10-15	"closed"	"19421015B_149.pdf"	6	"906-1942"	"Fastsættelse af Pension til Enken efter Maalerkontrollør R. P. J. Salling.
+Pensionen fastsattes til 1100 Kr.
+"	1942	10	15
+"88"	1942-10-15	"closed"	"19421015B_149.pdf"	6	"905-1942"	"Fastsættelse af Pension til Enken efter Incassator ved Belysningsvæsenet R. M. Sjelle.
+Pensionen fastsattes til 1441,03 Kr.
+"	1942	10	15
+"89"	1942-10-15	"closed"	"19421015B_149.pdf"	6	"12_7-1942"	"Indstilling om personligt Tillæg til Rentenydere.
+Indstillingen vedtoges.
+"	1942	10	15
+"90"	1942-10-15	"closed"	"19421015B_149.pdf"	6	"16_4-1942"	"Indstilling om Ydelse af Tillægshjælp efter Forsorgslovens § 293, Stk. 2.
+Indstillingen vedtoges.
+"	1942	10	15
+"91"	1942-10-15	"closed"	"19421015B_149.pdf"	6	"17_14-1942 og 17_15-1942"	"Indstilling om Eftergivelse af Hjælp ydet til:
+a. (J. Nr. 17_14- 1942). Aage G. Mortensen.
+b. (J. Nr. 17_15 -1942). Johs. C. C. Bay.
+Tiltraadtes.
+"	1942	10	15
+"92"	1942-10-15	"closed"	"19421015B_149.pdf"	6	"32_3-1942"	"Indstilling om, at Arbejdsmand Hugo J. Rasmussen anbringes paa Arbejdsanstalt.
+Indstillingen vedtoges.
+"	1942	10	15
+"93"	1942-10-15	"closed"	"19421015B_149.pdf"	6	"99_36-1942"	"Andragende fra Boligforeningen \"Ringgaarden\" om Statslaan med Kommunegaranti for et Byggeforetagende med Rækkehuse ved Kaserneboulevarden.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler Andragendet saaledes, at Kommunen yder Garanti for den Del af Laanet, der ligger over 30 % af Anskaffelsessummen, eller 152431 Kr., samt at Grundprisen sættes til 12 Kr. pr. m2.
+Overgik til 2. Behandling.
+"	1942	10	15
+"94"	1942-10-15	"open"	"19421015_151.pdf"	1	"no related record"	"Mødet den 15. Oktober 1942.
+Fraværende: H. J. Baden, Thomas Christensen, Hans Madsen, E. Rolander og E. Winterberg.
+"	1942	10	15
+"95"	1942-10-15	"open"	"19421015_151.pdf"	1	"814-1942"	"Meddelelse fra Indenrigsministeriet om, at Ministeriet modtager det tilbudte Areal ved Adolph Meyers Vej til Grund for Amtsgaarden i Aarhus.
+Toges til Efterretning.
+"	1942	10	15
+"96"	1942-10-15	"open"	"19421015_151.pdf"	1	"99_6-1942"	"Meddelelse om bevilget Statslaan til Socialt Boligbyggeri, Blok 2.
+Toges til Efterretning.
+"	1942	10	15
+"97"	1942-10-15	"open"	"19421015_151.pdf"	1	"11_15-1942 og 22_24-1942"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a.(J. Nr. 11_15-1942). Arbejdernes Andelsboligforening.
+b.(J. Nr. 22_24-1942). Direktør Th. Juncker. 
+Toges til Efterretning.
+"	1942	10	15
+"98"	1942-10-15	"open"	"19421015_151.pdf"	1	"644-1944"	"Skrivelse fra Justitsministeriet angaaende de Forestillinger, som Tournéer maa opføre paa Vennelyst Teater.
+Toges til Efterretning.
+"	1942	10	15
+"99"	1942-10-15	"open"	"19421015_151.pdf"	1	"811-1942"	"Skrivelse fra Arbejds- og Socialministeriet om Bevilling i Henhold til Beskæftigelsesloven til Fremstilling af Kantsten til Kommunens eget Forbrug.
+Toges til Efterretning.
+"	1942	10	15
+"100"	1942-10-15	"open"	"19421015_151.pdf"	2	"630-1942"	"Regnskab for Aarhus Museums historiske Afdeling i 1941-42.
+Toges til Efterretning.
+"	1942	10	15
+"101"	1942-10-15	"open"	"19421015_151.pdf"	2	"808-1942"	"Forespørgsel fra Aarhus Stiftamt om, hvorvidt den hidtidige Fribefordringsgrænse efter Forsorgslovens § 17 ogsaa kan godkendes for det kommende Femaar indtil 30. September 1942.
+Anbefalet af Socialudvalget.
+Tiltraadtes.
+"	1942	10	15
+"102"	1942-10-15	"open"	"19421015_151.pdf"	2	"428-1942"	"Tillægsbevilling til Etablering af Luftværn paa Socialkontoret. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	15
+"103"	1942-10-15	"open"	"19421015_151.pdf"	2	"827-1942"	"Tillægsbevilling til Udvidelse af Tilflugtsrum paa Folkebiblioteket. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	15
+"104"	1942-10-15	"open"	"19421015_151.pdf"	2	"760-1942"	"Tillægsbevilling til Danske Kvinders Samfundstjeneste til Lærerlønninger ved to Fritidshjem. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	15
+"105"	1942-10-15	"open"	"19421015_151.pdf"	2	"751-1942"	"Tillægsbevilling til Istandsættelse af Frederikshøj Kro. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	15
+"106"	1942-10-15	"open"	"19421015_151.pdf"	2	"892-1942"	"Indstilling om Tillægsbevilling paa 28000 Kr. til Konto XXI til Anskaffelse af Kontormaskiner til Socialkontoret.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1942	10	15
+"107"	1942-10-15	"open"	"19421015_151.pdf"	2	"844-1942"	"Indstilling om Tillægsbevilling paa 8825 Kr. til Konto XVII til Bygningsforandringer ved Indretning af Kontor for Hospitalsdirektøren.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1942	10	15
+"108"	1942-10-15	"open"	"19421015_151.pdf"	3	"922-1942"	"Indstilling om Tillægsbeviling paa 600 Kr. til Konto XXV til Befæstning af Gaardspladsen i Børnehjemmet Børnely.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1942	10	15
+"109"	1942-10-15	"open"	"19421015_151.pdf"	3	"923-1942"	"Indstilling angaaende Tillægsbevilling paa 3200 Kr. til Konto II til Istandsættelse af Eddikebryggeriets Lokaler i Mejlg. 59.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1942	10	15
+"110"	1942-10-15	"open"	"19421015_151.pdf"	3	"807-1942"	"Indstilling om Tillægsbevilling paa 4100 Kr. til Konto XX til Indretning af Kontor i Kapellet paa Vestre Kirkegaard.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1942	10	15
+"111"	1942-10-15	"open"	"19421015_151.pdf"	3	"234-1942"	"Indstilling om Forhøjelse af Bevillingen til Aldersrenteboligerne.
+Udvalget foreslaar, at Bevillingen forhøjes med 7892 Kr., idet en reduceret Cementtildeling nødvendiggør Ændringer i Arbejdet. Der skal dog ikke i den Anledning bruges Penge udover det paa Arbejdsplanen afsatte Beløb.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1942	10	15
+"112"	1942-10-15	"open"	"19421015_151.pdf"	3	"924-1942"	"Indstilling om Tillægsbevilling paa 10800 Kr. til Arbejdsplanen til Anlæg af Eskimovej i Riisvangen.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1942	10	15
+"113"	1942-10-15	"open"	"19421015_151.pdf"	3	"115_4-1942"	"Indstilling om Udvidelse af Bevillingen til Universitetets Hovedbygning med 18000 Kr. til Anlæg af udvendige Kloakledninger.
+Tiltraadt af Budgetudvalget.
+Overgik ti! 2. Behandling.
+"	1942	10	15
+"114"	1942-10-15	"open"	"19421015_151.pdf"	3	"925-1942"	"Indstilling angaaende Overførsel af 15697,39 Kr. fra Fonden til Gravsteders
+"	1942	10	15
+"115"	1942-10-15	"open"	"19421015_151.pdf"	4	"925-1942"	"Vedligeholdelse til Begravelsesvæsenets Driftskonto til Istandsættelse af Gravsteder. Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1942	10	15
+"116"	1942-10-15	"open"	"19421015_151.pdf"	4	"25_1-1942"	"Indstilling angaaende Fastsættelse af Afgift for Restaurationer for at holde aabent til Kl. 24.
+Fra Økonomidirektøren forelaa efter Forhandling med Skattedirektøren Forslag om, at Afgiften beregnes efter følgende Skala:
+\"I. Restauranter og Konditorier uden Musik og Dansant.
+Aarlig Omsætning indtil 50000 Kr., Afgift 300 Kr.
+-50000Kr.-100000\"-400\"
+-100000\" -250000\"-500\"
+over 250000\"-800\"
+II.Restauranter med Musik og Dansant m. v. Aarlig Omsætningindtil 200000Kr. Afgift 800Kr.
+-200000Kr.-400000\"-1000\"
+-400000\" -600000\"-1200\"
+-over 600000 \"-1500\"
+Efter Forslaget vil Kommunen antagelig
+faa en aarlig Merindtægt paa ca. 9000 Kr.\"
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Det indstilles, at Afgiften for 12-Lukning fra 1/41943 beregnes i Overensstemmelse med Økonomidirektørens foranstaaende Forslag.
+For saa vidt angaar Etablissementet \"Varna\" skal man foreslaa, at Afgiften for Tiden indtil 1/4 1943 beregnes til Halvdelen af den Afgift, der vil være paalagt \"Varna\" efter den hidtil gældende Skala, og for Tiden efter 1943 Halvdelen af den Afgift, der vilde blive paalagt
+"	1942	10	15
+"117"	1942-10-15	"open"	"19421015_151.pdf"	5	"25_1-1942"	"lagt efter den nye Skala, forudsat at denne vedtages.\"
+Indstillingen vedtoges.
+"	1942	10	15
+"118"	1942-10-15	"open"	"19421015_151.pdf"	5	"838-1942"	"Andragende om, at Kommunen vil afholde Udgifter ved Sagsanlæg mod Kommunen til Konstatering af, om Kommunen er erstatningsansvarlig som Følge af, at to Skoledrenges Regnfrakker er blevet stjaalet paa Samsøgades Skole.
+Skoleudvalget kan ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1942	10	15
+"119"	1942-10-15	"open"	"19421015_151.pdf"	5	"918-1942"	"Indstilling fra Lønudvalget angaaende Fornyelse af Overenskomst med Dansk Kommunalarbejderforbund.
+Følgende Indstilling forelaa:
+\"Efter at Dansk Kommunalarbejderforbund ved Skrivelse af 21. Februar d. A. havde opsagt den mellem Lønudvalget og Forbundet den 10. Juni 1938 indgaaede og af Byraadet den 23. s. M. godkendte Overenekomst til Ophør den 1. Juni d. A., har Udvalget ført en Række Forhandlinger med Forbundet om Fornyelse af Overenskomsten, der bl. a. indeholder Bestemmelser om Dyrtidstillæg til Opsynskvinderne ved Kommunens og Havnens Nødtørftsanstalter og ved Parkvæsenet samt Løn-og Ansættelsesregler for Opsynsmændene ved Parkvæsenet.
+For saa vidt angaar Ydelse af Dyrtidstillæg til de nævnte Opsynskvinder er man ved Forhandlingerne enedes om følgende:
+Fra 1. April d. A. at regne, og saa længe Udgiftstallet ligger over 3986 Kr., reguleres Dyrtidstillæget til Kommunens og Havnens
+"	1942	10	15
+"120"	1942-10-15	"open"	"19421015_151.pdf"	6	"918-1942"	"Nødtørtsopsyn samt kvindelige Opsyn ved Parkvæsenet ikke efter de i Overenskomsten af 10. Juni 1938 med Dansk Kommunalarbejderforbunds Aarhus Afdeling fastsatte Regler; men de pr. 31. Marts d. A. gældende Tillæg forhøjes og nedsættes med samme Beløb, hvormed Reguleringstillæget til Statens Tjenestemænd forhøjes respektive nedsættes. Dyrtidstillæget skal dog ved Udgiftstal, der ligger over 3986 Kr., altid udgøre mindst de pr. 31. Marts d. A. gældende Beløb, og Forhøjelserne skal i Regnskabsaaret 1942-43 udgøre mindst 6 Kr. pr. Maaned. 24 Øre pr. Dag og 3 Øre pr. Time til henholdsvis maaneds,- dag- og timelønnede.
+Ved Beregningen af Dyrtidstillæget medtages ikke eventuelle Forsergertillæg.
+For Regnskabsaaret 1942 43 vil Dyrtidstillægget til Opsynene i Henhold til foranstaaende Bestemmelser i Stedet for med de i Byraadets Skrivelse af 31. Marts d. A. nævnte Tillæg være at udbetale med nedenstaaende Beløb:
+De med gifte Mænd
+ligestillede Opsyn,
+ Andre Opsyn Alle øvrige Opsyn
+Andre over 40 Aar
+Lønjfr.tjenestemands-
+Regulativets § 29,
+Stk.1.
+Maanedsløn 125 Kr. 40Kr. pr.Md.36 K.pr.M.34 K. pr. M.
+Daglun 5 Kr.160Øre pr.Dag144 Ø.pr.D.136 Ø. pr. D.
+Timeløn 67 Øre27Øre pr.Time25 Ø.pr.T.24 Ø. pr. T.
+Opsynene er pligtige efter Anmodning at meddele de for Dyrtidstillægets Beregning nødvendige Oplysninger.
+Med Hensyn til Parkopsynsmændene stillede Forbundet Krav om Oprykning fra 11. til 8.Lønklasse, hvilket Krav senere ændredes til
+"	1942	10	15
+"121"	1942-10-15	"open"	"19421015_151.pdf"	7	"918-1942"	"Oprykning til 9. Lønklasse, idet det fra Forbundets Side hævdedes, at Parkopsynsmændene burde lønningsnmæssigt ligestilles med Opsynsmænd ved Kirkegaardene. Da Lønudvalget i Betragtning af, at der til Opsyn i Parkerne antages invalidere Personer, hvis Tjenestepligter ikke kan sidestilles med Kirkegaardsopsynenes, afviste Forbundets Krav, indbragte Forbundet gennem De samvirkende Fagforbund Sagen for det i Henhold til Loven om Arbejdsforhold nedsatte Fællesudvalg. Da Fællesudvalget ikke kunde enes om en Kendelse i Sagen, indankedes denne af De samvirkende Fagforbund for Arbejds- og Forligsnævnet, som ved Kendelse af 8. d. M. har givet Lønudvalget Medhold ved at afgøre Sagen derhen, at Overenskomsten vil være at forlænge for et Aar fra dens Udløbetid at regne med de Ændringer, hvorom der er opnaaet Enighed mellem Parterne.
+Man skal herefter indstille til Byraadets Vedtagelse, at den omhandlede Overenskomst fornyes til 31. Maj 1943 med ovenstaaende Tilføjelse angaaende Dyrtidstillæg til kvindeligt Opsyn og iøvrigt uden Ændringer eller Tilføjelser.
+Til Orientering skal man oplyse, at Merudgiften til de nævnte Dyrtidstillæg for indeværende Regnskabsaar vil udgøre ca. 1100 Kr., hvoraf Havnens Andel vil andrage ca. 500 Kr.\"
+Indstillingen vedtoges.
+"	1942	10	15
+"122"	1942-10-15	"open"	"19421015_151.pdf"	7	"3_22-1942 og 3_21-1942"	"Efterbevilling af Overskridelser i Regnsksbet for:
+a. (J. Nr. 3_22-1942). Parkvæsenet.
+b. (J. Nr. 3_21-1942). Mindeparken.
+Overgik til 2. Behandling.
+"	1942	10	15
+"123"	1942-10-15	"open"	"19421015_151.pdf"	8	"3_18-1942 og 3_19-1942 og 3_15-1942 og 3_20-1942"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_18-1942). Ejendomme under Udvalget for ByensUdvidelse og Bebyggelse.
+b.(J.Nr.3_19-1942).Vandværket.
+c.(J.Nr.3_15-1942).Observatoriet.
+d.(J.Nr.3_20-1942).Begravelsesvæsenet.
+2.Behandling.
+Efterbevilling meddeltes.
+"	1942	10	15
+"124"	1942-10-15	"open"	"19421015_151.pdf"	8	"11_13-1942"	"Købekontrakt med Viggo Pedersen angaaende en Grund ved Nordvestpassagen.
+Godkendtes.
+"	1942	10	15
+"125"	1942-10-29	"closed"	"19421029B_155.pdf"	1	"no related record"	"Mødet den 29. Oktober 1942.
+(For lukkede Døre).
+Fraværende: Thomas Christensen og Sigvald Nielsen.
+"	1942	10	29
+"126"	1942-10-29	"closed"	"19421029B_155.pdf"	1	"845-1942"	"IndenrigsministerietsGod-
+kendelse af Kommunens Ekspropriation af Ejendommen Fiskergade 3.
+Toges til Efterretning.
+"	1942	10	29
+"127"	1942-10-29	"closed"	"19421029B_155.pdf"	1	"895-1942"	"IndenrigsministerietsGod-
+kendelse af, at der optages Kreditforeningslaan i Kommunens Beboelsesejendomme.
+Toges til Efterretning.
+"	1942	10	29
+"128"	1942-10-29	"closed"	"19421029B_155.pdf"	1	"858-1942"	"IndenrigsministerietsGod-
+kendelse af, at Kommunen stiller Ejendommen Aaboulevarden 47 til Tvangsauktion for ikke betalte Skatter.
+Toges til Efterretning.
+"	1942	10	29
+"129"	1942-10-29	"closed"	"19421029B_155.pdf"	1	"956-1942"	"Indstilling fra Sygehusudvalget om, at den tjenstlige Sag mod Maskinmester Dørr stilles i Bero.
+Følgende Skrivelse forelaa:
+\"Den 8. April d. A. blev Maskinmester Dørr, Kommunehospitalet anholdt, idet han sigtedes for
+"	1942	10	29
+"130"	1942-10-29	"closed"	"19421029B_155.pdf"	2	"956-1942"	"Tyveri af Bly og Kobber fra Hospitalet, og under Forhørerne sigtedes han endvidere for at have overladt en af Hospitalets Funktionærer en Del Metalgenstande for ingen eller for lav Betaling.
+Ifølge Skrivelse af 7. Oktober d. A. fra Politimesteren har Statsadvokaten imidlertid frafaldet Tiltale, og alt tyder paa, at Maskinmesteren ikke paa uretmæssig Maade har tilegnet sig af Hospitalets Ejendele eller har haft Fordel ved Salg deraf.
+Et Par af Hospitalets Funktionærer, der har været Hovedvidner i Sagen, fastholder imidlertid, at Maskinmesteren har handlet ulovligt i Forhold, som ikke er fremdraget under Sagen.
+Dette er foreholdt Maskinmesteren, som dog fastholder sin Uskyld, og Maskinmesteren har gjort Skridt tii Sagsanlæg mod de to Funktionærer for Udspredelse af falske Rygter.
+Vi skal tillade os at henstille, at Sagen stilles i Bero, indtil Resultatet af Sagsanlæget foreligger.\"
+I.C. Sørensen spurgte, om Udvalget havde forlangt, at han skal anlægge denne Sag.
+K. Mousten svarede, at man havde henstillet til Dørr at anlægge Sag mod de to; der var næppe nogen anden Udvej.
+Borgmesteren oplyste, at efter at Politiet havde afvist Sagen, havde de fastholdt Beskyldningerne imod ham, og saa var vist rigtigt, at han søger at rense sig ved privat Spørgsmaal.
+I.C. Sørensen bemærkede, at ifølge Straffeloven skulde en Sag anlægges inden 3 Maaneder
+"	1942	10	29
+"131"	1942-10-29	"closed"	"19421029B_155.pdf"	3	"956-1942"	"efter, at Beskyldningerne var fremsat, og spurgte, om det var overholdt her.
+K. Mousten: Ja!
+Indstillingen vedtoges.
+"	1942	10	29
+"132"	1942-10-29	"closed"	"19421029B_155.pdf"	3	"789-1942"	"Indstilling angaaende Bevilling til Zoologisk Have. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"133"	1942-10-29	"closed"	"19421029B_155.pdf"	3	"957-1942"	"Indstilling fra Sygehusudvalget om Approbation paa forskellige Leverancer til den neurologiske Afdeling.
+Følgende Indstilling forelaa:
+Ejnar Munksgaard: Litteratur............ 6114,05Kr.
+Andr. Hest &amp;amp; Søn:\"................101,50\"
+L. Poulsen &amp;amp; Co: Bordlamper.......... 1738,80\"
+Malernes coop. Forretning: Maling af
+Senge................................ 2655,00\"
+C. Nyrop: 1 Termostat...........................356,50\"
+Marinus Kock: 150 Vaser.........................405,00\"
+Indkøb af Smaainventar.................. 2000,00\"
+C. Nyrop: 1 Neurologibord............... 1650,00\"
+ialt 15020,85Kr.
+Indstillingen vedtoges.
+"	1942	10	29
+"134"	1942-10-29	"closed"	"19421029B_155.pdf"	3	"295-1942"	"Forslag til en Folkebespis-ningsordning i Aarhus.
+Fra Økonomidirektøren forelaa følgende Forslag:
+\"I Skrivelse til Borgmesteren af 4. Februar d. A. er meddelt Opgørelse over Størrelsen af det Antal Personer, som maksimalt skulde bespises ved kommunal Foranstaltning i Tilfælde af en Nødssituation, hvor Gasproduktionen helt eller delvis ophørte. Man regnede paa det paagældende Tidspunkt med, at 48000 Personer skulde kunne bespises ved offentlig Foranstaltning, medens Resten kunde bespises enten
+"	1942	10	29
+"135"	1942-10-29	"closed"	"19421029B_155.pdf"	4	"295-1942"	"ved Tilberedning i Hjemmene: 30000 eller paa Hospitaler m. v. (Funktionærer og Syge): 2000 eller ved Indtagelse af Maaltid paa Restauration: 20000.
+Ved Opgørelsen af Antallet 48000 Personer var regnet med, at det danske Militær i givet Fald vilde udleje til Kommunen ialt 5 Kogekasser, ved Hjælp af hvilke kunde fremstilles 5500 Portioner varm Mad daglig. Imidlertid har Krigsministeriet ikke kunnet imødekomme Byraadets derom indgivne Andragende, og Forholdene er siden ændret blandt andet derved, at Bespisningsanordningerne paa 2 Skoler ikke for Tiden vil kunne benyttes. Endvidere har indtrufne Begivenheder paa det offentlige Slagtehus medført, at det derværende yderst primitive Anlæg, ved Hjælp af hvilket man paaregnede at kunne fremstille 9000 Portioner, ikke længer staar til Raadighed. Det har herefter været nødvendigt at underkaste hele Bespisningsplanen en Revision.
+Under de i Sagens Anledning med Stadsdyrlægen og Bestyrerinden for Folkekøkkenet stedfundne Drøftelser er oplyst, at det samme Koncern, som ejer Aarhus Flæskehal: A/S P. og S. Plum tilligemed en Række andre Firmaer har afsluttet Kontrakt med Københavns Kommunes Folkekøkkener om under en eventuel Nødssituation at levere et betydeligt Antal Madportioner. Det Spørgsmaal har derfor naturligt rejst sig, hvorvidt A/'S Aarhus Flæskehal vilde være i Stand til at dække en Del af Kommunens Produktionsbehov, og Kommunen i væsentlig Grad fritages for at binde betydelige Beløb i Anlæg, som maaske aldrig kommer til Anvendelse og under alle 
+"	1942	10	29
+"136"	1942-10-29	"closed"	"19421029B_155.pdf"	5	"295-1942"	"Omstændigheder vanskeligt vil kunne anvendes senere af Kommunen i andet Formaal eller realiseres uden urimeligt store Tab. Der er af adskillige Kommuner bundet relativt betydelige Beløb i saadanne Anlæg.
+Fra Selskabet foreligger den i Afskrift vedlagte Skrivelse af 19. f. M. tilligemed Afskrift af et Københavns Kommunes Folkekøkkener tilstillet Udkast til Overenskomst. Saafremt Firmaet skal være i Stand til at fremstille 8000 Portioner daglig, vil de Kogeindretninger, som Firmaet har opstillet til eget Brug, ikke være egnede, og Firmaet har da betinget sig, at Kommunen skulde afholde Halvdelen af Anskaffelsesudgiften, 4500 å 5000 Kr., altsaa højst 2500 Kr., dog saaledes, at saafremt Kogekarret kommer til Anvendelse til Fremstilling af Mad til Folkebespisning, er Selskabet villig til at amortisere den af Kommunen betalte Halvdel successivt i Løbet af 6 Maaneder. Ifølge Stadsdyrlægen staar Selskabets Krav om, at Kommunen afholder Halvdelen af Anskaffelsesudgiften, i særdeles rimeligt Forhold til Selskabets Interesse i en saadan Ordning.
+Raavarer indkøbes af Selskabet, men betales af Kommunen.
+Vederlaget for Fremstilling af daglig indtil 8000 Portioner Mad angives til 28 Øre paa Hverdage og 31 Øre paa Søn- og Helligdage pr. Portion. Under senest D. D. stedfundne Drøftelser med Selskabets Prokurist var denne tilbøjelig til at antage, at Selskabet vilde acceptere de i vedlagte Overenskomstudkast fastslaaede Priser, der ligger 3 Øre lavere end af Selskabet krævet, samt indgaa paa, at
+"	1942	10	29
+"137"	1942-10-29	"closed"	"19421029B_155.pdf"	6	"295-1942"	"Kommunens Anpart af den i Anlægget bundne Kapital tilbagebetales med 20 % maanedlig for hver Maaned, Anlægget benyttes i Folke-bespisningsøjemed.
+Det vil formentlig være ønskeligt, at Kommunen i en Katastrofesituation i den sydlige Bydel, men i Nærheden af Byens Centrum disponerer over et Fremstillings- og Udleveringslokale af passende stor Kapacitet, hvorfor det henstilles, at Kommunen entrerer med Selskabet, saaledes at Opstillingen af det paagældende Kogekar snarest kan finde Sted. Den af Firmaet foreslaaede Betaling for Fremstilling af Retterne er i Overensstemmelse med den i København fastsatte Betaling, ligesom Overenskomstudkastet forudsætter, at Folke-køkkenet fastsætter Middagslisten for en Uge ad Gangen og har Adgang til Kontrol med Indkøb og Produktion.
+Da Selskabet ikke er i Stand til at afse det umiddelbart til Produktionslokalet stødende Udleveringslokale, vil det formentlig være nødvendigt i paakommende Tilfælde at disponere over det til Fjerkrækontrol benyttede Lokale, som maa anses forholdsvis egnet som Udleveringslokale. I Tilfælde af, at en Del af Befolkningen maatte ønske paa Stedet at indtage Maaltider, vil der uden større Bekostning kunne opstilles et Antal Borde og Bænke i Markedshallen. Saavel Udleveringslokale som eventuelt Bespisningslokale er særdeles primitivt, men vil formentlig under en Nødssituation kunne opfylde sit Formaal.
+Til Transport af Mad fra Produktionslokalet til respektive Udleverings- og Bespisningslokale vil det være nødvendigt at anskaffe
+"	1942	10	29
+"138"	1942-10-29	"closed"	"19421029B_155.pdf"	7	"295-1942"	"20 50- Liters Transportspande, der tilbydes leveret af De danske Mejeriers Fællesindkøb, Aarhus, til en Pris af 86,70 Kr. pr. Stk. -5- 7 °/o, det vil sige ca. 1600 Kr. Disse Spande, der er af en Type, som altid vil kunne afsættes til anden Side, anses af saavel Stadsdyrlægen som Bestyrerinden for Folkekøkkenet som velegnede til Formaalet, hvorved bemærkes, at Folkekøkkenet G. D. og D. D. har kontrolleret Varmetab. For yderligere at sikre, at Maden holdes varm saavel under Transporten som særlig ved Opbevaring paa Stedet, vil det være nødvendigt, at Spandene anbringes i særligt konstruerede \"Høkasser\" eller paa anden Maade, saaledes at de sikres mod hurtigt Varmetab. De hertil nødvendige Anskaffelser regnes ikke at ville overstige 500 Kr. De fornødne Borde og Bænke vil formentlig kunne lejes i paakommende Tilfælde.
+Ordningen forudsætter her som paa Skolerne, at Befolkningen selv medbringer Tallerken og Ske, ligesom Køb af Spisebilletter maa ske mindst een Dag forud.
+Der er ikke foretaget Mørkelægning af Markedshallen, men dette formenes at kunne ske for et ret ringe Beløb, der formentlig bør afholdes af Slagtehusets Budget, medens de øvrige Udgifter bør afholdes under uforudsete Udgifter.
+Det bemærkes, at de paa Slagtehusets Omraade værende Tilflugtsrum i Forvejen anses for utilstrækkelige.
+Under Hensyn til den Betydning, det vil have for nogenlunde Sikring af Befolkningens nødtørftige Behov under en Katastrofesituation, vil det formentlig være nødvendigt at 
+"	1942	10	29
+"139"	1942-10-29	"closed"	"19421029B_155.pdf"	8	"295-1942"	"centralisere Ledelsen af de forskellige Skolekøkkener, Bespisningen paa De gamles Hjem, Arbejdsanstalten og Folkekøkkenet (evt. tillige Hospitalerne), saaledes at samtlige Institutioner hvor Madfremstilling foregaar ved kommunal Foranstaltning, under en Katastrofesituation sikres ensartet Ledelse med Hensyn til Indkøb, Kostplan etc. Det henstilles, at Bestyrerinden af Folkekøkkenet anmodes om at paatage sig den administrative Ledelse af Folkebespisningen i Aarhus og snarest foretage de nødvendige Undersøgelser af saavel Skolekøkkener som andre kommunale Institutioner, som agtes inddraget under Kommunens Bespisningsplan. Der vil derefter formentlig fra Bestyrerinden fremkomme Indstilling om, hvorvidt yderligere Anskaffelser end de foran omtalte vil være nødvendige. Tilsynet med Indkøb af Raavarer og Fremstilling af Mad paa det offentlige Slagtehus foreslaas ligeledes henlagt under Bestyrerinden.
+Det samlede Antal Personer, som herefter forventes at kunne bespises ved kommunal Foranstaltning, andrager ca. 39200.
+Paa Basis af en i Januar Maaned d. A. foretagen stikprøvevis Undersøgelse af kakkelovnsopvarmede Lejligheder i Kommunen beregnede man, at der i egne Hjem i Kommunen skulde kunne fremstilles ca. 30000 Portioner varm Mad daglig. Den ikke mindst siden Gasrationeringens Indførelse stedfundne stærke Stigning i Salget af Kabysovne m. v. har medført, at Antallet ifølge sagkyndiges Skøn med Sikkerhed vil kunne forhøjes til 40000 (muligt mere).
+"	1942	10	29
+"140"	1942-10-29	"closed"	"19421029B_155.pdf"	9	"295-1942"	"Tilbage er Spørgsmaalet om Fremstilling af Mad til ca. 20000 Personer. Efter stedfundne mundtlige Drøftelser med Formanden for Aarhus Restauratørforening af 1903 vil der kunne regnes med, at Byens Hoteller og Restaurationer i en Katastrofesituation vil indstille sig paa i Tiden 11-14 og 17-20 at fremstille en enkelt nærende varm Ret til en overkommelig Pris. De enkelte Restauratører bestemmer selv, hvilke Retter de ønsker at fremstille.
+Det vil muligt være hensigtsmæssigt, om Kostplanen for den ved Kommunens Foranstaltning producerede Mad fastsættes paa Basis af den af Statens Husholdningsraad udarbejdede Ugeplan over sammenkogte Retter, der agtes fulgt i Københavns Folkekøkkener. Det henstilles dog, at Bestyrerinden for Folkekøkkenet bemyndiges til at fastsætte Kostplan m. v., saaledes at der er Sikkerhed for, at ved samtlige kommunale Udleverings- og Bespisningssteder er \"Dagens Ret\" og Prisen den samme.
+Det henstilles, at Byraadets Bevilling indhentes til:
+Afholdelse af indtil 2500 Kr. som Andel i A/S Aarhus Flæskehals Anskaffelse af Kogekar,
+1600 Kr. til Anskaffelse at Transportspande,
+500 Kr. til Anskaffelse af Opbevaringsbeholdere samt
+100 Kr. til Anskaffelse af Inventar, hvilke Udgifter foreslaas afholdt paa Konto XXVI. A.
+Under Forudsætning af, at foranstaaende Indstilling tiltrædes i Princippet, kan opstilles følgende foreløbige Bespisningsplan for Aarhus Kommune:
+"	1942	10	29
+"141"	1942-10-29	"closed"	"19421029B_155.pdf"	10	"295-1942"	"Folkekøkkenet............ ca. 8000 Portioner
+Kommunehospitalet (fortrinsvis Diætmad.........\"3000\"
+MarselisborgHosp. (fortrinsvis Diætmad)........\"1000\"
+Det offentlige Slagtehus
+(Plum).................\"8000\"
+De gamles Hjem...........\"1000\"
+Arbejdsanstalten.........\"2000\"
+Borgerskolen Ingerslevs
+Boulevard.............. \"2400*
+BorgerskolenFinsensgade\"3600\"
+\" \"Paradisgade 1800\"
+\"Samsøgade\"3000\"
+\"Valdemarsg.\"2400\"
+\"Fjordsgade\"3000\"
+Ved Kommunens Foranstaltning................ ca. 39200 Portioner
+Selvforsynere............\"40000\"
+Funktionærer og Patienter
+paa Hospitaler m. v......\"2000\"
+\" 81200 Portioner
+Restaurationerne......... \"20000\"
+Ialt......... ca. 101200 Portioner
+Det bemærkes, at i foranstaande Opgørelse regnes med fulde Portioner, endskønt det normale Kvantum, 1/2 Liter sammenkogt varm Mad, skønnes passende til at dække en fuldvoksen Persons Behov, hvorfor Sandsynligheden taler for, at det næppe - alt andet uforandret-vil være nødvendigt ved Kommunens Foranstaltning at fremstille saa stort et Antal som 39200 Portioner Mad.
+Kontrakt.
+Mellem Firmaet P. og S. Plum, Aarhus
+"	1942	10	29
+"142"	1942-10-29	"closed"	"19421029B_155.pdf"	11	"295-1942"	"Flæskehal, og Aarhus Kommune træffes følgende Aftale:
+Firmaet forpligter sig til, saafremt Aarhus Kommune etablerer Folkebespisning i Aarhus, daglig at fremstille 8000 Portioner varm Middagsmad å 1/2 Liter.
+Maden vil være at aftage i Tidsrummet Kl. 11-19. Produktionen vil kunne forøges til det dobbelte, dersom Produktionstiden udvides til at omfatte hele Døgnet.
+Firmaet indkøber selv de til Fabrikationen nødvendige Raavarer. Raavarer, der eventuelt ikke kan fremskaffes af Firmaet, anvises af Aarhus Kommune. For rationerede Varers Vedkommende fremskaffes de fornødne Indkøbstilladelser paa Kommunens Foranstaltning.
+Kommunen fastsætter Middagslisterne for en Uge ad Gangen, og Firmaet forpligter sig til nøje at overholde de Ingredienslister og Kvalitetskrav for Madens Sammensætning, som til enhver Tid maatte blive meddelt af Kommunen.
+Raavarerne afregnes med Kommunen efter Priser, der fastsættes bagud hver Maaned efter Aftale mellem Firmaet og Kommunen.
+Firmaet sikres mod Risiko for Tab paa Raavarer, der maatte være indkøbt, men som ikke blev anvendt grundet paa ændret Disposition af Kommunen. Afvikling af en aftalt Produktion kan fra Kommunens Side ske med 8 Dages Varsel, og ovennævnte Dækning for Risiko ved Raavareindkøb gælder derfor ikke Indkøb udover det, der vilde være nødvendigt for dette Tidsrum.
+Transport af Maden fra Fabrik til Udleveringssted er Firmaet uvedkommende, og
+"	1942	10	29
+"143"	1942-10-29	"closed"	"19421029B_155.pdf"	12	"295-1942"	"Kommunen stiller de nødvendige Transportbeholdere til Raadighed.
+Til Dækning af Produktionsomkostninger og Fortjeneste betaler Kommunen   Øre pr. Portion for Mad leveret paa Hvetdage og   Øre pr. Portion for Mad leveret paa Søn-og Helligdage.
+Der skal under en Leveringsperiode være Adgang til, at en befuldmægtiget Repræsentant fra Kommunen naarsomhelst kan foretage behørig Kontrol med Fabrikationen og med Indkøb af Raavarer.
+Udgifterne ved de til Produktionen fornødne Kogekar samt disses Installering deles lige mellem Firmaet og Aarhus Kommune, dog saaledes at Kommunens Anpart højst kan andrage 2500 Kr. Tegninger og Overslag vedrørende Installation og Kogekar maa forelægges Stadsdyrlægen til Godkendelse, forinden videre foretages.
+Aarhus Kommunes Anpart af Udgifierne skal derhos kunne amortiseres med 20 % maanedligt i den Tid, Kogekarrene har været under Anvendelse til Fremstilling af Mad til Folkebespisningen.
+Aftalen er kun bindende, medens Kriseforhold raader, det vil sige saa længe, der i Henhold til Lovbestemmelser er paalagt Aarhus Kommune Forpligtelser med Hensyn til Folkebespisningen.\"
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Det indstilles, at Byraadet i Principet tiltræder foranstaaende Forslag, herunder bevilger de foreslaaede Beløb, ialt 4700 Kr., samt 
+"	1942	10	29
+"144"	1942-10-29	"closed"	"19421029B_155.pdf"	13	"295-1942"	"bemyndiger Budgetudvalget til at ordne de nærmere Detailler, herunder indgaa bindende Overenskomst med A/S. Aarhus Flæskehal.\"
+Borgmesteren anbefalede Forslaget, hvor. efter der i paakommende Tilfælde kunde træffes en Ordning om Folkebespisning.
+Overgik til 2. Behandling.
+"	1942	10	29
+"145"	1942-10-29	"closed"	"19421029B_155.pdf"	13	"348-1942"	"Andragende fra Aarhus By-og Landmejeriers Mælkesalgsforening om, at det med Kommunens Garanti optagne Laan ved Mælkeordningen første Gang maa afdrages med 50000 Kr. i Stedet for som tidligere fastsat 57500 Kr.
+Tiltraadt af Budgetudvalget.
+Borgmesteren oplyste, at der var lagt
+1Øre paa Prisen pr. l til Afdrag af Laanet, men det havde ikke helt kunnet dække dette. Men muligvis vilde det efterhaanden blive mere, saa Laanet alligevel kan tilbagebetales i 10 Aar.
+Indstillingen vedtoges.
+"	1942	10	29
+"146"	1942-10-29	"closed"	"19421029B_155.pdf"	13	"698-1942"	"Indstilling angaaende Magelæg mellem den Maskinarbejder W. Buhmann tilhørende Ejendom Rosensgade 34 og Kommunens Ejendomme Vejlegade 4 og 6.
+Følgende Opgørelse forelaa:
+Rosensgade 34: Pris 175000 Kr. Laan 121578,05 Kr., Rest 53421,95 Kr.
+Vejlegade 4-6: Pris 106000 Kr. Laan 79500 Kr., Rest 26500 Kr.
+Kommunen skal herefter betale til Buhmann 26921,95 Kr.
+Indstillingen vedtoges.
+"	1942	10	29
+"147"	1942-10-29	"closed"	"19421029B_155.pdf"	13	"99_36-1942"	"Andragende fra Boligforeningen \"Ringgaarden\" om Statslaan med 
+"	1942	10	29
+"148"	1942-10-29	"closed"	"19421029B_155.pdf"	14	"99_36-1942"	"Kommunegaranti for et Byggeforetagende ved Kaserneboulevarden. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"149"	1942-10-29	"closed"	"19421029B_155.pdf"	14	"32_4-1942"	"Indstilling fra Socialudvalget om Anbringelse af Edith Viola Larsen i Tvangsarbejdsanstalten Arbejdsafdeling i Aalborg.
+Tiltraadtes.
+"	1942	10	29
+"150"	1942-10-29	"closed"	"19421029B_155.pdf"	14	"895-1942"	"Indstilling angaaende Optagelse af Kreditforeningslaan i Kommunens Beboelseshuse. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"151"	1942-10-29	"closed"	"19421029B_155.pdf"	14	"895-1942"	"Indstilling angaaende Tilbud fra Jydsk Hypotekforening paa Laan i forskellige af Kommunens Beboelsesejendomme.
+Følgende Laanetilbud forelaa:
+Fast aarlig Ydelse Faste Afdrag
+Gerlachsgade 1.. . .10000Kr.10700Kr.
+Gerlachsgade 3...7500\"8000\"
+Gerlachsgade 5....9000\"9600\"
+Gerlachsgade 7....7500\"8000\"
+Gerlachsgade 9.... 9000 \"  9600 \"
+Gerlachsgade 11....7500\"8000\"
+Gerlachsgade 13....11000\"11700\"
+Max Müllersg. 9-1124500\"26000\"
+Max Müllersg 13-1959000\"63000\"
+Max Müllersg 21-2327000\"29000\"
+Max Müllersg 2C16000\"17000\"
+Max Müllersg 47500\"8000\"
+Max Müllersg 67500\"8000\"
+Max Müllersg 87500\"8000\"
+Max Müllersg 109000\"9600\"
+Max Müllersg 127500\"8000\"
+Max Müllersg 147500\"8000\"
+Max Müllersg 167500\"8000\"
+Max Müllersg 1812000\"12800\"
+"	1942	10	29
+"152"	1942-10-29	"closed"	"19421029B_155.pdf"	15	"895-1942"	"Sdr. Ringgade 36-38 22500Kr.24000Kr.
+Sdr. Ringgade 40-46 66000\"70000\"
+Sdr. Ringgade 48-50 30000\"32000\"
+Trepkasgade 5.......... 13000\"13800\"
+Trepkasgade 7 13000\"13800\"
+Trepkasgade 9 13000\"13800\"
+Trepkasgade 11 13000\"13800\"
+Trepkasgade 13 13000\"13800\"
+Trepkasgade 15 13000\"13800\"
+Trepkasgade 14 .9000\"9600\"
+Trepkasgade 16 .8000\"8500\"
+Trepkasgade 22-26 . 35000*37000\"
+Chr. Kiers Plads 2. . 23500\"25000\"
+Chr. Kiers Plads 4..20000\"21500\"
+Chr. Kiers Plads 6..23500\"25000\"
+de Mezas Vej 12.. . 14000\"15000\"
+de Mezas Vej 14...14000\"15000\"
+de Mezas Vej 11... 14000\"15000\"
+de Mezas Vej 13...14000\"15000\"
+de Mezas Vej 15... 14000\"15000\"
+de Mezas Vej 17...14000\"15000\"
+de Mezas Vej 19...14000\"15000\"
+de Mezas Vej 21...18200\"19400\"
+Ingerslevs Boulev. 14 23500\"25000\"
+Ingerslevs Boulev 16 16000\"17000\"
+Ingerslevs Boulev 18 19200\"20400\"
+Ingerslevs Boulev 20 19200\"20400\"
+Ingerslevs Boulev 22 19200 \"20400 \"
+Ingerslevs Boulev 24 23500 \"25000 \"
+Vejlegade 4............ 13000\"14000\"
+ Vejlegade 6.......... 12000\"12700\"
+Vejlegade 8.......... 12000\"12700\"
+Vejlegade 10.......... 16000\"17000\"
+Vejlegade 12.......... 30000\"32000\"
+Harald Jensens PI. 1A 33000\"35000\"
+Steinmannsgade 1 . . 10000\"10700\"
+"	1942	10	29
+"153"	1942-10-29	"closed"	"19421029B_155.pdf"	16	"895-1942"	"Læssøesgade 75. . ..7500Kr.8000Kr.
+Læssøesgade 77... .8000\"8500\"
+Læssøesgade 83-85....23500\"25000\"
+Beboelsesejendomme
+paa Frederiksbjerg 971300Kr.1034600Kr.
+P. M.MøllersVej1-3939500Kr.42000Kr.
+P. M.MøllersVej 41-6527000\"29000\"
+P. M.MøllersVej 67-7712000\"12800\"
+P. M.MøllersVej 79-95 18000 \"19000 \"
+Rækkehusene paa P. M.
+Møllers Vej............ 96500 Kr. 102800 Kr.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Det indstilles, at de tilbudte Laan i Hypotekforeningens 7. Afdeling til 4 1/2 % Rente med faste Afdrag accepteres, dog saaledes, at Spørgsrnaalet om Prioritering af Ejendommene ved Poul Martin Møllers Vej med Hypotekforeningslaanudskydesindtilvidere, ogat der, forsaavidt angaar Ejendommene Vejlegade 4-6 - jfr. herved Sagen om Magelæg mellem Rosensgade 34 og de nævnte Ejendomme
+-først forhandles med Maskinarbejder Buhmann om, hvilke Laan han ønsker accepteret i de nævnte Ejendomme.
+Det indstilles endvidere, at Borgmesteren bemyndiges til paa Byraadets Vegne at underskrive de Pantebreve, der skal udfærdiges for Laanene, samt de Dokumenter, der iøvrigt skal udfærdiges.\"
+Overgik til 2. Behandling.
+"	1942	10	29
+"154"	1942-10-29	"closed"	"19421029B_155.pdf"	16	"980-1942"	"Forslag om Salg af visse af Kommunens Beboelsesejendomme.
+"	1942	10	29
+"155"	1942-10-29	"closed"	"19421029B_155.pdf"	17	"980-1942"	"Borgmesteren forelagde Sagen. Det havde flere Gange været nævnt i Byraadet, at Kommunens Økonomi var anspændt, og bl. a. havde Taleren paavist, at Udgiften til Renter og Afdrag samt Socialudgifterne vilde blive større Beløb, end der kom ind i Skat. Byraadet havde derfor været enigt om i den kommende Tid at gaa lidt langsomt frem og ikke optage større Laan, men derimod forsøge at afhænde Kommunens Beboelsesejendomme. Taleren havde gennem Økonomidirektøren ladet foretage forskellige Undersøgelser og vilde nu foreslaa at sælge en Del af Ejendommene, nemlig Karréen mellem Ingerslevs Boulevard, de Mezas Vej og Vejlegade, samt Steinmannsgade 1, der laa isoleret. Ejendommene var averteret til Salg, og Tilbudene laa for nogle af dem højere end Ejendomsskylden, i Gennemsnit 2,34 %. Taleren fremsatte for saa vidt Forslaget paa egen Regning, og der havde ikke i Flertalsgruppen været udelt Tilslutning dertil, idet flere mente, at det var forkert at sælge Ejendommene til privat Spekulation, og hvis de skulde sælges, burde det være til Arbejdernes Andelsboligforening eller et Datterselskab af denne, der saa skal forrente og afdrage Restgælden til Kommunen. Gruppen var dog gaaet med til at sælge de foreslaaede Ejendomme under Forudsætning af, at Arbejdernes Andelsboligforening overtager Resten. Taleren havde i Budgetudvalget gjort opmærksom paa de Vanskeligheder, der var til Stede i Gruppen, og havde saa anmodet Landsretssagfører Sørensen om at sammenkalde den konservative Gruppe til Drøftelse af Sagen og se, om der muligvis kunde blive Enighed om et Standpunkt. Taleren fik derefter Besøg af d’Hrr. I. C. Sørensen, 
+"	1942	10	29
+"156"	1942-10-29	"closed"	"19421029B_155.pdf"	18	"980-1942"	"Ejner Mikkelsen og Blicher for at drøfte Spørgsmaalet. Der blev gjort gældende, at man ved Salg til private kunde opnaa mere end Ejendomsskylden, og at man ikke kunde tænke sig, at Boligforeningen vilde overtage Ejendommene til mere end Ejendomsskylden. Men Foreningen havde erklæret sig villig til at give samme procentvise Overbud, som forelaa for de andre Ejendomme, nemlig 2,34 %. Der blev saa forespurgt, om Boligforeningen eventuelt vilde nøjes med at administrere Ejendommene for Kommunen; men det havde Foreningen ingen Interesse i. Saa spurgtes der, om Boligforeningen vilde købe Ejendommene, eventuelt for Ejendomsskylden. Men det mente Foreningen ikke, for selv om der var 90 % Chance for, at det kunde løbe rundt, var der 10% Chance for Tab, og Boligforeningen vilde ikke drive Spekulation. Endelig blev der spurgt, om Boligforeningen vilde understrege lidt stærkere, at Byraadet faar den absolutte Indflydelse paa, hvornaar Foreningen skal bygge, og det havde Foreningen intet imod, ligesom den ogsaa gav Tilsagn om, at de Penge, der eventuelt kunde opspares i Ejendommene, ikke skulde blive udlaant til Arbejdernes Andelsboligforening. Den konservative Gruppe havde derefter paa ny drøftet Sagen og stillet et Slags Ultimatum. Det første Punkt gik ud paa, at alle Ejendommene skulde sælges til private; men det sagde Taleren bestemt nej til, da Gruppen ikke vilde gaa med dertil. Dernæst at man kunde sælge de Ejendomme til Boligforeningen, som ikke var udbudt; men det var Foreningen ikke interesseret i. Endelig kunde man tænke sig at overdrage alle Ejendommene til et neutralt Boligselskab, der skulde administreres af 2 Mand fra Arbejdernes
+"	1942	10	29
+"157"	1942-10-29	"closed"	"19421029B_155.pdf"	19	"980-1942"	"Andelsboligforening, 2 fra Aarhus Haandværker-forening og 2 fra Byraadet. Men det fandt Taleren var en daarlig Ordning, da det vilde være uholdbart for Foreningen at administrere Ejendommene, naar dens Repræsentanter var i Mindretal. Taleren kunde altsaa ikke strække sig videre i Forhandlingerne, idet man fra socialdemokratisk Side stadig havde den Opfattelse, at Kommunen maa have nogen Indflydelse paa Byggeriet og Boligpriserne og derfor ikke kunde overlade til Privatkapitalismen at udnytte Ejendommene. Taleren foreslog altsaa, at man sælger Karréen ved Ingerslevs Boulevard samt Ejendommen Steinmanns-gade 1 for de højeste afgivne Bud, og at de øvrige kommunale Ejendomme paa Frederiksbjerg overdrages til en af Aarhus Kommune og Arbejdernes Andelsboligforening oprettet Institution. Kommunen optager 1. og 2. Prioritetslaan i Ejendommene, Resten af Kapitalen bliver indestaaende og forrentes med 4 1/2 % til Aarhus Kommune, og Overskudet afdrages paa den Restgæld, som Boligforeningen skylder Kommunen. Naar Summen var afdraget, og der var kommet Penge ind eventuelt ved yderligere Afdrag eller ved Omprioritering af Ejendommene, havde Boligselskabet den Opgave at bygge igen, men Aarhus Byraad havde Vetoret i Spørgsmaalet om, hvornaar der skal bygges. Ingen havde Interesse i at gaa i Gang med Byggeri, saa længe private vil bygge; men hvis Forholdene blev saaledes, at private ikke vil bygge, maatte Boligforeningen tage fat der-paa. Det var en stor Fordel for Kommunen at sikre sig paa den Maade, og det var forøvrigt ikke noget nyt, idet Frederiksberg Kommune i 1930 solgte alle sine Ejendomme til Københavns almindelige Boligselskab og til 2,3 Mill. Kr. under
+"	1942	10	29
+"158"	1942-10-29	"closed"	"19421029B_155.pdf"	20	"980-1942"	"Ejendomsskylden uden derved at faa særlig Indflydelse paa det fremtidige Boligbyggeri, kun en vis Indlæggelsesret i de ledige Lejligheder; men denne Ret udløb efter nogle Aars Forløb, og Kommunen maatte da optage Forhandlinger om at bibeholde den. I Sammenligning dermed havde Aarhus Kommune opnaaet en ganske god Ordning, idet man havde sikret sig en Ret overfor Boligselskabet og samtidig fik en Del Penge udbetalt, selv om ikke saa mange som ved Salg til private, hvor der krævedes udbetalt 15 %, men man fik en Forrentning paa 4 1/2 % af de Penge, der stod i Ejendommene, og hvor meget der vilde blive tilovers til Afdrag, kunde ingen vide; det kom an paa, om Boligforeningen kunde administrere billigere end Kommunen. Hidtil havde Ejendommene givet knap 4 % i Rente og intet til Afdrag; men efter det Kendskab, man havde til Foreningens Administration, var der næppe Tvivl om, at Kommunen efterhaanden vilde faa sine Penge ind. Nogen større Gevinst vilde det vel ikke blive, men Kommunen burde holde sig fra Spekulation og Børsspil, og ved den foreslaaede Ordning undgik man Risiko for yderligere Tab. Taleren vilde altsaa anbefale den foreslaaede Ordning.
+I. C. Sørensen kunde paa sin Gruppes Vegne tiltræde, at Kommunen sælger Karréen ved Ingerslevs Boulevard og Ejendommen Stein-mannsgade, idet den økonomiske Situation for Tiden var saaledes, at det vist var klogt at faa sin Gæld bragt ned. Man havde gennem Aarene haft stort Besvær med at administrere disse Ejendomme, og selv om det var gode og sunde Boliger, var de ikke mere helt moderne; det var derfor klogt at skille sig af med dem, naar man
+"	1942	10	29
+"159"	1942-10-29	"closed"	"19421029B_155.pdf"	21	"980-1942"	"nu kunde faa en ganske god Pris for dem. Med Hensyn til Spørgsmaalet om Lejeforhøjelse, saa fandtes der i Boliglovgivningen tilstrækkelig Regulator for Huslejen, ogsaa ved private Ejendomme. Der var ogsaa i Talerens Gruppe Enighed om at gøre Skridtet fuldtud og sælge ogsaa de øvrige Ejendomme, og Gruppen kunde ogsaa gaa med til, at de bliver solgt til Arbejdernes Andelsboligforening; denne Forening havde selvfølgelig lige saa god Ret til at byde paa Ejendommene som andre Købere; men det burde saa være rent Salg, hvilket ogsaa var bedst for Kommunens Økonomi. Hvis man vedtog Borgmesterens Forslag, og Kronen maaske vilde falde til det halve, vilde Foreningen faa en stor Fordel ved at overtage Ejendommene, og skulde Kronen stige, fik Kommunen intet ud af sine Værdier i disse Ejendomme, men alt vilde være tabt. Det var dette saglige Argument, som Gruppen havde svært ved at sætte sig udover. Gruppens Stilling var altsaa, at Arbejdernes Andelsboligforening skal købe Ejendommene, og man kunde ogsaa gaa saa vidt, at man ikke ser paa Udbetalingens Størrelse, blot at det bliver rent Salg, der finder Sted, ligesom Salget til private. Man kunde ikke se andet, end at det efter Borgmesterens Forslag vilde blive en meget stor Gave til denne Forening; man erkendte, at den var udmærket ledet, men den repræsenterede alligevel kun en Del af Byens Befolkning og havde derfor et ret snævert Præg. Skulde man gaa med til en Ordning efter Borgmesterens Forslag, burde det være en Forening med en bredere Basis, en Aarhus-Boligforening og ikke en Klasseforening. Man havde gennem mange Aar haft en særlig Form for Boligbyggeri i Aarhus, hvor Kommunen
+"	1942	10	29
+"160"	1942-10-29	"closed"	"19421029B_155.pdf"	22	"980-1942"	"havde haft meget stor Hjælp af de private Haand-værksmestres Dygtighed og Initiativ, og Aarhus Haandværkerstand havde sin store Andel i, at Aarhus er blevet en stor og velbygget By; derfor burde man nu ikke favorisere en enkelt Institution paa Bekostning af de mange, der havde været med til at gøre Dagens Arbejde gennem Aarene. Af disse Grunde kunde Gruppen med Glæde tiltræde den første Del af Borgmesterens Forslag, men derimod ikke den anden Del.
+Kai Blicher udtalte, at ingen kunde vide, om det for Tiden var klogt eller uklogt at købe eller sælge Ejendomme, for ingen vidste, om de vilde stige eller falde i Pris. Hvis man havde kontante Penge og ingen Gæld, vilde det være klogt at anbringe Pengene i faste Værdier, men hvis man ikke havde kontante Penge og en stor Gæld, var det klogt at sælge af de faste Værdier og reducere Gælden. Hvis Kronen vilde staa højt efter Krigen, vilde man antagelig faa et højt Renteniveau, og Indtægterne vilde blive skaaret ned, hvorved det blev meget vanskeligt for Kommuner med en stor Gæld at klare Renter og Afdrag, og det vilde være katastrofalt at optage nye Laan. Kommunen burde som alle andre indstille sig paa at tage Tiden, som den kommer, og selv om en Kommune burde have mange faste Værdier og vel ogsaa en Del Gæld, var Tiden utvivlsomt nu inde til at realisere de Værdier, som den ikke nødvendigvis selv maa ligge med. Skulde Kronen falde i Værdi, havde Kommunen tilstrækkelig mange faste Værdier, og Gældsbyrden blev lettere at bære. Det var uforsvarligt af Byraadet kun at spille paa den ene Streng og indrette sine Dispositioner derefter. Borgmesteren sagde før, at Kommunen ikke skal
+"	1942	10	29
+"161"	1942-10-29	"closed"	"19421029B_155.pdf"	23	"980-1942"	"spiile paa Børsen. Men naar man ikke solgte Ejendommene, spillede man paa den Streng, at Kronen vil falde, og det var interessant at høre Boligforeningens Udtalelse om, at der var 90 % Udsigt til en god Forretning, men man vilde ikke løbe 10 % Risiko for Tab. Det vilde altsaa sige, at Boligforeningen overtager Ejendommene og stryger Gevinsten, men Kommunen bærer Tabet. Man havde spurgt, om Boligforeningen vil være indforstaaet med, at et eventuelt Overskud tilfalder Kommunen; men det sagde man nej til; de ønskede at skabe sig en Kapital i dette Datterselskab paa Aarhus Kommunes Bekostning. Der var Folk, som godt vilde lave et Aktieselskab til Overtagelse af Ejendommene og betale Rente af de Penge, som Kommunen har indestaaende i Ejendommene, samt indbetale Overskudet i Kommunens Kasse. Det var en reel Foranstaltning, der langt burde foretrækkes fremfor det af Borgmesteren skitserede Forslag.
+K. Mousten syntes ikke, man kunde kalde det en Gave eller en stor Gevinst til Arbejdernes Andelsboligforening, hvis den fik Ejendommene overdraget. Naar man solgte til private, havde disse Mulighed for en Fortjeneste, men det havde Boligforeningen ikke; den skulde bruge Pengene til at bygge for, og hvis den kunde bygge saaledes, at man kan faa en rimelig Husleje vilde det være en Fordel for Byens Beboere. Naar Talerens Gruppe ønskede, at Ejendommene skal overdrages til Boligforeningen eller et Datterselskab af denne, saa var det, fordi Kommunen fik en Fordel, nemlig Ret til at belægge en Del af Lejlighederne, hvis der blev Bolignød, og denne Ret fik man ikke ved at sælge til private. Det var ogsaa tvivlsomt, om man kunde faa saa gode
+"	1942	10	29
+"162"	1942-10-29	"closed"	"19421029B_155.pdf"	24	"980-1942"	"Bud paa de øvrige Ejendomme som paa Karréen ved Ingerslevs Boulevard. Taleren vilde anbefale at slutte sig til Borgmesterens Forslag.
+Kai Blicher erkendte, at Fortjenesten for Foreningen ikke var Penge, som kunde spises op; men de kunde sættes til Side som en Kapital, og det kunde Boligforeningen udmærket gøre.
+S. F. Sørensen kunde ikke følge sine Partifæller og stemme for dette Forslag. Der var næppe Tvivl om, at der var en vis Forretning ved at have disse Ejendomme til Ejendomsskyldsværdien; det havde de forskellige Talere ogsaa erkendt. De havde naturligvis ogsaa konstateret, at der hidtil havde været Underskud ved Driften af Ejendommene. Det skyldtes dog nærmest den Maade, Regnskabet var opstillet paa; men det skulde Taleren ikke komme nærmere ind paa. Man havde nu byttet 2 Ejendomme bort, betalt 27000 Kr. i Bytte og faaet en Ejendom, der giver 150 Kr. i Overskud, saa der maatte være Forretning i nogle af Ejendommene. Landsretssagfører Sørensens Udtalelse om de dygtige Haandværksmestre i Aarhus var selvfølgelig rigtig; men man manglede en Ordning, hvorefter de skulde bygge, naar der var rigtig Trang for Boliger. Taleren havde opdaget, at de dygtige Haandværksmestre i Aarhus byggede Huse, naar der var nogen Forretning derved og en lille Risiko. Hvis Risikoen var for stor, maatte Kommunen bygge, og ogsaa under de nuværende Forhold havde den store dygtige Byggehaandværkerstand holdt sig beskedent tilbage. Det kunde maaske ikke bebrejdes dem, men man burde sørge for i Fremtiden at faa en Ordning, saa man er Herre over Grundene omkring i Byen, saa man ikke blot lader de dygtige Haandværksmestre bygge, naar der
+"	1942	10	29
+"163"	1942-10-29	"closed"	"19421029B_155.pdf"	25	"980-1942"	"er Forretning deri, og lader dem ligge stille, hvis der er en vis Risiko derved.
+E. Rolander havde aldrig været Tilhænger af at sælge Kommunens Ejendomme. Det var rart for en Kommune at ligge med nogle gode Værdier, og Kommunens Ejendomme havde ikke givet saa stort Underskud, som der stod paa Papiret; Administrationen kunde godt blive saaledes, at der blev Balance. Men hvis det blev nødvendigt at sælge Ejendommene, vilde Taleren bøje sig derfor og gaa med til en Overdragelse til Arbejdernes Andelsboligforening.
+Ejner Mikkelsen havde haabet, at der kunde blive Enighed om Sagen, og det Forslag, der forelaa fra konservativ Side, var i Virkeligheden analogt med det, som Borgmesteren forelagde. Der var blot den Forskel, at Borgmesterens Forslag favoriserede en enkelt Boligforening, og der fandtes dog to andre anerkendte Boligforeninger i Byen. De Konservatives Forslag gik ud paa, at der oprettes et særligt Boligselskab til at administrere Ejendommene, og man strækker sig saa vidt, at Ledelsen kommer til at bestaa af 2 Mand fra Byraadet, 2 fra Arbejdernes Andelsboligforening samt 2 dygtige Fagfolk paa dette Omraade. Derved vilde man undgaa at favorisere en enkelt Boligforening, og samtidig slap man for at sælge det hele.
+E. Winterberg fandt det trist, at der ikke kunde blive Enighed om dette Spørgsmaal. De Konservative havde Gang paa Gang krævet, at Kommunens Ejendomme skulde sælges; nu havde Flertallet bragt et stort Offer og var egentlig imod sine Principper gaaet med til at afstaa Ejendommene, og saa var det endda ikke tilstrækkeligt for de Konservative. Hvis det blot
+"	1942	10	29
+"164"	1942-10-29	"closed"	"19421029B_155.pdf"	26	"980-1942"	"drejede sig om at skaffe Penge, kunde man nøjes med at belaane Ejendommene, og ved at lægge Administrationen noget om, kunde de nok drives med Overskud; hvorfor skulde man saa sælge dem til den ene eller den anden Institution? Men ved sidste Budgetbehandling fremsatte de Konservative et Ønske om Salg, og det havde sikkert været gentaget i Budgetudvalget; af den Grund var Flertallet gaaet med til at afstaa Ejendommene. De Konservative skulde betænke, at det var et stort Offer, der blev bragt fra Flertallets Side for Samarbejdets Skyld, og de burde ikke stille sig saa kontrært, naar Flertallet havde strakt sig saa vidt.
+Hans Madsen kunde slutte sig til Landsretssagfører Sørensens Udtalelse om Haandværkerstanden i Aarhus; men man maatte heller ikke glemme, at da det kneb med at faa bygget, maatte Kommunen træde til, og dernæst og ikke mindst Arbejdernes Andelsboligforening. Det var faktisk denne Boligforening, som havde hjulpet Byen, naar det kneb mest, og den private Kapital ikke turde sætte ind. Var dette ikke sket, havde Aarhns Kommune i Dag haft betydelig flere Ejendomme. Taleren var ikke Modstander af, at man skiller sig af med Ejendommene, men kunde godt tænke sig, at man overdrager dem alle til Arbejdernes Andelsboligforening, dels fordi den havde taget Initiativet til at bygge, da det kneb, dels fordi det var en meget anerkendt Institution. Men naar Borgmesteren holdt paa, at den store Karré ved Ingerslevs Boulevard skulde sælges til private, var det for at opnaa Imødenkommenhed fra konservativ Side, og havde man vidst, de vilde stille sig saaledes, havde vist en Del af Flertalsgruppen taget et andet
+"	1942	10	29
+"165"	1942-10-29	"closed"	"19421029B_155.pdf"	27	"980-1942"	"Standpunkt. Hr. Blichers Standpunkt kunde man jo nok tænke sig, naar det drejede sig om Arbejdersammenslutninger og Andelsforeninger, og han havde vel saa faaet Gruppen med. Man maatte dog ikke glemme, at Aarhus for en stor Del er en Arbejderby, og Arbejderne vilde sikkert undre sig, hvis alle Ejendommene skulde udbydes til private.
+Kai Blicher hævdede, at Betingelsen for at sælge denne Karré til private var, at der skal uddeles en Gave til Arbejdernes Andelsboligforening, nemlig den store Chance, der laa i at faa overdraget for 4 Mill. Kr. Ejendomme, hvor man kan indkassere Gevinsten, men ikke skal bære Tabet. Det var et stift Stykke, at Aarhus Kommune skal gaa med dertil, og det maatte man af al Kraft sætte sig imod.
+J. R. Fanger paaviste, at de kommunale Ejendomme gennem Aarene havde givet et Underskud paa 4 Mill. Kr., og et Overskud kunde man sikkert aldrig vente. Det var klogt, at man havde ventet med at sælge Ejendommene indtil nu; men nu var det rette Tidspunkt inde til at sælge, og det var sikkert en Overraskelse for alle, at der kom saa gode Tilbud, at flere endog laa over Ejendomsskylden. Man burde ogsaa sælge de øvrige, som var udbudt, til private, ellers skulde man ikke have ulejliget dem med at give Tilbud. Kommunen havde Masser af Ejendomme at administrere, selv om man solgte disse, f. Eks. Aldersrenteboligerne. Naar den konservative Gruppe gik med til at sælge alle Ejendommene, eventuelt ogsaa en Del af dem til Boligforeningen, kunde det ikke siges, at man lagde sig paa tværs af Sagen; men Borgmesterens Forslag kunde man ikke gaa med til.
+"	1942	10	29
+"166"	1942-10-29	"closed"	"19421029B_155.pdf"	28	"980-1942"	"S.F. Sørensen vidste ikke. om Hr. Fangers Tal paa 4 Mill. Kr. Underskud var rigtigt, men Taleren havde egentlig ventet, at det var mere, for naar Kommunen skal bygge i daarlige Tider, hvor Haandværksmestrene ikke vil og tør tage Risikoen, saa vi! Byggeriet selvfølgelig give Underskud. Efter Borgmesterens Forslag kunde der aldrig blive nogen Gave til Arbejdernes Andelsboligforening; men forøvrigt var Taleren imod Forslaget.
+J. R. Fanger havde regnet med Ejendomsskylden, saa var det ligegyldigt, hvad Opførelsessummen havde været.
+Borgmesteren havde allerede i Budgetudvalget gjort en Tribut til de Konservative ved at gaa med til at sælge en Del af Ejendommene til private, og man fik dengang det Indtryk, at de Konservative gik med til at afstaa Resten til Boligforeningen, men det havde altsaa ikke været Tilfældet. Maaske var det Hr. Blicher, som var den stærke Mand i denne Situation, men det maatte de Konservative jo selv om. Naar det blev sagt, at man skal hellere sælge det hele til Boligforeningen, saa kunde det ikke lade sig gøre, for Foreningen vilde ikke købe for ikke at komme ud i Spekulation. Der kunde aldrig blive Tale om nogen Gevinst til Boligforeningen, men blot en Boligreserve til nyt Byggeri i en Tid, som Byraadet kan bestemme, naar der er Behov derfor; det var altsaa Kommunen, som raadede over den Formue, der eventuelt vilde blive. Skulde det gaa den anden Vej, vil Selskabet ikke paatage sig at betale noget, og hvis man solgte til en nyoprettet Forening, som ikke var \"klassepræget,\" vilde det formentlig blive det samme, for den kunde heller ikke betale,
+"	1942	10	29
+"167"	1942-10-29	"closed"	"19421029B_155.pdf"	29	"980-1942"	"hvis det gik den anden Vej. Forøvrigt var Arbejdernes Andelsboligforening ikke nogen Klasseforening, og der boede Folk af alle Klasser i dens Huse, endog Haandværksmestre. Hr. Blicher var ikke Kommunalpolitiker, men alt muligt andet, specielt Handelsmand, og Taleren skulde ikke komme nærmere ind paa hans Paastand om den store Gave til Andelsboligforeningen. Naar Hr. Ejner Mikkelsen nævnte, at der var flere Boligforeninger i Byen, saa var det rigtigt, men Kommunen havde ogsaa flere Ejendomme at sælge, f. Eks. ved Poul Martin Møllers Vej, og maaske kom der en Dag en anden Boligforening, som var Liebhaver til disse. Men det var ingen Fordel at oprette en helt ny Boligforening, og der var ingen Garanti for, hvorledes den vilde arbejde. Naar det var god Latin i Frederiksberg Kommune at sælge Ejendomme til et Boligselskab, maatte det ogsaa være det i Aarhus.
+Borgmesterens Forslag vedtoges med 10 Stemmer mod 8.
+"	1942	10	29
+"168"	1942-10-29	"open"	"19421029_159.pdf"	1	"no related record"	"Mødet den 29. Oktober 1942.
+Fraværende: Thomas Christensen og Sigvald Nielsen.
+"	1942	10	29
+"169"	1942-10-29	"open"	"19421029_159.pdf"	1	"22-1942"	"Skrivelse fra Indenrigsministeriet angaaende det Omfang, i hvilket de af Byraadet vedtagne Begunstigelser til Fremme af det private Boligbyggeri kan godkendes.
+Borgmesteren erindrede om, at Byraadet tidligere havde givet visse Lempelser for privat Byggeri, nemlig Afdragshenstand paa 10 Aar og Rentefrihed paa 5 Aar. Endvidere havde man for en Tid siden vedtaget en Ordning, hvorefter Kommunens Grunde skulde nedskrives i Forhold til de Svingninger, som Pristallene viste. Dette Forslag havde Ministeriet ikke kunnet godkende. Imidlertid havde man paa Langenæsarealet ved Bygrænsen faaet et større privat Byggeri i Gang af Gasmester Johansen o. fl., som opførte forholdsvis billige Ejendomme, og man havde regnet med, at de foreslaaede Lempelser vilde blive godkendt af Ministeriet. Der var nu rettet Henvendelse til Ministeriet om at ændre Standpunkt for denne Karrés Vedkommende, idet Bygherrerne havde regnet dermed, ogsaa for de øvrige Grunde i Karréen. Ministeriet havde derefter
+"	1942	10	29
+"170"	1942-10-29	"open"	"19421029_159.pdf"	2	"22-1942"	"givet Tilsagn om, at Lempelserne maa omfatte Ejendommene i den nævnte Karré, men at det ikke i Fremtiden kan ventes godkendt. Man maatte altsaa indrette sig paa, at denne Form ikke mere kunde anvendes.
+Toges til Efterretning.
+"	1942	10	29
+"171"	1942-10-29	"open"	"19421029_159.pdf"	2	"831-1942"	"Indenrigsministeriets Godkendelse af Køb af Ejendommen Aadal i Viby.
+Toges til Efterretning.
+"	1942	10	29
+"172"	1942-10-29	"open"	"19421029_159.pdf"	2	"11_17-1942 og 11_13-1942"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a. (J. Nr. 11_17-1942). Det sociale Boligbyggeri.
+b. (J. Nr. 11_13-1942). Viggo Pedersen.
+Toges til Efterretning.
+"	1942	10	29
+"173"	1942-10-29	"open"	"19421029_159.pdf"	2	"416-1942"	"Indenrigsministeriets Afgørelse af Spørgsmaalet om den i Henhold til Vejvedtægtens § 27 nedsatte Vurderingskommissions Kompetence.
+Toges til Efterretning.
+"	1942	10	29
+"174"	1942-10-29	"open"	"19421029_159.pdf"	2	"6_1-1942"	"Indenrigsministeriets Godkendelse af Udgiften til Indretning af midlertidige Munderingskamre i Tagetagen paa Langelandsgades Kaserne.
+Borgmesteren antog, det vilde falde bort, da Militæret skulde sendes herfra.
+Toges til Efterretning.
+"	1942	10	29
+"175"	1942-10-29	"open"	"19421029_159.pdf"	2	"99_16-1942"	"Meddelelse fra Indenrigsministeriet om Bevilling af Statslaan til H. C. Bagger Cordt til Opførelse af et Parcelhus.
+Toges til Efterretning.
+"	1942	10	29
+"176"	1942-10-29	"open"	"19421029_159.pdf"	2	"55-1942"	"Meddelelse fra Arbejds- og Socialministeriet om Bevilling af Tilskud i Henhold til Beskæftigelsesloven til Kystsikringsarbejde Syd for Aarhus.
+Toges til Efterretning.
+"	1942	10	29
+"177"	1942-10-29	"open"	"19421029_159.pdf"	2	"414-1942"	"Indenrigsministeriets Godkendelse 
+"	1942	10	29
+"178"	1942-10-29	"open"	"19421029_159.pdf"	3	"414-1942"	"kendelse af Reglement for den kommunale Hjemmesygepleje i Aarhus.
+Toges til Efterretning.
+"	1942	10	29
+"179"	1942-10-29	"open"	"19421029_159.pdf"	3	"41_8-1942"	"Indstilling om, at det som Beskæftigelsesarbejde godkendte Jordarbejde bag Frichs Fabrikker stilles i Bero indtil videre.
+Fra Vejteknisk Udvalg forelaa Forespørgsel om, hvorvidt Arbejdet bør sættes i Gang, idet Statstilskudet var reduceret saa meget, at Kommunens Udgift til Arbejdet vil stige fra 25000 Kr. til 34000 Kr.
+Budgetudvalget indstiller, at Arbejdet stilles i Bero, indtil den overvejende Del af det Anlægsprogram, som Kommunen for Tiden har løbende, er bragt til Udførelse.
+Vedtaget ved Cirkulation.
+"	1942	10	29
+"180"	1942-10-29	"open"	"19421029_159.pdf"	3	"892-1942"	"Indstilling om Bevilling til Anskaffelse af Kontormaskiner til Socialkontoret.
+-2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"181"	1942-10-29	"open"	"19421029_159.pdf"	3	"844-1942"	"Indstilling om Bevilling til Indretning af Kontor for Hospitalsdirektøren. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"182"	1942-10-29	"open"	"19421029_159.pdf"	3	"922-1942"	"Indstilling angaaende Bevilling til Befæstelse af Børnehjemmet \"Børnely\"s Gaardsplads. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"183"	1942-10-29	"open"	"19421029_159.pdf"	3	"923-1942"	"Indstilling om Bevilling til Istandsættelse af Eddikebrykkeriets Lokaler i Mejlgade 59. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"184"	1942-10-29	"open"	"19421029_159.pdf"	3	"807-1942"	"Indstilling om Bevilling til Indretning af Kontor i Kapelbygningen paa Vestre Kirkegaard. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"185"	1942-10-29	"open"	"19421029_159.pdf"	4	"234-1942"	"Indstilling om Forhøjelse af Bevillingen til Aldersrenteboligerne i vestre Bydel. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"186"	1942-10-29	"open"	"19421029_159.pdf"	4	"924-1942"	"Indstilling om Bevilling til Anlæg af Eskimovej. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"187"	1942-10-29	"open"	"19421029_159.pdf"	4	"115_4-1942"	"Indstilling om Udvidelse af Bevillingen til Universitetets Hovedbygning. - 2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"188"	1942-10-29	"open"	"19421029_159.pdf"	4	"925-1942"	"Indstilling om Overførsel af et Beløb fra Fonden til Gravsteders Vedligeholdelse til Begravelsesvæsenets Driftskonto.
+-2. Behandling.
+Indstillingen vedtoges.
+"	1942	10	29
+"189"	1942-10-29	"open"	"19421029_159.pdf"	4	"837-1942"	"Andragende fra L. A. B. om Tilskud til Oprettelse af en Reparationsvirksomhed for Møbler, Sengetøj o. 1.
+Anbefalet af Budgetudvalget saaledes, at der hertil bevilges indtil 6000 Kr., der optages som Tillægsbevilling til Konto 25 i Budgettet for indeværende Aar.
+Borgmesteren bemærkede, at de 6000 Kr var et lidt vilkaarligt Tal, og det var ikke givet, at Bevillinden blev nødvendig, idet Statstilskudet til Arbejdsløn maaske var tilstrækkeligt til Indretning og Drift.
+Overgik til 2. Behandling.
+"	1942	10	29
+"190"	1942-10-29	"open"	"19421029_159.pdf"	4	"919-1942"	"Andragende fra Dansk Ungdomssamvirke om Tilskud.
+Budgetudvalget indstiller at bevilge 1000 Kr., idet Beløbet optages som Tillægsbevilling til Konto 25 i Budgettet for indeværende Aar.
+Overgik til 2. Behandling.
+"	1942	10	29
+"191"	1942-10-29	"open"	"19421029_159.pdf"	5	"846-1942"	"Andragende fra Arbejdsteknisk Skole om Tilskud.
+Anbefalet af Budgetudvalget saaledes, at der ydes et Driftstilskud paa 3400 Kr. for Undervisningsaaret 1942-43, idet Beløbet optages som Tillægsbevilling til Konto 25 i Budgettet for indeværende Aar.
+Overgik til 2. Behandling.
+"	1942	10	29
+"192"	1942-10-29	"open"	"19421029_159.pdf"	5	"910-1942"	"Andragende fra Lærerforeningerne om Tilskud til Aarskursus for Lærere i Aarhus.
+Anbefalet af Skoleudvalget.
+Tiltraadt af Budgetudvalget saaledes, at Beløbet, 2300 Kr., optages som Tillægsbevilling til Konto 15 i Budgettet for indeværende Aar, idet det henstilles til Skoleudvalget, at saadanne Bevillinger optages i de aarlige Budgetforslag.
+Overgik til 2. Behandling.
+"	1942	10	29
+"193"	1942-10-29	"open"	"19421029_159.pdf"	5	"889-1942"	"Andragende fra Landsforeningen af kronisk syge om Tilskud til Juletræsfest.
+Budgetudvalget kan ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1942	10	29
+"194"	1942-10-29	"open"	"19421029_159.pdf"	5	"885-1942"	"Indstilling fra Socialudvalget om Bevilling paa 1650 Kr. ti! Anskaffelse af et Kortbølgeapparat til Forsørgelsesvæsenets Afdeling paa Kommunehospitalet.
+Budgetudvalget foreslaar, at Spørgsmaalet udskydes til den kommende Budgetforhandling.
+Chr. Nielsen oplyste, at Lægen ved Afdelingen meget stærkt havde anbefalet at anskaffe et saadant, idet det drejede sig om daarlige, særlig gigtsvage Patienter. Taleren vilde henstille, at man faar Tilladelse til at anskaffe Apperatet nu og saa optage Beløbet paa
+"	1942	10	29
+"195"	1942-10-29	"open"	"19421029_159.pdf"	6	"885-1942"	"næste Aars Budget. Det var et brugt Apparat, der kunde købes for 1650 Kr., og hvis man ventede til næste Aar, vilde det blive betydelig dyrere.
+I.C. Sørensen kunde for saa vidt gaa med dertil, naar det kom paa næste Aars Budget; men man burde se at komme bort fra de mange Bevillinger i Aarets Løb.
+Borgmesteren forstod Forslaget saaledes, at Apparatet købes nu og betales paa næste Aars Budget.
+Chr. Nielsens Forslag vedtoges.
+"	1942	10	29
+"196"	1942-10-29	"open"	"19421029_159.pdf"	6	"900-1942"	"Andragende fra Foreningen \"Jydske Symfonikere\" om Byraadets Støtte til Foreningens Bestræbelser for at komme i Betragtning ved Socialministeriets Bevillinger af Tilskud til Afholdelse af Skolekoncerter.
+Anbefalet af Skoleudvalget, for saa vidt eventuelle Skolekoncerter kan afholdes udenfor Skoletiden og uden Udgift for Skolevæsenet.
+Anbefalet af Budgetudvalget i Henhold til Skoleudvalgets Erklæring.
+Indstillingen vedtoges.
+"	1942	10	29
+"197"	1942-10-29	"open"	"19421029_159.pdf"	6	"961-1942"	"Andragende fra Foredragsforeningen af 1901 om Udbetaling af Tilskud.
+Det paa Konto 25 afsatte Beløb paa 200 Kr. bevilgedes.
+"	1942	10	29
+"198"	1942-10-29	"open"	"19421029_159.pdf"	6	"936-1942"	"Meddelelse om Generalforsamling i Danske Gasværkers Tjærekompagni.
+J. R. Fanger og E. Winterberg valgtes som Repræsentanter.
+"	1942	10	29
+"199"	1942-10-29	"open"	"19421029_159.pdf"	6	"3_22-1942 og 3_21-1942"	"Efterbevilling af Overskridelser i Regnskabet for:
+a. (J. Nr. 3_22-1942). Parkvæsenet.
+b. (J. Nr. 3_21-1942). Mindeparken.
+2.Behandling.
+Efterbevilling meddeltes.
+"	1942	10	29
+"200"	1942-10-29	"open"	"19421029_159.pdf"	7	"22_25-1942 og 22_26-1942 og 22_27-1942 og 22_28-1942 og 22_29-1942 og 22_30-1942 og 22_31-1942"	"Betingede Skøder med Gasmester Chr. Johansen angaaende følgende Grunde i Karréen Skanderborgvej-Marselis Boulevard-Tøndergade-Sønderborggade:
+a.(J. Nr. 22_25-1942). Parcel Nr. 15 paa Hjørnet af Marselis Boulevard og Tøndergade.
+b.(J. Nr. 22_26-1942). Parcel Nr. 9 ved Tønderg.
+c.(J.Nr. 22_27-1942).Parcel Nr. 10\"
+d.(J.Nr. 22_28-1942).Parcel Nr. 11\"\"
+e.(J.Nr. 22_29-1942).Parcel Nr. 12\"\"
+f.(J.Nr. 22_30-1942).Parcel Nr. 13\"\"
+g.(J.Nr. 22_31-1942).Parcel Nr. 14\"
+Godkendtes.
+"	1942	10	29
+"201"	1942-10-29	"open"	"19421029_159.pdf"	7	"11_18-1942"	"Købekontrakt med Barber E. Mejer angaaende en Parcel ved Højvang Allé.
+Godkendtes.
+"	1942	10	29

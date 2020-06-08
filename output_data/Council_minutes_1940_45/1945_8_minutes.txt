@@ -1,0 +1,616 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1945-08-16	"closed"	"19450816B_77.pdf"	1	"no related record"	"Mødet den 16. August 1945.
+(For lukkede Døre).
+Fraværende: H. P. Jensen.
+"	1945	8	16
+"2"	1945-08-16	"closed"	"19450816B_77.pdf"	1	"773-1945"	"Indstilling fra Budgetudvalget om Opsigelse af Laan paa 3.541.000 Kr. hos Kreditforeningen af Kommuner i Danmark og Optagelse af Laan paa 3,5 Mill. Kr. hos Vekselerfirmaet Thorkild G. E. Larsen.
+Udvalget indstiller, at der pr. 11. December d.A. optages et 18-aarigt Laan paa 3,5 Mill. Kr. til en effektiv Rente af 3,25 % p. a.
+Vedtaget ved Cirkulation, idet Borgmesteren og I. C. Sørensen bemyndiges til paa Byraadets Vegne at underskrive Overenskomsten og Obligationerne.
+"	1945	8	16
+"3"	1945-08-16	"closed"	"19450816B_77.pdf"	1	"99_42-1945"	"Andragende fra Arbejdernes Andelsboligforening om Tilladelse til at konvertere 1. Prioritetslaanene fra 4 % til 3 1/2 %, for hvilke Kommunen kautionerer, i Foreningens Afd. I, II og III.
+Vedtaget ved Cirkulation.
+"	1945	8	16
+"4"	1945-08-16	"closed"	"19450816B_77.pdf"	1	"603-1945"	"Andragende fra Musikkonservatoriet om Godkendelse af Udbetaling af Vederlag
+"	1945	8	16
+"5"	1945-08-16	"closed"	"19450816B_77.pdf"	2	"603-1945"	"paa 1.500 Kr. for 1944-45 til Lederne af Konservatoriets daglige Drift.
+Vedtaget ved Cirkulation.
+"	1945	8	16
+"6"	1945-08-16	"closed"	"19450816B_77.pdf"	2	"649-1945"	"Indstilling fra Budgetudvalget om, at Økonomidirektøren indtil videre konstitueres som Raadhusforvalter.
+Følgende Indstilling forelaa:
+\"Som det formentlig vil være Byraadet bekendt, har Raadhusforvalter H. Halding gjort sig skyldig i forskellige meget grove Pengetransaktioner, i hvilken Anledning Udvalget i Forventning om Byraadets Tiltrædelse har suspenderet Raadhusforvalteren.
+Under Henvisning hertil skal man indstille, at Byraadet godkender den stedfundne Suspension, samt at der ved Dommer Fabritius Tengnagel indledes en Tjenestemandsundersøgelse mod Raadhusforvalter Halding.
+Endelig skal man indstille, at Økonomidirektøren indtil videre konstitueres som Raadhusforvalter.\"
+Tiltraadt ved Cirkulation.
+"	1945	8	16
+"7"	1945-08-16	"closed"	"19450816B_77.pdf"	2	"695-1945"	"Indstilling fra Havneudvalget til Besættelse af Stillingen som Havnemester.
+Følgende Indstilling forelaa:
+1)Havneassistent Morbech Nielsen.
+2)Lods N. Chr. Nielsen.
+3)Havneassistent K. Sandemose.
+Udvalget foreslaar at ansætte Havneassistent Morbech Nielsen.
+Vedtaget ved Cirkulation.
+"	1945	8	16
+"8"	1945-08-16	"closed"	"19450816B_77.pdf"	2	"44_1-1945"	"Indstilling fra Budgetudvalget om Overenskomst med Ingeniør Niepoort om
+"	1945	8	16
+"9"	1945-08-16	"closed"	"19450816B_77.pdf"	3	"44_1-1945"	"hans Honorarkrav vedr. Raadhuset. - 2. Behandling.
+(1. Behandling foretaget ved Cirkulation).
+Udvalget indstiller, at Honoraret sættes til 77.000 Kr., hvoraf er udbetalt 64.000 Kr., og at der bevilges 13.000 Kr. paa Konto 25 til Dækning af Restbeløbet.
+Indstillingen vedtoges.
+"	1945	8	16
+"10"	1945-08-16	"closed"	"19450816B_77.pdf"	3	"99_11-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Forhøjelse af Garanti for Stalslaan til Arbejdernes Andelsboligforening 3. Afdeling af \"Viborggaarden\". - 2. Behandling.
+(1. Behandling foretaget ved Cirkulation).
+Udvalget indstiller, at Anskaffelsessummen forøges rned 17.045,93 Kr., saaledes at Statslaanet forhøjes til 730.162 Kr. og Kommunens Garanti tilsvarende.
+Indstillingen vedtoges.
+"	1945	8	16
+"11"	1945-08-16	"closed"	"19450816B_77.pdf"	3	"99_19-1945"	"Andragende fra Murermester Har. Andersen om Statslaan med Kommunegaranti til en Ejendom Rud. Wulffs Gade 12. - 2. Behandling.
+(1. Behandling foretaget ved Cirkulation).
+Udvalget anbefaler et Statslaan paa 56.100 Kr. med Kommunegaranti for 16.968 Kr.
+Indstillingen vedtoges.
+"	1945	8	16
+"12"	1945-08-16	"closed"	"19450816B_77.pdf"	3	"99_20-1945"	"Andragende fra Murermester Har. Andersen om Statslaan med Kommunegaranti til en Ejendom Rud. Wulffs Gade 14. -
+2.Behandling.
+(1. Behandling foretaget ved Cirkulation).
+Udvalget anbefaler et Statslaan paa 47.400 Kr. med Kommunegaranti for 14.873 Kr.
+Indstillingen vedtoges.
+"	1945	8	16
+"13"	1945-08-16	"closed"	"19450816B_77.pdf"	4	"99_34-1945"	"Andragende fra Tømrer Johs. Langelund Kristensen om Statslaan til en Ejendom Hans Egedes Vej 16. - 2. Behandling.
+Indstillingen vedtoges.
+"	1945	8	16
+"14"	1945-08-16	"closed"	"19450816B_77.pdf"	4	"99_25-1945"	"Andragende fra Murermester A. Mougaard og Tømrermester Rosenquist Jacobsen og Skovbo Christiansen om Statslaan med Kommunegaranti til en Ejendom ved Hjortensgade.
+Udvalget anbefaler et Statslaan paa 58.400 Kr. med Garanti for 17.925 Kr.
+Overgik til 2. Behandling.
+"	1945	8	16
+"15"	1945-08-16	"closed"	"19450816B_77.pdf"	4	"792-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse angaaende Licitationstilbud paa Opførelse af en Blok Aldersrenteboliger ved Møllevangsallé.
+Udvalget indstiller at overdrage Arbejdet til Murerm. J. Kudahl &amp;amp; Søn for 34.700 Kr.
+I. C. Sørensen bemærkede, at der var forskellige Problemer i denne Sag, som Gruppen havde drøftet og foreslog at tage en gennemgribende Drøftelse af disse Synspunkter i Budgetudvalget for at blive enige om nogle Retningslinier for Byraadet.
+K. Mousten kunde tiltræde Forslaget, idet Talerens Gruppe ogsaa ønskede at faa nogle Retningslinier.
+Borgmesteren erkendte, at der laa forskellige ømfindtlige Spørgsmaa! her, men efterhaanden vilde der vel komme en vis Klaring, selv om det var vanskeligt, ogsaa paa højeste Sted. Men alle kunde sikkert tiltræde Ønsket om at faa saadanne Retningslinier.
+Sigvald Nielsen gik ud fra, at et Forslag om saadanne vilde blive forelagt det samlede Byraad. (Ja!).
+Indstillingen vedtoges.
+"	1945	8	16
+"16"	1945-08-16	"closed"	"19450816B_77.pdf"	5	"734-1945"	"Indstilling om Tegning af en Aktie paa 500 Kr. i et paatænkt Selskab til Videreførelse af Maskinfabrikken „Derby\".
+Fra Skattedirektøren forelaa følgende Skrivelse:
+\"Paa Foranledning af Borgmesteren og Budgetudvalget har jeg undersøgt Mulighederne af en Genoptagelse af Driften af Maskinfabriken \"Derby\", som indehaves af Fabrikant Willy Johannsen.
+I denne Anledning skal jeg tillade mig at oplyse følgende:
+Fabrikant Johannsen har siden 5. Maj d. A. været interneret af Modstandsbevægelsen, men har endnu ikke været fremstillet for Dommeren.
+Virksomheden beskæftiger i Øjeblikket ca. 40 Mand incl. Funktionærer, hvis Antal udgør ca. 15, og hvoraf 5 er opsagt til Fratrædelse den 1. August og 15 til 1. September d. A.
+I Virksomheden ligger Værdier for ca, 1/2 Mill. Kr. bestaaende i Varelager, Maskiner og Bygninger.
+Jeg har drøftet Spørsmaalet med Fabrikant Johannsens Sagfører, Landsretssagfører Kn. Thale, samt Virksomhedens Revisor, statsaut. Revisor Busch Sørensen samt haft Samtale med Ingeniør Christiansen og Overværkfører Thomsen, og paa Grundlag af disse Samtaler er jeg kommet til det Resultat, at Virksomheden og Værdierne bedst vil kunne reddes ved, at man saa hurtigt, det kan lade sig gøre, opretter et Aktieselskab med en Aktiekapital svarende til de bestaaende Værdier minus Forpligtelserne. I Aktieselskabets Bestyrelse skulde indtræde Landsretssagfører Knud Thale, Direktør Hj. Nielsen
+"	1945	8	16
+"17"	1945-08-16	"closed"	"19450816B_77.pdf"	6	"734-1945"	"og jeg som Repræsentant for Kommunen.
+Selskabets første Opgave vil være at faa Fabrikant Johannsen til at afgive Generalfuldmagt til Afhændelse af Værdierne, og i denne Forbindelse skal bemærkes, at Fabrikant Johannsen har givet mig Generalfuldmagt til at disponere over samtlige hans og hans Hustrus Aktiver. Envidere vil der være at fremskaffe en Driftskapital, da den likvide Kapital kun er ca. 10.000 Kr. i kontante Penge, og de ugentlige Lønninger andrager ca. 2.000 Kr.
+Saadan Driftskapital vil kunne fremskaffes dels ved Salg af overflødig Varebeholdning og dels ved Salg af Maskiner, som der med den ret indskrænkede Drift ikke vil blive Anvendelse for.
+Jeg anmoder derfor om det ærede Budgetudvalgs Sanktion til fortsat Arbejde med Sagen samt om Bevilling af 500 Kr. til Tegning af en Aktie i Selskabet.\"
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Idet man tiltræder Skattedirektørens Forslag, skal man indstille, at der bevilges 500 Kr. til Tegning af en Aktie i det paatænkte Selskab.\"
+Kai Blicher fastslog, at Derby var et udpræget Værnemagerfirma, og der var ikke nogen som helst Grund for Kommunen til at tegne Aktier, for at denne Virksomhed kan fortsætte. Resultatet vilde blive, at Kommunen hjælper med til at paaføre de øvrige gode Firmaer en ubillig Konkurrence. Hele denne Virksomhed var skabt ved tyske Penge, som blev betalt af Danskerne,
+"	1945	8	16
+"18"	1945-08-16	"closed"	"19450816B_77.pdf"	7	"734-1945"	"og Firmaet burde nu have Lov til at sejle sin egen Sø. Der var nok til at lave det Arbejde, som eventuelt skulde udføres af Derby.
+Sigvald Nielsen var for saa vidt enig med Konsul Blicher; men naar man havde paatænkt at tegne en Aktie, var det vel for at have lidt Kontrol med Virksomheden, og det var ogsaa et Beskæftigelsesspørgsmaal. Det var maaske rigtigst at udsætte Sagen lidt. Nu kom den store Flydedok til Aarhus, og man skulde gerne engang have et Skibsværft til Byen; derfor var det hele endnu lidt udflydende. Naar der var Tale om at tegne en Aktie, var det vel Meningen, at Hindby skal være en Slags Observatør for Kommunen, saa man havde lidt Haand i Hanke med Firmaet. Taleren vilde dog henstille til Budgetudvalget, at der ikke sker noget virkelig alvorligt, før det bliver forelagt Byraadet. Konsul Blicher burde dog ikke tale om Værnemagere, da det var meget omstridt, hvem der hørte ti! disse; det maatte afgøres af Domstolene.
+Oluf Nielsen vilde ogsaa fraraade, at Byraadet bliver interesseret i dette Foretagende, og ude blandt Byens Borgere høstede man næppe Lovord ved at gaa ind som Aktionær der. Taleren vilde gerne være med til at skaffe Arbejde, men man kunde sikkert godt faa Derby overtaget af en anden større Virksomhed i Aarhus, som saa faar Arbejdet. Efter hvad der blev sagt, ønskede Englænderne ikke at benytte Derby, og det meste Arbejde paa Skibene blev udført af Frichs. Det havde ogsaa virket irriterende paa Byens Borgere, at Skattedirektøren som Kommunens Repræsentant nu kørte rundt i Fabrikant Johannsens fornemme Bil; han kunde nok bruge en Cykle, naar han kørte til Havnen.
+"	1945	8	16
+"19"	1945-08-16	"closed"	"19450816B_77.pdf"	8	"734-1945"	"Borgmesteren oplyste, at Derby for saa vidt ikke eksisterede mere, idet alt var beslaglagt. Det, der var sket, var et Forsøg paa at holde Virksomheden i Gang, indtil der kan træffes en Afgørelse af dens videre Skæbne; det var sket af Hensyn til Beskæftigelsen og efter særlig Anmodning fra Modstandsbevægelsen, som havde Herredømmet over Derbys Værdier. Der næst havde Kommunen 50.000 Kr. i Klemme for Skat, og det var nærmest af den Grund, at Skattedirektøren var kommet med som Kommunens Repræsentant. Taleren havde forsøgt at holde sig udenfor, men var efterhaanden blevet tvunget til at beskæftige sig med Forholdene dernede. En Aktie paa 500 Kr. vilde ikke give Kommunen megen Beføjelse, og man var nærmest interesseret i at faa det afviklet saa hurtigt som muligt. Motivet til Forslaget havde alene været at skaffe Beskæftigelse.
+I. C. Sørensen var enig med Borgmesteren i, at Beskæftigelsesspørgsmaalet var det afgørende. Taleren havde helst set, at en anden Virksomhed i Byen havde overtaget Derby, hvorved Spørgsmaalet om Beskæftigelse var løst; nu var Virksomheden overtaget af Modstandsbevægelsen, som henvendte sig ti! Borgmesteren, og det var vist slet ikke Meningen, at Byraadet skulde blandes deri. Virksomheden fortsattes i Øjeblikket af Fabrikant Johannsen, men under en anden Administrationsform, og muligvis behøvede man ikke at danne noget Aktieselskab. Nu havde man Skattedirektøren som Observatør, og gennem ham kunde Kommunen faa Besked om, hvad der sker med Firmaet. Det var maaske nu rigtigst at vente med at tegne Aktier, til man ser, hvem der bliver den egentlige Ejer.
+"	1945	8	16
+"20"	1945-08-16	"closed"	"19450816B_77.pdf"	9	"734-1945"	"Kaj Blicher gik ud fra, at naar der skulde tegnes en Aktie, maatte der vel være Tale om et Aktieselskab, som man ved noget om. Det var ligegyldigt, om man tegnede Aktier for 500 Kr. eller 50.000 Kr.; det var et Forsøg paa at faa Virksomheden ført videre, og det burde Kommunen ikke være behjælpelig med. At Motivet var Beskæftigelse syntes uforstaaeligt, for der kom jo ikke mere Arbejde til Aarhus, enten Derby bestaar eller ej; det var blot en Konkurrence til de gode gamle Firmaer.
+Borgmesteren gjorde opmærksom paa, at Derby havde en hel Del Materiale liggende, saa der vilde faktisk blive mere Arbejde, hvis de fortsætter, og det kunde give Beskæftigelse til 40-50 Mand. Hindbys Valg til Kommunens Repræsentant blev godkendt fra Modstandsbevægelsens Side, og den hidtidige Ejer vilde heller ikke give Fuldmagt til andre end ham; men det var ikke en uigenkaldelig Fuldmagt, og der havde været nogen Vanskelighed ved at skaffe Penge o.lign.
+Kaj Blicher syntes, at naar Beskæftigelsen kun drejede sig om de Materialer, Firmaet havde liggende, og der laa en Fuldmagt, havde det været let at overdrage disse Materialer til andre Firmaer at arbejde med.
+Chr. Nielsen fandt, at Konsul Blicher kom for langt ud med sin Tale om Værnemageri, naar Manden faktisk ikke mere ejede Virksomheden. Her var kun Tale om at holde de ca. 50 Mennesker beskæftigede, naar der fandtes Materiale dertil. Man skulde ikke komme for langt ud som f. Eks. give sig til at slaa Maskinerne i Stykker o.lign. Landsretssagførens Betragtninger var mere fornuftige, og hvis det kunde ske, at en anden
+"	1945	8	16
+"21"	1945-08-16	"closed"	"19450816B_77.pdf"	10	"734-1945"	"Virksomhed kan overtage Derby, vilde vist ingen i Byraadet ønske, at Kommunen skal tegne Aktier.
+Kaj Blicher spurgte, hvem der ejede Virksomheden.
+Borgmesteren havde spurgt om det samme, men det var ikke let at sige. Den var til en vis Grad i Hænderne paa Modstandsbevægelsen, og det kunde godt give Anledning til visse Betragtninger.
+I. C. Sørensen oplyste, at da man anmodede Borgmesteren om at tegne en Aktie, var det Meningen at starte et Aktieselskab for at faa en Form; nu havde man faaet en anden Form, saa dette Spørgsrnaal forelaa egentlig ikke i Øjeblikket. Man havde nu Hindby som Observatør, og det var da rigtigst at vente med Aktietegningen, til man saa, hvilke Erfaringer han kan komme med til Byraadet.
+Sigvald Nielsen mente, at Budgetudvalget burde have forelagt et saa vigtigt Spørgsmaal for Byraadet; nu var man mere og mindre blevet angrebet fra forskellige Sider. Fabrikant Johannsen var interneret, men hvis han nu blev frifundet og betalte sin Skat til Kommunen, kunde man næppe danne et Aktieselskab paa hans Værdier. Det var bedst at tilforordne Hindby som Observatør og saa senere diskutere, hvordan det skal være. For Resten vilde Taleren fraraade, at Kommunen tegner Aktier i private Selskaber; det var for dyr en Spekulation at komme ind paa.
+Borgmesteren konstaterede, at der var forskellige Opfattelser af Sagen. De 500 Kr. spillede jo ingen Rolle for Kommunen, men paa et vist Tidspunkt mente man, det var en Udvej. Saadanne Sager udviklede sig fra Dag til Dag og ændredes stadig, særlig i en Overgangstid.
+"	1945	8	16
+"22"	1945-08-16	"closed"	"19450816B_77.pdf"	11	"734-1945"	"Man kunde maaske enes om at udsætte Spørgsmaalet.
+Kai Blicher: Hvem ejer Derby?
+Borgmesteren var blevet tvunget til at tage Stilling til Øjeblikkets Problemer, men havde derudover ikke følt sig foranlediget til at gøre noget. De, som stod i Spidsen for Arbejdet, var Hindby, Landsretssagfører Thale og Revisor Busch Sørensen.
+Kai Blicher syntes, at det med Hindby var meget værre end de 500 Kr.
+Oluf Nielsen gjorde opmærksom paa, at der i Byen tales meget om, at Funktionærer og Ledere i Firmaet ikke er gode danske Mænd, og det havde ogsaa været drøftet i Bladene. Taleren vilde spørge, om Kommunens Observatør havde undersøgt dette Forhold.
+S. Lauritzen vilde ogsaa fraraade, at Kommunen tegner Aktier i private Foretagender, ihvert Fald ikke i større Udstrækning end højst nødvendigt.
+I. C. Sørensen fandt ikke noget mærkeligt i, at Hindby optræder paa Kommunens Vegne. Derby gik sikkert i Staa, og saa blev Virksomheden vel fortsat af Repræsentanter for de større Kreditorer; til dem hørte Aarhus Kommune, og det var derfor rimeligt, at Kommunen har en Repræsentant med.
+Kai Blicher vilde dog fraraade, at Kommunen sætter en Repræsentant ind i Selskaber, som skylder for Skat.
+Borgmesteren fandt det underligt, at Konsul Blicher ikke forstod, at det var en unormal Tid, hvor man undertiden maatte gribe til unormale Midler. Taleren kunde ikke sige noget om de enkelte Personers Sindelag, som man
+"	1945	8	16
+"23"	1945-08-16	"closed"	"19450816B_77.pdf"	12	"734-1945"	"kom i Berøring med; man kunde dog daarligt tænke noget slemt om en Mand, som er valgt til Formand for Børnekomiteen, hvor Politimesteren sidder som Næstformand; men man kom stadig ud for saadanne Problemer, og de burde løses efterhaanden, som Sagen udvikler sig.
+Sagen udsattes.
+"	1945	8	16
+"24"	1945-08-16	"closed"	"19450816B_77.pdf"	12	"33_31-1945"	"Indstilling fra Sygehusudvalget om, at der tillægges Professor Krebs Honorar for Enestuepatienter og udenbys boende Fællesstuepatienter for 2 Sengepladser.
+J. R. Fanger syntes ikke rigtig om denne Form. Der burde gøres den Forskel, at det kun gælder for udenbys Patienter og ikke for Aarhusborgere.
+K. Mousten svarede, at i saa Fald skulde man væk fra det Princip, som gjaldt for de øvrige Overlæger. Radiumstationen havde Lov til at indlægge 2 Patienter paa Kommunehospitalet, og saa gav Stationen til Gengæld Kommunen 2Sengepladser paa Radiumstationen. Det var i Almindelighed udenbys Patienter, og Overlæge Krebs burde have samme Ret som de øvrige Overlæger.
+J. R. Fanger syntes, at naar det hovedsagelig var udenbys Patienter, betød det vel ikke saa meget at undtage indenbys boende. Nu skulde de ikke blot betale Enestuepris, men ogsaa større Honorar til Overlægen. Afdelingen havde nu bestaaet i 16 Aar, uden at der var krævet saadant Honorar.
+K. Mousten hævdede, at det ikke var nogen Udvidelse af Principet; det var noget, Overlægerne havde Ret til, naar Patienterne ligger paa Enestue. Det var ikke noget nyt, men blot en Udvidelse med 2 Sengepladser.
+"	1945	8	16
+"25"	1945-08-16	"closed"	"19450816B_77.pdf"	13	"33_31-1945"	"Chr. Nielsen mente, at hvis man nægtede det, kunde det medføre, at nogle ikke blev indlagt der og faar den Behandling, de skal have. Det vilde være smaaligt at nægte Overlæge Krebs samme Honorar som de øvrige Overlæger.
+Borgmesteren antog, det var en Forespørgsel fra Hr. Fangers Side, for Hospitalsforholdene var ikke lette at finde ud af.
+K. Mousten oplyste, at Overlægerne ved Kommunehospitalet havde store Lønninger, men i Almindelighed kostede de ikke Kommunen noget, idet de tjente saa meget ved deres udenbys Patienter, at de betalte omtrent lige saa meget i Skat, som deres kommunale Løn udgør.
+Indstillingen vedtoges.
+"	1945	8	16
+"26"	1945-08-16	"closed"	"19450816B_77.pdf"	13	"791-1945"	"Indstilling fra Budgetudvalget om, at Kontorchef Barsøe Sørensen, Økonomikontoret, konstitueres som Økonomidirektør fra 1. August under Økonomidirektørens Hospitalsophold.
+Borgmesteren oplyste, at Økonomidirektøren var meget syg og skulde gennemgaa en vanskelig Operation.
+Indstillingen vedtoges.
+"	1945	8	16
+"27"	1945-08-16	"closed"	"19450816B_77.pdf"	13	"748-1945"	"Indstilling fra Vandværksudvalget om Bevilling af Vederlag til Afdelingsingeniør Frederiksen under hans Konstitution som Leder af Vandværket.
+Ejner Mikkelsen anmodede om at faa Sagen tilbage, da der var anført en forkert Dato for Konstitutionen.
+Sagen gik tilbage til Udvalget.
+"	1945	8	16
+"28"	1945-08-16	"closed"	"19450816B_77.pdf"	13	"573-1945"	"Anmodning fra Den jydske Handelshøjskole om, at Hospitalsapoteker N. Nielsens Ophør med hans Ekstraarbejde ved Skolen maa foregaa gradvis.
+"	1945	8	16
+"29"	1945-08-16	"closed"	"19450816B_77.pdf"	14	"573-1945"	"Fra Sygehusudvalget forelaa følgende Indstilling:
+\"Tilbagesendes med Bemærkning, at det var en bestemt Forudsætning for Apotekerens Oprykning til 1. Lønklasse fra 1/10. 1944, at han senest fra Sommerferien i Aar ophørte med Undervisning paa Handelshøjskolen, og at Arbejdet i Apoteket kræver hans fulde Arbejdskraft, hvorfor Udvalget ikke kan anbefale at imødekomme Andragendet om at udsætte den endelige Afvikling af hans Undervisning til August 1946.\"
+Indstillingen tiltraadtes.
+"	1945	8	16
+"30"	1945-08-16	"closed"	"19450816B_77.pdf"	14	"33_26-1945"	"Indstilling fra Belysningsudvalget om Forfremmelse af Civilingeniør ved Elektricitetsværket H. A. Nielsen til Afdelingsingeniør.
+Fra Lønudvalget forelaa følgende Indstilling;
+\"Lønudvalget vil kunne tiltræde en Indstilling til Byraadet om, at der fra 1. April d. A. og indtil 31. Marts 1948 ydes den omhandlede Ingeniør et personligt ikke-pensionsgivende Tillæg paa 600 Kr. aarlig, at Tillæget fra 1. April 1948 forhøjes til 1100 Kr. aarlig, samt at Sagen tages op til fornyet Behandling senest 1. April 1951.\"
+Lønudvalgets Indstilling tiltraadtes.
+"	1945	8	16
+"31"	1945-08-16	"closed"	"19450816B_77.pdf"	14	"659-1945"	"Indstilling fra Vejteknisk Udvalg om Ansættelse af Konstruktør paa Stadsarkitektens Kontor S. P. Sørensen som Materialforvalter paa Materialgaarden paa Dollerupvej.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	8	16
+"32"	1945-08-16	"closed"	"19450816B_77.pdf"	15	"33_27-1945"	"Indstilling fra Socialudvalget om forskellige Forfremmelser paa Socialkontoret.
+Udvalget indstiller, at Ekspeditionssekretær H.P. Philipsen faar Tilladelse til at fratræde sin Stilling pr. 31. Juli d. A., samt at Fuldmægtig V. P. M. Hall Nielsen forfremmes til Ekspeditionssekretær, Overassistent Poul Hansen til Fuldmægtig og Assistent K. R. Bernstzen til Overassistent.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	8	16
+"33"	1945-08-16	"closed"	"19450816B_77.pdf"	15	"33_29-1945"	"Andragende fra Assistent ved Kirkegaardene K. Aasberg Andersen om Oprykning fra 5. til 4. Lønklasse.
+Lønudvalget kan ikke tiltræde Andragendet, men indstiller, at hans Lønanciennitet ændres fra 1/9 1942 til 1/9 1939.
+Lønudvalgets Indstilling tiltraadtes.
+"	1945	8	16
+"34"	1945-08-16	"closed"	"19450816B_77.pdf"	15	"33_28-1945"	"Andragende fra Konstruktør J. Engvang, Stadsarkitektens Ingeniørafdeling, om Oprykning fra 6. til 5. Lønklasse.
+Anbefalet af Lønudvalget fra 1/4 1946.
+Indstillingen vedtoges.
+"	1945	8	16
+"35"	1945-08-16	"closed"	"19450816B_77.pdf"	15	"580-1945"	"Andragende fra Arkitekt Bygum Clausen, Stadsarkitektens Kontor, om 1 Aars Orlov fra 1. August d. A.
+Anbefalet af Lønudvalget, men saaledes, at Andragerens eventuelle Tilbagetræden er betinget af, at der til den Tid er en Stilling som hans nuværende ledig ved den paagældende Institution.
+Indstillingen vedtoges.
+"	1945	8	16
+"36"	1945-08-16	"closed"	"19450816B_77.pdf"	15	"746-1945"	"Andragende fra Ligningssekretær A. Hvidegaard, Skattekontoret, om Orlov 1 Aar fra 1. August d. A.
+"	1945	8	16
+"37"	1945-08-16	"closed"	"19450816B_77.pdf"	16	"746-1945"	"Anbefalet af Lønudvalget paa samme Betingelser som under Punkt 23.
+Indstillingen vedtoges.
+"	1945	8	16
+"38"	1945-08-16	"closed"	"19450816B_77.pdf"	16	"747-1945"	"Andragende fra Konstruktør A. Svanhede, Stadsingeniørens Kontor, om 1 Aars Orlov fra 1. August d. A.
+Anbefalet af Lønudvalget paa samme Betingelser som under Punkt 23.
+Indstillingen vedtoges.
+"	1945	8	16
+"39"	1945-08-16	"closed"	"19450816B_77.pdf"	16	"727-1945"	"Andragende fra Assistent paa Skattekontoret, K. M. Hvorslev, om 1 Aars Orlov fra I. August d. A.
+Anbefalet af Lønudvalget paa samme Betingelser som under Punkt 23.
+Indstillingen vedtoges
+"	1945	8	16
+"40"	1945-08-16	"closed"	"19450816B_77.pdf"	16	"744-1945"	"Andragende fra Overassistent Johanne Beyer, Bygningsinspektørens Kontor, om Fritagelse for Afkortning i Løn for 33 Sygedage.
+Anbefalet af Lønudvalget.
+Bevilgedes.
+"	1945	8	16
+"41"	1945-08-16	"closed"	"19450816B_77.pdf"	16	"743-1945"	"Andragende fra Assistent paa Socialkontoret, Aage Rasmussen, om fuld Løn under Sygdom.
+Anbefalet af Lønudvalget indtil 1/9 d. A.
+Indstillingen vedtoges.
+"	1945	8	16
+"42"	1945-08-16	"closed"	"19450816B_77.pdf"	16	"728-1945"	"Andragende fra Arbejdsmand ved Belysningsvæsenet, M. Therkelsen, om fuld Lon under Sygdom.
+Anbefalet af Lønudvalget for 91 Sygedage.
+Indstillingen vedtoges.
+"	1945	8	16
+"43"	1945-08-16	"closed"	"19450816B_77.pdf"	16	"29_13-1945"	"Andragende fra Brandmand Chr. Holm om Afsked med Pension fra 1. September d. A.
+Bevilgedes. Pensionen fastsattes til 2520 Kr.
+"	1945	8	16
+"44"	1945-08-16	"closed"	"19450816B_77.pdf"	17	"29_12-1945"	"Andragende fra Maalerkontrollør ved Vandværket P. Petersen om Afsked med Pension fra 1. Oktober d. A.
+Bevilgedes. Pensionen fastsattes til 2310 Kr.
+"	1945	8	16
+"45"	1945-08-16	"closed"	"19450816B_77.pdf"	17	"29_11-1944"	"Andragende fra Opsynsbetjent ved Kirkegaardene, A. M. Andersen, om Afsked med Pension fra 1. November d. A.
+Bevilgedes. Pensionen fastsattes til 2200 Kr.
+"	1945	8	16
+"46"	1945-08-16	"closed"	"19450816B_77.pdf"	17	"745-1945"	"Andragende fra Arbejdsmand ved Vejvæsenet, A. Chr. Koch, om en aarlig Understøttelse fra 1. Juli d. A.
+Der bevilgedes 200 Kr. aarlig.
+"	1945	8	16
+"47"	1945-08-16	"closed"	"19450816B_77.pdf"	17	"432-1944"	"Andragende fra Rengøringskone paa Raadhuset, Frk. Julie Jensen, om en aarlig Understøttelse fra 1. November d. A.
+Bevilgedes.
+"	1945	8	16
+"48"	1945-08-16	"closed"	"19450816B_77.pdf"	17	"509-1945"	"Andragende fra Enkefru Pries om fortsat Boliggodtgørelse.
+Lønudvalget anbefaler, at der endnu i 5 Aar tilstaas Fru Pries en ekstraordinær Understøttelse paa 500 Kr. aarlig.
+Indstillingen vedtoges.
+"	1945	8	16
+"49"	1945-08-16	"closed"	"19450816B_77.pdf"	17	"29_9-1945"	"Indstilling fra Havneudvalget
+om Bevilling af Pension til Enken efter Havnemester A. Jensen.
+Anbefalet af Budgetudvalget.
+Indstillingen vedtoges. Pension fastsattes til 2231,48 Kr.
+"	1945	8	16
+"50"	1945-08-16	"closed"	"19450816B_77.pdf"	17	"29_8-1945"	"Fastsættelse af Pension til
+Enken efter pens. Lodsformand Martin Jensen.
+Pensionen fastsattes til 2300 Kr.
+"	1945	8	16
+"51"	1945-08-16	"closed"	"19450816B_77.pdf"	17	"29_7-1945"	"Fastsættelse af Pension til
+Enken efter pens. Arbejdsmand ved Havnen P. N. Kjeldsen.
+Pensionen fastsattes til 931,52 Kr.
+"	1945	8	16
+"52"	1945-08-16	"closed"	"19450816B_77.pdf"	18	"29_14-1945"	"Fastsættelse af Pension til Enken efter Retorthusarbejder P. Pedersen.
+Pensionen fastsattes til 1200 Kr.
+"	1945	8	16
+"53"	1945-08-16	"closed"	"19450816B_77.pdf"	18	"657-1945"	"Andragende fra Skuespiller Per Buckhøj om Bevilling til at drive Biografteater paa Trøjborg.
+Udvalget for Tilsyn med Biografteatervirksomheden indstiller, at Byraadet anbefaler Oprettelse af et Biografteater paa Trøjborg, samt saafrernt Ministeriet maatte vedtage Oprettelsen heraf, at der da aabnes Adgang for Indgivelse af Ansøgninger om Bevilling hertil.
+K. Mousten erindrede om, at der tidligere havde foreligget Andragender fra Beboerne paa Trøjborg om at faa en Biograf, og Udvalget mente, at det nu var naturligt at faa en Biograf deroppe.
+I. C. Sørensen pegede paa, at denne Sag havde foreligget gennem mange Aar, og den burde nu kraftigt anbefales. Det var meningsløst efter den store Udvidelse af Byen mod Nord, at Befolkningen der stadig skal gaa ned i Byen, og tilmed var Biograferne saa overfyldt, at det næsten var umuligt at faa en Billet, hvis man ikke stod i Kø et Par Timer. Der havde tidligere været visse Interesser, som søgte at spænde Ben derfor, men det maatte nu være slut. Der var egentlig ogsaa Trang til en Biograf i den sydlige Bydel, f. Eks paa Harald Jensens Plads. Spørgsmaalet om, hvem der skal have Bevillingen, vilde komme senere; det kunde maaske blive i Forbindelse med en eller anden Institution som Vuggestuer, Fritidshjem eller Sporten. Man stod overfor at skulle bygge et helt nyt Stadion, og det vilde nok blive vanskeligt at faa Midler dertil, hvis ikke Kommunen
+"	1945	8	16
+"54"	1945-08-16	"closed"	"19450816B_77.pdf"	19	"657-1945"	"betalte det hele; men her var maaske en Udvej.
+Johs. Riber erkendte, at Forholdene i Aarhus i Øjeblikket var daarlige, men man maatte huske paa, at de nuværende Teatre skal bygges om og udvides, ellers fik man ganske simpelt ikke Bevillingen. Hvis de smaa Teatre skulde op paa ca. 900 Pladser, vilde det blive et meget dyrt Byggeri, og hvis der saa kom 2 nye Biografer samtidig med, at Billetprisen var sat ned, vilde de ikke give noget Overskud.
+I.C. Sørensen hævdede, at Biograferne i Aarhus gav et meget stort Overskud.
+Borgmesteren antog, at Flertalsgruppen var enig med Landsretssagføreren. Det maatte undersøges, hvilke Institutioner der eventuelt skal nyde godt af Bevillingen, men det forelaa ikke i Øjeblikket. Forøvrigt forstod Taleren ikke, hvorfor det saakaldte Biografudvalg skulde erklære sig om denne Sag.
+Indstillingen vedtoges.
+"	1945	8	16
+"55"	1945-08-16	"closed"	"19450816B_77.pdf"	19	"691-1945"	"Andragende fra M. S. Biltzing om Bevilling til at drive Biografteater i Aarhus i Lighed med D. S. B.’s Kino paa Københavns Hovedbanegaard.
+Udvalget kan ikke anbefale Andragendet.
+Borgmesteren bemærkede, at saadanne smaa kulturoplysende Film ogsaa havde deres Berettigelse.
+I.C. Sørensen mente, at en saadan Biograf maatte ligge i Byens Centrum, men det var i Yderkanterne, der var Trang for dem. Men en af de gamle Biografer kunde jo tage den Opgave op og vise saadanne Film.
+Kunde ikke anbefales.
+"	1945	8	16
+"56"	1945-08-16	"closed"	"19450816B_77.pdf"	20	"25_2-1945"	"Andragende fra Restauratør S.G. O. Jensen om Beværterbevilling med Ret til Udskænkning af stærke Drikke i Restaurant Silistria.
+Skovudvalget kan ikke anbefale Andragendet.
+Kunde ikke anbefales.
+"	1945	8	16
+"57"	1945-08-16	"closed"	"19450816B_77.pdf"	20	"25_4-1945"	"Andragende fra Fru I. M. O. Christensen om Fornyelse af Beværterbevilling for Frederikshøj.
+Anbefalet af Bevillingsnævnet.
+Anbefaledes.
+"	1945	8	16
+"58"	1945-08-16	"closed"	"19450816B_77.pdf"	20	"25_5-1945"	"Andragende fra Restauratør Kaas Hansen om Fornyelse af Beværterbevilling paa Rutebilstationen, Amtmandstoften.
+Anbefalet af Bevillingsnævnet.
+Anbefaledes.
+"	1945	8	16
+"59"	1945-08-16	"closed"	"19450816B_77.pdf"	20	"25_6-1945"	"Andragende fra Restauratør A. F. Jensen om Fornyelse af Beværterbevilling i Hotel Jylland, Studsgade.
+Anbefalet af Bevillingsnævnet.
+Anbefaledes.
+"	1945	8	16
+"60"	1945-08-16	"closed"	"19450816B_77.pdf"	20	"25_3-1945"	"Andragende om Fornyelse af Forvalter P. J. Knudsens Tilladelse til at være Bestyrer af Restaurationen i Søsportspavillonen.
+Anbefalet af Bevillingsnævnet.
+Anbefaledes.
+"	1945	8	16
+"61"	1945-08-16	"closed"	"19450816B_77.pdf"	20	"10_10-1945"	"Andragende fra Arkitekt Chr. Früstück Nielsen om at maatte udtræde af Bygningskommissionen.
+Bevilgedes. Arkitekt Høvring Nielsen valgtes for Resten af Perioden.
+"	1945	8	16
+"62"	1945-08-16	"closed"	"19450816B_77.pdf"	20	"10_7-1945"	"Indstilling fra Udvalget angaaende forskellige Valg.
+Følgende Indstilling forelaa:
+a.Ejendomsskyldvurderingsmænd: Tømrer Anders Jensen
+"	1945	8	16
+"63"	1945-08-16	"closed"	"19450816B_77.pdf"	21	"10_7-1945"	"med Snedker Søren Holm som Suppleant.
+b.Vandsynsmænd: Landsretssagfører K. Rønnow og Landinspektør Rørholm.
+c.Maskintilsynsmand og Suppleant: Købmand Henry Bach og Maskinarbejder Jens Jensen. Indstillingen vedtoges.
+"	1945	8	16
+"64"	1945-08-16	"closed"	"19450816B_77.pdf"	21	"18_12-1945"	"Andragende fra Fru H. Jensen, Thingvallagade 6, om Fritagelse for Hundeafgift.
+Kunde ikke bevilges.
+"	1945	8	16
+"65"	1945-08-16	"closed"	"19450816B_77.pdf"	21	"20_2-1945"	"Bortgivelse af en Portion af
+Fabrikant Jens Ormslevs Legat.
+Tildeltes Arbejdsmand Anthon Thomsen.
+"	1945	8	16
+"66"	1945-08-16	"closed"	"19450816B_77.pdf"	21	"20_1-1945"	"Bortgivelse af en Portion af
+Etatsraad Raaes Legat.
+Tildeltes Enkefru A. J. Virklund.
+"	1945	8	16
+"67"	1945-08-16	"closed"	"19450816B_77.pdf"	21	"32_3-1945"	"Indstilling fra Socialudvalget om, at E. B. Funnerskov Andersen anbringes paa Arbejdsanstalten.
+Tiltraadtes.
+"	1945	8	16
+"68"	1945-08-16	"closed"	"19450816B_77.pdf"	21	"12_1-1945"	"Indstilling fra Socialudvalget om personligt Tiilæg til Rentenydere.
+Indstillingen vedtoges.
+"	1945	8	16
+"69"	1945-08-16	"closed"	"19450816B_77.pdf"	21	"16_9-1945"	"Indstilling fra Socialudvalget
+om, atKommunehjælp ydet 4 Personer ikke skal
+have valgretsfortabende Virkning.
+Indstillingen vedtoges.
+"	1945	8	16
+"70"	1945-08-16	"closed"	"19450816B_77.pdf"	21	"17_16-1945"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet 4 Personer.
+Indstillingen vedtoges.
+"	1945	8	16
+"71"	1945-08-16	"closed"	"19450816B_77.pdf"	21	"17_12-1945 og 17_13-1945 og 17_14-1945 og 17_15-1945 og 17_17-1945"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet til:
+a.(J. Nr. 17_12-1945). Louis J. V. Hansen.
+b.(J. Nr. 17_13- 1945). E. Nygaard Johansen.
+c.(J. Nr. 17_14-1945). Robert E. Hermansen.
+"	1945	8	16
+"72"	1945-08-16	"closed"	"19450816B_77.pdf"	22	"17_12-1945 og 17_13-1945 og 17_14-1945 og 17_15-1945 og 17_17-1945"	"d.(J. Nr. 17_15-1945). Henry L. Chr. Hansen.
+e.(J. Nr. 17_17-1945). Viggo Werner.
+Indstillingen vedtoges.
+"	1945	8	16
+"73"	1945-08-16	"closed"	"19450816B_77.pdf"	22	"793-1945"	"Indstilling fra Sygehusudvalget angaaende Ansættelse af Reservelæge ved Neurologisk Afdeling.
+Cand. med. Poul Høncke ansattes.
+"	1945	8	16
+"74"	1945-08-16	"open"	"19450816_107.pdf"	1	"no related record"	"Mødet den 16. August 1945.
+Fraværende: H. P. Jensen.
+"	1945	8	16
+"75"	1945-08-16	"open"	"19450816_107.pdf"	1	"560-1945"	"IndenrigsministerietsGodkendelse af, at der tillægges Borgmesteren Pensionsret.
+Toges til Efterretning.
+"	1945	8	16
+"76"	1945-08-16	"open"	"19450816_107.pdf"	1	"10_1-1945"	"IndenrigsministerietsGodkendelse af, at Boligkommissionens Sammensætning ændres saaledes, at den til enhver Tid værende Amtslæge og Bygningsinspektør i Aarhus er Medlemmer af Kommissionen.
+Toges til Efterretning.
+"	1945	8	16
+"77"	1945-08-16	"open"	"19450816_107.pdf"	1	"149-1945"	"Meddelelse fra Indenrigsministeriet om Dispensation fra Tillæg til Sundhedsvedtægten, saaledes at det tillades de kons. Mejerier i Aarhus indtil 1/10 1945 at indføre Fløde fra Mejerier, hvis Besætninger ikke er under Dyrlægekontrol.
+Toges til Efterretning.
+"	1945	8	16
+"78"	1945-08-16	"open"	"19450816_107.pdf"	1	"492-1945"	"IndenrigsministerietsSamtykke til Konvertering af Restbeløbet af det hos Aarhus Privatbank i 1927 optagne Laan paa 4 Mill. Kr.
+Toges til Efterretning.
+"	1945	8	16
+"79"	1945-08-16	"open"	"19450816_107.pdf"	2	"479-1945"	"Indenrigsministeriets Godkendelse af, at Udgiften til de paa Kommunens Arbejdsplan for 1945 - 46 opførte Anlægsarbejder dækkes ved Laan.
+Følgende Skrivelse forelaa:
+\"I Skrivelse af 15. November 1944 meddelte Indenrigsministeriet bl. a., at man intet vilde have at erindre imod, at Aarhus Byraad fremtidig ved Vedtagelsen af Kommunens Overslag indsender den samtidig udarbejdede Arbejdsplan for det kommende Regnskabsaar til Ministeriets principielle Godkendelse af, at Udgifterne til de paa Planen optagne Arbejder afholdes ved Optagelse af Laan.
+Under Henvisning hertil har Byraadet i Skrivelse af 16. Juni d. A. (J. Nr. 479-1945) fremsendt den for Regnskabsaaret 1945-46 vedtagne Arbejdsplan, der indeholder følgende Anlægsarbejder, til hvilke Udgifterne agtes dækket ved Laaneoptagelse:
+Arbejdets ArtOverslagssum
+Udvidelse af Elektricitetsværkets
+Kedelanlæg....................... 2.750.000 Kr.
+Anskaffelse af Maalere til Fjernvarmeanlæget.....................80.000\"
+Lægning af Hovedledninger til
+Fjernvarmeanlæget................160.000\"
+Lægning af Stikledninger til Fjernvarmeanlæget ......................50.000\"
+Anskaffelse af Kulkran............72.000\"
+Lægning af Hovedledninger
+(Vandværket).....................60.000\"
+Lægning af Stikledninger (Vandværket) ...........................8.000\"
+"	1945	8	16
+"80"	1945-08-16	"open"	"19450816_107.pdf"	3	"479-1945"	"Anlæg af Boringer med Tilbehør
+(Vandværket).....................35.000Kr.
+Anskaffelse af Maskiner til Maalerværkstedet (Vandværket) ..15.000\"
+Opførelse af Rentvandsbeholder
+ved Stautrupværket...............180.000\"
+Lægning af Hovedledninger over Ringgaden og ved Langenæs. .265.000\"
+Opførelse af Boliger for Aldersrentenydere: Vest, Stok I........980.000\"
+Anskaffelse af en Damprulle til
+Kommunehospitalet................35.000\"
+samt Anskaffelse af Løbekat med Grab og Spil til Forbrændingsanstalten, hvilket ikke er optaget i Arbejdsplanen med..............20.000\"
+eller ialt . .4.710.000Kr.
+I denne Anledning meddeler Indenrigsministeriet herved Samtykke til, at Kommunen senere optager Laan til Dækning af de nævnte Udgifter paa Vilkaar, at Betingelserne for de enkelte Laan til sin Tid forelægges Ministeriet til Godkendelse.
+Det er endvidere et Vilkaar, at Arbejder, hvis Iværksættelse kan udskydes, ikke paabegyndes, forinden Samtykke dertil foreligger fra Indenrigsministeriet.\"
+Toges til Efterretning.
+"	1945	8	16
+"81"	1945-08-16	"open"	"19450816_107.pdf"	3	"99_6-1945"	"Meddelelse fra Indenrigsministeriet om Forhøjelse af Statslaan til Det sociale Boligbyggeri (Blok I af \"Solbakken\"). Toges til Efterretning.
+"	1945	8	16
+"82"	1945-08-16	"open"	"19450816_107.pdf"	4	"694_1-1945"	"Meddelelse fra Indenrigsministeriet om Oprettelse af en ekstraordinær Tjenestemandsdomstol til Paakendelse af Sager vedrørende Tjenestemænd i Staten, Folkeskolen, Folkekirken eller en Kommune, som - uden at hans Forhold rammes af Bestemmelsen i Lov af 1/6 1945 om Tillæg til Borgerlig Straffelov - i Tiden9/4. 1940 til 7/7. 1945 har udvist uværdig national Optræden.
+Toges til Efterretning.
+"	1945	8	16
+"83"	1945-08-16	"open"	"19450816_107.pdf"	4	"694_2-1945"	"Meddelelse fra Indenrigsministeriet om Nedsættelse af en ekstraordinær Kommission til Undersøgelse af det i Staten, Folkeskolen, Folkekirken eller det til disse Tjenesteomraader benyttede Institutioner beskæftigede ikke tjenestemandsansatte Personales tjenstlige Forhold til Besættelsmagten i Tiden 9/4. 1940 til 7/7.1945.
+Borgmesteren erindrede om, at der i Aarhus var foretaget en særlig Undersøgelse af disse Forhold af Dommer Fabritius Tengnagel. Denne Undersøgelse var nu snart afsluttet, og der vilde i den nærmeste Fremtid blive taget Bestemmelse i Flenhold til denne Undersøgelses Resultater.
+Toges til Efterretning.
+"	1945	8	16
+"84"	1945-08-16	"open"	"19450816_107.pdf"	4	"461-1945"	"Indenrigsministeriets Samtykke til Køb af Ejendommen Matr. Nr. 15f af Stautrup til Funktionærbolig ved Vandværket.
+Toges til Efterretning.
+"	1945	8	16
+"85"	1945-08-16	"open"	"19450816_107.pdf"	4	"22_29-1944"	"Indenrigsministeriets Samtykke til Forhøjelse af Købesummen for den til Entreprenør H. Aarslev solgte Grund ved Rudolf Wulffs Gade.
+Toges til Efterretning.
+"	1945	8	16
+"86"	1945-08-16	"open"	"19450816_107.pdf"	5	"11_19-1945"	"Indenrigsministeriets Samtykke til Annulering af Købekontrakt med Lærer S. Bjerre Nielsen ang. Matr. Nr. 54 æ af Markj. og med Lærer Tage Krake ang. Matr. Nr. 54 cd af Markj. samt af, at Matr. Nr. 54 æ afhændes til Lærer Tage Krake.
+Toges til Efterretning.
+"	1945	8	16
+"87"	1945-08-16	"open"	"19450816_107.pdf"	5	"11_27-1945 og 11_22-1945 og 11_26-1945 og 11_20-1945 og 11_21-1945 og 11_24-1945 og 22_2-1945 og 22_3-1945 og 22_5-1945 og 22_4-1945"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a.(J. Nr.11_27-1945).Entreprenør C. Mortensen.
+b.(J. Nr.11_22-1945).A/S Vituna.
+c.(J. Nr.11_26-1945).Skomagermester K. A. Holtzmann.
+d.(J. Nr. 11_20-1945). Tømrer A. Arreskov Andersen.
+e.(J. Nr. 11_21-1945). Maskinarbejder E. O. Rechendorff.
+f.(J. Nr. 11_24-1945). Arbejdsmester Jul. Wrona.
+g.(J.Nr. 22_2 -1945).Slagtermester Aage Nielsen.
+h.(J.Nr. 22_3 -1945).Tømrermester Hans Olsen.
+i.(J.Nr. 22_5 -1945).Tømrermester P. B. Kjeldsen,
+j.(J.Nr. 22_4 -1945).Murermester Th. P. Rasmussen og I. A. Sørensen.
+Toges til Efterretning.
+"	1945	8	16
+"88"	1945-08-16	"open"	"19450816_107.pdf"	5	"51-1945"	"Arbejdsministeriets Godkendelse af Forøgelse af Projekteringsudgifterne for en Lufthavn til 104.000 Kr.
+Toges til Efterretning.
+"	1945	8	16
+"89"	1945-08-16	"open"	"19450816_107.pdf"	5	"224-1945"	"Arbejdsministeriets Godkendelse af Detailplaner og Overslagssum for \"Kloakrensningsanlæg II, Riis Skov.\"
+Ministeriet godkender, at Overslagssummen ændres til 520.000 Kr.
+Toges til Efterretning.
+"	1945	8	16
+"90"	1945-08-16	"open"	"19450816_107.pdf"	5	"670-1945"	"Meddelelse fra Arbejdsministeriet om Overførsel til Beredskabsarbejde af
+"	1945	8	16
+"91"	1945-08-16	"open"	"19450816_107.pdf"	6	"670-1945"	"den resterende Del af Beskæftigelsesforanstaltning Nr. R. 111, „Tunnel, Langenæs“, samt om Forhøjelse af Statens Tilskud hertil.
+Toges til Efterretning.
+"	1945	8	16
+"92"	1945-08-16	"open"	"19450816_107.pdf"	6	"784-1945"	"Arbejds- og Socialministeriets Godkendelse af Forhøjelse af Tilskud til den af Sygekassen \"Aarhus\" iværksatte Husmoderafløsning.
+Toges til Efterretning.
+"	1945	8	16
+"93"	1945-08-16	"open"	"19450816_107.pdf"	6	"305-1945"	"Meddelelse fraArbejds-og
+Socialministeriet omfortsat Tilskudtil Arbejder
+for erhvervshæmmede. (Skov- og Parkarbejde).
+Toges til Efterretning.
+"	1945	8	16
+"94"	1945-08-16	"open"	"19450816_107.pdf"	6	"430-1945"	"Arbejds- og Socialministeriets Godkendelse af Tillæg til Overenskomst med Lægeforeningen for Aarhus og Omegn om Udøvelse af kommunal Lægehjælp.
+Toges til Efterretning.
+"	1945	8	16
+"95"	1945-08-16	"open"	"19450816_107.pdf"	6	"541-1945"	"Meddelelse fraArbejds-og
+Socialministeriet omStadfæstelse afFundatsfor
+Fru Thyra Junckers Studielegat.
+Borgmesteren fandt, der var Grund til at fremhæve dette Legat til Chr. 9’s Børnehjem med en Legatsum paa over 200.000 Kr., som uddeles efter nærmere Bestemmelse i Fundatsen af Legatudvalget og Forstanderen til Elever fra Børnehjemmet, som bliver Studenter og vælger at studere ved medicinsk eller filosofisk Fakultet. Det var en storslaaet Gave, som Institutionen havde Grund til at være i høj Grad taknemlig for.
+Toges til Efterretning.
+"	1945	8	16
+"96"	1945-08-16	"open"	"19450816_107.pdf"	6	"67_3-1945"	"Meddelelse fra Justitsministeriet om, at der vil kunne tillægges Enker efter Medlemmer af kommunale Vagtværn, som er omkommet under Tjenestens Udførelse eller afgaaet
+"	1945	8	16
+"97"	1945-08-16	"open"	"19450816_107.pdf"	7	"67_3-1945"	"ved Døden som Følge af Tilskadekomst i Tjenesten, Efterindtægt i 6 Maaneder.
+Toges til Efterretning.
+"	1945	8	16
+"98"	1945-08-16	"open"	"19450816_107.pdf"	7	"570-1945"	"Meddelelse fra Justitsministeriet om Bevilling for Skuespiller Hj. Zangenberg til at give dramatiske Forestillinger i et Telt Aarhus.i
+Toges til Efterretning.
+"	1945	8	16
+"99"	1945-08-16	"open"	"19450816_107.pdf"	7	"453-1945"	"Meddelelse fra Undervisningsministeriet om Godkendelse af Ændring i Skoleplanen, hvorved der oprettes yderligere et Lærerindeembede med Løn i Henhold til Lærerlønningslovens § 35.
+Toges til Efterretning.
+"	1945	8	16
+"100"	1945-08-16	"open"	"19450816_107.pdf"	7	"267-1945"	"Meddelelse fra Aarhus Stiftamt om Beskikkelse af Lodsformand H. J. Nielsen til Medlem af Søretten.
+Toges til Efterretning.
+"	1945	8	16
+"101"	1945-08-16	"open"	"19450816_107.pdf"	7	"247-1945"	"Regnskab for Gartner Sjelles Fribolig og Legat i 1944 - 45.
+Toges til Efterretning.
+"	1945	8	16
+"102"	1945-08-16	"open"	"19450816_107.pdf"	7	"652-1945"	"Regnskab for Smede- og Maskinarbejdernes Fagforenings Stiftelse i 1944-
+Toges til Efterretning.
+"	1945	8	16
+"103"	1945-08-16	"open"	"19450816_107.pdf"	7	"720-1945"	"Meddelelse om Afholdelse af den kommunale Elektroinstallatørprøve i 1945
+Toges til Efterretning.
+"	1945	8	16
+"104"	1945-08-16	"open"	"19450816_107.pdf"	7	"23_10-1935"	"Beretning om Aarhus Boligkommissions hidtidige Virksomhed.
+Borgmesteren haabede, at Medlemmerne vilde læse denne Beretning. Man havde søgt at gøre lidt mere ud af den under Hensyn til det særlige Omraade, som den omfattede; den var illustreret og forsynet med Tavler, der viste noget om Saneringsmulighederne og Byggeriet i Aarhus samt de meget daarlige Boligforhold, der ikke
+"	1945	8	16
+"105"	1945-08-16	"open"	"19450816_107.pdf"	8	"23_10-1935"	"Længden kunde tolereres. Taleren vilde anbefale Beretningen til Medlemmernes og Pressens velvillige Studium.
+I.C. Sørensen erkendte, at der fandtes mange Lejligheder i Aarhus, som var uegnet til Menneskeboliger; men saavidt Taleren vidste, henstillede Boligkommissionen, at de ikke for Tiden nedlægges paa Grund af Boligmanglen.
+Borgmesteren svarede, at man forberedte en senere Kondemnering. Man erkendte, at den eller den Ejendom var uegnet til Beboelse og gav saa en Frist paa 1 -12 Aar. Under Hensyn til de nuværende Forhold var man nødt til at gøre det saaledes, og undertiden blev disse Frister forlængede, fordi man ikke kunde skaffe Erstatningslejligheder; men man havde stadig Haand i Hanke med Ejendommen, og naar den Dag kom, var Spørgsmaalet om Sanering fuldstændig ordnet. I enkelte Tilfælde havde man dog maattet rydde Lejlighederne, hvis de var altfor daarlige, og det var sket i Samarbejde med Socialudvalget, Børneværnet og Bygningskommissionen. I visse Tilfælde havde man gjort det saaledes, at de ikke rømmes, men forbydes som Bolig for Børn.
+I. C. Sørensen spurgte, hvad der vilde ske, hvis man sagde til en Ejer, at hans Ejendom er saa daarlig, at den ikke egner sig til Beboelse, og han saa indrømmer det og erklærer sig villig til at rydde den.
+Borgmesteren havde hidtil ikke truffet et saadant Tilfælde, men skulde det ske, vilde Kommissionen vel tage Ejendommen under Behandling, og naar der igen kan skatfes Erstatningsboliger, vilde den blive forlangt ryddet efter en vis Frist.
+"	1945	8	16
+"106"	1945-08-16	"open"	"19450816_107.pdf"	9	"23_10-1935"	"Sigvald Nielsen var forbavset over Landsretssagførerens Spørgsmaal; for der fandtes næppe Grundejere, der vilde tage det Standpunkt, og skulde det ske, var det vist, fordi der laa en Bagtanke deri. Grundejerne var i Almindelighed Profitjagere, der ikke tog Hensyn til Lejerne.
+Ejner Mikkelsen vilde protestere mod, at Grundejerne er Profitjagere, selv om der kunde findes uheldige Elementer blandt dem som blandt andre; men de var tilstrækkelig bremset gennem Boliglovgivningen. M. H. t. Sanering var Grundejerne klar over, at denne Udvikling ikke kan standses, men maa hilses med Glæde; men selvfølgelig skulde den enkelte Grundejer ikke betale for Saneringen, men have en Erstatning, der svarer til Husets Værdi. Ellers vilde Grundejerne gerne medvirke til at faa en sund By.
+Toges til Efterretning.
+"	1945	8	16
+"107"	1945-08-16	"open"	"19450816_107.pdf"	9	"440-1945 og 543-1945"	"Indstilling fra Budgetudvalget om, at følgende Beredskabsarbejder udføres paa de af Arbejdsministeriet stillede Betingelser:
+a.(J. Nr. 440-1945). Regulering og Udvidelse
+af Aldersrovej.
+b.(J. Nr. 543-1945). Udbygning af Trøjborgvej
+mellem Aldersrovej og Nørrebrogade.
+Vedtaget ved Cirkulation.
+"	1945	8	16
+"108"	1945-08-16	"open"	"19450816_107.pdf"	9	"295-1945"	"Indstilling fra Vejteknisk Udvalg om Godkendelse af et udvidet Projekt for Beredskabsarbejdet \"Anlæg af en Del af Marselis Boulevard.\"
+Vedtaget ved Cirkulation.
+"	1945	8	16
+"109"	1945-08-16	"open"	"19450816_107.pdf"	9	"552-1945"	"Indstilling fra Vejteknisk Udvalg om Anlæg af en Fyldeplads i vestre Bydel ved Opfyldning paa Statsbanernes Areal ved Aarhus Aa.
+Vedtaget ved Cirkulation.
+"	1945	8	16
+"110"	1945-08-16	"open"	"19450816_107.pdf"	10	"655-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse angaaende Arealerhvervelse fra Statsbanerne m. v. til Udvidelse af Carl Blochsgade og Søren Frichsvej samt til en Sti omkring Brabrand Sø.
+Vedtaget ved Cirkulation.
+"	1945	8	16
+"111"	1945-08-16	"open"	"19450816_107.pdf"	10	"21_2-1945"	"Indstilling om Ændring af Byggelinien for Møllevej paa Strækningen mellem Markuskirken og Langelandsgade m. m.
+Stadsarkitekten foreslaar, at Byggelinieafstanden ændres fra 19 m til 15,7 m samt at 10 m2 af Kommunens Areal mageskiftes med 10 m2 af Orkesterforeningens Ejendom.
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse.
+Vedtaget ved Cirkulation.
+"	1945	8	16
+"112"	1945-08-16	"open"	"19450816_107.pdf"	10	"366-1945"	"Protokol angaaende Istandsættelse af Gangtunnelen til Søbadeanstalten, dens Eftersyn og foreløbige Aflevering.
+Tiltraadt ved Cirkulation.
+"	1945	8	16
+"113"	1945-08-16	"open"	"19450816_107.pdf"	10	"441-1945"	"Andragende fra A. Nyhøj om Tilladelse til at befare Hovedveje til og ved Havnen med et Traktortog med indtil 3 Paahængsvogne til Kørsel af dansk Brændsel fra Tørvemoser og Brunkulslejer.
+Anbefalet af Vejteknisk Udvalg paa samme Betingelser, som Amtsraadet har krævet for Kørsel paa visse Amtsveje.
+Tiltraadt ved Cirkulation.
+"	1945	8	16
+"114"	1945-08-16	"open"	"19450816_107.pdf"	10	"30_6-1945"	"Andragende fra Vognmand Arne Mortensen om Koncession paa Fragtrute Skive-Viborg-Voldby-Aarhus.
+Anbefalet af Vejteknisk Udvalg paa sædvanlige Betingelser.
+Tiltraadt ved Cirkulation.
+"	1945	8	16
+"115"	1945-08-16	"open"	"19450816_107.pdf"	11	"616-1945"	"Andragende om Fornyelse af Biografbevilling for Reginateatret.
+Anbefalet ved Cirkulation.
+"	1945	8	16
+"116"	1945-08-16	"open"	"19450816_107.pdf"	11	"570-1945"	"Andragende fra Skuespiller Hj. Zangenberg om Tilladelse til at spille Revyforestillinger i et Cirkustelt i Vennelyst.
+Bevilget ved Cirkulation.
+"	1945	8	16
+"117"	1945-08-16	"open"	"19450816_107.pdf"	11	"619-1945"	"Andragende fra Arbejdsteknisk Skole om Udbetaling af det budgetterede Tilskud.
+Bevilget ved Cirkulation.
+"	1945	8	16
+"118"	1945-08-16	"open"	"19450816_107.pdf"	11	"309-1945"	"Indstilling fra Vejteknisk Udvalg om Reducering af Afgravningsarbejdet under Langenæs II samt om Udskrivning af en offentlig Bebyggelseskonkurrence for det samlede Langenæsareal.
+Tiltraadt af Budgetudvalget.
+Vedtaget ved Cirkulation.
+"	1945	8	16
+"119"	1945-08-16	"open"	"19450816_107.pdf"	11	"722-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Regulering af den Del af Universitetsparken, hvori Tyskerne havde gravet Dækningsgrave m. v.
+Tiltraadt af Budgetudvalget saaledes, at der paa Arbejdsplanen bevilges 9.000 Kr. hertil.
+2.Behandling.
+(1. Behandling foretaget ved Cirkulation).
+Borgmesteren meddelte, at der foregik en nærmere Undersøgelse at Forholdene for at se, hvor meget Arbejde der kan blive i Henhold til Tankloven. Det meste var dog militære Anlæg, som der endnu ikke kunde træffes Bestemmelse om.
+Indstillingen vedtoges.
+"	1945	8	16
+"120"	1945-08-16	"open"	"19450816_107.pdf"	11	"735-1945"	"Indstilling fra Borgmesteren om Beviliing af 2.080 Kr. til Afholdelse af yderligere
+"	1945	8	16
+"121"	1945-08-16	"open"	"19450816_107.pdf"	12	"735-1945"	"5 Koncerter af Byorkestret i Sommer. -
+2.Behandling.
+(1. Behandling foretaget ved Cirkulation).
+Indstillingen vedtoges.
+"	1945	8	16
+"122"	1945-08-16	"open"	"19450816_107.pdf"	12	"739-1945"	"Indstilling fra Brandkommissionen om, at Restbeløbet, 8.149,12 Kr. af Bevillingen til et Radio- og Kommandoanlæg til Brandvæsenet overføres til indeværende Aars Budget.
+Indstillingen vedtoges.
+"	1945	8	16
+"123"	1945-08-16	"open"	"19450816_107.pdf"	12	"662_1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Overførsel til indeværende Aars Budget af 2.500 Kr. til Indretning af Trappe i Mejlgade 59.
+Indstillingen vedtoges.
+"	1945	8	16
+"124"	1945-08-16	"open"	"19450816_107.pdf"	12	"664-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om, at et Beløb paa 22.314,48 Kr. til Udgifter vedr. Frederiksgade-Kommissionen overføres til indeværende Aars Budget.
+Borgmesteren meddelte, at der var afgivet en meget omfangsrig Betænkning, og det var Meningen, at Kommissionen i September Maaned skal have Plenarmøde om hele Spørgsmaalet.
+Indstillingen vedtoges.
+"	1945	8	16
+"125"	1945-08-16	"open"	"19450816_107.pdf"	12	"663_1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om, at 37348,84 Kr. til Indretning af Husvildeboliger i Vennelyst overføres til indeværende Aars Budget.
+Indstillingen vedtoges.
+"	1945	8	16
+"126"	1945-08-16	"open"	"19450816_107.pdf"	12	"627-1945"	"Ansøgning fra Stefanshjemmet om Tilskud paa 25.000Kr. til Udvidelse af Hjemmet.
+Anbefalet af Budgetudvalget saaledes, at Beløbet optages paa Budgettet for 1946-47 som Tilskud, hvis Udbetaling først skal bevilges af Byraadet, alt under Forudsætning af, at et lignende Tilskud bevilges af Aarhus Amt.
+"	1945	8	16
+"127"	1945-08-16	"open"	"19450816_107.pdf"	13	"627-1945"	"Borgmesteren gjorde opmærksom paa, at der før havde været Tale om et Tilskud paa 10.000 Kr., men under Hensyn til det store fortjenstfulde Arbejde, der udføres her for de mest ulykkelige i Samfundet, anbefalede man Forhøjelsen og haabede saa, at der ogsaa fra anden Side stilles betydelige Midler til Disposition.
+Indstillingen vedtoges.
+"	1945	8	16
+"128"	1945-08-16	"open"	"19450816_107.pdf"	13	"78-1945"	"Anmodning fra Jydsk Teknologisk Institut om, at Byraadet vil udpege to af Dommerne til Arkitektkonkurrencen til Instituttets Bygning.
+Tiltraadtes. Borgmesteren og I. C. Sørensen valgtes.
+"	1945	8	16
+"129"	1945-08-16	"open"	"19450816_107.pdf"	13	"422-1945"	"Anmodning fra Sct. Georgs Gildet om, at en Del af Grunden til Gildets Feriekoloni paa Djursland bortsælges.
+Anbefalet af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	8	16
+"130"	1945-08-16	"open"	"19450816_107.pdf"	13	"483-1945"	"Andragende fra Universitetssamvirket om Fritagelse for Ejendomsskatter af Marselisborg Studentergaard.
+Anbefalet af Budgetudvalget.
+Bevilgedes.
+"	1945	8	16
+"131"	1945-08-16	"open"	"19450816_107.pdf"	13	"625-1945"	"Forslag fra Eksamensbestyrelsen for den kommunale Elektroinstallatørprøve om Forhøjelse af Honorarer til Eksamensbestyrelsens Medlemmer.
+Tiltraadtes.
+"	1945	8	16
+"132"	1945-08-16	"open"	"19450816_107.pdf"	13	"514-1945"	"Beklagelse fra Grundejerforeningen Fuglebakken over, at Omlægning af Vagtelvej og Fuglebakkevej er taget ud af Kommunens Beredskabsplan.
+Vejteknisk Udvalg foreslaar at svare, at Omlægningen af de to Gader er taget ud af Planen efter Ønske af Flertallet af de bidragspligtige
+"	1945	8	16
+"133"	1945-08-16	"open"	"19450816_107.pdf"	14	"514-1945"	"Grundejere, men saafremt Foreningen kan faa Tilslutning fra mindst 7 Grundejere ved Vagtelvej og mindst 5 Grundejere ved Fuglebakkevej, vil Byraadet søge Vejenes Istandsættelse foretaget som Beredskabsarbejde. Saafremt denne Tilladelse ikke kan fremskaffes, er man villig til at afholde et Vejsyn og faa de omtalte Veje nødtørftig istandsat for Grundejernes Regning.
+J. R. Fanger forelagde Indstillingen.-
+Tiltraadtes.
+"	1945	8	16
+"134"	1945-08-16	"open"	"19450816_107.pdf"	14	"767-1945"	"Valg af Repræsentanter til Gudenaacentralens Generalforsamling.
+Belysningsudvalget valgtes.
+"	1945	8	16
+"135"	1945-08-16	"open"	"19450816_107.pdf"	14	"754-1945"	"Valg af Delegerede til Generalforsamling i Hads-Ning Herreders Jernbane.
+H. P. Jensen valgtes.
+"	1945	8	16
+"136"	1945-08-16	"open"	"19450816_107.pdf"	14	"30_8-1945"	"Andragende fra Vognmand J. Andersen om Tilladelse til Overtagelse af Fragtruten Tinning-Aarhus.
+Anbefalet af Vejteknisk Udvalg paa samme Betingelser som hidtil.
+Tiltraadtes.
+"	1945	8	16
+"137"	1945-08-16	"open"	"19450816_107.pdf"	14	"749-1945"	"Indstilling fra Lønudvalget angaaende Regler for Kommunens Tjenestemænd og Arbejdere m. fl. om Tjenestefrihed eller Erstatning herfor paa Mindedagen for Folkestrejken den 30. Juni d. A.
+Følgende Forslag forelaa:
+I.\"Til Personale, som har haft fri Lørdag den 30. Juni fra Kl. 12, udbetales Løn, som om de paagældende havde udført den Tjeneste, som de skulde have haft, hvis den nævnte Dag havde været almindelig Arbejdsdag.
+II.Til Tjenestemænd og Arbejdere, der som Følge af nødvendig Opretholdelse af de
+"	1945	8	16
+"138"	1945-08-16	"open"	"19450816_107.pdf"	15	"749-1945"	"forskellige Virksomheder har gjort Tjeneste Lørdag den 30. Juni efter Kl. 12, ydes saa vidt muligt i Stedet 1/2 Dags Frihed med Løn, som om de havde udført den Tjeneste, de ellers skulde have haft.
+III.Til Tjenestemænd og Arbejdere, der i Forvejen har helt eller delvis fri den omhandlede Dag efter Kl. 12, ydes saa vidt muligt i Stedet tilsvarende Frihed med Løn en anden Dag.
+IV.Saafremt der ikke kan ydes de paagældende den omhandlede Erstatningsfrihed, udbetales der dem i Stedet herfor for de paagældende Arbejdstimer et Beløb svarende til den Løn, de sædvanlig oppebærer, dog saaledes, at Tillægsbetaling for Akkord, særlige Hverv, Overtidsarbejde, Arbejdstidens Beliggenhed udenfor de normale Dagtimer o. a. l. ikke kommer i Betragtning.\"
+Tiltraadtes.
+"	1945	8	16
+"139"	1945-08-16	"open"	"19450816_107.pdf"	15	"3_7-1945 og 3_14-1945 og 3_9-1945 og 3_8-1945 og 3_3-1945 og 3_5-1945 og 3_3-1945 og 3_2-1945 og 3_6-1945 og 3_13-1945"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_7-1945). Brandkommissionen.
+b.(J. Nr. 3_14-1945). Bygningskommissionen.
+c.(J. Nr. 3_9-1945). Hovedbogholderiet.
+d.(J. Nr. 3_8-1945). Indkvarteringsvæsenet.
+e.(J. Nr. 3_3-1945). Kommunehospitalet.
+f.(J. Nr. 3_5-1945). Marselisborg Hospital.
+g.(J. Nr. 3_3-1945). Villa \"Fri\" og Karantæneanstalten.
+h.(J. Nr. 3_2-1945). Folkekøkkenet.
+i.(J. Nr. 3_6-1945). Lønningskontoret.
+j. (J. Nr. 3_13-1945). Udvalget for Byens Udvidelse og Bebyggelse.
+Overgik til 2. Behandling.
+"	1945	8	16
+"140"	1945-08-16	"open"	"19450816_107.pdf"	16	"22_17-1944"	"Andragende fra Murermester Anker Jakobsen og Tømrermester H. Bromann om Forlængelse af Rente- og Afdragsfrihed for 15 Parceller ved Egebækvej
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at Forrentningen af de paagældende Købesummer først begynder at løbe fra og med 11.Juni d. A., saaledes at Renten erlægges første Gang i December Termin d. A. Samtidig indstilles, at Afdragene, der efter Kontrakten skulde begynde at løbe fra og med Juni Termin d. A., først begynder at løbe fra og med DecemberTermin d. A. 
+Indstillingen vedtoges.
+"	1945	8	16
+"141"	1945-08-16	"open"	"19450816_107.pdf"	16	"22_35-1944"	"Andragende fra Gasmester Chr. Johansen om Udsættelse af Forrentningen af Købesummen for Grund ved Haderslevgade.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at Forrentningen af Købesummen først begynder at løbe fra 11. September 1945. Indstillingen vedtoges.
+"	1945	8	16
+"142"	1945-08-16	"open"	"19450816_107.pdf"	16	"22_27-1944"	"Andragende fra Murermester C. Traberg Jensen om Udsættelse med Betaling af Afdrag paa en Grund ved Bøgebjergvej.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at Andrageren fritages for at svare Afdrag i Juni Termin d. A.
+Indstillingen vedtoges.
+"	1945	8	16
+"143"	1945-08-16	"open"	"19450816_107.pdf"	16	"11_24-1945 og 11_26-1945 og 11_27-1945 og 22_5-1945 og 22_4-1945 og 11_32-1945 og 11_331945 og 11_34-1945 og 11_35-1945 og 11_36-1945 og 11_37-1945"	"Købekontrakter og betingede Skøder med:
+a.(J. Nr. 11_24-1945). Arbejdsmand Jul. Wrona angaaende en Grund ved Nordvestpassagen.
+b.(J. Nr. 11_26-1945). Skomagermester K. A. Holtzmann
+angaaende en Grund ved Jens Munks Vej.
+c.(J. Nr. 11_27-1945). Entreprenør C Mortensen
+angaaende en Grund ved Nordvestpassagen.
+d.(J. Nr. 22_5- 1945). Tømrermester P. B. Kjeldsen angaaende en Grund ved Rud. Wulffs Gade.
+"	1945	8	16
+"144"	1945-08-16	"open"	"19450816_107.pdf"	17	"11_24-1945 og 11_26-1945 og 11_27-1945 og 22_5-1945 og 22_4-1945 og 11_32-1945 og 11_331945 og 11_34-1945 og 11_35-1945 og 11_36-1945 og 11_37-1945"	"e.(J. Nr. 22_4-1945) Murermester Th. P. Rasmussen og I. A. Sørensen angaaende en Grund ved Rud. Wulffs Gade.
+f.(J. Nr. 11_32-1945). Fru Lissy Johansen angaa-
+ende en Grund ved Nordvestpassagen.
+g.(J. Nr. 11_33 1945). Isenkræmmer J. A. Pedersen
+angaaende en Grund ved Jens Munks Vej.
+h.(J. Nr. 11_34-1945 og 11_35-1945 og 11_36-1945 og 11_37-1945). Boligforeningen Ringgaarden angaaende 4 Parceller ved Jens Baggesens Vej og Pal. Mullers Vej. 
+Godkendtes.
+"	1945	8	16

@@ -1,0 +1,522 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1944-08-24	"closed"	"19440824B_81.pdf"	1	"no related record"	"Mødet den 24. August 1944.
+(For lukkede Døre).
+Fraværende: Esther Aggebo, K. Mousten og Sigvald Nielsen.
+"	1944	8	24
+"2"	1944-08-24	"closed"	"19440824B_81.pdf"	1	"624-1944"	"Meddelelse fra Indenrigsministeriet om Samtykke til, at Kommunen paatager sig Garanti for et Laan paa 1.100.000 Kr. til Gudenaacentralen.
+Toges til Efterretning.
+"	1944	8	24
+"3"	1944-08-24	"closed"	"19440824B_81.pdf"	1	"512-1944"	"Indenrigsministeriets Samtykke til, at Kommunen anvender en Restlaanebeholdning til forskellige Ejendomerhvervelser og Anlægsarbejder m. v.
+Toges til Efterretning-
+"	1944	8	24
+"4"	1944-08-24	"closed"	"19440824B_81.pdf"	1	"29_2-1944"	"Meddelelse fra Indenrigsministeriet om, at der ikke bør ydes Pension til fhv. visiterende Læge Ch. Kaalund-Jørgensen.
+Toges til Efterretning.
+"	1944	8	24
+"5"	1944-08-24	"closed"	"19440824B_81.pdf"	1	"17_9-1944"	"Meddelelse fra Aarhus Stiftamt om, at der ikke kan bevilges Husassistent Mary J. H. Sørensen Lægehjælp uden valgretsfortabende Virkning.
+Toges til Efterretning.
+"	1944	8	24
+"6"	1944-08-24	"closed"	"19440824B_81.pdf"	1	"16_20-1944"	"Aarhus Stiftamts Godkendelse af, at Kommunehjælp ydet Handlende Hansine M. Thomsen
+"	1944	8	24
+"7"	1944-08-24	"closed"	"19440824B_81.pdf"	2	"16_20-1944"	"ikke skal have valgretsfortabende Virkning.
+Toges til Efterretning.
+"	1944	8	24
+"8"	1944-08-24	"closed"	"19440824B_81.pdf"	2	"771-1944"	"Anerkendelse fra Kreditforeningen af Kommuner i Danmark af Modtagelse af Opsigelse af Laan til 10.157.868,50 Kr.
+Toges til Efterretning.
+"	1944	8	24
+"9"	1944-08-24	"closed"	"19440824B_81.pdf"	2	"796-1944"	"Indstilling fra Budgetudvalget om Optagelse af Laan paa 6 Mill. Kr.
+Følgende Indstilling forelaa:
+\"Idet Udvalget i Henhold til den Bemyndigelse, som Byraadet i sit Møde den 29. Juni meddelte Udvalget, har accepteret det i Økonomidirektørens Redegørelse omhandlede Laanetilbud paa 6 Mill. Kr. til effektiv Rente paa 3,50 %, saaledes at Provenuet af Laanet anvendes til delvis Indfrielse af de i Redegørelsen nævnte Kommunekreditforeningslaan, medens man har besluttet at tilbagekalde Opsigelse af de nævnte Laan for saa vidt angaar 3.735.000 Kr., skal man herved anmode om Byraadets Godkendelse af de anførte Dispositioner; ligeledes skal man henstille, at Borgmesteren og Landsretssagfører I. C. Sørensen bemyndiges til paa Byraadets Vegne at underskrive fornævnte Overenskomst med Veksellerer Thorkild G. E. Larsen, København, angaaende det accepterede Laan samt de enkelte Partialobligationer.
+Borgmesteren erindrede om, at Budgetudvalget havde faaet Bemyndigelse til at optage Laan paa 10 Mill. Kr. til højst 3 1/2 % og Løbetid mindst 15 Aar. Det var Hensigten at konvertere Laanet i Kommunekreditforeningen, og man havde samtidig spurgt Bankkonsortiet, om det vilde give
+"	1944	8	24
+"10"	1944-08-24	"closed"	"19440824B_81.pdf"	3	"796-1944"	"Tilbud paa Laan, men det ønskede Konsortiet ikke, da det næppe vilde have Interesse for Kommunen. Udvalget foreslog nu, at man nøjes med at opsige de 6 Mill. Kr. i Kreditforeningen og lader Resten blive staaende; der var da Mulighed for senere at opsige Resten, hvis Vilkaarene bliver saaledes, at det har Interesse.
+Indstillingen vedtoges.
+"	1944	8	24
+"11"	1944-08-24	"closed"	"19440824B_81.pdf"	3	"681-1944"	"Licitationstilbud paa Anlæg af Bøgebjergvej og en Del af Egebæksvej.
+Udvalget indstiller at overdrage Arbejdet til Oscar M. Haugaard for 27.915,80 Kr. Med Tillæg af Materialer m. v. vil hele Udgiften andrage 64500 Kr.
+Vedtaget ved Cirkulation.
+"	1944	8	24
+"12"	1944-08-24	"closed"	"19440824B_81.pdf"	3	"692-1944"	"Indstilling fra Sygehusudvalget om, at den oprettede Stilling aom 1. Reservelæge ved den dermato-venerologiske Afdeling paa Marselisborg Hospital besættes med den nuværende 2. Reservelæge G. Auken
+Vedtaget ved Cirkulation.
+"	1944	8	24
+"13"	1944-08-24	"closed"	"19440824B_81.pdf"	3	"709-1944"	"Andragende fra Afdelingslæge ved Kommunehospitalet Dr. med. C. E. Prip Buus om at maatte overtage en Stilling som visiterende Kirurg ved Vejlefjord Sanatorium.
+Anbefalet af Professor Aage Nielsen.
+Fra Sygehusudvalget forelaa følgende Indstilling:
+\"Fremsendes til Byraadet med Anbefaling af, at den ansøgte Tilladelse til at modtage Stillingen som visiterende Kirurg ved Vejlefjord Sanatorium gives Afdelingslæge Prip Buus med Bemærkning om, at den kun er gældende indtil videre.
+"	1944	8	24
+"14"	1944-08-24	"closed"	"19440824B_81.pdf"	4	"709-1944"	"Udvalgets Anbefaling er dels baseret paa Professor Aage Nielsens Udtalelse, dels dikteret af Ønsket om at bane Vejen for nye Forhandlinger med Ministeriet og Sundhedsstyrelsen om Indførelse af en Ordning for Udførelse af Lungekirurgi paa Aarhus Kommunehospital, der da, som Tilfældet er med de neurologiske Afdelinger, skulde være Landsdelshospital for dette Sygdomsspeciale.\"
+Vedtaget ved Cirkulation.
+"	1944	8	24
+"15"	1944-08-24	"closed"	"19440824B_81.pdf"	4	"673-1944"	"Andragende fra Ekspeditionssekretær ved Socialkontoret H. P. Philipsen om 1 Aars Orlov.
+Anbefalet af Socialudvalget.
+Tiltraadt ved Cirkulation.
+"	1944	8	24
+"16"	1944-08-24	"closed"	"19440824B_81.pdf"	4	"251-1944"	"Andragende fra Restauratør Bjørn Rasmussen om Samtykke til paa sin Beværterbevilling at drive Restauration paa Aarhus Cyklebane.
+Anbefalet ved Cirkulation.
+"	1944	8	24
+"17"	1944-08-24	"closed"	"19440824B_81.pdf"	4	"99_28-1944"	"Andragende om, at Anskaffelsessummen for Boligforeningen Ringgaarden, Underafdeling III’s Ejendomme ved Kaserneboulevarden godkendes for 589.060,61 Kr. i Stedet for som oprindelig anslaaet 549.897,98 Kr.
+Anbefalet af Budgetudvalget.
+Tiltraadtes.
+"	1944	8	24
+"18"	1944-08-24	"closed"	"19440824B_81.pdf"	4	"116-1944"	"Andragende om Garanti for Laan til Boligindskud i Arbejdernes Andelsboligforening for:
+a.Rørlægger H. T. Nielsen...............500Kr.
+b.Forretningsfører H. Lønskov...........900\"
+c.Dekorationschef O. Lings..............1000\"
+Overgik til 2. Behandling.
+"	1944	8	24
+"19"	1944-08-24	"closed"	"19440824B_81.pdf"	5	"116-1944"	"Andragende om Garanti for Laan til Boligindskud i Det sociale Boligbyggeri paa 655 Kr. for Bager A. F. Ludvig.
+Overgik til 2. Behandling.
+"	1944	8	24
+"20"	1944-08-24	"closed"	"19440824B_81.pdf"	5	"99_40-1944"	"Andragende fra Repræsentant Max G. Andresen om Statslaan med Kommunegaranti til en Villa Bøgebjergvej 2.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler Andragendet, samt at Kommunen garanterer for den Del af Statslaanet, der placeres mellem 80 og 85 % af Anskaffelsessum eller ialt 1521 Kr.
+Overgik til 2. Behandling.
+"	1944	8	24
+"21"	1944-08-24	"closed"	"19440824B_81.pdf"	5	"99_31-1944"	"Andragende fra Tømrer J. L. Kristensen om Statslaan med Kommunegaranti til en Villa Roald Amundsensvej 18.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at Andragendet anbefales, og at Kommunen paatager sig Garanti for den Del af Statslaanet, der overstiger 80% af Anskaffelsessummen eller ialt 1228 Kr.
+Overgik til 2. Behandling.
+"	1944	8	24
+"22"	1944-08-24	"closed"	"19440824B_81.pdf"	5	"735-1944"	"Andragende fra Fru Politimester Hoeck om Tilskud til det af hende ledede særlige filantropiske Arbejde.
+Budgetudvalget anbefaler at yde 4000 Kr.
+Overgik til 2. Behandling.
+"	1944	8	24
+"23"	1944-08-24	"closed"	"19440824B_81.pdf"	5	"717-1944"	"Indstilling om Bevilling af 10500 Kr. til Istandsættelse af Skader paa Moesgaard Strand forvoldt ved Sprængning af Ammunition.
+Budgetudvalget foreslaar, at Beløbet bevilges paa Skovvæsenets Konto. Endvidere indstilles, at man lader de nu ødelagte Sømærketræer blive staaende i den Tilstand, hvori de nu er.
+"	1944	8	24
+"24"	1944-08-24	"closed"	"19440824B_81.pdf"	6	"717-1944"	"Borgmesteren oplyste, at der var gjort Regreskrav gældende overfor Tyskerne, men det var ikke givet, man fik noget ud af det.
+Overgik til 2. Behandling.
+"	1944	8	24
+"25"	1944-08-24	"closed"	"19440824B_81.pdf"	6	"107-1944"	"Bevilling af 190.000 Kr. til Ekspropriation m. v. af Østergade 5, idet Beløbet afholdes ved Laan. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	8	24
+"26"	1944-08-24	"closed"	"19440824B_81.pdf"	6	"313-1944"	"Overenskomst med Kæmner A. Brendstrup og fhv. Overassistent E. Redsted angaaende Kommunens Overtagelse af Ejendommen Volden 32 og Graven 29.
+Godkendtes.
+"	1944	8	24
+"27"	1944-08-24	"closed"	"19440824B_81.pdf"	6	"22_20-1944"	"Godkendelse af 5 betingede Skøder med Murermester Anker Jacobsen og Tømrermester H. Bromann angaaende Grunde ved Egebæksvej.
+Godkendtes.
+"	1944	8	24
+"28"	1944-08-24	"closed"	"19440824B_81.pdf"	6	"779-1944"	"Indstilling om Bevilling af 7.425 Kr. til Anskaffelse af en dampdrevet Aflusningsovn.
+Der forelaa Forslag om, at Ovnen leveres af Firmaet Meier-Jæger, og at Beløbet afholdes som Tillægsbevilling paa Medicinalvæsenets Konto.
+Borgmesteren havde faaet Henstilling fra Ministeriet om at indrette en saadan Anstalt, idet Krigen maaske snart var forbi, og der vilde da komme mange Arbejdere og andre til Aarhus, som skulde benytte denne. Taleren hævdede, at det maatte være en Statsopgave, men gik med til at lave det foreløbig, idet der saa senere skulde forhandles om Udgiften dertil. Der var foreslaaet at benytte Svømmehallen eller bygge en Barak ved Havnen, men det var Taleren gaaet imod. Ved nærmere Undersøgelse havde
+"	1944	8	24
+"29"	1944-08-24	"closed"	"19440824B_81.pdf"	7	"779-1944"	"det vist sig, at det kunde indrettes næsten uden Udgift ved en af Skolerne, og det foreslog man nu.
+Oluf Nielsen oplyste, at Sagen var behandlet i Sundhedskommissionen, og her hævdede Amtslægen, at det var absolut nødvendigt at bygge Barakker hertil.
+Borgmesteren svarede, at Amtslægen senere var gaaet fra dette. Men Kommunen havde egentlig en Slags Pligt til at indrette noget, fordi man havde nedlagt Epidemiafdelingen paa Marselisborg Hospital. Der kunde være Tale om, at Havnen burde betale det, men det Spørgsmaal kunde udskydes, til man saa, hvad Staten vil yde dertil.
+Overgik til 2. Behandling.
+"	1944	8	24
+"30"	1944-08-24	"closed"	"19440824B_81.pdf"	7	"658-1944"	"Redegørelse fra Udvalget for frivillig Hjælp under Epidemier over, hvad Udvalget hidtil har foretaget samt Forslag om, at der for Tiden ikke foretages yderligere.
+Tiltraadtes.
+"	1944	8	24
+"31"	1944-08-24	"closed"	"19440824B_81.pdf"	7	"1296-1943"	"Indstilling fra Budgetudvalget om, at Arbejdet med en Kaproningsbane paa Brabrand Sø optages blandt Kommunens Beredskabsarbejder.
+Udvalget indstiller, at Projektet optages blandt Kommunens Beredskabsarbejder, dog paa Betingelse af, at Staten frafalder Kravet om, at Kommunen skal deltage med 25 % af Totaludgiften, samt at Staten bevilger det store Tilskud (150 % i Stedet for 120 % af Arbejdslønnen) til Arbejdet.
+Borgmesteren anbefalede Indstillingen. Man vilde søge at presse Staten op paa det mest mulige, saa det ikke bliver særlig dyrt for Kommunen. Det kunde blive en god Foranstaltning
+"	1944	8	24
+"32"	1944-08-24	"closed"	"19440824B_81.pdf"	8	"1296-1943"	"sammen med den paatænkte Sti omkring Brabrand Sø.
+Indstillingen vedtoges.
+"	1944	8	24
+"33"	1944-08-24	"closed"	"19440824B_81.pdf"	8	"74-1944"	"Andragende fra Kaj Løntoft om Bevilling til Stadepladser for Kaffevogne.
+Bevillingsnævnet kan for Tiden ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1944	8	24
+"34"	1944-08-24	"closed"	"19440824B_81.pdf"	8	"33_26-1944"	"Indstilling fra Vejteknisk Udvalg om, at Afdelingsingeniør E. Rosenstand under Stadsingeniørens Fraværelse indtil videre konstitueres som Stadsingeniør.
+Johanne Berg anmodede om at faa Sagen udsat.
+Udsattes.
+"	1944	8	24
+"35"	1944-08-24	"closed"	"19440824B_81.pdf"	8	"33_27-1944"	"Indstilling fra Vandværksudvalget om, at Afdelingsingeniør E. Frederiksen under Stadsingeniørens Fraværelse indtil videre konstitueres som Leder af Vandværket.
+Indstillingen vedtoges.
+"	1944	8	24
+"36"	1944-08-24	"closed"	"19440824B_81.pdf"	8	"33_25-1944"	"Indstilling fra Socialudvalget om, at Fuldmægtig Hall Nielsen konstitueres som Ekspeditionssekretær og Overassistent Poul Hansen som Fuldmægtig paa Socialkontoret.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1944	8	24
+"37"	1944-08-24	"closed"	"19440824B_81.pdf"	8	"823-1944"	"Andragende fra Kontorassistent ved Socialkontoret K. J. F. Paludan om fuld Løn under Sygdom i indtil 6 Maaneder.
+Anbefalet af Socialudvalget og Lønudvalget.
+Bevilgedes.
+"	1944	8	24
+"38"	1944-08-24	"closed"	"19440824B_81.pdf"	8	"29_4-1944"	"Andragende fra Arbejdsmand ved Belysningsvæsenet J. M. R. Hansen om Afsked med Pension.
+Bevilgedes. Pensionen fastsattes til 2.145 Kr.
+"	1944	8	24
+"39"	1944-08-24	"closed"	"19440824B_81.pdf"	8	"29_5-1944"	"Andragende fra Retorthusarbejder S. Bøgh Sørensen
+"	1944	8	24
+"40"	1944-08-24	"closed"	"19440824B_81.pdf"	9	"29_5-1944"	"om Afsked med Pension.
+Bevilgedes. Pensionen fastsattes til 2220 Kr.
+"	1944	8	24
+"41"	1944-08-24	"closed"	"19440824B_81.pdf"	9	"822-1944"	"Indstilling om Bevilling af Pension til fhv. Politiassistent A G. Hauerbachs Enke.
+Pensionen fastsattes til 1.000 Kr. aarlig.
+"	1944	8	24
+"42"	1944-08-24	"closed"	"19440824B_81.pdf"	9	"550-1944"	"Indstilling fra Skoleudvalget om, at Understøttelserne til de fhv. Rengøringskvinder Marie Hansen, Anna E. Holst og Ane M. Svendsen forhøjes fra 100 Kr. til 150 Kr.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1944	8	24
+"43"	1944-08-24	"closed"	"19440824B_81.pdf"	9	"729-1944"	"Indstilling fra Skoleudvalget om Bevilling af Understøttelse til fhv. Rengøringskvinde Rasmine Jensen.
+150 Kr. bevilgedes.
+"	1944	8	24
+"44"	1944-08-24	"closed"	"19440824B_81.pdf"	9	"531-1944"	"Indstilling fra Skoleudvalget om Bevilling af Understøttelse til fhv. Rengøringskvinde Vilhelmine Nielsen.
+100 Kr. bevilgedes.
+"	1944	8	24
+"45"	1944-08-24	"closed"	"19440824B_81.pdf"	9	"727-1944"	"Indstilling fra Skoleudvalget om Bevilling af Understøttelse til fhv. Rengøringskvinde Nielsine Laursen.
+150 Kr. bevilgedes.
+"	1944	8	24
+"46"	1944-08-24	"closed"	"19440824B_81.pdf"	9	"689-1944"	"Forslag fra Landsretssagfører Bjøreng om, at der udmeldes en Revisor til at revidere Anthon Sørensen og Hustruers Legat.
+Socialudvalget foreslaar at overdrage Revisionen til Revisor Lesner mod et Honorar paa 200 Kr.
+Tiltraadtes.
+"	1944	8	24
+"47"	1944-08-24	"closed"	"19440824B_81.pdf"	9	"32_2-1944"	"Indstilling fra Socialudvalget om, at S. J. Sørensen Høj anbringes i Arbejdsanstalten i 3 Maaneder.
+Tiltraadtes.
+"	1944	8	24
+"48"	1944-08-24	"closed"	"19440824B_81.pdf"	10	"16_15-1944 og 16_16-1944"	"Indstilling fra Socialudvalget om, at Kommunehjælp ydet 14 nærmere angivne Personer ikke skal have valgretsfortabende Virkning.
+Indstillingen vedtoges.
+"	1944	8	24
+"49"	1944-08-24	"closed"	"19440824B_81.pdf"	10	"16_17-1944"	"Indstilling fra Socialudvalget om Ydelse af Kommunehjælp til en Person i H. t. Forsorgslovens § 293.
+Indstillingen vedtoges.
+"	1944	8	24
+"50"	1944-08-24	"closed"	"19440824B_81.pdf"	10	"12_3-1944 og 12_4-1944 og 12_5-1944"	"Indstilling fra Socialudvalget om personligt Tillæg til Rentenydere.
+Indstillingen vedtoges.
+"	1944	8	24
+"51"	1944-08-24	"closed"	"19440824B_81.pdf"	10	"12_4-1944"	"Indstilling fra Socialudvalget om Bevilling af Huslejetilskud til en Aldersrentenyder.
+Indstillingen vedtoges.
+"	1944	8	24
+"52"	1944-08-24	"closed"	"19440824B_81.pdf"	10	"17_15-1944"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet 6 nærmere angivne Personer.
+Indstillingen vedtoges.
+"	1944	8	24
+"53"	1944-08-24	"closed"	"19440824B_81.pdf"	10	"17_14-1944 og 17_16-1944 og 17_18-1944 og 17_17-1944"	"Indstilling fra Socialudvalget om Eftergivelse af
+Hjælp ydet til:
+a.(J.Nr.17_14-1944).Chr. S. Vestergaard.
+b.(J.Nr.17_16-1944).H. Bøgh Sørensen.
+c.(J.Nr.17_18- 1944).Poul F. R. Nielsen.
+d.(J.Nr.17_17-1944).Hansine K. Jensen.
+I. C. Sørensen fandt det mærkeligt at eftergive Hjælpen til Poul Nielsen, som sidste Aar havde tjent 13.000 Kr.
+Chr. Nielsen oplyste, at han skyldte 2.400 Kr. og tilbød at betale 1.600 Kr., og hvis man ikke tog derimod, fik man maaske senere slet intet.
+Indstillingen vedtoges.
+"	1944	8	24
+"54"	1944-08-24	"closed"	"19440824B_81.pdf"	10	"99_2-1944"	"Andragende fra Murermester Harald Andersen om at maatte overtage Tømrermester P. B. Kjeldsens
+"	1944	8	24
+"55"	1944-08-24	"closed"	"19440824B_81.pdf"	11	"99_2-1944"	"Statslaan i Ejendommen Nordborggade 14.
+Anbefaledes.
+"	1944	8	24
+"56"	1944-08-24	"closed"	"19440824B_81.pdf"	11	"826-1944"	"Licitationstilbud paa Opførelse af Kiosk med Nødtørftshus ved Marienlund.
+J. R. Fanger vidste ikke, om man kan bygge Huset nu. Der var selvfølgelig Brug for en Nødtørftsanstalt, men ikke for en Ventesal da man ikke mere havde Sporvogne, saa det var maaske rigtigst at stille Sagen i Bero.
+Borgmesteren var enig med Hr. Fanger heri. Hvis man igen fik Sporvogne, vilde Linien sikkert blive forlænget til Enden af Riis Skov, og muligvis vilde man bygge Remise der, saa var der ingen Brug for Vagtstue ved Marienlund. Maaske var der Brug for en Nødtørftsanstalt ved Marienlund, men man burde vist foreløbig henlægge Sagen.
+H. P. Jensen var meget glad ved Forslaget om en Nødtørftsanstalt her, idet den vilde afhjælpe et stort Savn for Skoven. Muligvis var Tiden ikke inde dertil paa Grund af Forholdene, men forhaabentlig kunde Sagen senere tages op.
+Oluf Nielsen antog, at Overenskomsten med Kioskselskabet maa falde bort, hvis der ikke bliver Endestation ved Marienlund, for saa var Selskabet næppe interesseret deri, og i saa Fald maatte hele Projektet laves om. Maaske kunde der laves en lille Nødtørftsanstalt inde i Skoven.
+Sagen gik tilbage til Udvalget.
+"	1944	8	24
+"57"	1944-08-24	"open"	"19440824_67.pdf"	1	"no related record"	"Mødet den 24. August 1944.
+Fraværende: Esther Aggebo, Bernhard Jensen, K. Mousten og Sigvald Nielsen.
+Borgmesteren bød Medlemmerne velkommen til det første Møde efter Ferien med Ønsket om, at alle møder med Energi og Lyst til at tage fat paa Opgaverne i den kommende Tid.
+I Ferien var der i Aarhus sket en Række Katastrofer af forskellig Art, og af disse havde to været af særlig alvorlig Karakter. Den første foregik den 4. Juli ved Havnen, hvor et Ammunitionslager eksploderede med forfærdende Virkning. Det alvorligste var, at det kostede 33 Danske Livet foruden flere Hundrede saarede, og 12 af de dræbte kunde overhovedet ikke indentificeres. Tilbage sad nu Enker og Børn og andre Paarørende, og Taleren havde paa Byraadets Vegne udtalt Medfølelse overfor dem og ydet dem den Støtte, som Byraadet straks efter Katastrofen havde vedtaget at yde. Man forstod den Sorg, som var skabt i disse Hjem og følte med dem, som havde lidt ved Katastrofen.
+Den 22. August skete en ny Katastrofe af større Omfang end sædvanligt, nemlig Sabotage
+"	1944	8	24
+"58"	1944-08-24	"open"	"19440824_67.pdf"	2	"no related record"	"mod Sporvejene, hvorved 25 Hovedvogne og 21 Bivogne samt 14 Trambusser blev fuldstændig ødelagt, og der blev kun reddet 1 Bivogn og 4 Trambusser. I Garagen ved Silkeborgvej fandtes 22 Trambusser, hvoraf dog et Par var ubrugelige. 17 af dem var forsynet med Generator, og det kunde maaske ske for de 3 øvrige, hvorved der blev 20 brugelige. Ved Sprængningen og den dermed følgende Brand ødelagdes ogsaa Sporvognsremisen med Værktøj, Maskiner, Lager o.s. v. Sporvejsudvalget samledes straks om Morgenen for at besigtige Skaden og drøfte, hvad der kunde gøres for at faa Trafikken i Gang. Sporvogne kunde ikke faas her i Landet, og det var meget vanskeligt at skaffe Materiel andetsteds fra. Der var fort mange Forhandlinger med Institutioner og Enkeltpersoner, og der blev gjort alt for at faa en Kørsel etableret i Byen. Linien fra Riisskov var forlænget til Østbanegaarden; man vilde forsøge at gennemføre Ruter fra Remisen og Kongsvang til Banegaarden, og der vilde blive forsøgt at føre en Linie gennem Byen til Marienlund og Christiansbjerg. Der blev endnu mange Forhandlinger at føre, men der vilde blive gjort alt for at faa en nødtørftig Trafik gennem Byen.
+Attentatet mod Sporvejene var af en saadan Beskaffenhed, at man med Afsky maatte vende sig derfra, og man kunde vist rolig sige, at det ikke er lavet af gode danske Mænd, men af Forbrydere og Gangstere. Forhaabentlig kunde man blive forskaanet for altfor mange Ulykker af den Art, og det var ønskeligt, at Freden snart maatte komme, saa man her i Landet igen kunde faa Lov til frit at udøve Dagens Gerning.
+"	1944	8	24
+"59"	1944-08-24	"open"	"19440824_67.pdf"	3	"22_11-1944 og 22_10-1944 og 22_9-1944 og 11_8-1944 og 11_7-1944 og 22_7-1944 og 22_6-1944 og 22_8-1944 og 22_2-1944 og 11_5-1944 og 22_5-1944 og 11_6-1944 og 11_1-1944 og 22_15-1944 og 22_16-1944 og 22_13-1944 og 11_11-1944 og 11_12-1944 og 11_13-1944 og 11_9-1944 og 11_10-1944 og 22_12-1944 og 147-1944"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a.(J. Nr. 22_11-1944). Maskinarbejder C. V. Jørgensen.
+b.(J. Nr. 22_10-1944). Repræsentant M. Andreasen.
+c.(J. Nr. 22_9-1944). Adjunkt V. Pedersen.
+d.(J. Nr. 11_8 -1944). Enkefru A. F. Jensen.
+e.(J. Nr. 11_7-1944). Lærerinde K. M. Jensen.
+f.(J. Nr. 22_7-1944). Gasmester Chr. Johansen.
+g.(J.Nr.22_6-1944).Samme.
+h.(J.Nr.22_8-1944).Cyklehandler J.Pedersen.
+i.(J.Nr.22_2-1944).Konstruktør A. E. Iversen,
+j. (J.Nr.11_5-1944).Forvalter B.V. Olsen.
+k. (J.Nr.22_5-1944).Murermester H.Andersen.
+l.(J. Nr. 11_6-1944). Arbejdsmand S. Degn. 
+m. (J. Nr. 11_1-1944). Skræder K. E. Pedersen, 
+n. (J. Nr. 22_15-1944. Arkitekt Salling Mortensen,
+o.(J. Nr. 22_16-1944). Tømrermester P. B. Kjeldsen, 
+p. (J. Nr. 22_13-1944). Samme, 
+q. (J. Nr. 11_11-1944). Tømrermester R. Nielsen, 
+r. (J. Nr. 11_12- 1944). Fru M. K. Oehlerich. 
+s. (J. Nr. 11_13-1944). Snedker C. J. Sørensen, 
+t. (J. Nr. 11_9-1944). Tømrermester Kirk Mikkelsen, 
+u. (J. Nr. 11_10-1944). Viggo Nielsen, 
+v. (J. Nr. 22_12-1944). Automobilforhandler M. M. Hansen og M. P. Hansen, 
+x. (J. Nr. 147-1944). Kvindehjælpen i Aarhus. Toges til Efterretning.
+"	1944	8	24
+"60"	1944-08-24	"open"	"19440824_67.pdf"	3	"393-1944"	"Indenrigsministeriets Godkendelse af Forhøjelse af Taksten for Befordring til Hospitalerne i disses Vogne.
+Toges til Efterretning.
+"	1944	8	24
+"61"	1944-08-24	"open"	"19440824_67.pdf"	3	"418-1944"	"Indenrigsministeriets Godkendelse af, at der oprettes en kommunal Klinik for Patienter med veneriske Sygdomme.
+Toges til Efterretning.
+"	1944	8	24
+"62"	1944-08-24	"open"	"19440824_67.pdf"	4	"99_6-1944"	"Meddelelse fra Indenrigsministeriet om Bevilling af Statslaan til Bagermester C. Trier Hansen til en Beboelsesbygning ved Fuglebakkevej.
+Toges til Efterretning.
+"	1944	8	24
+"63"	1944-08-24	"open"	"19440824_67.pdf"	4	"99_5-1944"	"Meddelelse fra Indenrigsministeriet om Bevilling af Statslaan til Gasmester Chr. Johansen til en Beboelsesbygning ved Haderslevgade.
+Toges til Efterretning.
+"	1944	8	24
+"64"	1944-08-24	"open"	"19440824_67.pdf"	4	"99_2-1944"	"Indenrigsministeriets Samtykke til, at Murermester Har. Andersen indtræder som Laantager for det til Tømrermester P. B. Kjeldsen bevilgede Statslaan til en Beboelsesbygning Nordborggade 14.
+Toges til Efterretning.
+"	1944	8	24
+"65"	1944-08-24	"open"	"19440824_67.pdf"	4	"532-1944"	"Skrivelse fra Ministeriet for offentlige Arbejder om Ændring i Havne- og Brotaksten for Aarhus Havn.
+Toges til Efterretning.
+"	1944	8	24
+"66"	1944-08-24	"open"	"19440824_67.pdf"	4	"277-1944"	"Skrivelse fra Trafikministeriet om Fornyelse af den Kommunen meddelte Eneretsbevilling paa Anlæg og Drift af Sporvejene.
+Toges til Efterretning.
+"	1944	8	24
+"67"	1944-08-24	"open"	"19440824_67.pdf"	4	"521-1944"	"Meddelelse fra Undervisningsministeriet om, at Lærer Niels Ribergaard bevilges Afsked med Pension fra 31/8 1944.
+Toges til Efterretning.
+"	1944	8	24
+"68"	1944-08-24	"open"	"19440824_67.pdf"	4	"268-1944"	"Meddelelse fra Undervisningsministeriet om, at Lærerinde Fru Inga Nilsson bevilges Afsked fra 31/8 1944.
+Toges til Efterretning.
+"	1944	8	24
+"69"	1944-08-24	"open"	"19440824_67.pdf"	4	"512-1944"	"Kirkeministeriets Samtykke til, at der anbringes cementerede Dækningsgrave paa Søndre Kirkegaard.
+Toges til Efterretning.
+"	1944	8	24
+"70"	1944-08-24	"open"	"19440824_67.pdf"	5	"574-1944 og 575-1944"	"Skrivelse fra Arbejdsministeriet med Vilkaar for Godkendelse af Projekterne \"Omlægning af private Veje\" og \"Anlæg af et Stykke af Marselis Boulevard\" som Beredskabsarbejder.
+Vedtaget ved Cirkulation.
+"	1944	8	24
+"71"	1944-08-24	"open"	"19440824_67.pdf"	5	"428-1944"	"Meddelelse fra Købstædernes alm. Brandforsikring om Tilskud paa 9.000 Kr. til et Radio- og Kommandoanlæg til Brandvæsenet.
+Toges til Efterretning.
+"	1944	8	24
+"72"	1944-08-24	"open"	"19440824_67.pdf"	5	"756-1944"	"Meddelelse fra Hads-Ning Herreders Jernbane om Afholdelse af Generalforsamling den 23. August.
+H.P. Jensen og Ejner Mikkelsen valgtes til Repræsentanter.
+"	1944	8	24
+"73"	1944-08-24	"open"	"19440824_67.pdf"	5	"772-1944"	"Meddelelse fra Gudenaacentralen om Afholdelse af Generalforsamling den 26.August.
+Belysningsudvalget valgtes til Repræsentanter.
+"	1944	8	24
+"74"	1944-08-24	"open"	"19440824_67.pdf"	5	"23_7-1944"	"Regnskab for Aarhus Idrætspark samt Budgetforslag for 1944- 45.
+Toges til Efterretning.
+"	1944	8	24
+"75"	1944-08-24	"open"	"19440824_67.pdf"	5	"579-1944"	"Tillægsbevillinger paa 10.124,66 Kr. paa Forsørgelsesvæsenets Konti for 1943- 44. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	8	24
+"76"	1944-08-24	"open"	"19440824_67.pdf"	5	"578-1944"	"Tillægsbevillinger paa 122.277 Kr. paa Forsørgelsesvæsenets Konti for 1943- 44. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	8	24
+"77"	1944-08-24	"open"	"19440824_67.pdf"	5	"32-1944"	"Efterbevilling af Overskridelser i Sundhedskommissionens Regnskab. - 2. Behandling.
+Efterbevilling meddeltes.
+"	1944	8	24
+"78"	1944-08-24	"open"	"19440824_67.pdf"	6	"619-1944"	"Overførelse til 1944-45 af Bevilling til Arkitektkonkurrence ved Bebyggelsen af Museumsgrunden. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	8	24
+"79"	1944-08-24	"open"	"19440824_67.pdf"	6	"620-1944"	"Indstilling om Overførsel til Driftsregnskabet af Udgifter, der forskudsvis er afholdt af Kassebeholdningen. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	8	24
+"80"	1944-08-24	"open"	"19440824_67.pdf"	6	"621-1944"	"Indstilling om, at det budgetterede Beløb paa 120.000 Kr. til Klubhus ved Dalgas Avenue overføres til en særlig Fond. -
+2.Behandling.
+Indstillingen vedtoges.
+"	1944	8	24
+"81"	1944-08-24	"open"	"19440824_67.pdf"	6	"622-1944"	"Indstilling om Bevilling til Anlæg af Bøgebjergvej og en Del af Egebæksvej. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	8	24
+"82"	1944-08-24	"open"	"19440824_67.pdf"	6	"623-1944"	"Indstilling om Bevilling til Landsforeningen for Sukkersyge. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	8	24
+"83"	1944-08-24	"open"	"19440824_67.pdf"	6	"641-1944"	"Bevilling tilen Støtteforening for Aarhus permanente Udstilling. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	8	24
+"84"	1944-08-24	"open"	"19440824_67.pdf"	6	"716-1941"	"Indstillingom Bevilling af
+5.000Kr. ttl sønderjydske Børns Ophold i Aarhus. - 2. Behandling.
+(1. Behandling afgjort ved Cirkulation).
+Indstillingen vedtoges.
+"	1944	8	24
+"85"	1944-08-24	"open"	"19440824_67.pdf"	6	"617-1944"	"Indstillingom Bevilling af
+425Kr.til Ferieophold for Børn fra Sct. Lukas Sogns Menighedsbørnehave. - 2. Behandling.
+(1. Behandling afgjort ved Cirkulation).
+Indstillingen vedtoges.
+"	1944	8	24
+"86"	1944-08-24	"open"	"19440824_67.pdf"	7	"529-1944"	"Indstilling omBevillingaf
+600 Kr. til Trøjborg Folkebørnehaves Feriekoloni. - 2. Behandling.
+(1. Behandling afgjort ved Cirkulation).
+Indstillingen vedtoges.
+"	1944	8	24
+"87"	1944-08-24	"open"	"19440824_67.pdf"	7	"646-1944"	"Indstilling omBevillingaf
+145 Kr.til Børnehjemmet Granlys Sommerlejr.-
+2.Behandling.
+(1. Behandling afgjort ved Cirkulation).
+Indstillingen vedtoges.
+"	1944	8	24
+"88"	1944-08-24	"open"	"19440824_67.pdf"	7	"817-1944"	"Indstilling fraBelysningsudvalget om, at der paa Arbejdsplanen stilles 125.000Kr. til Raadighed til Elektricitetsværkets Udvidelser.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	8	24
+"89"	1944-08-24	"open"	"19440824_67.pdf"	7	"710-1944"	"Indstilling fra Belysningsudvalget om Bevilling af 100.000 Kr. til Indkøb af Varmemaalere og Udførelse af Tilslutningsarbejder af det paa Arbejdsplanen afsatte Beløb til Fjernvarmeanlæget.
+Tiltraadt af Budgetudvalget saaledes, at Bevillingen kun gives indenfor Regnskabsaaret 1944 -45, saa Overførsel af en eventuel Restbevilling ikke vil kunne finde Sted.
+Overgik til 2. Behandling.
+"	1944	8	24
+"90"	1944-08-24	"open"	"19440824_67.pdf"	7	"761-1944"	"Indstilling fra Belysningsudvalget om Nedsættelse af Gasprisen.
+Udvalget indstiller, at Gasprisen nedsættes fra 26 Øre til 23 Øre pr. m3, og at den derved fremkomne Mindreindtægt afholdes paa Regnskabsaaret for 1943-44 saaledes, at Beløbet overføres til Belysningsvæsenets Dispositionsfond, hvorfra det overføres til Regnskabet for 1944-45.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	8	24
+"91"	1944-08-24	"open"	"19440824_67.pdf"	8	"711-1944"	"Indstilling fra Belysningsudvalget om, at der af det til Etablering af 60 kW Linien Høskoven-Tousgaard bevilgede Beløb stilles 3.500 Kr. til Raadighed paa Arbejdsplanen.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	8	24
+"92"	1944-08-24	"open"	"19440824_67.pdf"	8	"815-1944"	"Andragende fra Sundhedskommissionen om Bevilling paa 19.880 Kr. til Indretning af Levnedsmiddelkontrollens nye Laboratorium.
+Anbefalet af Budgetudvalget.
+Borgmesteren oplyste, at Laboratoriet skal flyttes fra Belysningsvæsenets Administrationsbygning til den ny Bygning paa Slagtehuset, og Belysningsvæsenet ønskede at beholde det nuværende Inventar, som det tidligere havde anskaffet.
+Overgik til 2. Behandling.
+"	1944	8	24
+"93"	1944-08-24	"open"	"19440824_67.pdf"	8	"714-1944"	"Indstilling fra Budgetudvalget om Tillægsbevilling paa 1.555 Kr. til Lejeafgift af Husvildeafdelingen i Havnens Administrationsbygning.
+Overgik til 2. Behandling.
+"	1944	8	24
+"94"	1944-08-24	"open"	"19440824_67.pdf"	8	"3_11-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Efterbevilling af forskellige Udgifter vedrørende Indkvartering af Husvilde.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	8	24
+"95"	1944-08-24	"open"	"19440824_67.pdf"	8	"715-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Indretning af Husvildeboliger i Volden 32 og om Tillægsbevilling paa 6.500 Kr. hertil.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	8	24
+"96"	1944-08-24	"open"	"19440824_67.pdf"	9	"595-1944"	"Indstilling fra Socialudvalget om Tillægsbevilling paa 3.286,60 Kr. til Anskaffelse af Værktøj m. m. til L. A. B.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	8	24
+"97"	1944-08-24	"open"	"19440824_67.pdf"	9	"3_12-1944"	"Indstilling fra Markudvalget om Efterbevilling af en Overskridelse i Regnskabet vedrørende Anlæg af Kolonihaver m. in.
+Overgik til 2. Behandling.
+"	1944	8	24
+"98"	1944-08-24	"open"	"19440824_67.pdf"	9	"3_15-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Efterbevilling af Overskridelse vedrørende Konkurrencen om en Bebyggelsesplan for et Areal ved Botanisk Have.
+Overgik til 2. Behandling.
+"	1944	8	24
+"99"	1944-08-24	"open"	"19440824_67.pdf"	9	"3_16-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Efterbevilling af Overskridelse vedrørende Vejanlæg mellem Silkeborgvej og Vestre Kirkegaard.
+Overgik til 2. Behandling.
+"	1944	8	24
+"100"	1944-08-24	"open"	"19440824_67.pdf"	9	"317-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Efterbevilling af Overskridelse vedrørende Anlæg af Gustav Wieds Vej.
+Overgik til 2. Behandling.
+"	1944	8	24
+"101"	1944-08-24	"open"	"19440824_67.pdf"	9	"320-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Efterbevilling af Overskridelse vedrørende Reguleringsarbejder, Gadeanlæg m. m.
+Overgik til 2. Behandling.
+"	1944	8	24
+"102"	1944-08-24	"open"	"19440824_67.pdf"	9	"3_8-1944 og 3_7-1944 og 3_19-1944 og 3_9-1944 og 3_3-1944 og 3_10-1944 og 3_5-1944 og 3_4-1944 og 3_22-1944 og 3_18-1944 og 3_14-1944 og 3_21-1944"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_8-1944). Børnebibliotekerne.
+b.(J. Nr. 3_7-1944). Folkebibliotekerne.
+c.(J. Nr. 3_19-1944). Skolevæsenet.
+d.(J. Nr. 3_9-1944). Kommunehospitalet.
+e.(J. Nr. 3_3-1944). Marselisborg Hospital.
+"	1944	8	24
+"103"	1944-08-24	"open"	"19440824_67.pdf"	10	"3_8-1944 og 3_7-1944 og 3_19-1944 og 3_9-1944 og 3_3-1944 og 3_10-1944 og 3_5-1944 og 3_4-1944 og 3_22-1944 og 3_18-1944 og 3_14-1944 og 3_21-1944"	"f.(J. Nr. 3_10-1944). Tuberkulosestationen.
+g.(J. Nr. 3_5-1944). Indkvarteringsvæsenet.
+h.(J. Nr. 3_4-1944). Vejvæsenet.
+i.(J.Nr.3_22-1944).Hovedbogholderikontoret.
+j.(J.Nr.3_18-1944).Boligkommissionen.
+k.(J.Nr.3_14-1944).Husvildeafdelingerne.
+I.(J.Nr.3_21-1944).Raadhuset.
+Overgik til 2. Behandling.
+"	1944	8	24
+"104"	1944-08-24	"open"	"19440824_67.pdf"	10	"345-1944"	"Andragende fra Dansk Forening til Kønssygdommenes Bekæmpelse om Tilskud.
+Budgetudvalget foreslaar at yde 1.000 Kr. Overgik til 2. Behandling.
+"	1944	8	24
+"105"	1944-08-24	"open"	"19440824_67.pdf"	10	"614-1944"	"Skrivelse fra Indenrigsministeriets Konsulenter i Rottesager angaaende Foranstaltninger til Udryddelse af Rotter.
+Belysningsudvalget indstiller, at der med passende Mellemrum meddeles Grundejerne Oplysning om det fulde Omfang af deres Pligter, samt at der en Gang aarlig foretages Kontroleftersyn af samtlige Ejendomme, hvilke Foranstaltninger skønsmæssig anslaas at ville medføre en Udgift paa 7-8.000 Kr. aarlig.
+Tiltraadt af Budgetudvalget saaledes, at der for indeværende Aar gives Tillægsbevilling hertil paa 8.000 Kr.
+Overgik til 2. Behandling.
+"	1944	8	24
+"106"	1944-08-24	"open"	"19440824_67.pdf"	10	"816-1944"	"Andragende fra kommunale Tjenestemænd om Forhøjelse af Tilskud til Kursus ved Den jydske Handelshøjskoles Specialstudier i Regnskabsvæsen.
+Fra Økonomidirektøren forelaa Forslag om, at Tilskudet forhøjes til 900 Kr. pr. Deltager for hele Kursuset, som udbetales med 150 Kr. aarlig de to første Aar og 300 Kr. aarlig de to sidste Aar. Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	8	24
+"107"	1944-08-24	"open"	"19440824_67.pdf"	11	"773-1944"	"Indstilling om Tillægsbevilling paa 8,50 Kr. til Udgivelse af Medicinalberetningen.
+Overgik til 2. Behandling.
+"	1944	8	24
+"108"	1944-08-24	"open"	"19440824_67.pdf"	11	"230-1944"	"Indstilling om Bevilling af
+11.500Kr. til Fortsættelse af Beskæftigelsesarbejde for erhvervshæmmede Personer.
+Overgik til 2. Behandling.
+"	1944	8	24
+"109"	1944-08-24	"open"	"19440824_67.pdf"	11	"788-1944"	"Indstilling fra Observatorieudvalget om Bevilling af 10.000 Kr. til en Mindefest for Ole Rømer.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	8	24
+"110"	1944-08-24	"open"	"19440824_67.pdf"	11	"754-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Bevilling af
+2.500Kr. til Ombygning af en Trappe i Mejlgade 59.
+Fra Budgetudvalget forelaa følgende Erklæring:
+\"Mod Udvalgets Indstilling vides intet at erindre, idet man dog skal henstille, at der saavidt mulig opnaas en Forlængelse af Lejekontrakten med Eddikebryggeriet for en længere Aarrække, saaledes at Kommunen med sædvanligt Varsel kan opsige Lejemaalet i Tilfælde af, at Ejendommen skal nedrives som Følge af Gadeudvidelse eller lignende.\"
+Overgik til 2. Behandling.
+"	1944	8	24
+"111"	1944-08-24	"open"	"19440824_67.pdf"	11	"460-1944"	"Indstilling om Bevilling af et Beløb til Beredskabsprojektering i H t Indenrigsministeriets Cirkulære af 26. April 1944.
+Fra Stadsarkitekten forelaa Forslag om Fordeling af Statstilskudet mellem de forskellige Projekter samt Forslag om, at man meddeler Indenrigsministeriet, at Statstilskudet er opbrugt,
+"	1944	8	24
+"112"	1944-08-24	"open"	"19440824_67.pdf"	12	"460-1944"	"og anmoder om endnu et Beløb af omtrent samme Størrelse, saaledes at der ialt kan ydes Tilskud til Projektering af ca. 500 Lejligheder.
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse.
+Indstillingen vedtoges.
+"	1944	8	24
+"113"	1944-08-24	"open"	"19440824_67.pdf"	12	"389-1944"	"Forespørgsel fra Det sociale Boligbyggeri om Byraadet vil frafalde Bestemmelsen om Kommunens Ret til at overtage Selskabets Ejendomme Aar 1970.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at Kommunen frafalder Bestemmelsen.
+I. C. Sørensen anmodede om at faa Sagen udsat.
+Sagen gik tilbage til Udvalget.
+"	1944	8	24
+"114"	1944-08-24	"open"	"19440824_67.pdf"	12	"30_3-1944"	"Andragende fra Chauffør Otto F. Nielsen om Koncession paa Fragtmandskørsel paa Ruten Aarhus-Lyngaa.
+Anbefalet af Vejteknisk Udvalg paa sædvanlige Betingelser.
+Indstillingen vedtoges.
+"	1944	8	24
+"115"	1944-08-24	"open"	"19440824_67.pdf"	12	"687-1944"	"Andragende fra Aarhus Handelsstandsforenings Handelsskole om Tilladelse til at benytte Lokaler i Paradisgades og Frederiksallés Skoler.
+Anbefalet af Skoleudvalget.
+Bevilgedes.
+"	1944	8	24
+"116"	1944-08-24	"open"	"19440824_67.pdf"	12	"686-1944"	"Andragende fra Fru Marie Poulsen om Erstatning for Tilskadekomst paa Raadhuset.
+Budgetudvalget kan ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1944	8	24
+"117"	1944-08-24	"open"	"19440824_67.pdf"	12	"11_13-1944"	"Betinget Skøde med Snedker Carl J. Sørensen angaaende en Grund ved Stockholmsgade.
+Godkendtes.
+"	1944	8	24
+"118"	1944-08-24	"open"	"19440824_67.pdf"	13	"11_11-1944"	"Betinget Skøde med Tømrermester Rønnest Nielsen angaaende en Grund ved Finlandsgade.
+Godkendtes.
+"	1944	8	24
+"119"	1944-08-24	"open"	"19440824_67.pdf"	13	"22_12-1944"	"Betinget Skøde med Automobilforhandlerne M. M. Hansen og M. P. Hansen angaaende en Grund paa Hjørnet af Museumsgade, Thorvaldsensgade og Vestergade.
+Godkendtes.
+"	1944	8	24
+"120"	1944-08-24	"open"	"19440824_67.pdf"	13	"11_9-1944"	"Betinget Skøde med Tømrermester Kirk Mikkelsen angaaende en Grund ved Finlandsgade.
+Godkendtes.
+"	1944	8	24
+"121"	1944-08-24	"open"	"19440824_67.pdf"	13	"11_12-1944"	"Købekontrakt med Fru M. K. Oehlerich angaaende en Grund ved Nordvestpassagen.
+Godkendtes.
+"	1944	8	24
+"122"	1944-08-24	"open"	"19440824_67.pdf"	13	"22_15-1944"	"Købekontrakt med Civilingeniør J. N. Marcussen angaaende en Grund ved Jyllandsallé.
+Godkendtes.
+"	1944	8	24
+"123"	1944-08-24	"open"	"19440824_67.pdf"	13	"22_15-1944"	"Købekontrakt med Arkitekt Salling Mortensen angaaende en Grund ved Jyllandsallé.
+Godkendtes.
+"	1944	8	24
+"124"	1944-08-24	"open"	"19440824_67.pdf"	13	"11_10-1944"	"Købekontrakt med Viggo Nielsen angaaende en Grund ved Ndr. Ringgade.
+Godkendtes.
+"	1944	8	24
+"125"	1944-08-24	"open"	"19440824_67.pdf"	13	"22_16-1944"	"Købekontrakt med Tømrermester P. B. Kjeldsen angaaende en Grund Nordborggade 12.
+Godkendtes.
+"	1944	8	24
+"126"	1944-08-24	"open"	"19440824_67.pdf"	13	"22_13-1944"	"Købekontrakt med Tømrermester P. B. Kjeldsen angaaende en Grund Nordborggade 6.
+Godkendtes.
+"	1944	8	24
+"127"	1944-08-24	"open"	"19440824_67.pdf"	14	"22_22-1944"	"Købekontrakt med Murermester Har. Andersen angaaende en Grund Nordborggade 14.
+Godkendtes.
+"	1944	8	24
+"128"	1944-08-24	"open"	"19440824_67.pdf"	14	"22_23-1944"	"Købekontrakt med Murermester M. Laugesen angaaende en Grund Nordborggade 10.
+Godkendtes.
+"	1944	8	24
+"129"	1944-08-24	"open"	"19440824_67.pdf"	14	"22_24-1944"	"Købekontrakt med Murermester M. Laugesen angaaende en Grund Nordborggade 8.
+Godkendtes.
+"	1944	8	24
+"130"	1944-08-24	"open"	"19440824_67.pdf"	14	"667-1944"	"Godkendelse af Fundatser for to af Aarhus Stiftsbogtrykkeri oprettede Legater.
+Anbefalet af Legatudvalget.
+Tiltraadt ved Cirkulation.
+"	1944	8	24
+"131"	1944-08-24	"open"	"19440824_67.pdf"	14	"456-1944"	"Andragende fra Aarhus Akademi, Thunøgade 2 A, om Fritagelse for kommunal Grund- og Ejendomsskyld.
+Anbefalet af Budgetudvalget fra 1. April 1944 indtil videre.
+Vedtaget ved Cirkulation.
+"	1944	8	24
+"132"	1944-08-24	"open"	"19440824_67.pdf"	14	"704-1944"	"Andragende fra K. F. U. K., Christiansgade 30, om Fritagelse for Kommuneskat i samme Omfang som for Statsskattens Vedkommende.
+Anbefalet af Budgetudvalget.
+Vedtaget ved Cirkulation.
+"	1944	8	24
+"133"	1944-08-24	"open"	"19440824_67.pdf"	14	"703-1944"	"Andragende fra Aarhus Oliefabriks Arbejderes Stiftelse om Fritagelse for Kommuneskat for 1943-44.
+Anbefalet af Budgetudvalget.
+Vedtaget ved Cirkulation.
+"	1944	8	24
+"134"	1944-08-24	"open"	"19440824_67.pdf"	14	"592-1944"	"Andragende fra  
+"	1944	8	24
+"135"	1944-08-24	"open"	"19440824_67.pdf"	15	"592-1944"	"Frimurerstiftelsen om Fritagelse for kommunale Ejendomsskatter af Stiftelsens Friboliger.
+Anbefalet af Budgetudvalget fra 1/4 1944.
+Indstillingen vedtoges.
+"	1944	8	24
+"136"	1944-08-24	"open"	"19440824_67.pdf"	15	"818-1944"	"Indstilling om, at Udvalget for Byens Udvidelse og Bebyggelse bemyndiges til at træffe Afgørelse i H, t. Lejelovene vedrørende forskellige Lejeforhold.
+Indstillingen vedtoges.
+"	1944	8	24
+"137"	1944-08-24	"open"	"19440824_67.pdf"	15	"828-1944"	"Indstilling fra Brandkommissionen om Bevilling af 5.000 Kr. til Projektering af Anlæg af Branddamme m. v.
+Borgmesteren meddelte, at Sagen ikke var behandlet i Budgetudvalget, men hvis man skulde have Nytte deraf, hastede det temmelig stærkt, hvorfor Taleren vilde anbefale, at Sagen afgøres nu.
+I.C. Sørensen spurgte, hvor disse Damme skulde ligge.
+Borgmesteren svarede, at det væsentlig skulde være en Udvidelse af de nuværende Søer, men der vilde senere komme nærmere Forslag derom.
+Johanne Berg kunde paa Gruppens Vegne tiltræde Forslaget.
+I.C. Sørensen ligeledes.
+Indstillingen vedtoges.
+"	1944	8	24

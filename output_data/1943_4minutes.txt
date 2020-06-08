@@ -1,0 +1,354 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1943-04-21	"closed"	"19430421B_1.pdf"	1	"no related record"	"Mødet den 21. April 1943.
+(For lukkede Døre).
+Fraværende: Thomas Christensen og E. Rolander.
+Mødet lededes af Viceborgmester K. Mousten.
+"	1943	4	21
+"2"	1943-04-21	"closed"	"19430421B_1.pdf"	1	"116-1942"	"Indenrigsministeriets Godkendelse af Kommunens Garanti for Laan til Boligindskud i Arbejdernes Andelsboligforening.
+Toges til Efterretning
+"	1943	4	21
+"3"	1943-04-21	"closed"	"19430421B_1.pdf"	1	"32_9-1942"	"Aarhus Stiftamts Godkendelse af, at E. T. Hesseldahl anbringes paa Tvangsarbejdsanstalt.
+Toges til Efterretning.
+"	1943	4	21
+"4"	1943-04-21	"closed"	"19430421B_1.pdf"	1	"121-1942"	"Fortegnelse over afgjorte Andragender om Tilskud til Bygningsistandsættelser.
+Toges til Efterretning.
+"	1943	4	21
+"5"	1943-04-21	"closed"	"19430421B_1.pdf"	1	"1502-1942"	"Indstilling om Besættelse af Vikarpladser ved Borgerskolerne.
+Fra Skoleudvalget forelaa Forslag om at ansætte følgende:
+Laurs Gravesen, Svend Brix Olesen, Inga Christensen og Else Marie Jensen.
+Vedtaget ved Cirkulation.
+"	1943	4	21
+"6"	1943-04-21	"closed"	"19430421B_1.pdf"	1	"36-1943"	"Indstilling om, at Kommunen køber Ejendommen „Landbolyst\" ved Brendstrupvej.
+"	1943	4	21
+"7"	1943-04-21	"closed"	"19430421B_1.pdf"	2	"36-1943"	"Udvalget for Byens Udvidelse og Bebyggelse indstiller, at Ejendommen erhverves for 4000 Kr. pr. T. L. og iøvrigt paa de af Stadsingeniøren foreslaaede Vilkaar og saaledes, at Ejendommen ikke udlejes til Kolonihaver, men i Stedet søges udstykket til Bebyggelse.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Forslaget tiltrædes saaledes, at Købesummen udbetales kontant og afholdes af Boulevardkontoen, og saaledes at Arealet henlægges under Administration af Udvalget for Byens Udvidelse og Bebyggelse med Henblik paa Benyttelse af Arealet til Villa- og Rækkehusbebyggelse.\"
+Indstillingen vedtoges.
+"	1943	4	21
+"8"	1943-04-21	"closed"	"19430421B_1.pdf"	2	"111-1943"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Godkendelse af Trafikministeriets Vilkaar for Anlæg af Langenæstunnellen.
+Fra Stadsingeniøren forelaa følgende Skrivelse:
+\"Statsbanerne har nu begrænset deres Krav til Kommunens Betalingsforpligtelser ved senere Ændringer af Jernbaneforholdene til kun at omfatte de nødvendige Forandringer indenfor Statbanernes nuværende Grænse. Bestemmelsen kan nu nogenlunde overkues, hvorfor Sagen formentlig bør afsluttes hermed.
+Ministeriet forudsætter i Skrivelsen, at det i Byraadets Brev af 12. Juni 1942 under 5 og 6 omhandlede Areal \"A\" er en Udvidelse af \"B\" med Grøft etc. Dette er delvis rigtigt, men \"A\" omfattede oprindelig som vist paa hosagte Plan 
+"	1943	4	21
+"9"	1943-04-21	"closed"	"19430421B_1.pdf"	3	"111-1943"	"Statsbanernes Restareal mellem Havnebanesporet og det fremtidige Banespor i Marselis Boulevard, som vilde have dannet et udmærket Supplement til de Arealer, som Kommunen ejer ved den ny Tunnelkaj. Udvalget var dog dengang ikke interesseret i at købe dette Areal, hvorfor den fulde Definition ikke kom med i Brevet af 12. Juni 1942 til Statsbanerne.
+Da Kommunen stadig ikke har for mange Industrigrunde, specielt beliggende ved Banespor, skal jeg bede Udvalget overveje, om man ikke skulde benytte Lejligheden til at faa Statsbanerne til at acceptere Afhændelsen ogsaa af dette Areal for den foreslaaede Pris 2,50 Kr. pr. m2.\"
+Udvalget indstiller, at man i Overensstemmelse med Stadsingeniørens Forslag tiltræder Trafikministeriets Skrivelse af 6. Marts d. A. samt søger det nævnte Areal, der paa Stadsingeniørens Plan Nr. E 1149 er betegnet som \"A\", erhvervet for en Købesum af 2,50 Kr. pr. m2.
+Indstillingen vedtoges.
+"	1943	4	21
+"10"	1943-04-21	"closed"	"19430421B_1.pdf"	3	"99_2-1942 og 99_3-1942"	"Andragende fra Murermester M. Laugesen og Tømrermester P. B. Kjeldsen om Udbetaling af Statslaan i Ejendommene Skanderborgvej 92 og 94 samt om en mindre Forhøjelse af Statslaanet og Kommunens Garanti derfor.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Det indstilles, at Andragendet anbefales, saaledes at den faktiske Anskaffelsessum 107381 Kr. lægges til Grund for Statslaanets Beregning og saaledes, at Kommunen vedstaar sin
+"	1943	4	21
+"11"	1943-04-21	"closed"	"19430421B_1.pdf"	4	"99_2-1942 og 99_3-1942"	"Garanti for Statslaanet, uanset at Garantien forhøjes med 333 Kr. til 10733 Kr.\"
+Overgik til 2. Behandling.
+"	1943	4	21
+"12"	1943-04-21	"closed"	"19430421B_1.pdf"	4	"99_10-1942"	"Andragende fra Gasmester Chr. Johansen m. fl. om Udbetaling af Statslaan
+i Ejendommen Rudolph Wulffsgade 24 samt en mindre Forhøjelse af Statslaanet og Kommunens Garanti.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Det indstilles, at Andragendet anbefales, saaledes at den faktiske Anskaffelsessum 134104,18 Kr. lægges til Grund for Statslaanets Beregning og saaledes, at Kommunen vedstaar sin Garanti for Statslaanet, uanset at Kommunens Kaution forhøjes med 315 Kr. til 13328 Kr.
+Overgik til 2. Behandling.
+"	1943	4	21
+"13"	1943-04-21	"closed"	"19430421B_1.pdf"	4	"99_1-1943"	"Andragende fra cand. pharm. P. Ahnfeldt Mollerup om Statslaan paa 9100 Kr. med Kommunegaranti til Opførelse af et Beboelseshus i Riisvangen.
+Anbefalet af Udvalget for Byens Udvidelse og Bebyggelse saaledes, at Kommunen paatager sig Garanti for 1272 Kr.
+Overgik til 2. Behandling.
+"	1943	4	21
+"14"	1943-04-21	"closed"	"19430421B_1.pdf"	4	"1518-1942"	"Andragende fra Slagter Mølgaard Pedersen om fri Proces mod Aarhus Kommune til Erstatning i Anledning af, at en ham af Kommunen anvist Lejlighed i Kommunens Rækkehuse skal have været sundhedsfarlig at bebo.
+Fremsendes til Amtet.
+"	1943	4	21
+"15"	1943-04-21	"closed"	"19430421B_1.pdf"	5	"193-1943"	"Indstilling fra Sygehusudvalget om Ansættelse af Afdelingslæge ved Kommunehospitalet.
+Udvalget indstiller, at Dr. med. C. E. Prip Buus fra 1/5 d. A. ansættes som Afdelingslæge ved Kommunehospitalets kirurgiske Afdeling med Ansættelsesvilkaar som fastsat ved Byraadets Vedtagelse i Mødet den 18/2 d. A., og med Pensionsalder fra Ansættelsesdagen, subsidiært fra hans fyldte 40. Aar.
+K. Mousten oplyste, at han var 39½ Aar, og det laa saa mærkeligt, at hvis hans Pensionsret skal indtræde nu, skal han vente 4½ Aar, inden han bliver pensionsberettiget; men hvis han var fyldt 40 Aar, vilde Pensionsretten indtræde med det samme. Taleren vilde foreslaa, at man ansætter ham, men henviser Spørgsmaalet om Pensionen til nærmere Overvejelse.
+Indstillingen vedtoges saaledes, at Spørgsmaalet om Pensionen udsattes.
+"	1943	4	21
+"16"	1943-04-21	"closed"	"19430421B_1.pdf"	5	"196-1943"	"Indstilling fra Sygehusudvalget om, at Læge Hans Chr. Jensenius ansættes som 1. Reservekirurg ved Kommunehospitalet fra 1/5 d.A.
+Indstillingen vedtoges.
+"	1943	4	21
+"17"	1943-04-21	"closed"	"19430421B_1.pdf"	5	"1559-1942"	"Andragende fra Arbejdsmand ved Belysningsvæsenet J. V. Jensen om Tilladelse til at tage Bopæl udenfor Kommunen.
+Anbefalet af Belysningsudvalget for et Tidsrum af 5 Aar.
+Indstillingen vedtoges.
+"	1943	4	21
+"18"	1943-04-21	"closed"	"19430421B_1.pdf"	5	"208-1943"	"Indstilling fra Skoleudvalget om Optagelse af Elever fra de kommunale Mellemskoler i Marselisborg Gymnasium.
+Udvalget foreslaar efter Indstilling fra Rektor at følgende optages:
+"	1943	4	21
+"19"	1943-04-21	"closed"	"19430421B_1.pdf"	6	"208-1943"	"a.Som nysproglige: 
+Rita Hedegaard, Chr.
+Edith Holm, Chr.
+Inger Kjeldsen, Chr.
+Viggo Uhrenfeldt, Mu.
+Jonna Christensen, Fj.
+Else Svendsen, Chr.
+Jørgen Holleufer, Mu.
+Bengt A. Sørensen, Mu.
+Aase Jacobsen, Fj.
+Birthe H. Nielsen, Fj.
+Aase Christensen, Fj.
+Karen Kj. Lauridsen, Chr.
+Jytte H. Jensen, Chr.
+Knud M. Pedersen, Fj.
+&lt;br&gt;
+b.Som matematikere 
+Sv. Aage Møldrup, Mu.
+Tove Kristensen, Fi.
+Inger Overlade, Chr.
+Tage Madsen, Fj.
+Bent Olesen, Mu.
+Chr. P. Lorentzen, Mu.
+Ib Rahbeck, Fi.
+Bodil Enevoldsen, Fi.
+Lissi Kjeldgaard, Fj.
+Jørgen A. Pedersen, Mu.
+Anker B. Christensen, Mu. 
+Agnete Madsen, Fi.
+Preben Vissing, Fj.
+Henning M. Hansen, Mu. 
+Preben Borrits, Fj.
+Inge Pedersen, Chr.
+Arne Ejbye-Ernst, Mu.
+Vibeke Stilling, Chr.
+"	1943	4	21
+"20"	1943-04-21	"closed"	"19430421B_1.pdf"	7	"208-1943"	"J. R. Fanger henstillede at udsætte Sagen, og at Skoleudvalget søger at finde en anden Form for Optagelsen. Hvis Klasserne blev fyldt nu, var andre udelukkede fra at komme til senere.
+K. Mousten svarede, at her var straks en Vanskelighed. Eleverne skulde optages nu, fordi de skal have Undervisning indtil Sommerferien. Hvis man ikke optog dem nu, vilde de bedste af dem søge til Katedralskolen, og saa fik man sekunda Elever. I Aar laa det saaledes, at der til Ferien skulde kunne blive 5-6 Pladser i Gymnasiet. Forøvrigt skete der ogsaa det, at en Del Elever fra Privatskolerne gik over i Mellemskolen paa Marselisborg og derfra senere gik i Gymnasiet.
+Kai Blicher bemærkede, at hvis der blev 5-6 ledige Pladser til Sommerferien, var Sagen nogenlunde i Orden i Aar; men det var rart at faa et fast Forslag for Fremtiden.
+J. R. Fanger gjorde opmærksom paa, at den nysproglige Afdeling var fyldt, saa der kunde ingen optages. Men der maatte paa en eller anden Maade kunne laves en Prøve.
+K. Mousten svarede, at man vilde overveje det i Skoleudvalget sammen med Rektor og se at finde en Form, der kan bruges.
+J. R. Fanger erindrede om, at man krævede det samme sidste Aar, men der var ikke taget Hensyn dertil.
+Johanne Berg mente ikke, man kunde ændre noget ved den foreliggende Liste.
+Esther Aggebo spurgte, om de nævnte 5-6 Pladser blev afsat, saa Privatskolernes Elever eventuelt kunde faa dem.
+K. Mousten svarede, at efter hvad Rektor
+"	1943	4	21
+"21"	1943-04-21	"closed"	"19430421B_1.pdf"	8	"208-1943"	"havde skrevet, skulde der være 5-6 Pladser ledige.
+Indstillingen vedtoges.
+"	1943	4	21
+"22"	1943-04-21	"closed"	"19430421B_1.pdf"	8	"165--1943"	"Indstilling fra Skoleudvalget om Tildeling af Fripladser i de private Realskoler.
+Følgende Indstilling forelaa:
+Ved Frk. Schmidts Skole: Jørgen H Christensen.
+Ved Fru Laursens Skole: Erik Carstensen og Palle Rasmussen.
+Ved Aarhus private Realskole: Elna Agerskou og Lis Sørensen.
+Ved Frk. Kochs Skole: Inger Hansen. 
+Indstillingen vedtoges.
+"	1943	4	21
+"23"	1943-04-21	"closed"	"19430421B_1.pdf"	8	"168-1943"	"Indstilling om Bortgivelse af Fripladser ved Den jydske Handelshøjskole.
+Fra Skolen forelaa følgende Indstilling:
+Hel Friplads: Egon Hansen og Henning Højbye.
+Halv Friplads: Knud Løndal, Inga Madsen, Leiff Munck-Petersen, Inga Hviid, Henny Olesen og Ib Ebert Christensen.
+Indstillingen vedtoges.
+"	1943	4	21
+"24"	1943-04-21	"closed"	"19430421B_1.pdf"	8	"16_1-1943 og 16_2-1943"	"Indstilling fra Socialudvalget om Ydelse af Tillægshjælp efter Forsorgslovens § 293.
+Indstillingen vedtoges.
+"	1943	4	21
+"25"	1943-04-21	"closed"	"19430421B_1.pdf"	8	"12_2-1943"	"Indstilling fra Socialudvalget om Bevilling af personligt Tillæg til Rentenydere.
+Indstillingen vedtoges.
+"	1943	4	21
+"26"	1943-04-21	"closed"	"19430421B_1.pdf"	8	"17_6-1943 og 17_2-1943 og 17_3-1943 og 17_4-1943 og 17_5-1943"	"Indstilling om Eftergivelse af Hjælp ydet til:
+a.(J. Nr. 17_6-1943). Magnus Hjulmand.
+b.(J. Nr. 17_2-1943). Jens Moesstrup Jensen.
+"	1943	4	21
+"27"	1943-04-21	"closed"	"19430421B_1.pdf"	9	"17_6-1943 og 17_2-1943 og 17_3-1943 og 17_4-1943 og 17_5-1943"	"c.(J. Nr. 17_3 - 1943). Robinn H. Jacobsen.
+d.(J. Nr. 17_4-1943). Henry Nielsen.
+e.(J. Nr. 17_5-1943). Valdemar E. Sørensen. Indstillingen vedtoges.
+"	1943	4	21
+"28"	1943-04-21	"closed"	"19430421B_1.pdf"	9	"17_1-1943"	"Indstilling fra Socialudvalget om, at Gudrun J. Vangsgaards Ophold paa Arbejdsanstalten i 2 Dage ikke skal medføre Fattighjælps Virkning.
+Indstillingen vedtoges.
+"	1943	4	21
+"29"	1943-04-21	"open"	"19430421_1.pdf"	1	"no related record"	"Mødet den 21. April 1943.
+Fraværende: Thomas Christensen og E. Rolander. Mødet lededes af Viceborgmester K. Mousten.
+"	1943	4	21
+"30"	1943-04-21	"open"	"19430421_1.pdf"	1	"121-1943"	"IndenrigsministerietsGod-
+kendelse af en Ændret Ordning vedrørende de visiterende Læger m. v.
+Toges til Efterretning.
+"	1943	4	21
+"31"	1943-04-21	"open"	"19430421_1.pdf"	1	"61-1943"	"IndenrigsministerietsGod-
+kendelse af visse Arbejder paa Langelandsgades Kaserne.
+Toges til Efterretning.
+"	1943	4	21
+"32"	1943-04-21	"open"	"19430421_1.pdf"	1	"189-1943"	"IndenrigsministerietsGod-
+kendelse af Købekontrakt med Restauratør A. Rasmussen angaaende et Areal ved Aaboule-varden.
+Toges til Efterretning.
+"	1943	4	21
+"33"	1943-04-21	"open"	"19430421_1.pdf"	1	"121-1942"	"Meddelelse fra Indenrigs-
+ministeriet om Overførelse til andre Kommuner af 77800 Kr. af det Beløb, der var stillet til Raadighed som Tilskud til Bygningsistandsættelser.
+Toges til Efterretning.
+"	1943	4	21
+"34"	1943-04-21	"open"	"19430421_1.pdf"	1	"1385-1942"	"Meddelelse fra Justitsministeriet om Teaterbevilling for Aarhus Teater.
+Toges til Efterretning.
+"	1943	4	21
+"35"	1943-04-21	"open"	"19430421_1.pdf"	2	"67-1943"	"Meddelelse fra Arbejdsministeriet vedrørende Spørgsmaal om Iværksættelse af en Beskæftigelsesforanstaltning for Musikere i Aarhus.
+Toges til Efterretning.
+"	1943	4	21
+"36"	1943-04-21	"open"	"19430421_1.pdf"	2	"66-1943"	"Skattedepartementets Samtykke til, at Statsskatten for 1943- 44 opkræves i 4 lige store Rater.
+Toges til Efterretning.
+"	1943	4	21
+"37"	1943-04-21	"open"	"19430421_1.pdf"	2	"951943"	"Meddelelse fra Boligkommissionen om Kondemnering af Kommunens Ejendom Nygade 9.
+Toges til Efterretning.
+"	1943	4	21
+"38"	1943-04-21	"open"	"19430421_1.pdf"	2	"1579-1942"	"Regnskab for Købmand Chr. Wærums, Etatsraad Filtenborgs og Købmand Jul. Philipsons Legater i 1942.
+Toges til Efterretning.
+"	1943	4	21
+"39"	1943-04-21	"open"	"19430421_1.pdf"	2	"1554-1942"	"Regnskab for Aarhus Murermesterforenings Legat i 1942.
+Toges til Efterretning.
+"	1943	4	21
+"40"	1943-04-21	"open"	"19430421_1.pdf"	2	"74-1943"	"Andragende fra Falcks Redningskorps om Udbetaling af Abonnement for 1943 -44.
+K. Mousten foreslog, at Halvdelen af Beløbet udbetales nu og Halvdelen til Efteraaret.
+K. Moustens Forslag tiltraadtes.
+"	1943	4	21
+"41"	1943-04-21	"open"	"19430421_1.pdf"	2	"431-1943"	"Andragende fra Aarhus Universitet om Udbetaling af 34000 Kr. af det budgetterede Tilskud paa 68567 Kr.
+Bevilgedes.
+"	1943	4	21
+"42"	1943-04-21	"open"	"19430421_1.pdf"	2	"15381942"	"Anmodning fra Sct. Markus Sogns Menighedsraad om Tillægsbevilling. -
+2.Behandling.
+Indstillingen vedtoges.
+"	1943	4	21
+"43"	1943-04-21	"open"	"19430421_1.pdf"	2	"1484-1942"	"Indstilling fra Skovudvalget
+"	1943	4	21
+"44"	1943-04-21	"open"	"19430421_1.pdf"	3	"1484-1942"	"om Tillægsbevilling til nyt Kedelanlæg paa „Varna\". - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	4	21
+"45"	1943-04-21	"open"	"19430421_1.pdf"	3	"1520-1942"	"Indstilling fra Socialudvalget om Forhøjelse af Huslejetilskud til Aldersrentenydere.
+Udvalget indstiller, at der hertil optages en Tillægsbevilling paa Konto 13 i Regnskabet for 1942 -43, stor 36850 Kr., hvorfra gaar Refusioner m. v., saa at Nettobeløbet bliver 17056,31 Kr.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1943	4	21
+"46"	1943-04-21	"open"	"19430421_1.pdf"	3	"12_3-1943"	"Indstilling fra Socialudvalget om et ekstraordinært Huslejetilskud til brændselsberettigede Aldersrentenydere samt om personligt Tillæg efter Folkeforsikringslovens § 40, Stk., 5, til Aldersrentenydere, kronisk Syge og Beboere i Aldersrenteboliger.
+Tiltraadt af Budgetudvalget.
+Chr. Nielsen bemærkede, at et Blad havde skrevet, at det personlige Tillæg vilde stige med 8 og 12 Kr. Det var ikke rigtigt; det var 8 Kr. for enlige og 12 Kr. for Ægtepar ialt.
+Overgik til 2. Behandling.
+"	1943	4	21
+"47"	1943-04-21	"open"	"19430421_1.pdf"	3	"12_1-1943"	"Indstilling fra Socialudvalget om Forhøjelse af det personlige Tillæg til særlig daarligt stillede Rentenydere.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1943	4	21
+"48"	1943-04-21	"open"	"19430421_1.pdf"	3	"85-1943"	"Indstilling fra Socialndvalget om Bemyndigelse til at forestaa Uddelingen af Ernæringskort.
+Følgende Indstilling forelaa:
+\"Efter Lov af 13. Marts 1943 om Hjælp til trængende til Indkøb af visse Levnedsmidler
+"	1943	4	21
+"49"	1943-04-21	"open"	"19430421_1.pdf"	4	"85-1943"	"er der ifølge Socialministeriets Skrivelse af
+27.Marts 1943 (Aarhus Byraads J. Nr. 1505-1942) stillet til Raadighed for Aarhus Kommune:
+188447.00Kr. til Indkøb af Oksekød, Hestekød, Fjerkræ, Flæsk, Svinekød, Fisk og Klipfisk,
+120030.00Kr. til Indkøb af Sødmælk og
+130833.00Kr. til Uddeling af Smørrabatkort i Tiden fra 1. April til 30. September 1943.
+Man skal herved anmode om Byraadets Bemyndigelse til, at det sociale Udvalg forestaar Uddelingen af Kort til samme Række Personer, til hvilke man tidligere har uddelt Kort.
+For Kødkortenes Vedkommende foreslaas, at disse udeeles med et maanedligt Beløb af 2,00 Kr. pro persona til saavel voksne som Børn (for enlige Personers Vedkommende med 4 Stk. Kort à 50 Øre, og for Familier med 2. Stk. à 1,00 Kr. til hver Person).
+For Mælkekortenes Vedkommende foreslaas, at disse uddeles med et maanedligt Beløb af 3,60 Kr. (9 Kort à 40 Øre) til hvert hjemmeværende Barn under 18 Aar, medens voksne Personer ikke vil faa disse Kort, bortset fra svangre Kvinder, der i Svangerskabets 3. - 9, Maaned efter særlig Ansøgning vil kunne tilstaas Kort med et maanedligt Beløb af 12,00 Kr. (30 Kort å 40 Øre).
+S m ø r k o r t e n e, der efter Ministeriets Bestemmelse skal lyde paa 60 Øre pr. ½ kg. Smør, har man tænkt sig at udlevere til de samme Personer, der modtager Kødkort; af Hensyn til Rationeringskortene maa man indskrænke sig til at yde skiftevis 2 og 3 Kort pr. Maaned, skønt den ved Loven hjemlede Tilladelse til Overførsel af ikke udnyttede Beløb
+"	1943	4	21
+"50"	1943-04-21	"open"	"19430421_1.pdf"	5	"85-1943"	"under den tidligere gældende Ordning ellers satte Udvalget i Stand til at yde 3 Kort pro persona pr. Maaned.
+Om de af Kommunen trufne Foranstaltninger vedrørende ovenstaaende Fordeling vedlægger man en Indberetning til Amtet i udfyldt Stand.
+Man skal bede samme forsynet med Borgmesterens Underskrift og videresendt inden den ansatte Frist, den 30. April 1943.\"
+Møller Rasmussen bemærkede, at man ikke havde noget imod, at disse Kort uddeles, men det saa ud, som om man ikke var klar over, at der var betydeligt færre Arbejdsløse, end da Loven blev vedtaget første Gang, og der uddeles stadig det samme Beløb.
+Chr. Nielsen indrømmede dette, men Kortene uddeltes ikke alene til Arbejdsløse, men til den Del af Befolkningen, som trænger dertil.
+J. R. Fanger spurgte, hvor meget en Familie normalt fik tidligere, og hvor meget den fik nu.
+Chr. Nielsen havde ikke Tallene og kunde ikke svare derpaa straks; det var nogenlunde det samme som før, men f. Eks. Rentenydere havde faaet nogle ekstra Tildelinger til Jul. Man regnede med, at der var omtrent samme Tal som i Fjor, og hvis der blev Overskud af Kort, blev de uddelt til dem, som trængte mest. Kommunen havde Ret til at give et Tilskud til disse Mærker, men det var aldrig sket; man havde sagt, at Kortene skal strække til.
+J. R. Fanger misundte dem ikke Kortene, men det saa ud til, at Aarhus faar lige mange Kort til Uddeling, enten der er mange eller faa
+"	1943	4	21
+"51"	1943-04-21	"open"	"19430421_1.pdf"	6	"85-1943"	"Arbejdsløse, saa der maa være noget forkert ved Statens Administration.
+Chr. Nielsen svarede, at det var ikke rigtigt, for der var sat en Indtægtsgrænse for dem, som kunde faa Kort, og hvis der ikke var nok af disse, saa sparedes Kortene, saa der skete ikke Misbrug. Paa den anden Side var Tiderne saa stramme, at Befolkningen godt kunde trænge til Kortene.
+Indstillingen vedtoges.
+"	1943	4	21
+"52"	1943-04-21	"open"	"19430421_1.pdf"	6	"122-1943"	"Indstilling fra Socialudvalget om, at der henvises ledig Arbejdskraft fra Aarhus til Beskæftigelsesforanstaltningen „Karlsgaarde\" samt om en Tillægsbevilling hertil paa 30000 Kr.
+Tiltraadt af Budgetudvalget under Forudsætning af, at Kommunens Tilskud saa vidt gørligt holdes nede paa 1,25 Kr. pr. Dag pr. Arbejder. Udgiften foreslaas afholdt som Tillægsbevilling til Konto 14 i Budgettet for indeværende Aar.
+Hans Madsen gjorde opmærksom paa, at de 1,25 Kr. ikke var et Tilskud til Arbejdslønnen, men et Tilskud for at faa Andel i selve Arbejdsforanstaltningen. Taleren fandt, det var en god Foranstaltning, og der var Udsigt til, at man i den kommende Sommer vilde faa Arbejdsløshedstallet saa langt ned, som det ikke havde været i mange Aar.
+Indstillingen vedtoges.
+"	1943	4	21
+"53"	1943-04-21	"open"	"19430421_1.pdf"	6	"209-1943"	"Indstilling fra Socialudvalget om et Tilskud til L. A. B.’s Central for Reparation af Indbo.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Socialudvalgets Indstilling af 9. ds. tiltrædes efter Omstændighederne saaledes, at der ydes L. A. B. et Tilskud til den omhandlede
+"	1943	4	21
+"54"	1943-04-21	"open"	"19430421_1.pdf"	7	"209-1943"	"Indbocentral paa 3000 Kr., indtil 1. Juli d. A., hvilket Tilskud foreslaas afholdt som Tillægsbevilling til Konto 25 i Budgettet for indeværende Aar, og saaledes, at der, saafremt der skulde komme Henvendelse fra L. A. B. om Tilskud til Indbocentralen efter 1. Juli, maa optages nærmere Forhandling med L. A. B.\"
+J. R. Fanger udtalte, at der var nogen Betænkelighed, da denne Central blev oprettet, idet det kunde blive en Konkurrence til de mindre Haandværkere. Man havde ment, at Udgiften kunde dækkes med et Tilskud paa 20 %, men nu viste det sig, at det ikke kunde slaa til, idet det koster ca. 70 Kr. om Ugen i Materiale og Arbejdsløn. Nu forlangte L. A. B. 3000 Kr. for at kunne fortsætte til 1. Juli, og man vilde ikke gaa imod det, for ikke at slaa Sagen i Stykker, men hvis man skulde fortsætte efter den Tid, maatte der først en Forhandling til. Det var ikke nogen kommunal Opgave at drive en saadan Central, og den skulde nødig udvides for stærkt, da der kunde ligge en Konkurrence til Haandværket, selvom Socialudvalget skal erklære sig angaaende dem, der skal have repareret. Centralen burde kunne gaa uden Tilskud fra Kommunen, bortset fra Husleje og Kommunehjælp, og det vilde blive ret bekosteligt, hvis Kommunen stadig skal yde Tilskud.
+Chr. Nielsen gjorde opmærksom paa, at Formaalet dermed er at skaffe Arbejde til arbejdshæmmede Personer samt at reparere Ting, som ellers vilde gaa til, fordi disse Hjem ikke har Raad til at betale derfor. Staten ydede 120 °/o til Arbejdsløn, men det kunde ikke slaa til,
+"	1943	4	21
+"55"	1943-04-21	"open"	"19430421_1.pdf"	8	"209-1943"	"fordi Materialerne er saa dyre; men der skulde selvfølgelig være Grænser for, hvor meget der skal kostes paa gammelt Bohave. Hvis man nu kunde enes om de 3000 Kr., kunde man se Tiden an og eventuelt undersøge Sagen nærmere. Det var ganske sikkert ikke nogen Konkurrence, for disse Mennesker havde ikke Raad til at gaa til en Haandværksmester og faa Tingene repareret.
+Overgik til 2. Behandling.
+"	1943	4	21
+"56"	1943-04-21	"open"	"19430421_1.pdf"	8	"119-1943"	"Indstilling fra Belysningsudvalget angaaende Bestemmelser for Gas- og Vandmesterprøven m. v. samt om Bevilling af 9100 Kr. hertil.
+Tiltraadt af Budgetudvalget saaledes, at af den samlede Udgift, 9100 Kr., afholdes 4600 Kr. af Belysningsvæsenet, medens Vandværkets Andel, 4500 Kr., afholdes som Tillægsbevilling til Konto III C i Budgettet for indeværende Aar.
+J. R. Fanger forelagde Sagen. Man havde haft denne Prøve i Aarhus gennem mange Aar, først uden Kursus, saaledes at de blot indstillede sig til Prøven, men de var daarligt forberedt, og mange bestod ikke. For et Par Aar siden blev der oprettet Kursus, hvor de gik nogle Maaneder, og det havde gjort Standarden bedre. Nu foreslog man en Udvidelse, saa Betingelserne for at bestaa blev de samme, som kræves af Teknologisk Institut i Købnhavn, og Eksamen i Aarhus blev altsaa ligestillet dermed. Det var tilrettelagt saaledes, at den Dag, der oprettes et Teknologisk Institut i Aarhus, kan det overføres dertil fra Kommunen.
+Overgik til 2. Behandling.
+"	1943	4	21
+"57"	1943-04-21	"open"	"19430421_1.pdf"	8	"210-1943"	"Indstilling fra Skoleudvalget om Bevilling af 6000 Kr. til Dublering af den
+"	1943	4	21
+"58"	1943-04-21	"open"	"19430421_1.pdf"	9	"210-1943"	"matematiske 1. Gymnasieklasse paa Marselisborg Skole.
+Tiltraadt af Budgetudvalget.
+K. Mousten havde været noget betænkelig ved denne Bevilling, dels fordi det burde være Statens Opgave at oprette Gymnasier, dels fordi man ikke kunde fortsætte med at oprette 3 nye Klasser hvert Aar, og næste Aar vilde der kun være Plads til 2. Klasser. Men der var Stemning derfor i Udvalget, og Taleren gik saa med dertil.
+Johs. Riber anbefalede Forslaget. Aarhus var daarligere stillet end de fleste Byer m. H. t. Gymnasiepladser, og Kravene voksede mere og mere, efter at man havde faaet Universitetet, idet mange Aarhusfolk nu havde Raad til at føre deres Børn frem, blot de kom i Gymnasiet. Lokalerne fandtes paa Skolen, og der kunde efter Forslaget optages 24 Børn mere. Men alle Byene Borgere betalte jo dertil gennem Skatterne, og saa burde ogsaa alle have lige Adgang til Gymnasiet. Der maatte kunne findes en Udvej, saa Pladserna kan fordeles procentvis mellem Børn fra Kommuneskolerne og fra andre Skoler i Byen.
+Johanne Berg mente, at der havde meldt sig tilstrækkelig mange Elever fra Kommuneskolerne og fra Marselisborgs egen Mellemskole, saa den ny Klasse allerede var fyldt.
+K. Mousten oplyste, at der havde meldt sig tilstrækkelig mange, men enkelte af dem var muligvis mindre egnede, saa der kunde maaske denne Gang tages 6 fra Privatskolerne, hvorved de fik forholdsvis lige saa mange som Kommuneskolerne. Men hvordan det kunde laves i Fremtiden, var et andet Spørgsmaal.
+"	1943	4	21
+"59"	1943-04-21	"open"	"19430421_1.pdf"	10	"210-1943"	"Johs. Riber var klar over, at man sagtens kunde fylde Klassen med dygtige Elever fra Kommuneskolerne, men der var maaske lige saa dygtige Elever fra andre Skoler, og de burde have samme Ret.
+Johanne Berg havde det Indtryk, at Elever fra de private Skoler som Regel havde en Forret til at komme ind paa Katedralskolen.
+J. R. F a n g e r hævdede, at ingen havde Forret paa Katedralskolen, og der kunde ogsaa optages Børn fra de kommunale Skoler. Gruppen havde før rejst Spørgsmaalet om Optagelse af Børn i Marselisborg Skole og eventuelt lave en Prøve, men der var den Vanskelighed, at Kommuneskolerne har Eksamen om Foraaret og de private Skoler om Sommeren. Men der maatte kunde laves en Ordning, saaledes at man optog f. Eks. 80 % fra Kommuneskolerne og Marselisborg, og 20 % fra Privatskolerne, idet disse Pladser holdes ledige til Sommeren. Maaske kunde der saa afholdes en Prøve sammen med dem, som ikke var optaget i første Række. Det vilde være mere retfærdigt, og Skoleudvalget burde komme med et Forslag i den Retning. Saavidt Taleren vidste, var der i Aar Plads til 48 i den matematiske Linie, og der var optaget 46, medens den sproglige Linie var fyldt, og det var for lidt til Privatskolerne.
+K. Mousten havde faaet meddelt, at der i Aar kan blive 5-6 Pladser paa den matematiske Afdeling, medens den nysproglige Afdeling var fyldt. Det var ikke let at lave en Ordning, da Kommuneskolerne holdt Eksamen om Foraaret, og de skulde i saa Fald til Prøve straks og have at vide, om de er bestaaet, da de skulde have
+"	1943	4	21
+"60"	1943-04-21	"open"	"19430421_1.pdf"	11	"210-1943"	"Kursus i Latin m. m. indtil Sommerferien. Men der var altsaa Enighed om Bevillingen, saa kunde man maaske senere drøfte den anden Side af Sagen.
+Overgik til 2. Behandling.
+"	1943	4	21
+"61"	1943-04-21	"open"	"19430421_1.pdf"	11	"84-1943"	"Forslag til Benævnelse af Gaden mellem Raadhuset og Handelsbankens Bygning.
+Stadsingeniøren foreslaar at beholde Navnet \"Sønderalles
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse.
+J. R. Fanger bemærkede, at man i 1941 vedtog, at Gaden skal hedde Raadhuspladsen.
+I. C. Sørensen mente, der var mest Stemning for at kalde den Raadhuspladsen, saa det var maaske rigtigst at udsætte Sagen.
+Sagen udsattes.
+"	1943	4	21
+"62"	1943-04-21	"open"	"19430421_1.pdf"	11	"11-1942 og 22-1942"	"Skrivelse fra Indenrigsministeriet om Ændring af Kommunens Købekontraktsformular.
+Fra Byraadssekretæren forelaa følgende Erklæring:
+\"Den paagældende Klausul, som Ministeriet ønsker fjernet fra Kommunens Kontrakter, har været i Kommunens Kontraktsformularer i de sidste 50 Aar. Da de Beføjelser, som Klausulen tillægger Kommunen, næppe nogen Sinde vil kunne gøres gældende i deres fulde Omfang efter den af Ministeriet citerede Bestemmelse i Aftaleloven, sker der formentlig ingen Skade ved at lade Klausulen udgaa, saa meget mere som man i hvert Fald ikke i de sidste 3-4 Aar har villet benytte Klausulen i Tilfælde, hvor en Køber har anmodet om at faa Kontrakten
+"	1943	4	21
+"63"	1943-04-21	"open"	"19430421_1.pdf"	12	"11-1942 og 22-1942"	"ophævet, fordi han ikke kunde opfylde den. Det havde været nok saa rart, hvis man kunde vente med at ændre Forholdet, til den nuværende Beholdning er opbrugt, og det synes i det hele taget meget ejendommeiigt, at Ministeriet har været 25 Aar om at finde ud af, at Klausulen er i Strid med Aftaleloven\".
+Fra Udvalget for Byens Udvidelse forelaa følgende Indstilling:
+\"Det indstilles, at den af Ministeriet paatalte Klausul fremtidig udgaar af Kommunens Købekontraktsformularer, samt at de i Ministeriets Skrivelse nævnte Købekontrakter ændres i Overensstemmelse hermed.\"
+Indstillingen vedtoges.
+"	1943	4	21
+"64"	1943-04-21	"open"	"19430421_1.pdf"	12	"106-1943"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Godkendelse af Forlægning af Ingemannsvej i Viby, hvorved et aflagt mindre Vejareal vederlagsfrit overdrages til Aarhus Kommune.
+Indstillingen tiltraadtes.
+"	1943	4	21
+"65"	1943-04-21	"open"	"19430421_1.pdf"	12	"192-1943"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse angaaende Udstykningsplaner for Kolonihaver fra Trillegaarden og en Del af Charlottehøj.
+Følgende Indstilling forelaa:
+\"Det indstilles, at de af Stadsingeniøren udarbejdede Kolonihaveplaner vedrørende Trillegaarden og en Del af Charlottehøj godkendes som af Stadsingeniøren foreslaaet, saaledes at de Haver, der udlægges af de fremtidige Hovedvejes Arealer, kan udlejes paa almindelige
+"	1943	4	21
+"66"	1943-04-21	"open"	"19430421_1.pdf"	13	"192-1943"	"Havevilkaar og kan opsiges, hvis Vejene skal gennemføres tidligere end den forudsatte 20 Aars Uopsigelighedsperiode for de øvrige Kolonihaver.\"
+Indstillingen vedtoges.
+"	1943	4	21
+"67"	1943-04-21	"open"	"19430421_1.pdf"	13	"1522-1942"	"Andragende fra Hammel-banen om Udbetaling af Kommunens Andel i Jernbanens Underskud for 1941-42.
+Anbefalet af Budgetudvalget, idet Kommunens Andel i Underskud og Moderniseringslaan beløber sig til ialt 12355,68 Kr.
+Indstillingen vedtoges.
+"	1943	4	21
+"68"	1943-04-21	"open"	"19430421_1.pdf"	13	"1575-1942"	"Forslag fra Sygehusudvalget til Betalingsreglement for Kommunehospitalets neurologiske Afdelinger.
+Følgende Forslag forelaa:
+\"I Henhold til § 8 i den mellem Indenrigsministeriet og Aarhus Byraad oprettede Overenskomst angaaende de neurologiske Afdelinger indstiller Udvalget, at der til Ministeriet indsendes Forslag til Betalingsregulativ med følgende Takster:
+Betaling for Kur og Pleje.
+Paa Fællesstue: Almindelig
+Betaling.................4,00Kr.pr.Dag
+Patienter indlagte med Kaution fra statsanerkendt Sygekasse herunder ubemidlede Medlemmer af Statsbanepersonalets Sygekasse.2,00 Kr. pr. Dag
+Paa Enestue:Ialle.....Tilfælde  12,00 Kr. pr. Dag
+"	1943	4	21
+"69"	1943-04-21	"open"	"19430421_1.pdf"	14	"1575-1942"	"Ved Betalingens Beregning regnes en Del af et Døgn for et helt Døgn, saaledes at baade Inelæggelses- og Udskrivningsdagen medregnes.
+For den fastsatte Betaling ydes der den syge Lægehjælp, Medicin, Pleje, Operationer Røntgen, Lys, Varme, Vask, Bade, Opvarmning samt Bespisning efter Reglementet, eller hvad Lægen foreskriver til Kurens Udførelse.
+Ekstravagt betales med det Beløb, der udredes derfor af Hospitalet plus 2,00 Kr. i Kostpenge pr. Vagt. For Patienter indlagt med Kaution fra statsanerkendt Sygekasse herunder ubemidlede Medlemmer af Statsbanepersonalets Sygekasse betales dog kun Halvdelen af ovennævnte Beløb for Vagthold.
+K. Mousten oplyste, at det var samme Takster, som var gældende for Rigshospitalet i København; det var en Forudsætning, da Ministeriet i sin Tid gik med dertil.
+Indstillingen vedtoges.
+"	1943	4	21
+"70"	1943-04-21	"open"	"19430421_1.pdf"	14	"25_8-1942 og 25_9-1942"	"Indstilling fra Budgetudvalget om Refusion af Afgift, som Restaurationer har erlagt for Tilladelse til at holde aabent til Kl. 24, samt om Lempelser i Afgiften for det kommende Aar i Henhold til Restaurationernes Lukketid.
+K. Mousten bemærkede, at de selvfølgelig ikke skulde betale for den Tid, naar de ikke maatte holde aabent.
+Indstillingen vedtoges.
+"	1943	4	21
+"71"	1943-04-21	"open"	"19430421_1.pdf"	14	"197-1943"	"Henvendelse fra Akademisk Arkitektforening om at maatte undlade indirekte Belysning i W C-Rum og Baderum i Bygninger.
+"	1943	4	21
+"72"	1943-04-21	"open"	"19430421_1.pdf"	15	"197-1943"	"Sundhedskommissionen kan anbefale, at det ansøgte tillades paa samme Viikaar som fastsat i Københavns Magistrats Regulativ, herunder at det fremtidig gøres til en Betingelse, at alle nyindrettede Klosetrum skal være forsynede med elektrisk Lys.
+Tiltraadtes.
+"	1943	4	21
+"73"	1943-04-21	"open"	"19430421_1.pdf"	15	"43_1-1943 og 43_2-1943 og 189-1943 og 11_30-1942 og 11_28-1942 og 11_29-1942 og 22_48-1942 og 22_49-1942 og 11_3-1943"	"Købekontrakter og betingede Skøder med:
+a.(J. Nr. 43_1-1943 og 43_2 - 1943). Det sociale Boligbyggeri
+angaaende 2 Grunde ved Vestre Ringgade.
+b.(J. Nr. 189-1943). Restauratør A. Rasmussen
+angaaende et Areal ved Aaboulevarden.
+c.(J. Nr. 11_30 - 1942). Konservator K. F. Jakob-
+sen angaaende en Grund ved Grenaavej.
+d.(J. Nr. 11_28 -  1942). Elektriker V. Svenningsen
+angaaende en Grund i Vorrevangen.
+e.(J. Nr. 11_29 - 1942). Tømrer Viggo Nielsen
+angaaende en Grund i Vorrevangen.
+f.(J. Nr. 22_48-1942 og 22_49 - 1942 ). Tømrermester Max Pedersen angaaende 2 Grunde ved Hestehavevej.
+g.(J. Nr. 11_3 - 1943). Gasmester Chr. Johansen
+angaaende en Grund ved Grenaavej. 
+Godkendtes.
+"	1943	4	21

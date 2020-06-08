@@ -1,0 +1,437 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1945-05-05	"open"	"19450505_11.pdf"	1	"no related record"	"Mødet den 5. Maj 1945.
+(Ekstraordinært),
+Borgmesteren: For første Gang siden 9. April 1940 kan jeg aabne et Byraadsmøde med virkelig Lettelse i mit Sind.
+Radioen har holdt det danske Folk underrettet om Begivenhedernes Gang og meddelt om den tyske Kapitulation og om Kongens og en lovlig Regerings Overtagelse af Magten i vort Land.
+Med dyb Bevægelse modtog det danske Folk i Morges Kl. 8 Klokkeringningen fra alle Landets Kirker, og med dyb Bevægelse hørte vi Kl. 12 vor Konge give et Budskab til det frie danske Folk.
+Tung og ansvarsfuld har Tiden været, og bitter Sorg er skabt i mange Hjem. Vor By, som vi holder saa meget af, har ogsaa lidt under den onde Tid. Meningsløse Ødelæggelser har der været, og mange Mennesker har sat Livet til. Vi udtaler Ønsket om en god Tid for vor By og dens Borgere og opfordrer ti! dygtig og maalbevidst Handling og giver Tilsagn herom, saa dette Ønske kan ske Fyldest.
+"	1945	5	5
+"2"	1945-05-05	"open"	"19450505_11.pdf"	2	"no related record"	"Dette Løfte afgiver vi overfor Hans Majestæt Kongen og den af ham udnævnte Regering.
+Jeg foreslaar paa denne Glædesdag Afsendelsen af følgende Telegram til Majestæten:
+\"Aarhus Byraad forsamlet til Møde beder i dyb Taknemmelighed Deres Majestæt paa denne Dag modtage en Hilsen fra Aarhus By med Forsikring om Byens usvigelige Loyalitet overfor Deres Majestæt og den af Deres Majestæt udnævnte Regering.\"
+Forslaget vedtoges enstemmig.
+Borgmesteren: Vi ved alle, hvordan det gik til, da Kapitulationen blev bekendtgjort. Umiddelbart efter ankom jeg til Raadhuset og var Vidne til en Folkestemning af eventyrligt Omfang, Jubel og Hurraraab gennem Byen og en Lettelse og Glæde at spore alle Vegne. Vi holdt et lille Møde i Formiddag, og jeg maa bekende, at jeg har forhandlet lidt med Frihedsbevægelsen i den sidste Tid, ikke direkte, men gennem Kommandanten, og der har ikke været nogen som helst Gnidning. Det vil ogsaa ses af den Kundgørelse, der er lavet i Dag, idet den indeholder et Opraab baade fra Kommandanten i Aarhus, fra Frihedsraadet og fra Borgmesteren paa Byraadets Vegne, hvori der opfordres til at følge Anvisningerne og medvirke til Opretholdelse af Ro og Orden.
+Desværre har der i Dagens Løb været visse Episoder, hvorved adskillige Mennesker er blevet saaret, og f. Eks. kom det til Ildkamp ved Koncertpalæet, hvor de danske Modstandsstyrker har deres Kvarter. Den tyske Kommandant anmodede saa om en Forhandling og udtalte
+"	1945	5	5
+"3"	1945-05-05	"open"	"19450505_11.pdf"	3	"no related record"	"Ønske om, at det kunde gaa fredeligt til, og han lovede at beordre Mandskabet til at blive i deres Kvarterer og ikke blande sig i noget, hvis de ikke først bliver antastet. Han meddelte samtidig, at Gestapo og Hipo-Korpset havde forladt Byen. Hævnen vilde altsaa ikke ramme dem her, men det skete nok andetsteds. Kommandanten meddelte tillige, at Hæren havde overtaget den gamle Politistation, som Gestapo havde forladt, og at den snarest vilde blive udleveret til det danske Politi.
+Vi maa nu haabe, at den videre Udvikling herhjemme maa ske paa en stilfærdig og fornuftig Maade, saaledes at der gaar mindst muligt i Stykker. Hvordan de tyske Garnisoner afvæbnes, ved jeg intet om; det vil vel blive ordnet naar Englænderne rykker herind.
+"	1945	5	5
+"4"	1945-05-11	"closed"	"19450511B_7.pdf"	1	"no related record"	"Mødet den 11. Maj 1945.
+(Ekstraordinært Møde for lukkede Døre).
+Fraværende: J. R. Fanger.
+1. Meddelelser fra Borgmesteren.
+Borgmesteren meddelte, at Budgetudvalget havde holdt Møde, og der var udtalt Ønske om at faa afholdt et Byraadsmøde for at give nogle Oplysninger om Udviklingen i Aarhus efter Kapitulationen. Der havde været noget foruroligende ved den Maade, hvorpaa Frihedskæmperne eller Modstandsbevægelsen havde optraadt og ved de mange Arrestationer, der var sket, samt Rygter om den Maade, hvorpaa Arrestanterne blev behandlet. Der var tillige fra Danmarks Frihedsraad modtaget en Skrivelse, hvor der advaredes mod en Række danske Entreprenører, som havde arbejdet i stor Stil for Tyskerne til uhørt høje Priser, men nu søgte at faa dansk Arbejde ved at give meget billige Tilbud. Blandt disse fandtes der ogsaa en hel Del i Aarhus, særlig Entreprenør Arne Jensen og Vognmand Jørgensen, og det virkede derfor som en Spand koldt Vand over Hovedet, da man
+"	1945	5	11
+"5"	1945-05-11	"closed"	"19450511B_7.pdf"	2	"no related record"	"hin Morgen saa Arne Jensen med Staalhjelm og Frihedskæmpernes Bind om Armen. Samtidig havde man arresteret en hel Del Personer, der havde optraadt paa samme Maade som han, maaske endog i mindre Grad, saaledes Skrædermester Jensen Skorup, som havde haft store Leverancer af Uniformer til Tyskerne. Taleren mente dog, han var noget undskyldt, da han havde faaet dette Arbejde tildelt af den danske Stat, og Skræderforbunbet havde samtidig anbefalet, at disse Arbejder blev overdraget til ganske enkelte for ikke at faa deres Pristarif ødelagt. I et andet Tilfælde var en Bagermester blevet arresteret, og hele Kvarteret havde protesteret derimod og sagt, at det maatte være en Misforstaaelse, da han aldrig havde været Tyskerne venlig. Blandt dem, som havde haft meget med Tyskerne at gøre, var Automobilhandler Tage Jensen, og det blev sagt, at han og Fabrikant Johansen var ude og tage mod tyske Flyvere paa Skejby Mark den 9. April 1940. Det saa derfor underligt ud, at han var med til at køre Englænderne ind til Aarhus ved Besættelsen, og han blev da ogsaa fjernet i Stilhed.
+Samtidig fik man Rapporter om, at en Del af Arrestanterne i Internatet paa Marselisborg Skole blev mishandlet, og Rapporterne stammede fra Frihedskæmpere, som ikke kunde holde ud at se paa, hvad der foregik. Nogle af Arrestanterne var ganske vist Hipofolk, som ingen havde noget tilovers for; men der kunde ske Fejltagelser, og det maatte der meget stærkt advares imod. Politimesteren m. fl. var ogsaa bange for, at den Liste over Folk, som skulde arresteres, ikke var tilstrækkelig underbygget, saa det var
+"	1945	5	11
+"6"	1945-05-11	"closed"	"19450511B_7.pdf"	3	"no related record"	"tvivlsomt, om alle Sigtelserne var holdbare. Men det blev altsaa meddelt, at nogle Arrestanter fik Prygl eller koldt Brusebad i indtil 20 Minutter. Politimester Hoeck var meget betænkelig derved, og det resulterede i, at der blev ansat en Overbetjent som Leder af Internatet, og siden havde der ikke været noget i Vejen. Taleren havde forøvrigt senere været ude for at se paa Forholdene og havde talt med Fangernes Tillidsmænd, og de havde erklæret, at det kun var de første Par Dage, der var noget at klage over, siden var det gaaet udmærket. Der havde ogsaa været klaget over, al de i de første Dage havde faaet fordærvet Mad, men siden havde den været upaaklagelig.
+Frihedskæmperne var sikkert velmenende Folk, men de manglede maaske nogen Besindighed og Koldblodighed. Man maatte have den dybeste Respekt for de Mennesker, som havde vovet Livet for at skade Tyskerne, og de fleste af dem var sikkert Hædersmænd; men der var maaske ogsaa mindre heldige Elementer, for hvem det kun var Spænding og Legeværk. Forøvrigt havde Taleren med nogen Skuffelse set, hvem der repræsenterede den lokale Komité af Frihedsraadet. Der havde ogsaa været visse Gnidninger mellem Frihedskæmperne og Vagtværnet, hvor de første havde optraadt meget uheldigt, og de havde i den Anledning faaet en meget skarp Reprimande af Kommandanten. Endelig var der sket Overfald paa unge Piger, som beskyldtes for at have haft Samkvem med Tyskerne; de havde faaet Haaret klippet af og Tøjet revet i Stykker; men det var Gadens Pøbel, som havde foretaget disse Overfald, og det skulde Frihedskæmperne ikke høre noget for.
+"	1945	5	11
+"7"	1945-05-11	"closed"	"19450511B_7.pdf"	4	"no related record"	"Det mest betænkelige ved hele Sagen var, at man ikke vidste, hvad der laa til Grund for Arrestationerne, og at der muligvis var sket Fejltagelser; derfor burde alt sættes ind paa, at der hurtigst muligt bliver beskikket Retter til at dømme de paagældende, saa de eventuelt uskyldige kan blive fri.
+I. C. Sørensen takkede Borgmesteren for Redegørelsen over de forskellige Spørgsmaal, som altid vil fremkomme i en Overgangstid. Det betænkeligste var de Rygter, som fremkom i de første Dage om Mishandling af Fangerne; for det skulde gerne dokumenteres, at man her i Landet har andre Retsidealer end dem, der praktiseredes under Besættelsen. Det vilde være en Lykke for Samfundet, hvis man snarest kunde komme ind under demokratiske Tilstande, saa det bliver Rigsdagen, Byraadene m. v., der træffer Afgørelserne, for en af de Ting, som Samfundet har lidt under i disse Aar, var, at Demokratiet har været sat ud af Spillet, og det skulde gerne stærkt markeres, at de demokratiske Institutioner bestaar endnu og kan træde i Virksomhed.
+En af de Ting, som i høj Grad maa vedrøre Byraadet, er Flygtningespørgsmaalet. Man kunde ikke ligegyldig se paa, at Tyskerne uden videre løber fra deres Pligter overfor de syge og saarede, som bliver tilbage; det betød ogsaa en sundhedsmæssig Fare, og efter hvad der blev sagt, herskede der frygtelige Tilstande i Barakkerne og det gamle Amtssygehus. Hvis ikke Røde Kors vilde tage sig af dette, maatte Byraadet gøre det, og man kunde slet ikke forstaa, at i et Samfund, hvor man kræver menneskeværdige Tilstande, kunde saadant foregaa indenfor
+"	1945	5	11
+"8"	1945-05-11	"closed"	"19450511B_7.pdf"	5	"no related record"	"for vore Grænser. Det var Tyskernes Skam, at Forholdene var saaledes, men vi, som havde andre Retsbegreber og en anden Opfattelse af, hvordan Mennesker skal behandles, burde være med til snarest at faa dette ordnet.
+Man havde Indtryk af, at man fra en vis Side ikke rigtig regner med Byraadet; men det burde henstilles til Borgmesteren at være behjælpelig dermed, saaledes at det ikke bliver Borgmesteren alene, men ogsaa Repræsentanter for Byraadet, der skal tage Del i Arbejdet og Ansvaret i den vanskelige Overgangstid.
+Niels Laursen vilde gerne give en Redegørelse for Arrestationerne. En speciel Komité havde særlig i det sidste halve Aar udarbejdet en Liste paa flere Tusinde Personer, der skulde interneres, og i Aarhus omfattede Listen 712 Navne, deriblandt ogsaa Folk, som man frygtede vilde forsøge at tage Magten i Tilfælde af Oprør, og Folk, som man vilde sikre mod Overfald. Der blev saa dannet 70 Grupper af Frihedskæmpere med en Politimand i hver Gruppe, og hver fik til Opgave at arrestere 10 Personer. Paa et vist Tidspunkt opdagede Taleren, at adskillige Hipofolk blev mishandlet, og havde saa forbudt dette; man skulde blot sikre sig deres Vaaben. Men Vagterne var bange for, at de skulde gøre Oprør ude i Internatet, hvis Diciplinen blev slappet overfor dem, og det endte saa med, at de blev ført til Arresthuset. Der havde altsaa i nogen Grad været Mishandling af Hipofolk, men det var forstaaeligt, efter at disse nu i saa lang Tid havde pint og plaget Befolkningen og støttet Tyskerne i deres Ugerninger; men det var altsaa nu et overstaaet Stadium.
+"	1945	5	11
+"9"	1945-05-11	"closed"	"19450511B_7.pdf"	6	"no related record"	"Det var rigtigt, at enkelte var kommer ind i Frihedsbevægelsen, som ikke hørte til der, men de var blevet afskediget, og det var nu lavet saaledes, at 32 Politimænd sammen med 100 Frihedskæmpere havde overtaget Vagten i Byen bl. a. ogsaa for at forhindre, at der sker Overlast paa unge Piger. Der var anholdt ca. 670 Personer af de 712, men ogsaa enkelte, som ikke fandtes paa Listen, bl. a. nogle Hipofolk. Taleren havde ikke noget med Løsladelserne at gøre; eventuelle Fejltagelser skulde indberettes til en lokal Komité, som undersøger og behandler Spørgsmaalet. Paa Internatet var der nu 10 Politibetjente, som uafbrudt skriver Rapporter om de internerede, og flere af disse var allerede blevet løsladt.
+Sigvald Nielsen syntes, det var en udmærket rolig og nøgtern Redegørelse, Borgmesteren havde afgivet. Modstandsbevægelsen havde gjort et stort og godt Arbejde, men desværre var der kommet Folk med i Bevægelsen, som ikke hørte hjemme der, og man havde bl. a. set Folk, som knap havde naaet at faa afviklet deres Værnemagerarbejde før Kapitulationen, køre rundt i Biler og prale af at være Medlemmer af Frihedsbevægelsen. Det var en Skandale særlig overfor dem, som havde vovet Livet i Kampen mod Tyskerne, og her burde hurtigst muligt renses ud. Der fandtes mange udmærkede Mænd, som havde sat Livet i Vove; en af dem var Overbetjent Jensen fra Silkeborg, en af de bedste og fineste Mænd indenfor Bevægelsen; han havde likvideret flere Stikkere end nogen anden, og selv satte han Livet til i Aarhus kort før Kapitulationen. Taleren vilde henstille til
+"	1945	5	11
+"10"	1945-05-11	"closed"	"19450511B_7.pdf"	7	"no related record"	"Borgmesteren, at Aarhus Byraad for at hædre hans Minde sender en Krans til hans Begravelse.
+Unmack Larsen fandt det rigtigt, at man havde faaet denne Redegørelse fra Borgmesteren. Det glædeligste var det udmærkede Samarbejde, der havde været med Frihedsbevægelsens Folk. Naar man saa paa, hvordan det var gaaet i andre Lande efter Befrielsen, saa var det en Lykke, at man her straks fra den første Dag var enig med denne Bevægelse og havde faaet et Samarbejde i Stand mellem denne og de respektive demokratiske Institutioner. Det var sikkert ogsaa heldigt, at man havde haft denne Kommandant i Aarhus, som havde den rette Forstaaelse af Situationen. Men det maatte nu ogsaa være saaledes, som Landsretssagfører Sørensen sagde, at de forskellige Institutioner nu maa træde i Funktion eller i hvert Fald vise sit Ansigt, selv om man maaske ikke kan udrette saa meget, og særlig i en Overgangstid maa man være paa Vagt, saa de demokratiske Institutioner ikke sættes til Side.
+Taleren var glad ved, at Borgmesteren havde været ude og se paa Forholdene med de internerede, men det havde maaske været endnu bedre, hvis et Udvalg fra Byraadet havde været med, paa samme Maade som naar det gælder Tilsyn med Fængslerne. Man var jo alle interesseret i, at det gaar, som det skal, ikke mindst da der syntes at være nogen Usikkerhed m. H. t., hvem der skulde arresteres. Der vilde nok komme til at gaa nogen Tid, inden de Særdomstole, som skal til, kan træde i Funktion; men alt maatte sættes ind paa at faa dem i Gang snarest mulig, da de vilde faa et meget omfattende Arbejde.
+"	1945	5	11
+"11"	1945-05-11	"closed"	"19450511B_7.pdf"	8	"no related record"	"Der blev nævnt, at adskillige af de internerede var løsladt, og hvis der fandtes flere uskyldige blandt dem, burde de snarest sættes paa fri Fod, da det kunde være afgørende for deres Velfærd frem i Tiden.
+Chr. Nielsen indrømmede, at man maatte misbillige, hvis der skete direkte Mishandling, men hvis det drejede sig om Hipomænd, var der ingen Skade sket ved, at de havde faaet nogle Knubs. Taleren vilde ikke være med til at bebrejde Frihedsbevægelsen noget som helst; de var de eneste Folk, som i Øjeblikket kunde foretage disse Arrestationer. Naar Politiet igen traadte til som lovlig Myndighed, var der næppe Lovhjemmel for at arrestere en Mand, som har været Nazist, men hans Forhold burde undersøges, og man skulde nødig have nogen som helst Tvivl om, hvor Byraadet staar, eller opfatte det saaledes, at Byraadet tager Afstand fra Frihedsbevægelsens Arbejde. Man kunde ikke have Medlidenhed med de Mennesker, som har haanet alt dansk og mænget sig med Tyskerne og truet andre. Der kunde nævnes nogle tvivlsomme Tilfælde, hvor f. Eks. Forældre var blevet arresteret, fordi deres Børn var tysksindede, men det maatte Frihedsbevægelsen selv tage Stilling til, og hvis Byraadet begyndte at kritisere, kunde det let blive misforstaaet. Derimod var Forholdet et andet m. H. t. de syge og saarede, for det var en ren Barmhjertighedsgerning.
+J o h s. R i b e r oplyste, at i Skolebygninger og andre Steder, hvor der var Flygtninge indkvarteret, regerer Tyskerne, som om de stadig har Magten i Danmark, og river ned og bygger om, som det passer dem. Der maatte vel findes
+"	1945	5	11
+"12"	1945-05-11	"closed"	"19450511B_7.pdf"	9	"no related record"	"en Myndighed, som kan træde til og sætte en Stopper for dette og samtidig undersøge, om der kan blive andre Rum fri til at tage Flygtninge, saa Skolebygningerne kan frigives.
+Niels Laursen takkede Sigvald Nielsen for hans Udtalelser om Overbetjent H. C. Jensen fra Silkeborg; han havde gjort Aarhus By’s Borgere mange Tjenester og skaanet mange af Borgerne for Pinsler, saa hvis Byraadet vilde vise ham en Anerkendelse, var det i høj Grad fortjent.
+Johanne Berg erklærede, at naar det var sagt, at de internerede i de første Dage havde faaet fordærvet Mad, var det ikke rigtigt. Maden var leveret fra Folkekøkkenet, og det maatte erkendes, at Kartoflerne var mindre gode, fordi de skulde skrælles længe før Brugen, men de var absolut ikke fordærvede. Taleren havde set Maden hver Dag, og der var ikke Grund til Klage; det var friske Varer, som.var købt Dagen før, og Tillavningen var renlig og ordentlig. Nu havde man ogsaa faaet andre Kartofler, som forhaabentlig var bedre.
+Erna Hedtoft Larsen vilde støtte Kravet om, at Byraadet skal have Indflydelse paa de interneredes Behandling. Taleren havde været ude i Internatet paa et Nathold, der skulde være med til Forplejning af de internerede, og blandt Kvinderne fandtes en Mor, som ventede sit 5. Barn; hun var fra Tiist, hvor hun var blevet mishandlet og stenet af Befolkningen, saa hun maatte flygte fra Byen; hun nægtede at have haft Omgang med Tyskerne, medens Manden arbejdede for dem; men hvad der end laa til Grund, var det en oprørende Behandling, og der
+"	1945	5	11
+"13"	1945-05-11	"closed"	"19450511B_7.pdf"	10	"no related record"	"maatte en Kontrol til. Ved samme Lejlighed havde en Læge derude spurgt, om det var rigtigt, at Byraadsmedlemmernes voksne Børn havde faaet Tilladelse til at træde ind i Frihedsbevægelsen og gik med Armbind paa Gaderne.
+Ejner Mikkelsen henviste til Meddelelse i Aviserne om, at der skal være en stor Demonstration af Byens Foreninger Lørdag den 12. Maj og et Fakkeltog om Aftenen. Taleren vilde i den Anledning spørge, om Byraadet var med dertil og skulde være repræsenteret ved Festen.
+Bernhard Jensen skulde ikke sige noget om de interneredes Behandling; men der var ogsaa kommet en Del Klager over Frihedskæmpernes Optræden udenfor disse Omraader, bl. a. fra en Dame, som paa en Restauration var blevet uenig med Restauratricen, som derefter tilkaldte Frihedskæmpere og beskyldte hende for at være en tysk Dame. Men det maatte ligge udenfor Frihedsbevægelsens Opgave at blande sig i saadanne Forhold. Der forelaa ogsaa en Klage fra navngivne Mennesker, som var blevet anholdt paa Stadion, fordi de var kommet for nær til nogle Ting, som Tyskerne havde efterladt, de maatte gaa Stroppetur med oprakte Arme gennem Byen. Desuden kunde Taleren ønske at vide, om alle de Mennesker, som gik rundt med Bind paa Armen, var Folk, som havde været med i Frihedsbevægelsen, eller som først var kommet med efter Kapitulationen. Hvis det sidste var Tilfældet, burde man være lidt varsom med den Virak, der øses ud over dem. Angaaende Flygtningene burde Byraadet henvende sig til Røde Kors og bede dem gøre noget; det var tidligere blevet afvist, men efter Kapitulationen var Forholdet blevet et andet.
+"	1945	5	11
+"14"	1945-05-11	"closed"	"19450511B_7.pdf"	11	"no related record"	"Borgmesteren svarede hertil, at det var paalagt Luftværnschefen at ordne dette og ikke Røde Kors.
+Niels Laursen vidste ikke, om der ved Talen om Byrådsmedlemmernes Børn sigtedes til hans Datter; hun havde deltaget i Arbejdet med Maskinskrivning og maatte have Armbind bind for at kunne passere ind og ud af Bygningen. Desuden havde nogle Spejdere faaet udleveret Armbind, fordi de skulde gøre Tjeneste som Ordonnanser.
+K. Mousten vilde støtte Ribers Henstilling om, at man snarest faar Skolebygningerne givet fri. Taleren vilde spørge, om det ikke var Meningen, at de anlagte Vandbassiner skulde være en midlertidig Foranstaltning; men saavidt man kunde se, fortsattes Arbejdet med dem, og det burde formentlig ikke ske.
+Borgmesteren svarede, at Byraadet havde bestemt, at Bassinet paa Kiers Plads skal blive liggende, da det for saa vidt var færdigt, medens Arbejdet ved de øvrige var standset. Angaaende Flygtningene havde Luftværnscheferne nu faaet Ordre til at tage Affære her; Amtslægen havde været ude og se paa Forholdene paa det gamle Amtssygehus, og de var ikke saa forfærdelige, som det var blevet sagt. Bespisningen af Flygtningene blev forestaaet af Orla Jensen; det var dem forbudt at forlade Lejren, og der var ordnet en Vagt af L. B. til at hjælpe med Vagttjenesten.
+Det var vist rigtigt, at man paa et Tidspunkt ikke regnede særlig med Byraadet; men heldigvis havde Byen faaet en fornuftig Kommandant, som Taleren havde haft mange Forhandlinger med og havde lovet at støtte Frihedsbevægelsen,
+"	1945	5	11
+"15"	1945-05-11	"closed"	"19450511B_7.pdf"	12	"no related record"	"forudsat at den kun havde med Danmarks Frihed at gøre og ikke efter Krigen blandede sig i Politik. Det havde han lovet, og der havde saa været et godt Samarbejde. Tillige havde det lokale Frihedsraad gennem Kommandanten meddelt, at naar Militær og Politi atter træder i Virksomhed, ophører Frihedsraadet at eksistere.
+M. H. t. Behandlingen af de internerede havde Taleren ikke tænkt at rette noget Angreb paa Hr. Laursen. Der var i sin Tid kommet en Forespørgsel fra Ministeriet om ham, hvorefter han fik overdraget visse Opgaver, som han havde løst tilfredsstillende; men han havde maaske ikke haft den fornødne Stab af trænede Medarbejdere.
+Det var ikke let at sige, hvem der var \"Værnemagere\", for en stor Del Mennesker havde tjent Penge paa Tyskerne, ogsaa Folk i denne Forsamling, og Taleren havde selv et Par Gange været med til at hjælpe Tyskerne, fordi det var den lempeligste Form; men her maatte man lade Domstolene træffe Afgørelsen.
+Angaaende Overbetjent Jensen fra Silkeborg, saa havde Taleren haft et intimt Samarbejde med ham. Han havde gjort et fremragende Arbejde og ogsaa gjort Aarhus Byraad direkte Tjenester. Han faldt paa sin Post, og der var al Grund til at hylde ham; men der var faldet flere Frihedskæmpere, og det var ikke let at gøre Forskel.
+Der havde været Tale om at yde Bidrag til en Indsamling eller lignende, men det var rigtigst at vente lidt med at træffe Beslutning herom og først se, hvordan Sagen udvikler sig. Forøvrigt havde Budgetudvalget tidligere bevilget et Beløb paa 20.000 Kr. til Frihedsbevægelsen; dette Beløb var anvist paa en hemmelig Konto, men nu
+"	1945	5	11
+"16"	1945-05-11	"closed"	"19450511B_7.pdf"	13	"no related record"	"blev der maaske ikke Brug derfor. Nu meldte sig ogsaa Spørgsmaalet om Løn til Frihedskæmperne for mistet Arbejdsfortjeneste, og hvis Staten ikke betalte dette, burde Kommunen gøre det, hvilket der antagelig var Enighed om; forøvrigt havde man ogsaa støttet dem ved at udlevere dem Ernæringskort, falske Legitimationskort, Anvisning paa, hvor de kunde gemme Vaaben o. s. v. Det var rigtigt, at man ikke skulde rette Bebrejdelser mod Frihedsbevægelsen, men forhandle med dem og henstille til dem at rette uheldige Forhold.
+Spørgsmaalet om Skolebygningerne var overladt til Kommandanten; men det var ikke let, for Tyskernes Administration var brudt fuldstændig sammen, de havde ikke Kontrol med noget mere, og Folk var begyndt at stjæle af de Ting, de havde efterladt paa Skolerne. Det var Meningen, at Tyskerne skal rykke sammen paa enkelte Steder, f. Eks. Kasernerne, men det var vanskeligt at komme af med Flygtningene, da der ingen Steder var at anbringe dem; Staten havde beslaglagt de forskellige Lejre til Arrestanter, saa der kunde de ikke komme hen, men der arbejdedes paa at samle dem paa enkelte Steder.
+Det var rigtigt, at Byraadet til en vis Grad bør have Indflydelse paa Fangernes Behandling, men næppe noget at gøre med, hvem der skal arresteres eller løslades; det maatte de ordne, som havde sat det i Scene.
+Angaaende Folkeoptoget og Fakkeltoget, saa havde ingen spurgt Byraadet derom. Det var Meningen, at det skulde være paa Søndag, men paa denne Dag havde Socialdemokratiet Landet
+"	1945	5	11
+"17"	1945-05-11	"closed"	"19450511B_7.pdf"	14	"no related record"	"over planlagt en Række Møder, hvorfor de ændrede Folketoget til Lørdag Eftermiddag og Aften. Der forelaa ikke nogen Indbydelse til Byraadet, men man kunde selvfølgelig møde ligesom andre Borgere.
+Hvad angik Frihedskæmpernes Optræden overfor andre, saa var der næppe noget ondt deri, men de unge Mennesker fandt det vel stort at gaa med dette Armbind. Der var vist nogle kommet med efter Kapitulationen, som ikke var de heldigste.
+Til Slut vilde Taleren paatale, at nogle af Byens Blade havde skrevet om Ting, som ikke burde komme offentlig frem, og det havde ikke gavnet Forholdene i Byen.
+Oluf Nielsen henstillede, at Aarhus By viser Deltagelse ved at sende en Krans til de dræbte Frihedskæmperes Baare og eventuelt ogsaa yder Støtte til Begravelsen. Det var rigtigt, at nogle af Frihedskæmperne havde optraadt irriterende, men det skyldtes vel ungdommeligt Overmod. Nogle Byraadsmedlemmer var dog behandlet ret daarligt og var blevet gjort til Grin, da de skulde ind paa Raadhuset. Der burde være givet Byraadsmediemmerne en Slags Legitimation, saa man ikke kom ud for Ubehageligheder.
+Borgmesteren havde paatalt dette Forhold, og der var nu stillet et Par Raadhusbetjente ned, som kendte Medlemmerne. Det meste af Afspærringen ved Raadhuset var ogsaa fjernet, selv om det virkede lidt tungt at faa Ordren gennemført.
+Niels Laursen oplyste, at de Frihedskæmpere, som gik paa Gaden, ikke havde Vaaben, men kun Armbind.
+"	1945	5	11
+"18"	1945-05-11	"closed"	"19450511B_7.pdf"	15	"no related record"	"Borgmesteren antog, der var nogenlunde Enighed om de forskellige Ting. Efterhaanden vilde Frihedsbevægelsen opløses, og de normale Institutioner atter træde i Funktion.
+"	1945	5	11
+"19"	1945-05-17	"closed"	"19450517B_23.pdf"	1	"no related record"	"Mødet den 17. Maj 1945.
+(For lukkede Døre).
+Fraværende: Kai Blicher, J. R. Fanger og Unmack Larsen.
+1.Forslag fra Budgetudvalget om Tilkendegivelse til Udvalg og Kommissioner under Kommunen af, at Lejekontrakter o. lign. skal forelægges Byraadet til Godkendelse.
+Udgik af Dagsordenen.
+"	1945	5	17
+"20"	1945-05-17	"closed"	"19450517B_23.pdf"	1	"10_1-1945"	"Forslag fra Boligkommissionen om, at Amtslægen og Bygningsinspektøren i Aarhus tiitræder Aarhus Boligkommission som faste Medlemmer, og at dette søges godkendt af Indenrigsministeriet.
+Borgmesteren oplyste, at det blot var en redaktionel Ændring, idet Navnene skulde udgaa.
+Tiltraadtes.
+"	1945	5	17
+"21"	1945-05-17	"closed"	"19450517B_23.pdf"	1	"289-1945"	"Forslag til Abonnementskontrakt mellem Kommunen og Falcks Redningskorps.
+Fra Økonomidirektøren forelaa Forslag om, at Kommunen i Henhold til Abonnementskontrakt for en femaarig Periode betaler en aarlig Afgift
+"	1945	5	17
+"22"	1945-05-17	"closed"	"19450517B_23.pdf"	2	"289-1945"	"til Falcks Redningskorps paa 14 Øre pr. Indbygger, beregnet og reguleret i H. t. Prisdirek-toratets Skrivelse, samt at der fortsat betales 8 Kr. pr. Tur for Kørsler for Aarhus Kommunes Hospitaler.
+Desuden foreslaas, at Aarsafgiften fordeles i samme Forhold som i Aarene 1942-44, nemlig
+Havnevæsenet...............8,7°/o
+Forsørgelsesvæsenet........ 56,5-
+Konto XXV.................. 34,8-
+Tiltraadt af Budgetudvalget saaledes, at Kontrakten gælder for 3 Aar, hvilket Falcks Redningskorps er gaaet med til.
+Kontrakten godkendtes.
+"	1945	5	17
+"23"	1945-05-17	"closed"	"19450517B_23.pdf"	2	"1529-1944"	"Indstilling fra Socialudvalget om Nedsættelse af Lejen for Aldersrenteboligerne i søndre Bydel.
+Følgende Indstilling forelaa:
+\"Tilbagesendes Aarhus Byraad med Bemærkning, at Udvalget finder, at Huslejen i Aldersrenteboligerneved MarselisBoulevard
+bør nedsættes.
+Der findes i Kommunens 3 Aldersrenteboligkomplekser 12 Lejlighedstyper, men 20 forskellige Huslejesatser. Af denne Grund, og fordi ikke alle Lejligheder er repræsenteret i samtlige Boliggrupper, er en direkte Sammenligning mellem Huslejerne vanskelig.
+Ved at anslaa Lejen for enkelte Lejlighedstyper er man imidlertid i Stand til at sammenholde Lejebeløbene for Syd og Nord.
+Som det fremgaar af hoslagte Oversigt, svinger den maanedlige Lejeforskel mellem 4 Kr. og 7,42 Kr. efter Lejlighedernes Størrelse og Type.
+"	1945	5	17
+"24"	1945-05-17	"closed"	"19450517B_23.pdf"	3	"1529-1944"	"Udvalget skal herved foreslaa, at Leje-forskellen nedbringes til de paa Oversigten anførte Beløb, hvilket vil betyde, at der indrømmes Beboerne i Boligerne ved Marselis Boulevard en aarlig Huslejenedsættelse paa ialt 8.772 Kr.
+Tabet af denne Lejeindtægt maa formentlig bæres af Aarhus Kommune, da det ikke vil være muligt at yde Beboerne Beløbet som personligt Tillæg eller som Kommunehjælp i H. t. Forsorgslovens § 293, Stk. 3, dels fordi Kontoen personligt Tillæg i Forvejen er meget stærkt belastet, dels fordi ikke alle Beboerne er berettiget til Hjælp af de nævnte Arter.\"
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	5	17
+"25"	1945-05-17	"closed"	"19450517B_23.pdf"	3	"249-1945"	"Andragende fra Konstruktør Svend Aage Petersen om Autorisation som Elektroinstallatør.
+Anbefalet af Belysningsudvalget.
+Bevilgedes.
+"	1945	5	17
+"26"	1945-05-17	"closed"	"19450517B_23.pdf"	3	"33_16-1945"	"Indstilling fra Belysningsudvalget om, at Driftsbestyreren for Gasværket fremtidig benævnes: Teknisk Direktør for Gasværket.
+Tiltraadtes.
+"	1945	5	17
+"27"	1945-05-17	"closed"	"19450517B_23.pdf"	3	"33_2-1945"	"Indstilling fra Skovudvalget om, at der fra 1. April 1944 at regne ydes Skovrider Bang en Godtgørelse paa 2.000 Kr. aarlig for Kontorhold og Repræsentation m. v.
+Tiltraadt af Lønudvalget saaledes, at Godtgørelsen bortfalder med den nuværende Skovriders Afgang fra Stillingen.
+Indstillingen vedtoges.
+"	1945	5	17
+"28"	1945-05-17	"closed"	"19450517B_23.pdf"	4	"33_13-1945"	"Indstilling fra Skoleudvalget om, at der for Oktober Kvartal 1944 ydes Klinikchef paa Skoletandklinikken Frk. Marie Knudsen et Honorar paa 162 Kr. for udført Ekstraarbejde.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	5	17
+"29"	1945-05-17	"closed"	"19450517B_23.pdf"	4	"33_62-1944"	"Indstilling fra Havneudvalget om fast Ansættelse af Ingeniør ved Havnen Svend Aage Overgaard.
+Lønudvalget tiltræder, at Ingeniør Overgaard ansættes i 4. Lønklasse med Lønanciennitet fra1/7 1944.
+Indstillingen vedtoges.
+"	1945	5	17
+"30"	1945-05-17	"closed"	"19450517B_23.pdf"	4	"33_12-1945"	"Indstillingfra Vejteknisk Udvalg om forskellige Fastansættelser paa Stadsingeniørens Kontor.
+Lønudvalget tiltræder følgende Ansættelser:
+Civilingeniør C. A. Zeuthen ansættes i 3. Lønklasse fra 1. Juli 1944 med Lønanciennitet fra 1/7 1942.
+Arkitekt Bygum Clausenansættes i 3.
+Lønklasse fra 1. Oktober 1944 med Lønanciennitet fra samme Dato.
+Konstruktør P. D. de la Cour ansættes i 5. Lønklasse fra 1. April 1945 med Lønanciennitet fra 1/10 1943.
+Civilingeniør Slot Nielsens Ansættelse udsættes, da Helbredsattest ikke har kunnet fremskaffes.
+Indstillingen vedtoges.
+"	1945	5	17
+"31"	1945-05-17	"closed"	"19450517B_23.pdf"	4	"33_17-1944"	"Indstillingfra Vejteknisk Udvalg om fast Ansættelse af Kontorassistent paa
+Stadsingeniørens Kontor Holger Petersen.
+"	1945	5	17
+"32"	1945-05-17	"closed"	"19450517B_23.pdf"	5	"33_17-1944"	"Tiltraadt af Lønudvalget saaledes, at Ansættelsen sker i 7. Lønklasse fra 1. April 1945 og med Lønanciennitet fra samme Dato.
+Indstillingen vedtoges.
+"	1945	5	17
+"33"	1945-05-17	"closed"	"19450517B_23.pdf"	5	"33_15-1945"	"Indstilling fra Budgetudvalget om fast Ansættelse af Ekspeditionssekretær paa Økonomikontoret Oluf Ingvartsen.
+Indstillingen vedtoges.
+"	1945	5	17
+"34"	1945-05-17	"closed"	"19450517B_23.pdf"	5	"33_1-1945"	"Indstilling fra Brandkommis-sionen om fast Ansættelse af Brandsynsassistent Ch. L. Møller.
+Tiltraadt af Lønudvalget saaledes, at Ansættelsen sker i 5. Lønklasse fra Vi 1945 med Lønanciennitet fra 1943.
+Indstillingen vedtoges.
+"	1945	5	17
+"35"	1945-05-17	"closed"	"19450517B_23.pdf"	5	"33_14-1944"	"Indstilling fra Belysningsudvalget om, at Fuldmægtig Axel Bentzen forfremmes til Ekspeditionssekretær ved Belysningsvæsenet.
+Tiltraadt af Lønudvalget saaledes, at Ansættelsen sker i 3. Lønklasse fra 1h 1945 og med Lønanciennitet fra 1/7 1941.
+Indstillingen vedtoges.
+"	1945	5	17
+"36"	1945-05-17	"closed"	"19450517B_23.pdf"	5	"33_11-1945"	"Indstilling fra Budgetudvalget om Lønforhøjelse til Fuldmægtig ved Skattevæsenet Kaj Holm.
+Lønudvalget tiltræder, at der tillægges Fuldmægtig Kaj Holm 3 Aars Lønanciennitet.
+Indstillingen vedtoges.
+"	1945	5	17
+"37"	1945-05-17	"closed"	"19450517B_23.pdf"	5	"33_10-1945"	"Indstilling fra Vejteknisk Udvalg om, at Civilingeniør ved Vejvæsenet Søren Nielsens Bestillingstillæg forhøjes fra 300 Kr. til 600 Kr.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	5	17
+"38"	1945-05-17	"closed"	"19450517B_23.pdf"	6	"33_18-1945"	"Indstilling fra Vejteknisk Udvalg om Forfremmelse af 2 Assistenter paa Stadsingeniørens Kontor.
+Lønudvalget tiltræder, at Assistenterne E. Eibner og P. Mogensen forfremmes til Overassistenter.
+Indstillingen vedtoges.
+"	1945	5	17
+"39"	1945-05-17	"closed"	"19450517B_23.pdf"	6	"33_65-1945"	"Indstilling fra Socialudvalget om, at 2 Assistentstillinger paa Socialkontoret omnormeres til Overassistentstillinger.
+Lønudvalget kan for Tiden ikke anbefale Indstillingen.
+Lønudvalgets Indstilling tiltraadtes.
+"	1945	5	17
+"40"	1945-05-17	"closed"	"19450517B_23.pdf"	6	"33_9-1945"	"Indstilling fra Havneudvalget om, at Kontorassistent af 2. Grad ved Havnen, Frk. O. Simonsen oprykkes i højere Lønklasse.
+Løn udvalget anbefaler, at hun fra 1. April 1945 oprykkes til Kontorassistent af 1. Grad i
+6.Lønklasse og med Lønanciennitet fra samme Dato.
+Indstillingen vedtoges.
+"	1945	5	17
+"41"	1945-05-17	"closed"	"19450517B_23.pdf"	6	"1742-1944"	"Andragende fra Laborant ved Sundhedskommissionens Laboratorium Frk. Grete Kleis, om Tilladelse til at bo udenfor Kommunen.
+Anbefalet af Lønudvalget indtil 1. Maj 1946.
+Indstillingen vedtoges.
+"	1945	5	17
+"42"	1945-05-17	"closed"	"19450517B_23.pdf"	6	"29_3-1945"	"Andragende fra Maskinarbejder ved Sporvejene Ths. Ludvigsen om Afsked med Pension fra 1/7 1945.
+Bevilgedes. Pensionen fastsattes til 1.440 Kr.
+"	1945	5	17
+"43"	1945-05-17	"closed"	"19450517B_23.pdf"	6	"8_2-1945"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat paa Grund af urigtig Selvangivelse.
+Kommissionen foreslaar følgende Efterbetalinger:
+"	1945	5	17
+"44"	1945-05-17	"closed"	"19450517B_23.pdf"	7	"8_2-1945"	"Fhv. Mælkehandler Frk. G. Andersen, Sct. Paulsgade 42 a ......... 7.600,00 Kr.
+Slagtermester J. C. C. Iversen,
+Fr. Alle 125.................... 6.950,00\"
+Bagerm. E. Nielsen, St. Blichersgade 12-14 ....................... 5.700,00\"
+Restauratør N. J. Ditlev, Havnegade 18 .......................... 3.900,00\"
+Bagermester H. P. S. Bach, H. Brogesgade 39 .................. 3.300,00\"
+Gartner C. C. V. Stoltze, Østbanetorv 7 ..................... 2.950,00\"
+Hotelkarl A. M. Iversen, Skovgaardsgade 14 .................. 2.800,00\"
+Skotøjsfabrikant G. Sørensen, Randersvej 31................... 2.305,20\"
+Repræsentant A. K. Lottrup, V. Ringgade 52 .................... 1.850,00\"
+Snedkermester N. J. Jørgensen, Istedgade 17 ................... 1.700,00\"
+Enkefru M. M. N. Nordmar, Frederiksgade 12 .................. 1.035,00\"
+Repræsentant R. C. Hansen, Grønnegade 91................... 1.000.00\"
+Enkefru D. K. Kristiansen, Falstersgade 36 ...................875,00\"
+Købmand J. P. Sørensen, Nyborggade 3 .........................800,00\"
+Fiskehandler K. J. G. H. P. Thomsen, Fr. Alle 120 ................720,30\"
+Vinhandler H. N. Stegeager, Havnegade 6 ....................700,00\"
+Købmand A. L. Johannesen, Ny Banegaardsgade 47 ..............685,00\"
+Smed A. Jacobsen, ans: Schleppegrelsgade 23
+"	1945	5	17
+"45"	1945-05-17	"closed"	"19450517B_23.pdf"	8	"8_2-1945"	", nu: Taarnvej 6, Viby J...........................660,00\"
+Enkefru E. J. Muller, Nørregade 15 .........................583,80\"
+Bagermester Enkefru N. O. 1. Spliid, Østbanetorv 7 ...........460,00\"
+Dameskræderinde Fru J. Ruhe, Mejlgade 30 .....................450.00\"
+Købmand C. Iversen, Christiansgade 25 .........................440,00\"
+Elektriker J. H. Johansen, Dalgas Avenue 25........................340,00\"
+Frugthandler A. M. H. Weierche, Sdr. Ringgade 55.................335,00\"
+Boghandlermedhj. O. D. Nielsen, Bogensegade 15 ..................300,00\"
+Husass. Frk. J. A. Christiansen, Lollandsgade 18 .................290,00\"
+Fabrikant H. P. Mainz, Skolebakken 5 ........................250,00\"
+Ingeniør W. Bodilsen, tidl. Aarhus, nu: Elmevej 9, Frederikshavn.226,00\"
+Fodspecialist Frk. H. K. Kristiansen, Falstersgade 36 ............185,00\"
+Dødsboet efter: Vognmand V. F. Felfvoss, Nørreport 8 ..........................4.901,50\"
+Læge C. A. Køster, tidl. Aarhus, Blidapark 4, Charlottenlund ...1.397,20\"
+Konkursboet efter:
+Købmand E. Skabelund, Sejrøgade 19 .........................176,46\"
+Ialt...55.865,46Kr.
+Tiltraadtes.
+"	1945	5	17
+"46"	1945-05-17	"closed"	"19450517B_23.pdf"	9	"16_3-1945 og 16_4-1945 og 16_5-1945 og 16_6-1945"	"Indstilling fra Socialudvalget om, at Kommunehjælp ydet 6 Personer ikke skal have valgretsfortabende Virkning.
+Indstillingen vedtoges.
+"	1945	5	17
+"47"	1945-05-17	"closed"	"19450517B_23.pdf"	9	"16_2-1945 og 16_4-1945 og 16_5-1945"	"Indstilling fra Socialudvalget om, at Kommunehjælp ydet 4 Personer i Medfør af Forsorgslovens § 205 ikke skal have valgretsfortabende Virkning.
+Indstillingen vedtoges.
+"	1945	5	17
+"48"	1945-05-17	"closed"	"19450517B_23.pdf"	9	"17_3-1945 og 17_4-1945"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet 9 Personer.
+Indstillingen vedtoges.
+"	1945	5	17
+"49"	1945-05-17	"open"	"19450517_15.pdf"	1	"no related record"	"Mødet den 17. Maj 1945.
+Fraværende: Kai Blicher, J. R. Fanger og Unmack Larsen.
+Borgmesteren meddelte, at Mousten havde bedt om Ordet, inden man begyndte paa Dagsordenen.
+K. Mousten: Nu da Krigen er forbi, føler vi Byraadsmedlemmer Trang til at bringe dig, Borgmester Stecher Christensen, en hjertelig Tak for den uforfærdede og korrekte Holdning, du hele Tiden under Besættelsen har vist overfor de tyske Besættelsesmyndigheder.
+Det har været en nerveanspændende Tid, og vi, der har fulgt Begivenhederne paa nærmere Hold, har altid glædet os ved den Stilling, du har taget til de foreliggende Spørgsmaal, og det er derfor vi nu bringer dig vor bedste Tak.
+Du har foretaget mange farefulde Rejser, og jeg ved fra mange af vore Embedsmænd, at de har været glade og trygge ved at vide, at du var med dem paa deres ofte farefulde Færd.
+(Enstemmig Tilslutning!)
+Borgmesteren: Jeg vil gerne takke for Moustens Ord og for den Tilslutning, som Byraadet har givet dem. Jeg skal indrømme, at det somme Tider har været et strengt Job, og jeg
+"	1945	5	17
+"50"	1945-05-17	"open"	"19450517_15.pdf"	2	"no related record"	"har ogsaa paa det sidste mærket, at det har slidt noget paa Helbredet, men jeg haaber, at jeg snart kan faa Lov til at holde en stilfærdig og maaske længere Ferie, saa jeg kan komme over disse Vanskeligheder. Jeg har gjort, hvad jeg syntes var det rigtige; det har i de fleste Tilfælde været Nej-Politik overfor Tyskerne, og jeg har fra forskellig Side høstet Anerkendelse derfor. Tak!
+"	1945	5	17
+"51"	1945-05-17	"open"	"19450517_15.pdf"	2	"22_1-1945 og 11_1-1945 og 11_2-1945 og 11_3-1945 og 11_4-1945 og 11_5-1945"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a.(J. Nr. 22_1-1945). Restauratør K. Thostrup.
+b.(J. Nr. 11_1-1945). Mekaniker S. Kragelund.
+c.(J. Nr. 11_2-1945). Arbejdsmand A. Bugtrup.
+d.(J. Nr. 11_3-1945). Uddeler H. Hansen.
+e.(J. Nr.11_4-1945). Maskinarbejder A. Jürgensen.
+f.(J. Nr.11_5-1945). Tømrermester O. Ottosen. Toges til Efterretning.
+"	1945	5	17
+"52"	1945-05-17	"open"	"19450517_15.pdf"	2	"282-1945"	"Cirkulære fra Indenrigsministeriet med Henstilling om indtil videre at undgaa Forhøjelser af Grundtaksten for Gas og Elektricitet.
+Toges til Efterretning.
+"	1945	5	17
+"53"	1945-05-17	"open"	"19450517_15.pdf"	2	"231-1945"	"Skrivelse fra Omnibusudvalget af 1942 om, at Udvalget ikke kan tillade Kørsel paa Søn-og Helligdage paa Omnibusruten Filtenborgs Plads-Moesgaard Strand.
+Toges til Efterretning.
+"	1945	5	17
+"54"	1945-05-17	"open"	"19450517_15.pdf"	2	"23_1-1945"	"Beretning om de offentlige Lystanlæg.
+Toges til Efterretning.
+"	1945	5	17
+"55"	1945-05-17	"open"	"19450517_15.pdf"	2	"317-1945"	"Regnskab for Aarhus Amtskreds af Nationalforeningen til Tuberkulosens Bekæmpelse.
+Toges til Efterretning.
+"	1945	5	17
+"56"	1945-05-17	"open"	"19450517_15.pdf"	3	"10_2-1945"	"Meddelelse fra Ligningskommissionen om, at Formand H. Hyllested fratræder som Medlem af Kommissionen, da han er fraflyttet Byen.
+Det vedtoges at tilkalde 1. Stedfortræder Inspektør Jens Nielsen.
+"	1945	5	17
+"57"	1945-05-17	"open"	"19450517_15.pdf"	3	"143-1945 og 63-1945 og 156-1945"	"Indstilling fra Budgetudvalget om, at følgende Arbejder udføres som Beredskabsarbejde paa de af Arbejdsministeriet stillede Betingelser:
+a.(J. Nr. 143-1945). Regulering af et Strandareal ved Moesgaard.
+b.(J. Nr. 63-1945). Høfdeanlæg og Kystsikring ved Marselisborg og Moesgaard Skove.
+c.(J. Nr. 156-1945). Anlæg af Frichsvej (Parcel-lerne I, II og III).
+Tiltraadtes.
+"	1945	5	17
+"58"	1945-05-17	"open"	"19450517_15.pdf"	3	"40-1945"	"Indstilling fra Vejteknisk Udvalg om Tillægsbevilling paa 5.000 Kr. til Konto 4033 til Forebyggelse af Jordskred i Vennelyst-parken.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	5	17
+"59"	1945-05-17	"open"	"19450517_15.pdf"	3	"164-1945"	"Forslag til Opførelse af Aldersrenteboliger ved Møllevangsallé, dog saaledes, at Boligerne midlertidig indrettes for Husvilde:
+Fra Stadsarkitekten forelaa Forslag om Opførelse af en Blok med 96 Lejligheder, hvortil Udgiften var beregnet saaledes:
+Grund...............................37.500Kr.
+Haandværkerudgift................... 877.850\"
+Omkostninger........................64.600\"
+Ialt. .. 979.950Kr.
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse og Udvalget for Opførelse af Aldersrenteboliger.
+"	1945	5	17
+"60"	1945-05-17	"open"	"19450517_15.pdf"	4	"164-1945"	"Fra Økonomidirektøren forelaa Forslag om, at Projektet financieres paa følgende Maade:
+4% Laan i Ny jydske Købstad-Creditforening til Kurs 100 med
+Afdragstid ca. 61 Aar................245.000Kr.
+4 1/2 % Laan i Jydsk Hypotekforening til Kurs 100 med Afdragstid ca. 35 Aar.....................90.000\"
+4 1/2 % Banklaan eller lign. til Kurs 100 med en Afdragstid paa 30
+Aar..................................607.450\"
+Kommunens egne Midler - svarende til Grunden - tænkes stillet til Raadighed mod en aarlig Rente paa 5 % og med en Afdragstid paa 33 Aar................37.500\"
+Ialt. . .979.950Kr.
+Skulde Ministeriet ikke villegodkendeen aarlig Rente paa 5 % af Kommunens Midler, foreslaas subsidiært, at der optages saa stort et Banklaan el. lign., at det ogsaa dækker Grundudgiften.
+Tiltraadt af Budgetudvalget i Overensstemmelse med Økonomidirektørens Erklæring.
+Borgmesteren forelagde Sagen og oplyste, at der var en Mulighed for at faa saa meget Byggeri i Gang, at Boligerne kan indrettes til Aldersrentenydere straks; men det var en Betryggelse, at de eventuelt kan anvendes til Husvilde. Der var ogsaa Spørgsmaalet om de mange Barakker i Byen og Skovene, men hvad de skulde anvendes til, vidste man ikke endnu; maaske kunde Militæret bruge en Del af dem, og nogle kunde eventuelt anvendes til Interneringslejre
+"	1945	5	17
+"61"	1945-05-17	"open"	"19450517_15.pdf"	5	"164-1945"	"for tiltalte Danske eller for Flygtninge og saarede, idet disse gerne skulde bort fra Byen.
+I.C. Sørensen sluttede sig til Borgmesterens Udtalelser og saa ogsaa gerne, at Boligerne kunde indrettes til Aldersrentenydere straks, og det vilde ogsaa frigøre en Del almindelige Lejligheder andetsteds; men maaske kunde man om et Par Maaneder overse Situationen.
+Borgmesteren svarede, at man kunde lade Stadsarkitekten udarbejde Licitationsbetingelserne saaledes, at Bygningerne kan anvendes baade til det ene og det andet, og i Løbet af faa Maaneder vilde det nok blive klaret, om der kan skaffes Plads til Husvilde andetsteds.
+Indstillingen vedtoges.
+"	1945	5	17
+"62"	1945-05-17	"open"	"19450517_15.pdf"	5	"280-1945"	"Indstilling angaaende de af Indenrigsministeriet foreslaaede Ændringer i Udkastet til Tillæg angaaende Mælk og Fløde m. v. til Sundhedsvedtægten for Aarhus Købstad.
+Fra Stadsdyrlægen forelaa følgende Skrivelse:
+\"I Anledning af Indenrigsministeriets Skrivelse af 19/s 1945 angaaende Tillæg til Sundhedsvedtægten vedrørende Mælk og Fløde m. v. skal jeg tilraade Sundhedskommissionen at tiltræde de af Ministeriet foreslaaede Ændringer.
+§ 22, der af Ministeriet ønskes ført tilbage til sin oprindelige Affattelse, var ændret af mig efter Henstilling fra Mejerierne, og efter at der var ført Forhandlinger desangaaende med de danske Mejeriers Fællesorganisation og Veterinærdirektoratets herværende Afdeling for Tuberkulosebekæmpelse. Naar Ministeriet imidlertid ønsker Paragrafen opretholdt i sin oprindelige Skikkelse, kan jeg anbefale, at dette tiltrædes.
+"	1945	5	17
+"63"	1945-05-17	"open"	"19450517_15.pdf"	6	"280-1945"	"Saafremt Byraadet vedtager de sidste af Ministeriet foreslaaede Ændringer, vil Tillæget til Sundhedsvedtægten kunne gøres færdigt til Stadfæstelse.\"
+Tiltraadt af Sundhedskommissionen.
+Tiltraadtes.
+"	1945	5	17
+"64"	1945-05-17	"open"	"19450517_15.pdf"	6	"279-1945"	"Andragende om Godkendelse af \"Wedelslund\" som Leverandør af Børnemælk til Aarhus Kommune.
+Anbefalet af Sundhedskommissionen paa de af Stadsdyrlægen foreslaaede Betingelser.
+Tiltraadtes.
+"	1945	5	17
+"65"	1945-05-17	"open"	"19450517_15.pdf"	6	"33_6-1945"	"Indstilling fra Belysningsudvalget om Ændring i Overenskomster angaaende Udbetaling af Varmetillæg.
+Udvalget foreslaar, at der i Overenskomsten med Smede- og Maskinarbejdernes Fagforbund, § 17, og i Overenskomsten med Kommunale Arbejderes Fagforbund, § 9, sker følgende Tilføjelse :
+\"Arbejde i Rummet under Højtryks-For-koblingsturbinen, naar Højtrykskedlen og Forkoblingsturbinen eller Reduktionsventilen er i Drift.\"
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	5	17
+"66"	1945-05-17	"open"	"19450517_15.pdf"	6	"33_19-1945"	"Indstilling fra Lønudvalget om Godkendelse af ny Overenskomst med Dansk Kommunalarbejderforbund vedrørende Kommunens Badeassistenter.
+Følgende Indstilling forelaa:
+\"Efter at Dansk Kommunalarbejderforbund havde opsagt den med Forbundet i 1937 indgaaende
+"	1945	5	17
+"67"	1945-05-17	"open"	"19450517_15.pdf"	7	"33_19-1945"	"Overenskomst vedrørende Kommunens Badeassistenter til Ophør den 1. April d. A., er der med Repræsentanter for Forbundet ført en Række Forhandlinger om Oprettelse af ny Overenskomst. Som Resultat af disse Forhandlinger foreligger vedlagte Overenskomst af 30. April, som herved indstilles til Byraadets Godkendelse.
+Ved den ny Overenskomst forhøjes Lønnen for mandlige og kvindelige Badeassistenter med henholdsvis 13 Øre og 10 Øre pr. Time, saaledes at Timelønningerne bliver henholdsvis 148 Øre og 110 Øre, hvilket for de mandlige Assistenters Vedkommende svarer til Timelønnen for Kommunens Arbejdsmænd. Ved Overenskomsten i 1937 fastsattes de mandlige Badeassistenters Timeløn 6 Øre højere end Arbejdsmændenes, saaledes at der i Timelønnen indeholdtes Godtgørelse for Arbejde i forskudt Arbejdstid. Siden 1937 er Arbejdsmændenes Grundtimeløn forhøjet med 19 Øre, men da der i denne Forhøjelse er indeholdt Aflønning af visse Særydelser, er man enedes om i den ny Overenskomst at fastsætte de mandlige Badeassistenters Timeløn til den for Arbejdsmændene gældende uden særlig Godtgørelse for Arbejde i forskudt Arbejdstid. For de kvindelige Assistenters Vedkommende svarer Forhøjelsen af Timelønnen procentvis til den Forhøjelse, de mandlige Assistenter opnaar.
+Endvidere er der ved den ny Overenskomst fastsat Regler om særlig Overarbejdsbetaling under visse Forhold.
+Kommunens Merudgift ved Gennemførelsen af Overenskomstens Regler vil andrage ca.
+4.000Kr. aarlig.\"
+Indstillingen vedtoges.
+"	1945	5	17
+"68"	1945-05-17	"open"	"19450517_15.pdf"	8	"33_20-1945"	"Indstilling fra Lønudvalget om Ændring i Overenskomsten med Kommunale Arbejdsmænds Fagforening angaaende Ydelse af Ude- og Afstandstakst ved Arbejde i Skovene.
+Udvalget foreslaar følgende Ændringer gældende fra 16. November 1944:
+§ 10, Stk. 3, ændres til: Ved Arbejde overalt i Moesgaard og Skaade Skove betales til Skovvæsenets Arbejdere, naar Vejen til og fra Arbejdsstedet tilbagelægges udenfor Arbejdstiden, en Godtgørelse paa 75 Øre pr. Dag, og til Arbejdere ved andre af Kommunens Institutioner betales Udepenge og Afstandsgodtgørelse efter de i Stk. 1 og 2 indeholdte Regler, idet Afstanden til Arbejdsstedet regnes fra Hørhavegaarden.
+Som nyt Stk. 5 indsættes: Udepenge betales ikke, naar der stilles Spiserum til Raadig-hed, eller naar der betales Godtgørelse i H. t. § 12, Stk. 1.
+I § 12, Stk. 1, tilføjes: For Skovarbejdere udgør Godtgørelsen ved Arbejde overalt i Moesgaard og Skaade Skove dog 60 Øre pr. Dag uanset Arbejdsstyrkens Størrelse.
+Endvidere indstilles, at der til Skovarbejdere, naar de er mødt eller møder til Arbejde i Moesgaard og Skaade Skove for Tiden fra 16. November 1944 til 31. Marts 1946 ydes midlertidig Befordringsgodtgørelse paa 25 Øre pr. Dag.
+Indstillingen vedtoges.
+"	1945	5	17
+"69"	1945-05-17	"open"	"19450517_15.pdf"	8	"251-1945"	"Indstilling fra Lønudvalget om Dyrtidstillæg til Kommunens Elever m. fl.
+Udvalget indstiller, at Dyrtidstillægget til Kommunens Kontorelever, Bibliotekselever, Tegneelever
+"	1945	5	17
+"70"	1945-05-17	"open"	"19450517_15.pdf"	9	"251-1945"	", Laboratorieelever ved Levnedsmiddelkontrollen samt Piccoloer fra 1. April d. A. forhøjes til 65 °/o af Lønnen.
+Indstillingen vedtoges.
+"	1945	5	17
+"71"	1945-05-17	"open"	"19450517_15.pdf"	9	"21_1-1945"	"Forslag til Byggelinie for en Del af Frederiksallé.
+Fra Stadsingeniøren forelaa Forslag om, at Gadebredden paa Strækningen fra Dannebrogsgade til Jægergaardsgade fastsættes til 23/2 m.
+Tiltraadt af Stadsarkitekten og Udvalget for Byens Udvidelse og Bebyggelse.
+Indstillingen vedtoges.
+"	1945	5	17
+"72"	1945-05-17	"open"	"19450517_15.pdf"	9	"124-1945"	"Indstilling fra Socialudvalget om Uddeling af Rabatkort.
+Følgende Indstilling forelaa:
+\"I Henhold til Lovanordning Nr. 124 af 20.
+Marts 1945 om Hjælp til trængende til Indkøb af visse Levnedsmidler, er der ifølge Socialministeriets Skrivelse af 12. April 1945, bekendtgjort af Byraadet den den 16. April 1945 under J. Nr. 124 - 1945, stillet til Raadighed for Aarhus Kommune:
+200.326 Kr. til Indkøb af Oksekød, Hestekød,
+Flæsk, Fjerkræ o.s.v. 127.569 \"--- Sødmælkog
+139.122 \"--- Smør.
+Beløbene bedes optaget i Budgettet for Regnskabsaaret 1945-46 under saavel Indtægt som Udgift med fuld Refusion fra Staten under Konto
+11235 med200.326Kr.tilOksekødo. s.v.,
+11238-127.569\"-Sødmælkog
+11241-139.122\"-Smør.
+Man skal herved anmode om Byraadets Bemyndigelse til, at det sociale Udvalg forestaar
+"	1945	5	17
+"73"	1945-05-17	"open"	"19450517_15.pdf"	10	"124-1945"	"Uddelingen af Rabatkort til samme Række Personer, til hvilke man hidtil har uddelt, og efter de samme Regler som i afvigte Regnskabsaar bortset fra Indtægtsgrænserne, der for de sidst forløbne 4 Uger indtil videre ansættes til
+280.00Kr. for et Ægtepar med et Tillæg paa
+20,00 Kr. for hvert Barn under 15 Aar,
+175.00\"forenligePersoner over 30 Aar,
+163.00\"-- under 30 Aar og
+100.00\"-15-18 aarige Børn.
+Uddelingen pr. Maaned andrager:
+2,00 Kr. til Kødkort til saavel Hoved- som Bipersoner,
+3,60\"-Mælkekorttil Børn under 18 Aar,
+18.00\"--- svangre Kvinder og
+skiftevis hver anden Maaned 1,80 og 1,20 Kr. til Smørkort til saavel Hovedsom Bipersoner.
+Om de af Kommunen trufne Foranstaltninger vedrørende ovenstaaende Fordeling vedlægger man til Amtet en Indberetning i udfyldt Stand.
+Man skal bede samme forsynet med Borgmesterens Underskrift og videresendt inden den 30. April 1945.\"
+Indstillingen vedtoges.
+"	1945	5	17
+"74"	1945-05-17	"open"	"19450517_15.pdf"	10	"30_33-1944"	"Andragende fra Vognmand Mads Rygaard om Tilladelse til at overtage den af Vognmand L. J. Hansen drevne Fragtrute Ryomgaard-Aarhus.
+Anbefalet af Vejteknisk Udvalg paa samme Betingelser som hidtil.
+Tiltraadtes.
+"	1945	5	17
+"75"	1945-05-17	"open"	"19450517_15.pdf"	11	"30_11-1944"	"Andragende fra Svend E. Nielsen om Koncession paa en Fragtrute Saxild- Aarhus.
+Anbefalet af Vejteknisk Udvalg indtil 30. Juni 1946 paa sædvanlige Betingelser.
+Tiltraadtes.
+"	1945	5	17
+"76"	1945-05-17	"open"	"19450517_15.pdf"	11	"30_10-1944"	"Andragende fra Vognmand P. M. Kjærsgaard om Tilladelse til at overtage Vognmand Chr. Kaltofts Koncession paa Fragtrute Odder-Aarhus.
+Fra Vejteknisk Udvalg forelaa følgende Erklæring:
+\"Da Chr. Kaltoft ikke har betjent Ruten de sidste 1 1/2 Aar, synes der ikke at være Anledning til at forny Koncessionen, hvorfor Udvalget ikke kan anbefale Andragendet.\" Tiltraadtes.
+"	1945	5	17
+"77"	1945-05-17	"open"	"19450517_15.pdf"	11	"460_15-1944 og 460_16-1944"	"Indstilling om Fordeling af 6.030 Kr. til Beredskabsprojektering.
+Udsattes.
+22.Købekontrakter med:
+a.(J. Nr. 11_11--1945). Maskinarbejder Frode Hansen angaaende en Grund ved Otto Sverdrups Vej.
+b.(J. Nr. 22_2-1945). Slagtermester Aage Nielsen angaaende en Grund ved Hestehavevej.
+c.(J. Nr. 11_6 -1945). A/S Math. Madsen angaa-ende en Grund paa Matr. Nr. 1 a af Markj. i Hasle Herred.
+d.(J. Nr. 11_7-1945). Glassliber O. C. Bay angaaende en Grund ved Nordvestpassagen.
+e.(J. Nr. 11_8-1945). Chauffør Ib Laursen angaaende en Grund ved Nordvestpassagen.
+"	1945	5	17
+"78"	1945-05-17	"open"	"19450517_15.pdf"	12	"460_15-1944 og 460_16-1944"	"f.(J. Nr. 11_9-1945). Fabrikant J. Carlsen angaa-
+ende en Grund paa Matr. Nr. 1 a af Markj. i Hasle Herred.
+g.(J. Nr.11_10-1945). Fabrikant Tage Simonsen angaaende en Grund paa Matr. Nr. 1 a af Markj. i Hasle Herred.
+h.(J. Nr. 11_17-1944). Maskinmester Bisgaard an-gaaende en Tillægsparcel ved Bethesdavej. Godkendtes.
+"	1945	5	17
+"79"	1945-05-17	"open"	"19450517_15.pdf"	12	"record_id unknown"	"Borgmesteren meddelte, at der i den socialdemokratiske Gruppe i Dag blev spurgt, hvorledes Kommunen agtede at stille sig overfor de organiserede Nazister, som havde været Medlem af dette Parti efter 9. April 1940, eller som havde optraadt som Stikkere o. lign., naar det var Folk, som var ansat ved Kommunen. Det blev henstillet, at man tog Sagen noget lignende som Staten, saaledes at man straks suspenderer dem. Det var ogsaa tidligere drøftet i Budgetudvalget, og der var for saa vidt Enighed derom. Maaske kunde Byraadet bemyndige Budgetudvalget til at træffe de Foranstaltninger, der var nødvendige overfor disse Personer.
+Sigvald Nielsen havde ikke noget derimod, da Budgetudvalget vel havde bedst Kendskab til Personalet, men Udvalget skulde saa gøre Indstilling til Byraadet, som maa træffe Afgørelse. Hvis der fandtes nogen af disse ved Kommunen, enten det var i en stor eller lille Stilling, burde de straks fjernes og afskediges uden Pension. Forhaabentlig vilde Rigsdagen vedtage noget lignende, saa det kan blive ens over hele Landet.
+I. C. Sørensen fandt det naturligt, at det bliver behandlet i Budgetudvalget; men der maatte være en ensartet Praksis over hele Landet"	1945	5	17
+"80"	1945-05-17	"open"	"19450517_15.pdf"	13	"record_id unknown"	", saa alle Tilfælde bliver behandlet ens, og der vilde nok hurtig komme Direktiver til Kommunerne om dette Spørgsmaal. Man havde set, at f Eks. Københavns Kommune havde taget klart Standpunkt i denne Sag, og Aarhus Kommune kunde vel gøre det samme. Et andet Spørgsmaal, som hurtigt maatte løses, var Kommunens Beredskabslagre, idet visse Varer ikke kunde gemmes for længe, og det maatte bestemmes, hvad der skal ske med dem.
+Jens Jensen havde ikke noget imod, at det i første Omgang bliver Budgetudvalget, men Sagerne burde ogsaa behandles af Byraadet. Hvis der i Kommunens Tjeneste var Folk, som havde været med til at støtte Modstanderne i 5Aar, burde de snarest mulig væk, og de Udvalg, hvor de eventuelt havde været beskæftiget, burde give en Indberetning til Budgetudvalget eller Byraadet.
+S.Lauritzen mente ikke, man kunde stemple en Mand som Landsforrædder, blot fordi han har været Medlem af dette Parti før Krigen, da Partiet jo ikke var ulovligt; men Forholdet var selvfølgelig et andet, hvis de havde været Medlemmer efter 9. April 1940.
+Jens Jensen hævdede, at enhver, som havde været Medlem af Nazistpartiet efter 9. April 1 940, maatte betragtes som Landsforrædder.
+Sigvald Nielsen sluttede sig hertil. Naar man saa paa alt det, som dette Parti havde gjort for at ødelægge den danske Regering og Rigsdag og samtidig hjælpe Tyskerne paa alle Maader, maatte det betegnes som et Landsfor-rædderparti.
+Niels Laursen antog, at Retningslinien maa blive, at de, som har været Medlemmer"	1945	5	17
+"81"	1945-05-17	"open"	"19450517_15.pdf"	14	"record_id unknown"	"længere end en Maaneds Tid efter 9. April 1940, regnes for at være Landsforræddere.
+I. C. Sørensen mente, at der ret hurtig vilde ske en Klaring, naar den ny Straffelov kom; den ventedes forelagt lige efter Pinse, og der vilde nok findes Direktiver for, hvordan man skal forholde sig overfor disse Folk. Men det var rigtigst, at der sker en Suspendering af dem, indtil Sagen kan blive afgjort af Domstolene, og saa maatte man jo følge Rettens Afgørelse.
+Borgmesteren havde ogsaa tænkt, at disse Sager efter at være behandlet i Budgetudvalget skulde forelægges i Byraadet; men i sidste Instans maatte det vel blive Domstolene, som afgør Spørgsmaalet om Skyld eller ikke. Angaaende Kommunens Beredskabslagre havde Taleren drøftet denne Sag med Socialdirektøren, som Lagrene sorterer under, og det var Meningen straks at gaa i Gang med at disponere over dem.
+I. C. Sørensen erindrede om det Spørgsmaal, der var rejst af Overlærer Riber om at faa nogle af Skolerne givet fri. Det betød uhyre meget for Børnene, særlig Mellemskolen. Enkelte Skoler var ryddet, og de, som kun havde faa Beboere, burde rømmes. Maaske skulde nogle af Skolerne bruges til andet Formaal, men en Del af dem burde gives fri.
+Borgmesteren havde i længere Tid næsten daglig forhandlet med Bykommandanten derom og havde gjort gældende, at man først og fremmest skulde have Skolebygningerne fri, derefter Skovene og Havnen og endelig Kasernerne, medens de tyske Barakker kom i anden Række. Men nu var der ogsaa kommet en Garnisonskommandant til Byen, og hans første Opgave var"	1945	5	17
+"82"	1945-05-17	"open"	"19450517_15.pdf"	15	"record_id unknown"	"at faa Kasernerne rømmet, da der skulde indkaldes dansk Militær. Der var ogsaa kommet flere Englændere til Byen, som var indkvarteret paa Frederikshøj, og nogle af den danske Brigade, som foreløbig skulde indkvarteres i Barakkerne ved Tøndergade. Havnen var for saa vidt givet fri af Tyskerne, men samtidig vilde der komme fremmede Tropper dertil. Der var altsaa mange Vanskeligheder forbundet med Spørgsmaalet, særlig fordi der var saa mange forskellige Instanser, der skulde forhandles med. Der var givet 2 Skoler fri, nemlig Læssøesgade og Samsøgade, men om de skulde belægges med andre, vidste man endnu ikke. Der fandtes ca. 6000 Flygtninge i Byen, og de var indkvarteret 12 forskellige Steder; der var saarede Soldater paa Kommunehospitalet, Ingerslevs, Fjordsgades og Finsensgades Skoler, og i Gaar krævede Staten, at der skal modtages 400 saarede Tyskere fra København. Der var altsaa mange Vanskeligheder, men der vilde fortsat blive forhandlet om Sagen.
+Chr. Nielsen oplyste, at der var sket en beklagelig Ulykke, idet en lille Dreng paa Optagelseshjemmet i Christiansgade var blevet slemt saaret af en Haandgranat, som Tyskerne havde smidt ved Legepladsen. Der maatte sættes alt ind paa at faa ryddet op efter Tyskerne, saa man ikke er udsat for saadanne Ulykker.
+Borgmesteren svarede, at efter Henstilling havde Kommandanten rettet det Krav til de tyske Myndigheder, at naar de forlader de forskellige Lokaler, skal de rense ud for Miner og Ammunition o. lign.; det blev lovet, men de gjorde det bare ikke, idet Resterne af den tyske Hær var i vild Forvirring. Der blev ikke engang"	1945	5	17
+"83"	1945-05-17	"open"	"19450517_15.pdf"	16	"record_id unknown"	"givet Meddelelse om, naar de forlod Lokalerne, og saa kunde man se baade Børn og voksne løbe ind og stjæle Vaaben og Tøj, fordi der ikke var nogen Vagt. Naar der først kom dansk Vagt, blev alt fjernet og bragt til et særligt Depot. Der var ikke andet at gøre end at advare Folk mod at færdes paa disse Steder, før de er erklæret for at være renset. Det var beklageligt, at Folks Tyvagtighed giver sig saadanne Udslag; det var gement Tyveri, og der vilde blive skredet haardt ind derimod; der var allerede rejst Tiltale mod en Del, og forhaabentlig fik de en saa alvorlig Straf, at det kan virke hæmmende overfor andre.
+H. P. Jensen meddelte, at ca. 200 T. L. af Aarhus Skove var mere eller mindre ødelagt. Taleren viide gerne henstille til Pressen om stærkt at advare Folk mod at gaa ind i Skovene, før Arealet er renset af Sprængkommandoen. Der blev sagt, at der ligger Tusinder af Miner i Skovene, men forhaabentlig fik man disse Minefelter renset saa hurtigt, at Befolkningen kan faa noget ud af Skovene i Sommer. Skovenes Dyrebestand var trængt sammen paa et lille Hjørne ved Varna, idet det meste af Dyreparken var brugt af Tyskerne som Øvelsesplads, og Dyrene var ved at sulte ihjel, men nu havde de faaet Pladsen igen, da der ikke paa den fandtes Miner.
+C h r. Nielsen gjorde opmærksom paa, at Optagelseshjemmets Legeplads havde ikke været beslaglagt, saa Børnene havde ikke været inde paa forbudte Steder, og hvis Omraadet ved Kunstmuseet var blevet afspærret, efter at Tyskerne var rejst, var Ulykken næppe sket.
+Erna Hedtoft Larsen vilde samtidig henstille at have Opmærksomheden henvendt"	1945	5	17
+"84"	1945-05-17	"open"	"19450517_15.pdf"	17	"record_id unknown"	"paa Stranden, hvor Folk let kan blive udsat for Ulykker.
+Borgmesteren svarede, at der var gjort Henstillinger, men det var umuligt at give nogen Garanti, da Tyskerne smed Tingene overalt, og en effektiv Bevogtning alle Steder havde man ikke Folk til. Der var næppe andet at gøre end alvorligt at advare Folk mod at komme paa de Steder, hvor Tyskerne havde været."	1945	5	17

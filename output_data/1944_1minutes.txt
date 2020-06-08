@@ -1,0 +1,439 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1944-01-13	"closed"	"19440113B_151.pdf"	1	"no related record"	"Mødet den 13. Januar 1944.
+(For lukkede Døre).
+Fraværende: Kai Blicher.
+"	1944	1	13
+"2"	1944-01-13	"closed"	"19440113B_151.pdf"	1	"1015-1943"	"Indenrigsministeriets Godkendelse af, at Kommunen modtager det gennem Vekselerfirmaet Th.G. E. Larsen tilbudte Laan paa 5,04 Mill. Kr.
+Toges til Efterretning.
+"	1944	1	13
+"3"	1944-01-13	"closed"	"19440113B_151.pdf"	1	"1015-1943"	"Indstilling angaaende Overenskomst om Laanet paa 5,04 Mill. Kr.
+Følgende Indstilling forelaa:
+Overenskomst
+1.
+Ifølge Aarhus Byraads Bemyndigelse til Budgetudvalget af 18. November 1943 og i Henhold til Budgetudvalgets Beslutning af 22. November 1943 samt med Indenrigsministeriets Samtykke, der er meddelt i Skrivelse af 22/12 1943,har Kommunen gennem ovennævnte Bankierfirma optaget et Laan paa 5.04 Millioner Kroner.
+2.
+For Laanet udstedes 1008 Stk. Obligationer å 5000 Kr. lydende paa Ihændehaveren.
+Obligationerne kan noteres paa Navn.
+"	1944	1	13
+"4"	1944-01-13	"closed"	"19440113B_151.pdf"	2	"1015-1943"	"Obligationerne forsynes med det fornødne Antal halvaarlige Rentekupons, lydende paa 1 3/4 % halvaarlig Rente betalbar hver 1. Juni og 1. December, første Kupon betalbar den 1.Juni 1944, idet Forrentningen løber fra 1. December 1943.
+3.
+Laanet er inddelt i 12 Serier (Nr. 1 til Nr. 12 incl.) med Kr. 420.000 i hver Serie. Laanets Løbetid er 12 Aar, og det amortiseres ved Indfrielse til pari Kurs med 1/12 aarligt (Kr. 420.000) af Laanets oprindelige Beløb, paa følgende Maade: Serie Nr. 1 indløses den 1. December 1944, Serie Nr. 2 den 1. December 1945 og saaledes fremdeles indtil Serie Nr. 12, der indløses den 1. December 1955. Obligationernes Serienumre svarer saaledes til deres Løbetid i Antal Aar.
+4.
+Laanet er uopsigeligt saavel fra Debitors som Kreditors Side.
+5.
+Forfaldne Obligationer og Rentekupons skal betales af Kommunen uden Fradrag af nuværende eller fremtidige Skatter, Afgifter etc., af hvad Art nævnes kan, til Stat eller Kommune. Kupons og forfaldne Obligationer er betalbare ved Aarhus Kommunes Kasse og Bankierfirmaet Thorkild G. E. Larsen, Axelborg, København V.
+Der betales ikke Bankierfirmaet nogen Provision for Indløsning af forfaldne Obligationer og Rentekupons, derimod godtgøres der dette i Rente for udlagte Beløb i den Anledning 3½ % p. a. fra Indløsningsdagen til Dagen for Kommunens Rimesses Modtagelse.
+"	1944	1	13
+"5"	1944-01-13	"closed"	"19440113B_151.pdf"	3	"1015-1943"	"Bankierfirmaet Thorkild G. E. Larsen, Axelborg, København V., har købt og Aarhus Kommune solgt et nominelt Beløb af 5.040.000 Kr. 12-aarige Aarhus Kommunes 3½ % Obligationer af 1943 til Kurs 100 netto plus paaløbende Renter fra 1. December 1943. Laanet benævnes: Aarhus Kommunes 12-aarige 3½ % Laan af 1943.
+7.
+Der finder ikke nogen offentlig Emission af Laanet Sted, men Placeringen af Obligationerne er sket under Haanden gennem ovennævnte Bankierfirma.
+8.
+Bankierfirmaet Thorkild G. E. Larsen afholder de med Obligationernes Trykning forbundne Omkostninger og stiller de færdige Obligationer til Disposition for Indehaverne af de nedenfor nævnte Interimsbeviser.
+Indtil Obligationerne foreligger færdigtrykte, udsteder Kommunen Interimsbeviser for Obligationerne.
+9.
+Makulerede eller ikke-leveringsmæssige Obligationer kan hos Aarhus Kommune ombyttes med nye mod Betaling af Kr. 2,00 pr. Stk.
+10.
+Originalen til denne Kontrakt beholder Aarhus Kommune, medens der leveres Bankierfirmaet Thorkild G. E. Larsen en af Parterne underskrevet Genpart.
+Indstillingen vedtoges.
+"	1944	1	13
+"6"	1944-01-13	"closed"	"19440113B_151.pdf"	4	"1151-1943"	"Indstilling angaaende Accept af et gennem Vekselerfirmaet Th. Q. E. Larsen fremkommet Tilbud paa Laan paa 1664000 Kr. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	1	13
+"7"	1944-01-13	"closed"	"19440113B_151.pdf"	4	"1151-1943"	"Indstilling angaaende Overenskomst om Laanet paa 1664000 Kr.
+Følgende Indstilling forelaa:
+Overenskomst
+1.
+Ifølge Aarhus Byraads Vedtagelse af 16. December 1943 og 13. Januar 1944 samt med Indenrigsministeriets Samtykke, der er meddelt i Skrivelse af1944,har Aarhus
+Kommune gennem ovennævnte Bankierfirma optaget et Laan paa Kr. 1.664000, skriver Eenmillionsekshundredesekstifiretusinde Kroner.
+2.
+For Laanet udstedes 416 Stk. Obligationer å Kr. 4000 lydende paa Ihændehaveren.
+Obligationerne kan noteres paa Navn.
+Obligationerne forsynes med 26 halvaarlige Rentekupons, lydende paa 1 3/4 % halvaarlig Rente betalbar hver 10. Juli og 10. Januar, første Kupon betalbar den 10. Juli 1944, idet Forrentningen løber fra 10. Januar 1944.
+3.
+Laanet er inddelt i 26 Serier (Nr. 1 til 26 incl.) med Kr. 64000 i hver Serie. Laanets Løbetid er 13 Aar, og det amortiseres ved Udtrækning til pari Kurs med 1/26 af Laanets oprindelige Beløb halvaarligt under Overværelse af Notarius publicus.
+"	1944	1	13
+"8"	1944-01-13	"closed"	"19440113B_151.pdf"	5	"1151-1943"	"Kommunen foranlediger, at Udtrækningen finder Sted i hvert Aars Marts og September Maaned til Tilbagebetaling den paafølgende 10.Juli og 10. Januar, første Gang i Marts Maaned 1944 til Tilbagebetaling den 10. Juli 1944,idet der hvert Halvaar udtrækkes en Serie (Kr. 64000).
+Resultatet af Udtrækningen bekendtgøres af Aarhus Kommune ved Avertering i Berlingske Tidende.
+4.
+Laanet er uopsigeligt saavel fra Debitors som Kreditors Side.
+5.
+Udtrukne Obligationer og forfaldne Rentekupons skal betales af Kommunen uden Fradrag af nuværende eller fremtidige Skatter, Afgifter etc., af hvad Art nævnes kan, til Stat eller Kommune. Kupons og forfaldne Obligationer er betalbare ved Aarhus Kommunes Kasse og Bankierfirmaet Thorkild G. E. Larsen, Axelborg, København V.
+Der betales ikke Bankierfirmaet nogen Provision for Indløsning af forfaldne Obligationer og Rentekupons, derimod godtgøres der dette iRente for udlagte Beløb i den Anledning 3½ % p. a. fra Indløsningsdagen til Dagen for Kommunens Rimesses Modtagelse.
+6.
+Bankierfirmaet Thorkild G. E. Larsen, Axelborg, København V., har købt og Aarhus Kommune solgt et nominelt Beløb af 1.664000 Kroner 13-aarige Aarhus Kommunes 3½ % Obligationer af 1944 til Kurs 100 netto plus paaløbende Renter fra 10. Januar 1944. Laanet
+"	1944	1	13
+"9"	1944-01-13	"closed"	"19440113B_151.pdf"	6	"1151-1943"	"benævnes: Aarhus Kommunes 13-aarige 3½ % Laan af 1944.
+7.
+Der finder ikke nogen offentlig Emission af Laanet Sted, men Placeringen af Obligationerne er sket under Haanden gennem ovennævnte Bankierfirma.
+8.
+Bankierfirmaet Thorkild G. E. Larsen afholder de med Obligationernes Trykning forbundne Omkostninger og stiller de færdige Obligationer til Disposition for Indehaverne af de nedenfor nævnte Interimsbeviser.
+Indtil Obligationerne foreligger færdigtrykte udsteder Kommunen Interimsbeviser for Obligationerne.
+9.
+Makulerede eller ikke-leveringsmæssige Obligationer kan hos Aarhus Kommune ombyttes med nye mod Betaling af Kr. 2 pr. Stk.
+10.
+Originalen til denne Kontrakt beholder Aarhus Kommune, medens der leveres Bankierfirmaet Thorkild G. E. Larsen en af Parterne underskrevet Genpart.
+Indstillingen vedtoges.
+"	1944	1	13
+"10"	1944-01-13	"closed"	"19440113B_151.pdf"	6	"1167-1943"	"Indstilling fra Kommunebogholderen angaaende Ydelserne af Kommunens Laan hos C. I. Hambro &amp;amp; Søn, London.
+Tiltraadt af Budgetudvalget'
+Indstillingen vedtoges.
+"	1944	1	13
+"11"	1944-01-13	"closed"	"19440113B_151.pdf"	6	"1168-1943"	"Indstilling fra 
+"	1944	1	13
+"12"	1944-01-13	"closed"	"19440113B_151.pdf"	7	"1168-1943"	"Kommunebogholderen vedrørende Kommunens Laan af 1930 hos Aarhus Privatbank m. fl.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1944	1	13
+"13"	1944-01-13	"closed"	"19440113B_151.pdf"	7	"99_36-1943"	"Andragende fra Murermester P. Rasmussen om Garanti for yderligere 10 % af Statslaan til Villa ved Fr. Nansensvej.
+Udvalget for Byens Udvidelse og Bebyggelse kan ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1944	1	13
+"14"	1944-01-13	"closed"	"19440113B_151.pdf"	7	"1135-1943"	"Indstilling om Bevilling af 2000 Kr. til særligt filantropisk Arbejde. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	1	13
+"15"	1944-01-13	"closed"	"19440113B_151.pdf"	7	"1239-1943"	"Indstilling om, at der bevilges Falcks Redningskorps et Tillæg til Abonnement for indeværende Aar paa 300 Kr.
+Overgik til 2. Behandling.
+"	1944	1	13
+"16"	1944-01-13	"closed"	"19440113B_151.pdf"	7	"1225-1943"	"Indstilling angaaende eventuel Ekspropriation af Bagermester Jørgensens Ejendom Østergade 5.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Idet Kommunen er interesseret i Bagermester Jørgensens Ejendom af Hensyn til Udvidelse af Telefonsmøgen og ogsaa af andre Grunde, har man forhandlet nærmere med Bagermester Jørgensen angaaende Kommunens Erhvervelse af hans Ejendom.
+Forhandlingerne har dog endnu ikke ført til noget Resultat, og saafremt der ikke opnaas en efter Udvalgets Mening foruftig Ordning angaaende Ejendommen, skal man indstille, at der skrides til Ekspropriation af Ejendommen i fornødent Omfang til Udvidelse af nævnte Smøge\"
+"	1944	1	13
+"17"	1944-01-13	"closed"	"19440113B_151.pdf"	8	"1225-1943"	"Borgmesteren oplyste, at Ejendommen var brændt, og da der forelaa en Plan over Udvidelse af Telefonsmøgen til 8 m, havde man Brug for 6½ m af denne Grunds Bredde, hvorfor det ikke kunde tillades, at Grunden bebygges som tidligere. Der var lavet Tegning til en Bygning paa den vanskelige Grund, men hvis den skulde godkendes, maatte man forlange, at han gratis overlader Kommunen de 6½ m til Udvidelsen. Der var ført mange Forhandlinger med Ejeren, uden at man var naaet til Enighed, og det blev muligvis nødvendigt at gaa til Ekspropriation. Man var ogsaa interesseret i en Handel med Landbosparekassen, saaledes at denne kan bygge helt om Hjørnet og faa en ordentlig Ejendom. Der skulde ogsaa forhandles med de øvrige Ejere langs Smøgen for eventuelt at faa dem til at give et Tilskud til Smøgens Udvidelse.
+Indstillingen vedtoges.
+"	1944	1	13
+"18"	1944-01-13	"closed"	"19440113B_151.pdf"	8	"1221-1943"	"Indstilling angaaende Likvidation af den kommunale Malerforretning.
+Fra Stadsarkitekten forelaa en Redegørelse over Malerforretningens Forhold samt følgende Forslag:
+1)Kommunens Malerforretning fortsætter med samme Mandskab indtil 1951, til hvilket Tidspunkt den likvideres.
+2)Det Malerarbejde, som private Forretninger har paa Hospitalerne, overgaar til Kommunens Malerforretning i de næste 8 Aar-
+3)Vederlaget for Malerarbejdet udregnes efter Malermestrenes til enhver Tid gældende Prisliste  minus 15 %.
+"	1944	1	13
+"19"	1944-01-13	"closed"	"19440113B_151.pdf"	9	"1221-1943"	"4)Malersvendene skal selv skrive deres Akkordregninger og afgive dem til Malermesterens Kontrol og Revision.
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse.
+Borgmesteren henviste til Redegørelsen fra Stadsarkitekten. Der var i Forslaget taget Hensyn til de Svende, som havde arbejdet i Forretningen i 12 Aar eller mere, og derfor udsatte man Likvidationen i 8 Aar. Forslaget gav vist den bedste Ordning og vilde skabe Ro om Forretningen.
+Ejner Mikkelsen antog, det var en Forudsætning, at Forretningen i de 8 Aar ikke skal vokse udover de 10 Mand, som nu beskæftiges.
+Borgmesteren bekræftede dette, og det laa ogsaa i Forslaget; Forretningen kunde have Beskæftigelse for 9 Mand hele Aaret ved Arbejde paa Hospitalerne, og med disse kunde Forretningen økonomisk løbe rundt.
+J. R. Fanger pegede paa, at de plejede at male Skolerne i Ferien, men skulde det fortsætte, var det nødvendigt at antage flere Folk.
+Borgmesteren skulde ikke komme ind paa Enkeltheder, men med 9 Mand kunde der ikke laves ret meget paa Skolerne, saa det blev næppe noget Problem.
+S.Lauritzen henstillede til Byraadet og Udvalgene at tage det Hensyn til de private Malermestre, at det Arbejde, som den kommunale Malerforretning ikke kan overkomme, bliver fordelt mellem de private Mestre og ikke tildeles en enkelt eller den cooperative Malerforretning.
+Borgmesteren svarede, at Byraadet i
+"	1944	1	13
+"20"	1944-01-13	"closed"	"19440113B_151.pdf"	10	"1221-1943"	"de enkelte Tilfælde maa overveje, hvilke Hensyn der skal tages til Kommunen.
+Indstillingen vedtoges.
+"	1944	1	13
+"21"	1944-01-13	"closed"	"19440113B_151.pdf"	10	"1146-1943"	"Bortgivelse af Fripladser ved Den jydske Handelshøjskole.
+Fra Skolen forelaa følgende Indstilling:
+Etaarig Kursus, hel Friplads: Henry Lauritsen.
+Halv Friplads: Vald. Møller Sørensen, Inger Sofie Andersen, Axel Hardorff, Richardt Hviid, Hans Georg Jensen, Ruth L. L. Pedersen, Inge K. B. Nielsen, Erik Johs. Pedersen og Henry Pedersen.
+Tiltraadtes.
+"	1944	1	13
+"22"	1944-01-13	"closed"	"19440113B_151.pdf"	10	"1182-1943"	"Indstilling vedrørende en Nyordning samt Ansættelse af Personale paa Stadsarkitektens Kontor.
+Fra Stadsarkitekten forelaa følgende Erklæring:
+Efter at have virket i Embedet som Stadsarkitekt i smaa 2 Maaneder har jeg faaet et godt Indblik i Kontorets hidtidige Arbejdsomraader og Arbejdsmetoder og kan nu fremsende mine Udtalelser herom og mine Forslag til Ændringer og Forbedringer.
+Kontoret har hidtil omfattet:
+1.Et Ekspeditions- og Bogholderikontor med følgende Personale:
+1Fuldmægtig i 4. Lønklasse, 2 Kontorassistenter i 6. Lønklasse samt 2 løst ansatte Kontorassistenter.
+2.En Tegnestue med følgende Personale:
+2Arkitekter i 4. Lønklasse samt 8 løst ansatte Arkitekter.
+"	1944	1	13
+"23"	1944-01-13	"closed"	"19440113B_151.pdf"	11	"1182-1943"	"Ekspeditions- og Bogholderikontoret virker upaaklageligt og har et flinkt og dygtigt Personale med en enkelt Undtagelse.
+Arkitektkontoret derimod har hidtil arbejdet ret planløst og ganske uden Ledelse og Tilsyn. Personalet er dog ikke daarligt, og enkelte hører endda til de bedste inden for Klassifikationen. Der maa først og fremmest System i Arbejdet og i Arbejdsdelingen, og navnlig maa der ansættes og udnævnes Arbejdsledere, som under Ansvar fordeler og leder det daglige Tegnestue- og Tilsynsarbejde, og som i paakommende Tilfælde kan optræde paa mine Vegne under Fravær eller Sygdom.
+Arkitektkontoret suppleres med en Ingeniørafdeling - Stadsingeniørkontorets sanitær tekniske Afdeling med Afdelingsingeniør J. M. Ovesen som Leder.
+Arkitektkontoret tænkes opdelt i 2 Afdelinger, Arkitektafdeling A og Arkitektafdeling B, der hver ledes af en Afdelingsarkitekt.
+Under Arkitektafdeling A udføres:
+Det under Stadsarkitekten paahvilende Arbejde vedrørende Vedligeholdelsen af Kommunens egne Bygninger.
+Projektering og Tilsyn med mindre Ombygningsarbejder og Bygningsforandringer paa samme, endvidere
+Undersøgelses- og Opmaalingsarbejdet i Forbindelse med Administration af Huslejelovenes Bestemmelser (Andragende fra private Grundejere om Byraadets Godkendelse af Huslejeforhøjelser).
+Under Arkitektafdeling B udføres:
+Den tegnemæssige Del af den Stadsarkitekten paahvilende Virksomhed som Byraadets og Byraadsudvalgenes Konsulent f. Eks. ved
+"	1944	1	13
+"24"	1944-01-13	"closed"	"19440113B_151.pdf"	12	"1182-1943"	"Facadecensur, Bebyggelsesplaner, Byplanarbejde (i Samarbejde med Stadsingeniøren), Indkøb af Kunstværker,
+Udskrivning af Konkurrencer om arkitektoniske Opgaver,
+Bedømmelse af og Tilsyn med kommunalt Byggeri, der udføres af særlig antagen privat Arkitekt,
+Bedømmelse og Tilsyn med privat Boligbyggeri, hvortil søges offentlig Støtte, og endelig
+Projektering og Tilsyn med større Nybygnings- og Ombygningsarbejder, som Byraadet maatte beslutte sig til at udføre med Stadsarkitekten som Arkitekt.
+Under Ingeniørafdelingen udføres:
+De tekniske Vedligeholdelsesarbejder, Projektering og Tilsyn med Ombygnings- og Nybygningsarbejder vedrørende samtlige under Arkitektafdelingerne nævnte Arbejder og Omraader, forskellig konsultativ Virksomhed inden for samme Omraade,
+Tilsyn med Driften af de tekniske Anlæg i Kommuuens Bygninger, endvidere
+statistiske Beregninger og Tilsyn med Udførelsen af Jernbeton og Jernkonstruktioner ved forekommende Arbejde under alle 3 Afdelinger.
+Endvidere foreslaas, at Administrationen og Tilsyn med Udførelsen af Vedligeholdelsesarbejderne paa Kommunens Tjenesteboliger og øvrige Beboelsesejendomme koncentreres i en Ejendomsafdeling (iModsætning til nu, hvor denne Administration foretages af 3 -4 forskellige Medarbejdere), som skulde ledes af en Ejendomsinspektør, hvilket Ardejde er tiltænkt
+"	1944	1	13
+"25"	1944-01-13	"closed"	"19440113B_151.pdf"	13	"1182-1943"	"Arkitekt Marding, som har haft fast Ansættelse paa Kontoret siden dets Oprettelse i 1919.
+Endelig henhører under Stadsarkitekten den kommunale Malerforretning, hvortil særlig Udtalelse og Indstilling fremsendes særskilt til næste Møde.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Efter at man har vedtaget Forslaget, saaledes som det er tiltraadt af Lønudvalget (jfr. Lønudvalgets Paategning af 18. d. M.,), fremsendes det til Byraadet til Behandling for saa vidt angaar de foreslaaede Ændringer i Løn- og Ansættelsesvilkaarene for den Del af det i Indstillingen omhandlede Personale, der i Henhold til Tjenestemands-Regulativet ansættes af Byraadet, d. v. s. for saa vidt angaar Oprykningen af Fuldmægtig Thuesen og Kontorassistent B. F. Bisgaard til henholdsvis Ekspeditionssekretær og Overassistent, personligt Tillæg til Arkitekt Marding og Ændring af hans Stillingsbetegnelse til Ejendomsinspektør, Ansættelse af Arkitekterne C. Ottosen og E. Frederiksen som Afdelingsarkitekter, af Arkitekterne Johs. Møller og K. A. Rohbrandt som Arkitekter af 1. Grad og af Arkitekterne L. Møller Larsen og K. Gebauer som Arkitekter af 2. Grad, idet man indstiller, at Forslaget herom tiltrædes i Overensstemmelse med Lønningskontorets Erklæring af 14. d. M.
+Overflytningen af Afdelingsingeniør Ovesen m. fl. fra Stadsingeniørens til Stadsarkitektens Kontor er vedtaget i Byraadets Møde den 1. Juli d. A., saaledes at Overflytningen skulde
+"	1944	1	13
+"26"	1944-01-13	"closed"	"19440113B_151.pdf"	14	"1182-1943"	"ske allerede fra 1. Oktober s. A. Af praktiske Grunde er det imidlertid ønskeligt, at Overflytningen først sker den 1. April n. A., og man skal derfor indstille, at Byraaadet tiltræder dette.\"
+J. R. Fanger pegede paa, at der stod i Forslaget, at naar Ingeniør Ovesens Afdeling flytter derover, er det nødvendigt at antage en Kontormand mere. Men der maatte kunne flyttes en Mand fra Vejteknisk Udvalg. Der stod ogsaa, at Arkitekterne lønnes som hidtil. Men der havde ikke været nogen fast Bestemmelse angaaende deres Lønning. Begrebet Konstruktør og Tegner syntes man ikke at kende paa Kontoret; men man skulde synes, der maatte kunne anvendes Tegnere der ogsaa.
+Borgmesteren kunde daarligt svare paa det sidste Spørgsmaal, men man kunde næppe sætte Arkitekterne ned i Løn. Maaske havde Vejteknisk Udvalg en Kontormand for meget, men det kunde man jo forhandle om.
+Indstillingen vedtoges.
+"	1944	1	13
+"27"	1944-01-13	"closed"	"19440113B_151.pdf"	14	"33_63-1943"	"Andragende fra Afdelingsingeniør R. Ovesen om, at hans Stilling fremtidig benævnes Overinspektør med Bestillingstillæg paa 2400 Kr., subsidiært Oprykning i 1. Lønklasse.
+Udvalget for Byens Udvidelse og Bebyggelse kan ikke anbefale Andragendet, men indstiller, at der fra lU 1944 ydes et Bestillingstillæg paa 1200 Kr.
+Tiltraadt af Lønudvalget.
+Borgmesteren gjorde opmærksom paa, at Ingeniør Ovesen ved Flytningen fik lidt mere selvstændigt Arbejde end hidtil, hvor han havde en Ingeniør over sig. Bestillingstillæget paa 1200
+"	1944	1	13
+"28"	1944-01-13	"closed"	"19440113B_151.pdf"	15	"33_63-1943"	"Kr. var det samme, som var tillagt Afdelingsingeniørerne Thede og Frederiksen.
+Indstillingen vedtoges.
+"	1944	1	13
+"29"	1944-01-13	"closed"	"19440113B_151.pdf"	15	"33_59-1943"	"Indstilling om fast Ansættelse af Fuldmægtig Keld Jarde paa Byraadskontoret.
+Budgetudvalget indstiller, at Fuldmægtig Jarde fra 1. Jan. 1944 fastansættes som Fuldmægtig med Aflønning efter 4. Lønklasses 3. Løntrin.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1944	1	13
+"30"	1944-01-13	"closed"	"19440113B_151.pdf"	15	"1176-1943"	"Indstilling om, at Adjunkt ved Marselisborg Gymnasium Svend Lauge Jørgensen ansættes som Lektor.
+Indstillingen vedtoges.
+"	1944	1	13
+"31"	1944-01-13	"closed"	"19440113B_151.pdf"	15	"1177-1943"	"Indstilling angaaende Besættelse af et Adjunktembede ved Marselisborg Skole.
+Følgende Indstilling forelaa:
+1)cand. mag. N. Bülov Møller, Aarhus.
+2)\"\" Tage Hansen, Nim.
+3)\"\" Verner Christensen, Hjørring.
+Tiltraadtes.
+"	1944	1	13
+"32"	1944-01-13	"closed"	"19440113B_151.pdf"	15	"873-1943"	"Indstilling fra Skolekommissionen om, at Kommunelærer Johs. Sunesen, der ved Dom er fundet skyldig i uterligt Forhold, afskediges fra sit Embede.
+Tiltraadtes.
+"	1944	1	13
+"33"	1944-01-13	"closed"	"19440113B_151.pdf"	15	"33_61-1943"	"Indstilling om, at Ingeniørassistent J. Klinke Laursen ved Gasværket faar fast Ansættelse som Ingeniør i 3. Lønklasse fra 1. Dec. 1943 med Lønanciennitet fra samme Dato.
+Indstillingen vedtoges.
+"	1944	1	13
+"34"	1944-01-13	"closed"	"19440113B_151.pdf"	15	"33_62-1943"	"Indstilling om, at Bibliotekar ved Centralbiblioteket Preben Kirkegaard 
+"	1944	1	13
+"35"	1944-01-13	"closed"	"19440113B_151.pdf"	16	"33_62-1943"	"oprykkes i 5. Lønklasse fra V4 1944 med Lønanciennitet fra samme Dato.
+Indstillingen vedtoges.
+"	1944	1	13
+"36"	1944-01-13	"closed"	"19440113B_151.pdf"	16	"29_17-1943"	"Andragende fra Arbejdsmand ved Gasværket Vald. Kaster om Afsked med Pension.
+Bevilgedes. Pensionen fastsattes til 1363,20 Kr.
+"	1944	1	13
+"37"	1944-01-13	"closed"	"19440113B_151.pdf"	16	"1202-1943"	"Fastsættelse af Pension til Enken efter Maskinmester ved Belysningsvæsenet H. H. C. Petersen.
+Pensionen fastsattes til 1840 Kr.
+"	1944	1	13
+"38"	1944-01-13	"closed"	"19440113B_151.pdf"	16	"1203-1943"	"Fastsættelse af Pension til Enken efter Maskinmester ved Slagtehuset M. R. Madsen.
+Pensionen fastsattes til 1416,96 Kr.
+"	1944	1	13
+"39"	1944-01-13	"closed"	"19440113B_151.pdf"	16	"1065-1943"	"Andragende fra Rengøringskone ved Skolerne Laurine Rasmussen om en aarlig Understøttelse.
+Lønudvalget indstiller, at der ydes 100 Kr. aarlig uden Dyrtidstillæg.
+Indstillingen vedtoges.
+"	1944	1	13
+"40"	1944-01-13	"closed"	"19440113B_151.pdf"	16	"25_10-1943"	"Andragende om Fornyelse af Beværterbevilling i Odd-Fellow Ordenens Bygning Christiansgade 24.
+Anbefaledes.
+"	1944	1	13
+"41"	1944-01-13	"closed"	"19440113B_151.pdf"	16	"25_9-1943"	"Andragende om Fornyelse af Beværterbevilling i Aarhus ny Missionshotel.
+Anbefaledes.
+"	1944	1	13
+"42"	1944-01-13	"closed"	"19440113B_151.pdf"	16	"15_7-1943"	"Andragende fra Grosserer C. I. Johning om dansk Indfødsret.
+Anbefaledes.
+"	1944	1	13
+"43"	1944-01-13	"closed"	"19440113B_151.pdf"	16	"833-1943"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat paa Grund af urigtig Selvangivelse.
+Kommissionen foreslaar følgende Efterbetalinger:
+"	1944	1	13
+"44"	1944-01-13	"closed"	"19440113B_151.pdf"	17	"833-1943"	"Murermester C. Z. Petersen,
+Norsgade 23-25 .............. 5500 Kr. 00 0.
+Malermester J. W. Aggergren,
+Assensgade 20................ 3100\"00\"
+Fabrikant H. Petersen, I. Huitfeldtsgade 81................ 2700\"00\"
+Mekaniker H. C. Christensen,
+Aldersrovej 44 .............. 2500\"00\"
+Blikkenslagermester F. V. Sørensen, Aaboulevarden 55. . 2400 \" 00 \" 
+Maskinfabrikant A. V. Mikkelsen, Kongsvang Alle20.. . 2000\"00\"
+Købmand N. A. Jørgensen,   Jul. Bechgaardsvej 6 ............. 345\"00\"
+Købmand C. A. Kroon, Grønnegade 75........................ 192\"85\"
+Tapetserermester T. J Nielsen,
+Joh. Baunesplads 16..........186\"80\"
+Overmontør P. A. S. Rødvig, tidl.: Chr Wærumsgade 20, nu: Strandbyvej 8, Risskov 135\"00\"
+Dødsboet efter:
+Skrædermester Gregers Petersen, Vestergade 38............. 2914\"20\"
+Møbelfabrikant E. P. Berg, Vestergaardsgade 18.............. 158\"05\"
+Ialt...22131Kr.900.
+Tiltraadtes.
+"	1944	1	13
+"45"	1944-01-13	"closed"	"19440113B_151.pdf"	17	"12_11-1943"	"Indstilling fra Socialudvalget om personligt Tillæg til Rentenydere.
+Indstillingen vedtoges.
+"	1944	1	13
+"46"	1944-01-13	"closed"	"19440113B_151.pdf"	17	"12_10-1643"	"Indstilling fra Socialudvalget om Huslejetilskud til Aldersrentenydere.
+Indstillingen vedtoges.
+"	1944	1	13
+"47"	1944-01-13	"closed"	"19440113B_151.pdf"	18	"16_12-1943"	"Indstilling fra Socialudvalget om Bevilling af fortsat Kommunehjælp uden valgretsfortabende Virkning til 53 Personer.
+Indstillingen vedtoges.
+"	1944	1	13
+"48"	1944-01-13	"closed"	"19440113B_151.pdf"	18	"17_58-1943 og 17_56-1943 og 17_55-1943 og 17_53-1943 og 17_54-1943"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet til:
+a.(J.Nr.17_58-1943).Niels Aage Nielsen.
+b.(J.Nr.17_56-1943).K. R. H. Rasmussen.
+c.(J.Nr.17_55- 1943).Svend Larsen.
+d.(J.Nr.17_53-1943).Henny A. C. Christensen.
+e.(J.Nr.17_54-1943).Niels P. Mogensen.
+Indstillingen vedtoges.
+"	1944	1	13
+"49"	1944-01-13	"open"	"19440113_225.pdf"	1	"no related record"	"Mødet den 13. Januar 1944.Fraværende: Kai Blicher.
+Borgmesteren: Da det er første Gang, Byraadet samles i det ny Aar, vil jeg udtale de bedste Ønsker for det Aar, som kommer. Det tegner ikke lyst for os herhjemme; vi kan kun haabe, at vi maa slippe igennem, uden der gaar for meget i Stykker for os!
+"	1944	1	13
+"50"	1944-01-13	"open"	"19440113_225.pdf"	1	"22_18-1943 og 22_17-1943 og 22_16-1943"	"Indenrigsministeriets Samtykke til Salg af Grunde til følgende:
+a.(J. Nr. 22_18-1943). Murermester E. Andreasen.
+b.(J. Nr. 22_17-1943). Kusk P. Jørgensen.
+c.(J. Nr. 22_16-1943). Th. P. Rasmussen og I. A. Sørensen.
+Toges til Efterretning.
+"	1944	1	13
+"51"	1944-01-13	"open"	"19440113_225.pdf"	1	"637-1943"	"Meddelelse fra Undervisningsministeriet om, at Forslaget til Skoleplan vil kunne godkendes med enkelte Ændringer.
+Toges til Efterretning.
+"	1944	1	13
+"52"	1944-01-13	"open"	"19440113_225.pdf"	1	"900-1943"	"Meddelelse fra Arbejdsministeriet om Godkendelse af forskellige Arbejder ved Stadion som Beskæftigelsesforanstaltning for arbejdshæmmede.
+Toges til Efterretning.
+"	1944	1	13
+"53"	1944-01-13	"open"	"19440113_225.pdf"	2	"19_53-1943"	"Meddelelse fra Socialministeriet om Statsrefusion og mellemkommunal Refusion for 1942-43.
+Toges til Efterretning.
+"	1944	1	13
+"54"	1944-01-13	"open"	"19440113_225.pdf"	2	"712-1943"	"Meddelelse fra Socialministeriet om Stadfæstelse af Fundats for Købmand E. S. Strunges Legat til Hjælp for kronisk syge i Aarhus.
+Toges til Efterretning.
+"	1944	1	13
+"55"	1944-01-13	"open"	"19440113_225.pdf"	2	"1083"	"Meddelelse fra Amtsraadet om fortsat Godkendelse af det af Socialvæsenet foranstaltede Brændselsarbejde med Tilskud fra den fælleskommunale Udligningsfond.
+Toges til Efterretning.
+"	1944	1	13
+"56"	1944-01-13	"open"	"19440113_225.pdf"	2	"1159-1943"	"Regnskab for M. C. Lottrups Legat i 1942-43.
+Toges til Efterretning.
+"	1944	1	13
+"57"	1944-01-13	"open"	"19440113_225.pdf"	2	"227-1943"	"Indstilling fra Budgetudvalget om, at der i Kommunens Styrelsesvedtægt og Tillæget dertil foretages visse af Indenrigsministeriet ønskede Ændringer af formel Natur.
+Overgik til 2. Behandling.
+"	1944	1	13
+"58"	1944-01-13	"open"	"19440113_225.pdf"	2	"995-1943"	"Decision af Havnens Regnskab for 1942-43.
+Fra Revisorerne forelaa følgende Erklæring:
+\"Undertegnede har gennemset Havneregnskabet for 1942-43 uden at finde Anledning til at fremkomme med Bemærkninger.\"
+Tiltraadtes.
+"	1944	1	13
+"59"	1944-01-13	"open"	"19440113_225.pdf"	2	"1080-1943"	"Indstilling om, at der bevilges Aarhus Turistforening 2000 Kr. til en Studievejledning. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	1	13
+"60"	1944-01-13	"open"	"19440113_225.pdf"	3	"1020-1943"	"Indstilling om Afskrivning af Badeanstalten ved Ørnereden. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	1	13
+"61"	1944-01-13	"open"	"19440113_225.pdf"	3	"1165-1943"	"Andragende fra Boligkommissionen om en Tillægsbevilling paa 200 Kr.
+Tiltraadt af Budgetudvalget saaledes, at Beløbet optages paa Konto IX (Tinglysning).
+Overgik til 2. Behandling.
+"	1944	1	13
+"62"	1944-01-13	"open"	"19440113_225.pdf"	3	"1108-1943"	"Indstilling fra Socialudvalget om Tillægsbevilling paa 1200 Kr. til Reparation af Taget paa Højvang.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	1	13
+"63"	1944-01-13	"open"	"19440113_225.pdf"	3	"1166-1943"	"Indstilling fra Raahusforval-teren om Tillægsbevilling paa 3000 Kr. til Bygningsforandringer paa Stadsarkitektens Kontor.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	1	13
+"64"	1944-01-13	"open"	"19440113_225.pdf"	3	"1240-1943"	"Indstilling fra Raadhusfor-valteren om Tillægsbevilling paa 1680,52 Kr. til Paasætning af Tætningslister paa Vinduerne i Raadhusets nordvestre Side.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling,
+"	1944	1	13
+"65"	1944-01-13	"open"	"19440113_225.pdf"	3	"1138-1943"	"Indstilling fra Skoleudvalget om Tillægsbevilling til Lærerlønninger m. v.
+Følgende Indstilling forelaa:
+\"I Anledning af Forhøjelse af Satserne for Tjenestemændenes Reguleringstillæg samt Ydelse af Børnetillæg fra 1943, tillader man sig at ansøge om en Tillægsbevilling for indeværende Regnskabsaar paa Konto XV, Lønninger til Skoledirektøren, Skolelederne, det faste Lærerpersonale, normerede Timelærere, faste Vikarer og Vakancelærere paa 65000 Kr-
+"	1944	1	13
+"66"	1944-01-13	"open"	"19440113_225.pdf"	4	"1138-1943"	"Refusioner af Stat og Skolefond vil tilsvarende foranledige en Merindtægt paa Konto XV, Tilskud til Lærerlønninger paa 60000 Kr.
+Samtidig tillader man sig at ansøge om en Tillægsbevilling paa Konto XV, Honorar for Vikartimer paa 3000 Kr. i Anledning af Forhøjelse af Vikarbetalingssatserne i Folkeskolen i Henhold til Undervisningsministeriets Cirkulære af 12A 1943.\"
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	1	13
+"67"	1944-01-13	"open"	"19440113_225.pdf"	4	"1162-1943"	"Andragende fra Naturhistorisk Museum om Tillægsbevilling paa 1736,42 Kr. til Reparationer m. v. i Museumsbygningen.
+Anbefalet af Budgetudvalget.
+Borgmesteren bemærkede, at Staten burde overtage Bygningen, men det havde man ikke kunnet naa endnu.
+Overgik til 2, Behandling.
+"	1944	1	13
+"68"	1944-01-13	"open"	"19440113_225.pdf"	4	"3_51-1943"	"Indstilling om Efterbevilling paa Arbejdsplanen af 40007,42 Kr. Opførelse af en ny Staldbygning paa Slagtehuset samt 17516,19 Kr. til Istandsættelse af Slagtehusets Bygning efter Krigsskade.
+Tiltraadt af Budgetudvalget.
+Overgik til 2. Behandling.
+"	1944	1	13
+"69"	1944-01-13	"open"	"19440113_225.pdf"	4	"1140-1943"	"Indstilling om Bevilling af 50000 Kr. paa Arbejdsplanen til Optagelse af Urnemure, Anlæg af Urnegrave m. v. samt at det hertil opførte Beløb paa 5000 Kr. frigøres nu.
+Tiltraadt af Budgetudvalget.
+Borgmesteren oplyste, at det paatænktes at lave Urnemure bag ved det gamle Krematorium ud mod den tidligere Knudrissti, og de 5000 Kr. skulde bruges til Regulering og Beplantning.
+"	1944	1	13
+"70"	1944-01-13	"open"	"19440113_225.pdf"	5	"1140-1943"	"Senere vilde der fremkomme en detailleret Plan for selve Arbejdet.
+Overgik til 2. Behandling.
+"	1944	1	13
+"71"	1944-01-13	"open"	"19440113_225.pdf"	5	"1025-1943"	"Andragende fra Aarhus Hospital om, at Hospitalet maa blive fritaget for at svare kommunale Ejendomsskatter af sine Ejendomme i samme Omfang, som Ejendommene fritages for Statsskatter.
+Budgetudvalget indstiller, at man ogsaa for Ejendomsskatterne lader den af Skattedepartementet i hvert enkelt Tilfælde trufne Afgørelse om Fritagelse for at svare Skat faa tilsvarende Anvendelse paa de kommunale Ejendomsskatter.
+Indstillingen vedtoges.
+"	1944	1	13
+"72"	1944-01-13	"open"	"19440113_225.pdf"	5	"174-1943"	"Udkast til Fundats for Fru Thyra Junchers Studielegat for Chr. 9’s Børnehjem.
+Anbefalet af Legatudvalget.
+Tiltraadtes.
+"	1944	1	13
+"73"	1944-01-13	"open"	"19440113_225.pdf"	5	"1109-1943"	"Andragends fra Weber &amp;amp; Sørensen om at maatte udgive Aarhus Skattebog for 1944-45.
+Anbefalet af Skattedirektøren paa Betingelse af, at alle de paa Manuskriptet opførte Personer medtages i Skattebogen, samt at Manuskriptet betales efter Regning.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1944	1	13
+"74"	1944-01-13	"open"	"19440113_225.pdf"	5	"975-1943"	"Andragende fra Statsbanepersonalets Sygekasse om Tilskud til den af Sygekassen foranstaltede Hjemmesygepleje.
+Socialudvalget foreslaar, at Statsbanepersonalets Sygekasse henvises til en Forhandling med Sygekassen \"Aarhus\" med det Formaal eventuelt at lade sine ubemidlede Medlemmer
+"	1944	1	13
+"75"	1944-01-13	"open"	"19440113_225.pdf"	6	"975-1943"	"betjene gennem den Sygepleje, som er arrangeret af Sygekassen \"Aarhus\".
+Tiltraadtes.
+"	1944	1	13
+"76"	1944-01-13	"open"	"19440113_225.pdf"	6	"1238-1943"	"Indberetning fra Udvalget for Byens Udvidelse og Bebyggelse om, at Det sociale Boligbyggeri i stort Omfang har udlejet sine Lejligheder til Tilflyttere.
+Fra Stadsarkitekten forelaa en Opgørelse over Udlejningerne i Foreningens Ejendomme, hvoraf fremgik, at af 131 Lejere er de 65 tilflyttet Aarhus i de sidste 2 Aar.
+Fra Udvalget forelaa følgende Indstilling:
+\"Fremsendes til Byraadet, idet man skal henstille, at Byraadet retter Henvendelse til Det sociale Boligbyggeri om at paase, at Lejlighederne i Foreningens Ejendomme kun udlejes til Lejere, som har haft fast Bopæl i Aarhus i nogle Aar.
+løvrigt vil der i nær Fremtid fremkomme nærmere Indstilling herfra angaaende Spørgsmaalet om, til hvem Lejligheder i Ejendomme, i hvilke Kommunen garanterer for Laan, maa udlejes.\"
+Unmack Larsen maatte meget beklage, at Foreningens Kontor ikke havde været tilstrækkelig paapassende m. H. t. Tilflyttere, og Udlejning til saadanne burde ikke være sket i Henhold til Byraadets tidtigere Henstillinger. Det var nu paatalt paa rette Sted. løvrigt havde det vist været rimeligt, om Sagen var tilsendt Foreningen, før den gik til Behandling i Byraadet, for Spørgsmaalet var ikke saa lige til, som det kunde synes. Adskillige af Lejerne havde haft Tilknytning til Aarhus, selv om de ikke havde boet i Kommunen, og det vilde være urimeligt
+"	1944	1	13
+"77"	1944-01-13	"open"	"19440113_225.pdf"	7	"1238-1943"	"at nægte dem Lejlighed; andre var forflyttede til Byen og havde Krav paa at faa en Lejlighed, og der kunde ogsaa være andre Tilfælde. Ogsaa Staten var interresseret i Forholdet. Taleren var tilfreds med Udtalelsen om, at man vilde søge at faa faste Regler paa dette Punkt, og det var meget ønskeligt, om der kunde gives Boligforeningerne Lejlighed til at være med til at drøfte Spørgsmaalet.
+Ejner Mikkelsen beklagede ogsaa, at der var kommet saa mange Tilflyttere ind i et Byggeri, som Kommunen var i høj Grad interesseret i. Det var nødvendigt at faa fastsat en Tid, maaske op til 5 Aar, hvor de skal have boet i Byen for at faa Lejlighed, saa længe Boligsituationen var saa vanskelig. De private Husejere havde loyalt rettet sig efter Byraadets Henstilling og praktisk talt ikke udlejet til Tilflyttere.
+Borgmesteren var klar over, at der var visse Vanskeligheder, og Udlejningen til Indflyttere var vist særlig sket i den første Tid, da man ikke var rigtig klar over Forholdet. Statstjenestemænd o. lign., som blev forflyttet til Aarhus, maatte betragtes som hørende til Byen. Nu vilde man sende en Henstilling til Foreningen sammen med Sagen, og saa kunde man senere drøfte nærmere Regler for Udlejningen.
+Indstillingen vedtoges.
+"	1944	1	13
+"78"	1944-01-13	"open"	"19440113_225.pdf"	7	"1130-1943"	"Indstilling fra Vejteknisk Udvalg om Omnumerering af Ejendommene i Sønderallés sydlige Side.
+Indstillingen vedtoges.
+"	1944	1	13
+"79"	1944-01-13	"open"	"19440113_225.pdf"	7	"1205-1943"	"Indstilling angaaende Ændringer i Bestemmelse for den kommunale Elek-troinstallatørprøve.
+"	1944	1	13
+"80"	1944-01-13	"open"	"19440113_225.pdf"	8	"1205-1943"	"Fra Ministeriet for offentlige Arbejder forelaa Meddelelse om enkelte Ændringer, som var tiltraadt af Belysningsudvalget.
+Indstillingen vedtoges.
+"	1944	1	13
+"81"	1944-01-13	"open"	"19440113_225.pdf"	8	"979-1943"	"Indstilling fra Brandkommissionen om, at der ved Brandvæsenet ansættes yderligere en Bygningskonstruktør, der karaktiseres som Brandsynsassistent og aflønnes som Konstruktør af 2. Grad.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1944	1	13
+"82"	1944-01-13	"open"	"19440113_225.pdf"	8	"33_57-1943"	"Sagen angaaende Overenskomst med Hospitalsportørerne.
+Tiltraadt af Sygehusudvalget.
+Indstillingen vedtoges.
+"	1944	1	13
+"83"	1944-01-13	"open"	"19440113_225.pdf"	8	"1006-1943"	"Andragende fra Lærerforeeingerne om, at Inspektion i Skolegaarden i Frikvartererne lønnes af Kommunen.
+Fra Skoleudvalget forelaa følgende Indstilling:
+\"Under Henvisning til vedlagte Andragende fra Bestyrelsen for Aarhus Lærerforeninger og til Undervisningsministeriets Cirkulære af 11. Sept. 1943 skal Skoleudvalget anbefale, at Lærerforeningernes Andragende imødekommes, saaledes at der fra 1/4 1944 at regne som Inspektionshonorar til hver af de 6 smaa Skoler ydes 600 Kr. aarlig og til hver af de 6 store Skoler 1200 Kr. aarlig. Til disse Beløb lægges for Tiden 20 % Dyrtidstillæg. Aarsudgiften vil herefter andrage ialt 12960 Kr.\"
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1944	1	13
+"84"	1944-01-13	"open"	"19440113_225.pdf"	8	"1199-1943"	"Indstilling fra Lønudvalget angaaende midlertidig Ordning af Hovedreparation
+"	1944	1	13
+"85"	1944-01-13	"open"	"19440113_225.pdf"	9	"1199-1943"	"af Beklædningsgenstande til Kommunens Tje-nestemænd og Arbejdere.
+Følgende Indstilling forelaa:
+\"Sidst udleverede af følgende Beklædningsgenstande: Kapper, Stortrøjer, Regnfrakker, Jakker, Veste og Benklæder, som trænger til Hovedreparation, kan, for saa vidt Materialer kan tilvejebringes, repareres ved Foranstaltning af vedkommende Institution. Adgangen til Reparation kan dog først blive effektiv, naar den for den paagældende Genstand normale Brugstermin er udløbet, og Reparationen kan normalt kun foretages een Gang. Saafremt Beklædningsgenstanden paa Grund af Tjenestemandens, resp. Arbejderens langvarige Sygdom (d. v. s. over 3 Maaneder) har været ubenyttet, betragtes den normale Brugstermin som forlænget tilsvarende, inden Hovedreparationen kan finde Sted. Der kan i Almindelighed ikke udlaanes Uniformsgenstande til Brug i Stedet for Genstande, som er under Hovedreparation.
+Beklædningsgenstande, der skal hovedrepareres, maa afleveres i vel rengjort Stand.
+Institutionen afgør under Hensyn til samtlige foreliggende Omstændigheder, hvorvidt Skader i de konkrete Tilfælde kan anerkendes som berettigede til Hovedreparation, idet dog bemærkes, at Paasyning af Knapper, Istandsættelse af Lommer o. lign. mindre Reparationer ikke alene kan motivere en Hovedreparation.\"
+Indstillingen vedtoges.
+"	1944	1	13
+"86"	1944-01-13	"open"	"19440113_225.pdf"	9	"1237-1943"	"Indstilling fra Budgetudvalget angaaende Takster for Ydelse af Drikkepenge til Tjenere.
+Følgende Indstilling forelaa:
+"	1944	1	13
+"87"	1944-01-13	"open"	"19440113_225.pdf"	10	"1237-1943"	"\"Det indstilles, at Byraadet fremtidig betaler Drikkepenge til Tjenerne efter de i Prisudvalgets Skrivelse foreslaaede Takster, nemlig 12½ % for Regningsbeløb under 100 Kr. og 10 % for Regningsbeløb over 100 Kr.\"
+Borgmesteren oplyste, at Sagen var ret indgaaende drøftet af Prisudvalget. Kommunen maatte jo af og til optræde som Vært; tidligere betalte man 10 % i Drikkepenge, saa 12½ % og endelig 15 %, idet man forlangte, at Tjenerne skulde betale Skat af 15 % af Omsætningen. Efter de store Prisforhøjelser og Skatter, som var lagt paa Varerne, var det urimeligt stadig at give 15 %; derfor var Forslaget fornuftigt og gik ikke Faget for nær; det var et Prisstop, som det var sket ogsaa for andre Fag.
+Indstillingen vedtoges.
+"	1944	1	13
+"88"	1944-01-13	"open"	"19440113_225.pdf"	10	"1198-1943"	"Indstilling fra Sygehusudvalget angaaende Betalingsordning for ambulant Behandling paa Neurologisk Afdeling.
+Følgende Indstilling forelaa:
+\"Medens det ikke er forudsat i Almindelighed at yde ambulant Behandling paa den neurologiske og neurokirurgiske Afdeling ved Aarhus Kommunehospital, og der saaledes ikke i det for Afdelingen stadfæstede Takstregulativ er fastsat Takst derfor, er det nu af den neurologiske Overlæge paapeget, at det vilde øge Afdelingens Kapacitet og imødekomme et lægeligt Ønske, hvis der kunde gives ambulant Hypertherm-Behandling paa Afdelingen.
+Udvalget kan tiltræde Ordningens Indførelse og henstiller til det ærede Byraad, at der med Indenrigsministeriet træffes Aftale om en 
+"	1944	1	13
+"89"	1944-01-13	"open"	"19440113_225.pdf"	11	"1198-1943"	"Betalingsordning derfor. Som Følge af Behandlingens Natur og Varighed indstiller Udvalget, at Betalingsforholdet ordnes paa den Maade, at en saadan Patient ved hver Behandling betragtes som indlagt i 1 Dag.\"
+Indstillingen vedtoges.
+"	1944	1	13
+"90"	1944-01-13	"open"	"19440113_225.pdf"	11	"22_18-1943"	"Købekontrakt med Murermester E. Andreasen angaaende en Grund ved Rud. Wulffsgade.
+Godkendtes.
+"	1944	1	13
+"91"	1944-01-13	"open"	"19440113_225.pdf"	11	"1170-1943"	"Indstilling fra Ligningskommissionen om Ændring af Børnefradraget ved Ansættelse til Kommuneskat.
+Følgende Indstilling forelaa:
+\"Man tillader sig herved at indstille til det ærede Byraad, at Børnefradraget ved Ansættelse til Kommuneskat, der hidtil har udgjort Kr. 300 pr. Barn, i Skatteaaret 1944-45 ændres til følgende Satser, der er de samme, som anvendes ved Ansættelsen til Statsskat:
+For 1 Barn Kr. 350,
+\" 2 Børn \" 750,
+\" 3 Børn \" 1250, &lt;br&gt;samt 500 Kr. for hvert efterfølgende Barn.
+Man skal bemærke, at Fradragelsen vil betyde en Formindskelse af Skatteindtægten paa ca. 3 Mill. Kr. svarende til en Stigning i Ligningsprocenten paa mellem 2 og 3 Tiendedele.\"
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1944	1	13

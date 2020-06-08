@@ -1,0 +1,312 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1944-12-05	"closed"	"19441205B_187.pdf"	1	"no related record"	"Mødet den 5. Decbr. 1944.
+(For lukkede Døre).
+Fraværende: Kai Blicher, Niels Laursen, Oluf Nielsen og Sigvald Nielsen.
+"	1944	12	5
+"2"	1944-12-05	"closed"	"19441205B_187.pdf"	1	"1350-1944 og 1349-1944"	"Meddelelser fra Borgmesteren.
+Borgmesteren havde sammenkaldt Byraadet for at give Medlemmerne Meddelelse om forskellige Ting i Forbindelse med den tyske Besættelse. De tyske Myndigheder stillede stadig større Krav, f. Eks. om Udlevering af Rationeringsmærker til tyske Politifolk. Kommunen maatte ikke udlevere saadanne uden efter Ordre fra Ministeriet; men ved forskellige Trusler blev man tvunget til at udlevere Kortene. Taleren havde i den Anledning sendt følgende Skrivelse til Ministeriet:
+\"Herved tillader jeg mig at meddele, at man i den senere Tid har været stillet over for Trusler fra det tyske Sikkerhedspolitis Side i følgende Tilfælde:
+1.1 Begyndelsen af November Maaned d. A. forlangte det tyske Sikkerhedspoliti udleveret 50 Kødkort og 50 Købekort til Manufakturvarer
+"	1944	12	5
+"3"	1944-12-05	"closed"	"19441205B_187.pdf"	2	"1350-1944 og 1349-1944"	"til Mandskab under det tyske Sikkerhedspoliti, idet de paagældende havde mistet Fodtøj m. v. ved Bombarderingen af Universitetskollegierne i Aarhus den 31. Oktober d. A. Handelsministeriet havde telefonisk meddelt, at de paagældende Kort ikke skulde udleveres, men da Kriminalrat Bunke, der var Leder af det tyske Sikkerhedspoliti i Aarhus, fastholdt Kravet og sagde til en Fuldmægtig fra Byraadskontoret, der var til Forhandling hos ham i anden Anledning, at fik han ikke Kortene, skulde han nok vide at faa Varerne paa en Maade, der vilde \"die Stadt erstaunen\", udleverede man Kortene, jfr. vedlagte Afskrift af Skrivelse til Handelsministeriet af 10. d. M. om Sagen. Det bemærkes, at Handelsministeriet vil gøre Forestillinger over for Tyskerne i den nævnte Anledning.
+2.Den 9. November d. A. blev det forlangt af det tyske Sikkerhedspoliti, at Kommunen skulde drage Omsorg for Begravelsen af en Mand ved Navn Thøgersen fra Viborg, der havde siddet arresteret i Kollegium IV ved Universitetet og var blevet dræbt ved Luftangrebet. Det blev samtidig meddelt den paagældende Fuldmægtig paa Byraadskontoret, Fuldmægtig, cand. jur. Jarde, at saafrernt der blev nogen Demonstrationer ved Begravelsen, vilde han personlig blive draget til Ansvar. Samme Dag havde den paagældende Fuldmægtig en Samtale med Kriminalrat Bunke i anden Anledning, og under denne Samtale berørte Bunke Spørgsmaalet om Begravelsen og gentog til Fuldmægtig Jarde, at saafrernt der blev nogen Demonstration ved Begravelsen, vilde han blive draget til Ansvar og blive arresteret.
+"	1944	12	5
+"4"	1944-12-05	"closed"	"19441205B_187.pdf"	3	"1350-1944 og 1349-1944"	"Fuldmægtig Jarde gjorde over for Kriminalrat Bunke gældende, at han overhovedet ikke havde nogetsomhelst med Begravelsen at gøre og ikke kunde have nogetsomhelst Ansvar i den Anledning, men til dette sagde Bunke, at de skulde holde sig til een, og at det blev ham.
+3.Mandag den 13. November d. A. meddelte en Kriminalinspektør ved det tyske Sikkerhedspoliti i Aarhus telefonisk, at han havde forsøgt at købe Frakker, Habitter, Undertøj og Sko til Medlemmer af det tyske Sikkerhedspoliti her i Byen, som havde mistet Tøj ved Bombeangrebet. Han havde forespurgt i forskellige Forretninger her i Byen, men var overalt blevet afvist. Han forlangte derfor anvist Forretninger, hvor Varerne kunde købes. Han tilføjede, at hvis det ikke skete, vilde Sikkerhedspolitiet selv finde Forretningerne, beslaglægge dem og bortføre samtlige Varer, hvorhos Personalet og Ledelsen, hvis de satte sig til Modværge, vilde blive arresteret og eventuelt ført bort. Stillet over for disse Trusler, ansaa man det for rigtigst at henvende sig til forskellige større Herre-Ekviperingsforretninger og gøre dem bekendt hermed. Der opnaaedes herefter en Ordning, hvorved Leveringen fordeltes mellem et Par af disse Forretninger.
+4.Den følgende Dag Torsdag den 14. November henvendte en Politisekretær fra det tyske Sikkerhedspoliti sig og meddelte, at han havde forsøgt at købe Skriveborde i en herværende Forretning, Nordisk Kontor Etablering, men var blevet afvist med Bemærkning, at der ikke maatte sælges til Tyskere uden Samtykke fra de danske Myndigheder. Politisekretæren udtalte, at han var klar over, at dette Motiv kun
+"	1944	12	5
+"5"	1944-12-05	"closed"	"19441205B_187.pdf"	4	"1350-1944 og 1349-1944"	"var et Dække for Modvilje, men at han desuagtet maatte forlange, at Skrivebordene skulde leveres, idet Forretningen i modsat Fald vilde blive beslaglagt og modvillige Personer i den eventuelt arresteret Ved Henvendelse samme Dag til Forretningen oplyste Forretningens Prokurist, at der ikke maa sælges Varer til et Beløb udover 200 Kr. til Tyskere uden Indkøbstilladelse, og at Forretningen iøvrigt ikke havde Skriveborde i det Antal, Sikkerhedspolitiet forlangte, og først var leveringsdygtig om 4-8 Uger. Man gjorde det tyske Sikkerhedspoliti bekendt hermed og henstillede, at en eventuel Leverance fordeltes mellem forskellige Forretninger her i Byen, ligesom man gjorde opmærksom paa, at Indkøbstilladelser ikke skal udstedes af danske Myndigheder, men maa søges gennem de dertil kompetente tyske Organer. Politisekretæren meddelte, at det tyske Sikkerhedspoliti i saa Fald selv vilde udstede en Indkøbstilladelse. Man gjorde herfra opmærksom paa, at Firmaerne maatte være berettigede til at afvise Leveringskrav paa Grund af ikke-forskriftsmæssige Indkøbstilladelser.
+Den 16. November meddelte de paagældende Politifolk, der havde henvendt sig, at de nu bedre forstod den Vrangvilje, de havde mødt hos Nordisk Kontor Etablering, idet Indehaveren tidligere havde været fængslet af Sikkerhedspolitiet. Iøvrigt havde Sikkerhedspolitiet faaet de fornødne Skriveborde fra København.
+Man henstiller, at Ministeriet - saafremt Ministeriet da finder det betimeligt - overfor de tyske Myndigheder paataler, at der overfor
+"	1944	12	5
+"6"	1944-12-05	"closed"	"19441205B_187.pdf"	5	"1350-1944 og 1349-1944"	"danske Myndigheder anvendes saadanne Trusler.
+I denne Forbindelse skal man bemærke, at man ogsaa tidligere har været udsat for Trusler fra tysk Side, men at disse har været mere almindeligt holdte, saaledes f. Eks. at et Afslag kan medføre Konsekvenser for Befolkningen og lignende, men i de foreliggende Tilfælde, hvor Truslerne har haft en konkret Karakter, har man ikke ment at kunne sidde dem overhørig.\"
+Natten mellem den 2. og 3. December skete et Overgreb fra det tyske Politis Side, idet man anholdt en Del Borgere og anbragte dem som Gidsler paa Hotel Royal, under Foregivende af at have erfaret, at Hotellet skulde sprænges i Luften. I den Anledning havde Taleren tilstillet Indenrigsministeriet følgende Skrivelse:
+\"Under Henvisning til Telefonsamtale i Gaar mellem Hr. Departementchef Saurbrey og Byraadssekretær G. Staal, Aarhus, angaaende nogle Natten til Søndag den 3. d. M. stedfundne Arrestationer af Borgere her i Byen skal jeg nærmere indberette følgende:
+Mellem Kl. 1 og 2 den nævnte Nat blev følgende Borgere her i Byen afhentet af det tyske Politi paa deres Bopæl her i Byen og ført til Hotel Royal:
+Formanden for den konservative Byraadsgruppe, Landsretssagfører 1. C. Sørensen, Svensk Konsul Tømmerhandler Niels Barnow, Finsk Konsul, Direktør P. J. Østergaard, Chefredaktør Louis Schmidt, Aarhuus Stiftstidende,
+"	1944	12	5
+"7"	1944-12-05	"closed"	"19441205B_187.pdf"	6	"1350-1944 og 1349-1944"	"Grosserer Henry Jacobsen,
+Stedfortræderen for Udenrigsministeriets Kommitterede i Industrisager, Civilingeniør C. F. Willumsen,
+Restauratør og Vinhandler Laurits Hansen og Overtjener Sieger paa Hotel Royal.
+Det tyske Politi indfandt sig ogsaa paa min Bopæl for at afhente mig, men da jeg ikke blev truffet - jeg var tilfældigvis bortrejst paa det paagældende Tidspunkt - førte de i Stedet min Hustru med sig. Ligeledes søgte Tyskerne at faa fat i Direktør Hjalmar Nielsen, Aarhus Sten- og Qruskompagni, men da de heller ikke traf ham, medtog de hans ældste Søn. Endvidere forsøgte de at afhente Kommunens Stadsgartner, Leif Sandberg, men da Gadedøren til den Ejendom, hvori Stadsgartneren bor, ikke blev aabnet trods stærk Banken og Buldren, og da det heller ikke lykkedes Tyskerne at komme ind i Ejendommen efter at have slaaet en Kælderrude itu og være kravlet ind i et Kælderrum, opgav de at gøre videre derved.
+Tyskerne forsøgte ogsaa at arrestere konservativt Medlem af Aarhus Byraad, Murermester Ejner Mikkelsen, men det lykkedes denne at komme ud af Huset og derved undgaa Arrestation.
+Fuldmægtig paa Byraadskontoret, cand. jur. Keld Jarde, der normalt fører Forhandlingerne med Tyskerne paa mine Vegne, fik ogsaa Besøg af det tyske Politi, men da han ikke var hjemme, slog Tyskerne en Rude ind og kravlede derigennem ind i hans Lejlighed, hvor de gennemrodede en Del Papirer, men iøvrigt intet foretog sig.
+"	1944	12	5
+"8"	1944-12-05	"closed"	"19441205B_187.pdf"	7	"1350-1944 og 1349-1944"	"Endelig forsøgte Tyskerne at faa fat i Folketingsmand, Ingeniør Kier og konservativt Medlem af Aarhus Byraad, Ingeniør J. R. Fanger, men de var begge ikke til Stede og undgik paa denne Maade at blive taget.
+Da de ovennævnte, der var blevet medtaget til Hotel Royal, kom ned paa Hotellet, fik de at vide, at de var taget som Gidsler, idet Tyskerne havde hørt, at Hotel Royal, hvor der bor en Del tyske Officerer og andre Tyskere, den paagældende Nat vilde blive sprængt i Luften. Gidslerne blev derefter 3 og 3 anbragt i Hotellets Gange i hver Etage, undtagen min Hustru, der fik Lov til at blive i Hotellets Hall. Om Morgenen blev de frigivet.
+Jeg skal herved bede Ministeriet overfor vedkommende tyske Myndigheder fremsætte en Protest mod denne Fremgangsmaade, som efter min Mening er folkeretsstridig.\"
+Samtidig havde Taleren paa Byraadets Vegne rettet følgende Henvendelse til den herværende Chef for det tyske Sikkerhedspoliti Kriminalret Renner:
+\"Natten til Søndag den 3. d. M. lod det tyske Sikkerhedspoliti en Del Borgere hensætte i Hotel \"Royal\" som Gidsler i Anledning af Rygter om Sprængning af Hotellet.
+Paa Byens Vegne skal man herved paa det bestemteste protestere mod dette uhørte Overgreb mod Mennesker, som ikke paa nogen Maade har forset sig overfor Besættelsesmagten.
+Specielt protesterer man mod, at det ogsaa var Hensigten at medtage Byens Borgmester blandt Gidslerne, og at man i Stedet,
+"	1944	12	5
+"9"	1944-12-05	"closed"	"19441205B_187.pdf"	8	"1350-1944 og 1349-1944"	"da man ikke traf Borgmesteren, medtog hans Hustru.
+Efter den danske Regerings Tilbagetræden i August Maaned f. A. var Borgmesteren den 29. s. M. blevet afhentet til den herværende Standortkommandantur og paa Forespørgsel af Standortaltester, om han vilde vise sig loyal i sin Embedsførelse, erklærede Borgmesteren, at han for Byens og Borgernes Skyld vilde udføre sin Embedsgerning loyalt og udvise en korrekt Holdning overfor Besættelsesmagten. Den næste Dag indkaldte han Kommunens Embedsmænd til Møde, paa hvilket Møde de alle lovede at være loyale mod Borgmesteren og at udvise en korrekt Holdning i enhver Henseende, ligesom Byraadet i et samme Dag afholdt Møde enstemmigt tilsluttede sig Borgmesterens Standpunkt.
+Borgmesteren har siden da bestræbt sig paa at optræde korrekt og at udføre sin Embedsgerning i Overensstemmelse med det Tilsagn, han gav Standortaltester den 29. August f. A., og maa naturligt til Gengæld fra Besættelsesmagtens Myndigheder forudsætte Respekt af ikke alene sin egen Person, men ogsaa sin Families.
+Man maa derfor finde det et Brud paa alle Forudsætninger, at man fra tysk Side forsøgte at arrestere Borgmesteren ved den nævnte Lejlighed, og at man, da man ikke finder Borgmesteren, medtager hans Hustru.
+I denne Forbindelse maa man desværre ogsaa beklage sig over, at de Folk, der arresterede Borgmesterens Hustru, optraadte uartigt overfor hende og behandlede hende paa en respektløs Maade.
+"	1944	12	5
+"10"	1944-12-05	"closed"	"19441205B_187.pdf"	9	"1350-1944 og 1349-1944"	"Specielt maa man endvidere protestere imod, at der blandt Gidslerne var arresteret et Medlem af Byraadet, samt at det tyske Politi forsøgte at arrestere to andre Medlemmer af Byraadet og to af Kommunens Tjenestemænd. Byraadets Medlemmer har til enhver Tid Medansvaret for den Linie, der følges, og ogsaa de maa derfor have et naturligt Krav paa at være sikrede, saa længe de optræder korrekt. Det samme maa gælde Kommunens Tjenestemænd, hvem det paahviler paa loyal Maade at udføre Byraadets Beslutninger.\"
+Borgmesteren meddelte derefter, at Medlemmer af det tyske Politi havde foretaget en Undersøgelse paa Raadhuset, og i et ubenyttet Kælderrum havde de fundet en Duplikatormaskine og en Del Makulatur af et illegalt Blad. Taleren havde saa sammenkaldt Embedsmændene og nedlagt absolut Forbud imod, at der sker illegalt Arbejde paa Raadhuset, og Cheferne havde faaet Paabud om at indskærpe dette overfor deres Personale, idet Byens Raadhus skulde være uangribeligt.
+Efter forskellige Forespørgsler fra Medlemmerne tiltraadtes Skrivelserne enstemmigt.
+"	1944	12	5
+"11"	1944-12-14	"closed"	"19441214B_197.pdf"	1	"no related record"	"Mødet den 14. Decbr. 1944.
+(For lukkede Døre).
+Fraværende: Niels Laursen, Oluf Nielsen og Unmack Larsen.
+"	1944	12	14
+"12"	1944-12-14	"closed"	"19441214B_197.pdf"	1	"116-1944"	"Indenrigsministeriets Samtykke til Kommunens Garanti for Laan til Boligindskud for Arbejdsmand S. P. Nielsen i Det sociale Boligbyggeri.
+Toges til Efterretning.
+"	1944	12	14
+"13"	1944-12-14	"closed"	"19441214B_197.pdf"	1	"116-1944"	"Andragende fra Brandsynsassistent C. M. Møller om Kommunens Garanti for Laan til Boligindskud i Det sociale Boligbyggeri. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	12	14
+"14"	1944-12-14	"closed"	"19441214B_197.pdf"	1	"116-1944"	"Andragende fra Kontorassistent P. S. Chr. Distier om Garanti for Laan til Boligindskud i Det sociale Boligbyggeri.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller at yde Garanti for et Laan paa 230 Kr.
+Overgik til 2. Behandling.
+"	1944	12	14
+"15"	1944-12-14	"closed"	"19441214B_197.pdf"	1	"99_45a-1944"	"Andragende fra Arbejdernes Andelsboligforening om Statslaan til 4. Afsnit af Viborggaarden. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	12	14
+"16"	1944-12-14	"closed"	"19441214B_197.pdf"	2	"1425-1944"	"Indstilling fra Velfærdsudvalget om, at der stilles 120.000 Kr. til Raadighed til Indkøb af Kartofler til Byens Forsyning.
+Tiltraadt af Budgetudvalget.
+Borgmesteren haabede, at man senere vilde faa fuld Refusion.
+Indstillingen vedtoges.
+"	1944	12	14
+"17"	1944-12-14	"closed"	"19441214B_197.pdf"	2	"1337-1944"	"Forslag fra Budgetudvalget til en Plan for en Katastrofe-Beredskabstjeneste til Sikring af Opretholdelse af Kommunens mest livsvigtige Funktioner og af de mest nødvendige Forsyninger samt om Bevilling af 12500 Kr. hertil.
+Indstillingen vedtoges.
+"	1944	12	14
+"18"	1944-12-14	"closed"	"19441214B_197.pdf"	2	"1041-1944"	"Henstilling fra forskellige Foreninger om Forbud mod Salg og Udskænkning af Spiritus efter Kl. 19.
+Borgmesteren henviste til den tidligere Drøftelse af dette Spørgsmaal. Taleren havde i den Anledning forhandlet med Bestyrelserne for de to Restauratørforeninger, som derefter havde udsendt en Meddelelse til deres Medlemmer med Henstilling om at føre streng Justits og særlig overholde, at der ikke skænkes for berusede. Som Sagen laa i Øjeblikket burde man vist tage det Standpunkt, at man ikke for Tiden kan gaa med til et generelt Forbud, idet det vilde ramme en Mængde Mennesker i deres Erhverv. Derimod kunde der godt blive Tale om at lukke enkelte Beværtninger, hvor der flere Gange har været Slagsmaal og Sortbørs Handel. Man maatte ogsaa erindre, at mange Restaurationer var baseret paa Salg om Aftenen, medens flere af de Forretninger, der havde deres største Salg om Dagen, lukkede tidligt paa Aftenen, idet de let
+"	1944	12	14
+"19"	1944-12-14	"closed"	"19441214B_197.pdf"	3	"1041-1944"	"kunde faa solgt deres Kvantum til den Tid. Taleren henstillede at slutte sig hertil.
+Borgmesterens Udtalelser tiitraadtes.
+"	1944	12	14
+"20"	1944-12-14	"closed"	"19441214B_197.pdf"	3	"1067-1944"	"Forslag fra Borgmesteren om, at Chefen for Stadsingeniørens Direktorat for Vejafdelingen i København, Afdelingsingeniør Kaj Kofoed, anmodes om at tiltræde Kommissionen ang. Nyordning af Sporvejene m. v.
+Borgmesteren gjorde opmærksom paa, at der var begaaet en Ekspeditionsfejl, idet Sagen burde være forelagt Sporvejsudvalget; men Udvalget havde haft Møde i Dag og havde tiltraadt Forslaget. Kaj Kofoed var særlig sagkyndig paa Vej- og Færdselsomraadet, og Kommunens egen specielle sagkyndige var for Tiden borte. De københavnske Medlemmer af Kommissionen fandt det forkert at lave Sporvejsdrift gennem Byen, hvilket Taleren ikke var enig med dem i, men Spørgsmaalet burde belyses fra alle Sider, før man tog endelig Beslutning i Sagen.
+Kai Blicher bemærkede, at hvis Stadsingeniøren kom tilbage, før Kommissionen skulde have Møde, var det maaske unødvendigt at vælge Kofoed.
+Borgmesteren svarede, at hvis Stadsingeniøren kom tilbage, var han Medlem af Kommissionen, men man havde noget mere Erfaring i København end i Aarhus, hvorfor det var gavnligt at faa Kaj Kofoed med i Kommissionen.
+Sigvald Nielsen kunde tiltræde Forslaget, men bad Borgmesteren love, at der ikke skal komme flere Teknikere ind i Kommissionen, for det kostede ca. 10.000 for hver.
+Borgmesteren troede ikke, det Regnestykke
+"	1944	12	14
+"21"	1944-12-14	"closed"	"19441214B_197.pdf"	4	"1067-1944"	"stykke var rigtigt, men selvfølgelig kunde en Kommission blive for stor.
+Indstillingen vedtoges.
+"	1944	12	14
+"22"	1944-12-14	"closed"	"19441214B_197.pdf"	4	"1254-1944"	"Indstilling om Valg af Medlemmer til Søretten for Tiden indtil 31/12 1948. Udvalget foreslaar at vælge følgende:
+Maskinmester Osvald Nielsen.
+Overforvalter Burmeister Larsen.
+Reder Gottfred Jensen.
+Skibsmægler Axel Jensen.
+Direktør Kai Blicher.
+Kaptajn A. G. F. Larsen.
+Tiltraadtes.
+"	1944	12	14
+"23"	1944-12-14	"closed"	"19441214B_197.pdf"	4	"10_7-1944"	"Valg af Hegnsynsmand i Stedet for afdøde Vognmand Martin Jensen.
+Hertil valgtes Murermester Harry Kudahl Jensen med Arkitekt Johs. Frederiksen som Suppleant.
+"	1944	12	14
+"24"	1944-12-14	"closed"	"19441214B_197.pdf"	4	"1310-1944"	"Bortgivelse af Stipendier ved Musikkonservatoriet.
+Følgende Indstilling forelaa:
+Holger Arndt, Iver Huitfeldtsgade 61 250 Kr. Thorkil F. Bertelsen, Schleppegrellsgade 11 ............................250\"
+Erik Christensen, Sdr. Ringgade 59.250\"
+Asger K. Jensen, Falstersgade 33 B250\"
+Per Knoblauch, Pontoppidansgade 34250\"
+Karl Krauel, Marselisborg Allé 4 A .250\"
+Fru H. Skovgaard Petersen, Iver Huitfeldtsgade 19..........................250\"
+Verner Melbye, de Mezasvej 5...........250\"
+Hans Chr. Ravn Nielsen, Frederiksgade 15 E...........................250\"
+Jens Stubbe Nielsen, Skjernvej 10..250\"
+"	1944	12	14
+"25"	1944-12-14	"closed"	"19441214B_197.pdf"	5	"1310-1944"	"Helvig Pedersen, Sønderallé 32 ..........250Kr.
+Hans Emil Sørensen, Norsgade 9.. .250\"
+Inge Topp-Petersen, Sdr. Ringgade 15250\"
+Gytha Dreyer Jørgensen, Tordenskjoldsgade 30...........................125\"
+Talt. . .3375Kr.
+Tiitraadtes.
+"	1944	12	14
+"26"	1944-12-14	"closed"	"19441214B_197.pdf"	5	"16_27-1944 og 16_28-1944 og 16_29-1944"	"Indstilling fra Socialudvalget om, at Kommunehjælp ydet 15 nærmere angivne Personer ikke skal have valgretsfortabende Virkning.
+Indstillingen vedtoges.
+"	1944	12	14
+"27"	1944-12-14	"closed"	"19441214B_197.pdf"	5	"17_38-1944 og 17_35-1944 og 17_39-1944"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet 12 nærmere angivne Personer.
+Indstillingen vedtoges.
+"	1944	12	14
+"28"	1944-12-14	"closed"	"19441214B_197.pdf"	5	"17_36-1944 og 17_37-1944"	"Indstilling fra Socialudvalget angaaende Eftergivelse af Hjælp ydet til:
+a.(J. Nr. 17_36-1944). A. M. Møller Jensen.
+b.(J. Nr. 17_37-1944). Karen Marie Jensen, indstillingen vedtoges.
+"	1944	12	14
+"29"	1944-12-14	"closed"	"19441214B_197.pdf"	5	"32_4-1944"	"Indstilling fra Socialudvalget om Anbringelse af Svend V. Jensen i Arbejdsanstalt.
+Indstillingen vedtoges.
+"	1944	12	14
+"30"	1944-12-14	"open"	"19441214_143.pdf"	1	"no related record"	"Mødet den 14. Decbr. 1944.
+Fraværende: Niels Laursen, Oluf Nielsen og Unmack Larsen.
+"	1944	12	14
+"31"	1944-12-14	"open"	"19441214_143.pdf"	1	"1189-1944"	"Indenrigsministeriets Samtykke til Erhvervelse af Ejendommen Hjelmens-gade 26.
+Toges til Efterretning.
+"	1944	12	14
+"32"	1944-12-14	"open"	"19441214_143.pdf"	1	"11_20-1944 og 11_21-1944 og 11_22-1944 og 11_24-1944 og 11_23-1944 og 11_27-1944 og 11_26-1944 og 22_27-1944 og 11_29-1944 og 11_30-1944"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a.(J. Nr. 11_20- 1944). Snedker K. A. B. Zacha-riassen.
+b.(J. Nr. 11_21-1944). Kedelpasser T. Frandsen.
+c.(J. Nr. 11_22-1944). Murermester M. B. Mortensen.
+d.(J. Nr. 11_24-1944). Isolatør C. Møller.
+e.(J. Nr. 11_23-1944). Tømrer J. L. Christensen  og Murer Chr. Hansen.
+f.(J. Nr. 11_27 -1944). A/S Koh-I-Noor, Odder.
+g.(J. Nr. 11_26-1944). Tømrermester P. Hedegaard.
+h.(J. Nr. 22_27-1944). Murermester Traberg Jensen.
+i.(J. Nr. 11_29-1944). Flyttemand Hans Hansen,
+ j. (J. Nr. 11_30-1944). Arbejdsmand C. Nielsen.
+Toges til Efterretning.
+"	1944	12	14
+"33"	1944-12-14	"open"	"19441214_143.pdf"	2	"1089-1944"	"Indenrigsministeriets Samtykke til Indførelse af Trevagtsskifte rn. H. t. Natte- og Søndagsvagter paa Apotekerne i Aarhus.
+Toges til Efterretning.
+"	1944	12	14
+"34"	1944-12-14	"open"	"19441214_143.pdf"	2	"23_16-1944"	"Beretning om Aarhus Turistforenings Virksomhed i Tiden 1/10 1943 til 30/9 1944.
+Toges til Efterretning.
+"	1944	12	14
+"35"	1944-12-14	"open"	"19441214_143.pdf"	2	"1247-1944"	"Bevilling af 82.000 Kr. til Arbejder ved Zoologisk Have. - 2. Behandling.
+Indstillingen vedtoges.
+"	1944	12	14
+"36"	1944-12-14	"open"	"19441214_143.pdf"	2	"1289-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Kloakforlægning ved Søren Frichs Vejs Forlængelse som Beredskabsarbejde og Bevilling af 4.300 Kr. hertil.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1944	12	14
+"37"	1944-12-14	"open"	"19441214_143.pdf"	2	"1282-1944"	"Indstilling fra Vejteknisk Udvalg om Tillægsbevilling paa 32.000 Kr. til Omlægning af Kloakken i Immervad-Lilletorv - Guldsmedgade.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1944	12	14
+"38"	1944-12-14	"open"	"19441214_143.pdf"	2	"1229-1944"	"Indstilling fra Parkudvalget om Tillægsbevilling paa 3.000 Kr. til Arbejdsløn i Kommunens Gartneri.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1944	12	14
+"39"	1944-12-14	"open"	"19441214_143.pdf"	2	"1258-1944"	"Indstilling fra Sygehusudvalget om Bevilling af 9.500 Kr. til yderligere Sprængstyksikring af Kommunehospitalet samt
+1.000Kr. til Blodtypebestemmelse af Hospitalets Funktionærer.
+Tiltraadt af Budgetudvalget, idet man forudsætter
+"	1944	12	14
+"40"	1944-12-14	"open"	"19441214_143.pdf"	3	"1258-1944"	", at der i videst muligt Omfang søges Statsrefusion.
+Indstillingen vedtoges.
+"	1944	12	14
+"41"	1944-12-14	"open"	"19441214_143.pdf"	3	"1048-1944"	"Andragende fra Stefans-foreningen om ekstra Tilskud til Dækning af Udgifter ved Bespisning af Børnene i Asylet Børnely.
+Budgetudvalget indstiller, at der bevilges et ekstra Tilskud paa 1.000 Kr., som afholdes ved Tillægsbevilling paa Budgettet.
+Indstillingen vedtoges.
+"	1944	12	14
+"42"	1944-12-14	"open"	"19441214_143.pdf"	3	"3_54-1944"	"Efterbevilling af Overskridelser i Regnskabet for Lønningskontoret.
+Efterbevilling meddeltes.
+"	1944	12	14
+"43"	1944-12-14	"open"	"19441214_143.pdf"	3	"1410-1944"	"Indstilling fra Sygehusudvalget om Bevilling af 35.000 Kr. til Anskaffelse af en Damprulle til Kommunehospitalet.
+Budgetudvalget indstiller, at der hertil bevilges
+35.000Kr., der opføres paa Arbejdsplanen for 1945-46, saaledes at der gives Sygehusudvalget Tilladelse til omgaaende at afgive Ordre.
+Indstillingen vedtoges.
+"	1944	12	14
+"44"	1944-12-14	"open"	"19441214_143.pdf"	3	"1295-1944"	"Indstilling fra Vejteknisk Udvalg angaaende Beregning af Qrundejerbidrag til Anlæg af Finlandsgade og en Del af Pal. Mullers Vej.
+Udvalget indstiller, at Grundejernes Bidrag ansættes til 171.795,33 Kr. eller 146,65 Kr. pr, Ib. m, heri ikke iberegnet Bidrag til Hovedkloak og Forsyningsledninger samt endelig Vejbelægning.
+Indstillingen vedtoges.
+"	1944	12	14
+"45"	1944-12-14	"open"	"19441214_143.pdf"	3	"30_7-1944"	"Skrivelse fra Aarhus Amtsraad angaaende Forlængelse af Koncession for Omni-bus- og Fragtkørsel med Motorkøretøjer.
+"	1944	12	14
+"46"	1944-12-14	"open"	"19441214_143.pdf"	4	"30_7-1944"	"Fra Vejteknisk Udvalg forelaa følgende Indstilling:
+\"Udvalget foreslaar, at der svares Amtet, at Kommunen intet har at erindre imod, at Koncessionen fornyes indtil 30. Juni 1946, idet man dog gerne ønsker en Meddelelse om, hvilke Ruter der faar Koncessionen fornyet.
+Da man kan forvente lignende Forespørgsel fra de øvrige Amter, som har Rute- og Fragtbiler, der kører til Aarhus, skal Udvalget anbefale, at Byraadet giver alle saadanne Forespørgsler lignende Behandling.\"
+Indstillingen vedtoges.
+"	1944	12	14
+"47"	1944-12-14	"open"	"19441214_143.pdf"	4	"1348-1944"	"Andragende fra Landsforeningen til Kræftens Bekæmpelse om Udbetaling af Tilskud.
+Det paa Konto 25 opførte Beløb paa 1.000 Kr. bevilgedes.
+"	1944	12	14
+"48"	1944-12-14	"open"	"19441214_143.pdf"	4	"1301-1944"	"Andragende fra Ungdomsorganisationerne i Aarhus om Udbetaling af Tilskud.
+Det paa Konto 25 opførte Beløb paa 3.000 Kr. bevilgedes.
+"	1944	12	14
+"49"	1944-12-14	"open"	"19441214_143.pdf"	4	"1026-1944"	"Andragende fra Jydsk Væddeløbsbane om vederlagsfri teknisk Assistance for Kommunen til forskellige Arbejder paa Væddeløbsbanen.
+Udgik af Dagsordenen.
+"	1944	12	14
+"50"	1944-12-14	"open"	"19441214_143.pdf"	4	"1263-1944"	"Indstilling fra Legatudvalget om Godkendelse af Fundats for to af Tømrermester Chr. N. Withen og Hustru oprettede Legater for Haandværkere i Aarhus.
+Tiltraadtes.
+"	1944	12	14
+"51"	1944-12-14	"open"	"19441214_143.pdf"	5	"1137a-1944"	"Indstilling om Godkendelse af Statutter for Ole Rømers Mindelegat.
+Fra Økonomidirektøren forelaa følgende Forslag:
+Udkast
+til
+Statutter for \"Ole Rømers Mindelegat\".
+§ I-
+Legatets Navn er \"Ole Rømers Mindelegat\" og bestaar af en af Aarhus Byraad i Mødet den 26. Oktober 1944 skænket Kapital paa
+200.000Kr., der skal holdes baandlagt i saadanne Værdipapirer, hvori umyndiges Midler vil kunne anbringes.
+Legatet kan med Byraadets Sanktion tillægges yderligere Midler.
+Indvundne Kursavancer tilskrives Legatkapitalen.
+§ 2.
+Legatets Renteafkast uddeles til studerende ved de i § 3 nævnte aarhusianske Læreanstalter.
+§ 3.
+Legatkapitalen opdeles i følgende Poster:
+a)100.000 Kr. \"Ole Rømers Mindelegat\" til Fordel for studerende ved Aarhus Universitet.
+b)40.000 Kr. \"Ole Rømers Mindelegat\" til Fordel for studerende ved Aarhus tekniske Skole (Dagskolen).
+c)25.000 Kr. \"Ole Rømers Mindelegat\" til Fordel for studerende ved Den jydske Handelshøjskole.
+d)25.000 Kr. \"Ole Rømers Mindelegat\" til Fordel for studerende ved Aarhus Seminarium.
+"	1944	12	14
+"52"	1944-12-14	"open"	"19441214_143.pdf"	6	"1137a-1944"	"e) 10.000 Kr. \"Ole Rømers Mindelegat\" til Fordel for Studenter fra Marselisborg Skole.
+§ 4.
+Legatet administreres af Aarhus Kommune efter de sædvanlige for Kommunens Regnskaber gældende Regler herunder ogsaa med Hensyn til Revision og Decision. Aarhus Byraads Legatudvalg uddeler en Gang aarligt Legatportioner, der udbetales i hver Termin, til værdige og trængende studerende efter Indstilling ogsaa for saa vidt angaar Legatportionernes Størrelse fra følgende Bestyrelser m. v.:
+a)Ole Rømers Mindelegat til Fordel for studerende ved Aarhus Universitet:
+Universitetets Forretningsudvalg.
+b)Ole Rømers Mindelegat til Fordel for Aarhus tekniske Skole (Dagskolen):
+Skolens Bestyrelse.
+c)Ole Rømers Mindelegat til Fordel for studerende ved Den jydske Handelshøjskole (Dagskolen):
+Handelshøjskolens Bestyrelse.
+d)Ole Rømers Mindelegat til Fordel for studerende ved Aarhus Seminarium:
+Seminariets Forretningsudvalg.
+e)Ole Rømers Mindelegat til Fordel for Studenter fra Marselisborg Skole:
+Bestyrelsen for \"Marselisborg Skoles Studielegat\".
+§ 5.
+Aarhus Byraads Legatudvalg drager Omsorg for, at Bestyrelsen for Aarhus Kommunes Studielaanefond (Skoleudvalget) underrettes om skete Legattildelinger.
+"	1944	12	14
+"53"	1944-12-14	"open"	"19441214_143.pdf"	7	"1137a-1944"	"Statusændringer kan kun foretages med Byraadets Godkendelse, ligesom det tilkommer Byraadet at træffe Bestemmelse om Legatkapitalens Anvendelse i Tilfælde af, at de nævnte Undervisningsanstalter maatte ophøre med at eksistere, fraflytter Aarhus Købstad eller i væsentlig Grad ændrer Undervisningsform. Byraadets Afgørelse herom er endelig og kan ikke indankes for Domstolene.\"
+Tiltraadt af Budgetudvalget saaledes, at Udvalget faar Bemyndigelse til at indkøbe 4 % Obligationer for Legatkapitalen.
+Indstilllingen vedtoges.
+"	1944	12	14
+"54"	1944-12-14	"open"	"19441214_143.pdf"	7	"1137b-1944"	"Indstilling om Godkendelse af Statutter for Aarhus Kommunes Studielaane-fond.
+Fra Økonomidirektøren forelaa følgende Forslag:
+Statutter for Aarhus Kommunes Studielaanefond.
+§ I-
+Fondets Kapital andrager følgende Beløb:
+a)Beløb udlaant med Tilbagebetalingspligt pr. 1. April 1944 opgjort til 48.730 Kr.
+b)Kassebeholdning til Disposition for Udlaan pr. 1. April 1944 opgjort til 5.322,00 Kr.
+c)Kapitalbeløb paa 50.000 Kr. bevilget af Aarhus Byraad i Mødet den 26. Oktober 1944.
+§ 2.
+Til Disposition for Udlaan er følgende Beløb:
+a)Rentebeløb indbetalt af Laantagere, jfr. § 6, medens der |kke foretages Renteberegning
+"	1944	12	14
+"55"	1944-12-14	"open"	"19441214_143.pdf"	8	"1137b-1944"	"af den i Kommunens Kasse til enhver Tid beroende Kassebeholdning.
+b)De indgaaede Afdrag paa Laan, jfr. § 6.
+c)Renterne af den i § 1 c omtalte Kapital paa
+50.000 Kr.
+§ 3.
+Fonden administreres af Aarhus Byraads Skoleudvalg, der gør Indstilling til Byraadet angaaende Bevilling af Studielaan.
+Skoleudvalget er bemyndiget til at forøge den baandlagte Kapital med en Del af det til Disposition for Udlaan værende Beløb, indtil den baandlagte Kapital andrager nominelt
+100.000Kr.
+Det i § 1 c omhandlede Kapitalbeløb skal stedse forefindes baandlagt i saadanne Værdipapirer, hvori umyndiges Midler vil kunne anbringes.
+§ 4.
+Ansøgning om Studielaan indsendes inden hvert Aars 1. Maj til Aarhus Byraadskontor, hvorfra Ansøgningsblanket rekvireres.
+§ 5.
+Studielaan kan bevilges studerende ved Aarhus Universitet, Aarhus tekniske Skole (Dagskolen), Den jydske Handelshøjskole samt Aarhus Seminarium.
+I Undtagelsestilfælde kan Studielaan ogsaa bevilges til studerende ved Læreranstalter beliggende uden for Aarhus Kommune.
+§ 6.
+Ved Laanets Modtagelse udsteder Laan-tageren til Aarhus Kommune en Erklæring vedrørende det bevilgede Beløb. Laanet er rente- og afdragsfrit, indtil Laantageren har
+"	1944	12	14
+"56"	1944-12-14	"open"	"19441214_143.pdf"	9	"1137b-1944"	"opnaaet Stilling eller bliver saaledes økonomisk situeret, at der er Mulighed for at afdrage Laanet.
+Fra dette Tidspunkt forrentes Gælden med 5 pCt. p. a. og afdrages aarligt med en Tolvtedel af vedkommendes Aarsløn eller efter nærmere Aftale med Skoleudvalget.
+Naar Laanebeløbet og skyldige Renter er berigtiget, udleveres den ovenfor nævnte Erklæring i kvitteret Stand.
+§ 7.
+Laantageren skal stedse holde Skoleudvalget underrettet om sin Bopæl.
+§ 8-
+Ved Bevilling af Laan skal lægges Vægt paa vedkommende studerendes Trang, Flid og Dygtighed.
+Skoleudvalget er berettiget til at indhente nærmere Oplysninger om Andragerens Forhold hos den paagældende Studieanstalt.
+Laan bevilges helaarsvis, men udbetales halvaarsvis forud ved Aarhus Kommunes Hovedkasse.
+Skoleudvalget kan ikke bevilge Laan til Udbetaling ud over det løbende Regnskabsaar.
+Laantagere, der paany ønsker at komme i Betragtning, maa derfor indsende fornyet Andragende.
+§ 9.
+Statutændringer kan kun foretages med Byraadets Godkendelse.
+Tidligere gældende Bestemmelser og Statutter vedrørende Aarhus Kommunes Studie-laanefond (jfr. Byraadsbeslutning af 23. December 1937) ophæves hermed.
+"	1944	12	14
+"57"	1944-12-14	"open"	"19441214_143.pdf"	10	"1137b-1944"	"Tiltraadt af Budgetudvalget saaledes, at der i § 5, Stk. 1, efter \"Studielaan kan bevilges studerende\" tilføjes \"fra Aarhus\", og at 2. Stk. ændres saaledes \"Studielaan kan ogsaa bevilges til studerende fra Aarhus ved højere Læreanstalter beliggende udenfor Aarhus Kommune\".
+Indstillingen vedtoges.
+"	1944	12	14
+"58"	1944-12-14	"open"	"19441214_143.pdf"	10	"22_28-1944"	"Købekontrakt med Afdelingsingeniør E. Frederiksen angaaende en Grund ved Valbyvej.
+Godkendtes.
+"	1944	12	14
+"59"	1944-12-14	"open"	"19441214_143.pdf"	10	"22_25-1944"	"Købekontrakt med Fru Bodil Henningsen angaaende Tillægskøb til en Grund ved Bøgebjergvej.
+Godkendtes.
+"	1944	12	14

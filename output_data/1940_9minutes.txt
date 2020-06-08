@@ -1,0 +1,406 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1940-09-16	"closed"	"19400916B_161.pdf"	1	"no related record"	"Mødet den 16. Septbr. 1940.
+(For lukkede Oøre).
+Fraværende: Thomas Christensen og Sigvald Nielsen."	1940	9	16
+"2"	1940-09-16	"closed"	"19400916B_161.pdf"	1	"136-1940"	"Indenrigsministeriets Godkendelse af, at Kommunen kautionerer for et Laan paa 350 Kr. til Fisker P. J. Mikkelsen.
+Toges til Efterretning."	1940	9	16
+"3"	1940-09-16	"closed"	"19400916B_161.pdf"	1	"272-1940"	"Indstilling til det ledige Overlærerembede ved Borgerskolen, Samsøgade.
+Fra Skolekommissionen forelaa følgende alfabetiske Indstilling:
+E. Kruse Agerschou, Aarhus.
+Poul Kristensen, do.
+Ejnar Rasmussen, do.
+Holger Schou, do.
+Harald Vestberg, do.
+Vedtaget ved Cirkulation."	1940	9	16
+"4"	1940-09-16	"closed"	"19400916B_161.pdf"	1	"473-1940"	"Indstilling fra Skolekommissionen angaaende Besættelse af Lærerembeder.
+Følgende Indstilling forelaa:
+7Lærerembeder:
+I1. Tage Krake.
+2.Helge Lundgaard.
+3.Ejnar Nielsen."	1940	9	16
+"5"	1940-09-16	"closed"	"19400916B_161.pdf"	2	"473-1940"	"II1. Helge Lundgaard.
+2.Ejnar Nielsen.
+3.Edvin Eriksen.
+III1. Ejnar Nielsen.
+2.Edvin Eriksen.
+3.Ejner Blaabjerg.
+IV1. Edvin Eriksen.
+2.Ejner Blaabjerg.
+3.Valdemar Smed.
+V1. Ejner Blaabjerg.
+2.Valdemar Smed.
+3.Tage Maigaard-Hansen.
+VI1. Valdemar Smed.
+2.Tage Maigaard-Hansen.
+3.Tage Krake.
+VII1. Tage Maigaard-Hansen.
+2.Tage Krake.
+3.Helge Lundgaard.
+8 Lærerindeembeder
+I1. G. Ehrenreich-Petersen.
+2.Elsa Stender.
+3.Grete Jensen.
+II1. Elsa Stender.
+2.Grete Jensen.
+3.P. M. Jørgensen.
+III1. Grete Jensen.
+2.P. M. Jørgensen.
+3.Johanne Haugaard.
+IV1. P. M. Jørgensen.
+2.Johanne Haugaard.
+3.E. Skougaard Jensen.
+V1. Johanne Haugaard.
+2.E. Skougaard Jensen.
+3.Ellen Bjerre."	1940	9	16
+"6"	1940-09-16	"closed"	"19400916B_161.pdf"	3	"473-1940"	"VI1. E. Skougaard Jensen.
+2.Ellen Bjerre.
+3.Ingeborg Jørgensen.
+VII1. Ellen Bjerre.
+2.Ingeborg Jørgensen.
+3.G. Ehrenreich-Petersen.
+VIII1. Ingeborg Jørgensen.
+2.G. Ehrenreich-Petersen.
+3.Elsa Stender.
+7Timelærerembeder:
+I1. Sven Hørning.
+2.P. Vestergaard Jørgensen.
+3.Erik Pind Olesen.
+II1. P. Vestergaard Jørgensen.
+2.Erik Pind Olesen.
+3.Hans Sørensen.
+III1. Erik Pind Olesen.
+2.Hans Sørensen.
+3.Hans Eriksen Byt.
+IV1. Hans Sørensen.
+2.Hans Eriksen Byt.
+3.Leo Clausen.
+V1. Hans Eriksen Byt.
+2.Leo Clausen.
+3.Alfred Fredbøg.
+VI1. Leo Clausen.
+2.Alfred Fredbøg.
+3.Sven Hørning.
+VII1. Alfred Fredbøg.
+2.Sven Hørning.
+3.P. Vestergaard Jørgensen.
+8Timelærerindeembeder:
+I1. Ingrid Fledelius.
+2.Gudrun Bjarnarson.
+3.Jenny Esben-Petersen."	1940	9	16
+"7"	1940-09-16	"closed"	"19400916B_161.pdf"	4	"473-1940"	"II1. Gudrun Bjarnarson.
+2.Jenny Esben-Petersen.
+3.Edith Henningsen.
+III1. Jenny Esben-Petersen.
+2.Edith Henningsen.
+3.Rosa Westh.
+IV1. Edith Henningsen.
+2.Rosa Westh.
+3.Karen Vigild.
+V1. Rosa Westh.
+2.Karen Vigild.
+3.Bodil Nielsen.
+VI1. Karen Vigild.
+2.Bodil Nielsen.
+3.Else Mikkelsen.
+VII1. Bodil Nielsen.
+2.Else Mikkelsen.
+3.Ingrid Fledelius.
+VIII1. Else Mikkelsen.
+2.Ingrid Fledelius.
+3.Gudrun Bjarnarson.
+8mandlige og 9 kvindelige faste Vikarpladser:
+1.Hr. Erik Balle.
+2.-Agner Munk Hansen.
+3.-Kjeld Hansen.
+4.-Erik Jepsen.
+5.-Tage Dahl Nielsen.
+6.-Hans Therkildsen.
+7.-Villiam Villumsen.
+8.-Poul Froberg Møller.
+1.Frk. Grethe Laursen.
+2.-Birgit Stegger Nielsen.
+3.-Ingrid Nilsson."	1940	9	16
+"8"	1940-09-16	"closed"	"19400916B_161.pdf"	5	"473-1940"	"4.Frk. Elisa Pind Olesen.
+5.-HennySimonsen.
+6.-GerdaVang Sørensen.
+7.-GerdaBie Thyssen.
+8.- Kristine Ulrik.
+9.-MariePetersen.
+Vedtaget ved Cirkulation."	1940	9	16
+"9"	1940-09-16	"closed"	"19400916B_161.pdf"	5	"152-1940"	"Optagelse af Kreditforeningslaan i Aldersrenteboligerne i nordre Bydel, Afsnit D.
+Fra Økonomidirektøren forelaa følgende Erklæring:
+\"Tilbagesendes Byraadet med Bemærkning, at Provenuet af omstaaende 3 Laan efter Kurserne pr. 28. August 1940 andrager henholdsvis for:
+3 1/2 % Laanet 93025 Kr.
+4 o/o-95737 \"
+4 1/2 o/o-92880 \"
+Hvad angaardeneffektive Rentebemærkes, atden er lavest for 3 1/2 % Laanet. Under Hensyn til at 4 % Laanets effektive Rente kun ligger ca. 1/10 % p. a. højere end 3 1/2 % Laanets, medens den effektive Rente paa 4 1/2 % Laanet ligger betydeligt højere (ca. 1/2 % p. a), skal man, i Betragtning af at Kommunen opnaar det største Provenu igennem dette Laan, henstille, at 4 % Laanet af 9. Serie foretrækkes.\"
+Udvalget for Opførelse af Aldersrenteboliger foreslaar at modtage 4 % Laanet.
+Vedtaget ved Cirkulation."	1940	9	16
+"10"	1940-09-16	"closed"	"19400916B_161.pdf"	5	"507-1940"	"Andragende fra Sagfører Holmark om, at Kommunen vil refundere ham hans Udlæg paa Velgørenhedshjemmets Ejendom Frederiksgade 45-"	1940	9	16
+"11"	1940-09-16	"closed"	"19400916B_161.pdf"	6	"507-1940"	"Anbefalet af Budgetudvalget mod, at Kommunen faar Skadesløsbrev i Ejendommen næst den nuværende Restgæld paa Ejendommen.
+Borgmesteren oplyste, at Kommunen havde garanteret for visse Laan i Ejendommen, og der havde været Tale om, at Kommunen skulde overtage den, men det var man ikke interesseret i for Tiden; derfor var det bedst, at Administrationen sker som hidtil, og at man betaler Underskudet paa ca. 700 Kr.
+Indstillingen vedtoges."	1940	9	16
+"12"	1940-09-16	"closed"	"19400916B_161.pdf"	6	"351 - 1940"	"Indstilling angaaende Besættelse af et Lektorembede ved Marselisborg Skole.
+Fra Skolekommissionen forelaa følgende Indstilling:
+1.Adjunkt Skjøt Pedersen, Aarhus,
+2.- A. P. Rossen, do.
+3.- O. Lyngbye, do.
+Tiltraadtes."	1940	9	16
+"13"	1940-09-16	"closed"	"19400916B_161.pdf"	6	"661-1940"	"IndstillingfraSkolekommissionenangaaende Ansættelseaf FruMargrethe Lomholt som psykiatrisk Raadgiver ved Aarhus kommunale Skolevæsen.
+Følgende Indstilling forelaa:
+\"Under Hensyn til medfølgende Breve fra Fru M. Lomholt tillader man sig at ansøge om Tilladelse til forsøgsvis at antage ovennævnte Læge som psykiatrisk Raadgiver ved Skolevæsenet med 1 ugentlig Konsultationsdag, dog at man forsøger ved Forhandling med Lægeforeningen at faa Honoraret ansat til 1200 Kr. aarlig.\"
+K. Mousten anbefalede Indstillingen, idet en saadan Institution vilde være til Hjælp for mange Børn, som der var et eller andet i Vejen med. Det skulde ikke være Erstatning for en"	1940	9	16
+"14"	1940-09-16	"closed"	"19400916B_161.pdf"	7	"661-1940"	"Skolelæge, men man vilde faa et Sted, hvortil de Børn, der var noget i Vejen med, kunde henvises, saa man bedre kunde bedømme, hvad der skal gøres med dem. For Tiden betalte man 400 Kr. til Lægeundersøgelse af svagt begavede Børn; disse Penge kunde spares, og hvis man kunde faa Lægen for 1200 Kr. aarlig, betød Udgiften ikke saa meget.
+I.C. Sørensen syntes, at det hidtil havde drejet sig om saa faa Tilfælde, at der næppe var tilstrækkelig Grund til at lave en fast Stilling. Naar en Læge fra Brejning kunde rejse hertil og besørge Arbejdet for 400 Kr. aarlig, maatte det kunne gøres lige saa billigt af en lokal Læge, og det vilde være rigtigst at betale hende Honorar for hvert Tilfælde. Hvis der var Tale om Børn under Socialvæsenet, kunde der maaske ogsaa blive Tale om Refusion, saa der trængtes til flere Oplysninger i Sagen.
+Chr. Nielsen vilde meget anbefale Forslaget, der havde stor Betydning for Skolevæsenet og tillige for Børneværnet, hvor man ofte stod overfor at skulle anbringe Børn udenfor Hjemmet og saa maatte søge Vejledning hos en Læge. Men tidt drejede det sig om Intelligensprøver, som enhver Læge ikke kunde udføre. Nogen Refusion af disse Udgifter kunde ikke faas hverken ved Skolevæsenet eller Socialvæsenet. Der var sikkert mange flere Børn ved Aarhus Skolevæsen, som trængte til at undersøges, og hvis der var Tale om svagt begavede Børn, gjaldt det om at faa dem anbragt paa de rigtige Steder, hvor de kunde faa den Uddannelse, der passer for dem. Det var derfor i høj Grad en Samfundssag."	1940	9	16
+"15"	1940-09-16	"closed"	"19400916B_161.pdf"	8	"661-1940"	"K. Mousten syntes, at Forslaget var saa beskedent, at man godt kunde tiltræde det uden Kritik. Udvalget foreslog det tilmed som en midlertidig Ordning, saa kunde man se, om der blev tilstrækkelig Tilslutning.
+J. R. Fanger mente, at hvis man skulde have en saadan Læge, burde der fastsættes en Pris pr. Konsultation; at ansætte en Læge med fast Løn var et forkert Princip. Men Byen havde lige faaet et Børnehospital med en dygtig Reservelæge, og maaske kunde Hospitalet undersøge disse Børn.
+Chr. Nielsen troede, at Skoleudvalgets Forslag blev det billigste. Fru Lomholt var meget interesseret i denne Sag og havde ofret meget paa sin Uddannelse i den Retning. Saadanne Undersøgelser kunde ikke ske paa Børnehospitalet, for Lægerne havde ikke Forudsætninger for at foretage disse.
+J. R. Fanger: Reservelægen paa Børnehospitalet er den samme, som her foreslaas ansat!
+Borgmesteren bemærkede, at naar man havde en fast Ordning med en bestemt Pris, kunde man bruge vedkommende, saa meget man vilde, og hvis det ikke blev tilfredsstillende, kunde man jo gaa over til en anden Ordning. Naar baade Skoleudvalget og Børneværnet anbefalede Ordningen, kunde man maaske prøve den f. Eks. et Aar.
+Kai Blicher syntes ikke, der var megen Mening i at forhøje Beløbet fra 400 Kr. til 1200 eller 1800 Kr.
+Borgmesteren vilde saa henstille, at man overlader til Skoleudvalget at forhandle med Lægeforeningen om Lønnen, og at Udvalget derefter paany fremsætter Sagen."	1940	9	16
+"16"	1940-09-16	"closed"	"19400916B_161.pdf"	9	"661-1940"	"K. Mousten syntes, man kunde overlade Sagen til Skoleudvalgets Afgørelse, da Udvalget bestod af 5 Byraadsmedlemmer, som var enige derom.
+Vald. Kloster kunde godt gaa med til, at Skoleudvalget afgør Sagen, hvis de er enige, men vilde ikke stemme for at betale 1800 Kr. dertil. Taleren forstod ikke, hvorfor der skulde blive flere Børn end hidtil, der skulde undersøges.
+K. Mousten svarede, at hidtil havde det kun drejet sig om de ca. 20 Børn paa Marienlundsskolen, men naar det kom til at gælde for hele Skolevæsenet, vilde der selvfølgelig blive flere.
+Forslaget vedtoges med 13 Stemmer mod 6."	1940	9	16
+"17"	1940-09-16	"closed"	"19400916B_161.pdf"	9	"654-1940"	"Andragende fra Johs. Christensen om Fritagelse for Hvervet som Medlem af Ligningskommissionen, grundet paa Beskikkelse som Medlem af Skatteraadet.
+Bevilgedes."	1940	9	16
+"18"	1940-09-16	"closed"	"19400916B_161.pdf"	9	"669-1940"	"Andragende fra Rengøringskone paa Ting- og Arresthuset Caroline Nielsen om Understøttelse.
+Lønudvalget indstiller, at der fra 1. Oktober d. A. at regne bevilges hende en Understøttelse paa 100 Kr. aarlig uden Dyrtidstillæg, samt at det henstilles til Amtet at deltage i Udgiften med 1/3.
+Indstillingen vedtoges."	1940	9	16
+"19"	1940-09-16	"closed"	"19400916B_161.pdf"	9	"665-1940"	"Andragende fra Assistent paa Socialkontoret Maja Jessen om Afsked paa Grund af Ægteskab samt om Udbetaling af hendes Bidrag til Pensionsfonden.
+Anbefalet af Lønudvalget.
+Bevilgedes."	1940	9	16
+"20"	1940-09-16	"closed"	"19400916B_161.pdf"	10	"29_5-1940"	"Fastsættelse af Pension til Brandmand N. J. Jørgensen.
+Pensionen fastsattes til 2520 Kr. aarlig fra 1/10 1940."	1940	9	16
+"21"	1940-09-16	"closed"	"19400916B_161.pdf"	10	"676-1940"	"Fastsættelse af Pension til pens. Arbejdsmand ved Belysningsvæsenet, S. Jensens Enke.
+Pensionen fastsattes til 772,48 Kr."	1940	9	16
+"22"	1940-09-16	"closed"	"19400916B_161.pdf"	10	"675-1940"	"Fastsættelse af Pension til pens. Værkformand ved Belysningsvæsenet, A. N. Ellebys Enke.
+Pensionen fastsattes til 1663,04 Kr."	1940	9	16
+"23"	1940-09-16	"closed"	"19400916B_161.pdf"	10	"555-1940"	"Fastsættelse af Pension til Hallemester ved Slagtehuset A. Johansen.
+Pensionen fastsattes til 2520 Kr. aarlig fra 1/10 1940."	1940	9	16
+"24"	1940-09-16	"closed"	"19400916B_161.pdf"	10	"477-1940"	"Fastsættelse af Pension til Skibsfører Chr. Christensens Enke.
+Pensionen fastsattes til 1391,70 Kr."	1940	9	16
+"25"	1940-09-16	"closed"	"19400916B_161.pdf"	10	"29_6-1940"	"Andragende fra Arbejdsmand ved Brolægningsvæsenet N. Groesen Nielsen om Afsked med Pension fra 1/10 1940.
+Bevilgedes. Pensionen fastsattes til 900 Kr."	1940	9	16
+"26"	1940-09-16	"closed"	"19400916B_161.pdf"	10	"677-1940"	"Indstilling fra Socialudvalget om Bevilling af 23500 Kr. til Ændringer paa Forsørgelsesanstalten og Bispegaarden i Anledning af, at Forsørgelsesvæsenets Sygeafdeling indrettes til Indkvartering af Militær.
+Anbefalet af Budgetudvalget.
+Borgmesteren oplyste, at man var nødt til at foretage disse Foranstaltninger, og saa vilde man søge at faa Staten til at betale en Del deraf i Lighed med, hvad der skete for Kasernernes Vedkommende. Samtidig nedlagdes den Sygeafdeling, som længe havde trængt til at nedlægges."	1940	9	16
+"27"	1940-09-16	"closed"	"19400916B_161.pdf"	11	"677-1940"	"Chr. Nielsen meddelte, at der vilde blive en Udgift paa 500 Kr. udover Overslaget.
+Borgmesteren svarede, at hvis der ikke blev større Overskridelser, tog man de 500 Kr. med.
+K. Mousten bemærkede, at Sygeafdelingen egentlig ikke blev nedlagt, men flyttet, og det var vist stadig nødvendigt at have en Plads til de kronisk syge.
+Borgmesteren svarede, at der skulde forhandles herom, og det var rigtigst, at Sygehusudvalget ordner dette Spørgsmaal. Men Taleren vilde henstille, at der ophører at være en Sygeafdeling ved Fattigvæsenet, og at de kommer paa Sygehus, som egner sig dertil.
+K. Mousten kunde slutte sig hertil, naar det kun bliver dem, som egner sig dertil.
+Indstillingen vedtoges."	1940	9	16
+"28"	1940-09-16	"closed"	"19400916B_161.pdf"	11	"208-1940"	"Indstilling om Akcept af et Laan fra Den kommunale Laanefond paa 1 Mill. Kr. - 2. Behandling.
+Indstillingen vedtoges."	1940	9	16
+"29"	1940-09-16	"closed"	"19400916B_161.pdf"	11	"191_9-1940"	"Andragende fra Hugo Hemdorff om Forhøjelse af Statsbyggelaan fra 4600 Kr. til 7300 Kr. - 2. Behandling.
+Bevilgedes."	1940	9	16
+"30"	1940-09-16	"closed"	"19400916B_161.pdf"	11	"191_11-1940"	"Andragende fra E. P. Larsen om Forhøjelse af Statsbyggelaan fra 5100 Kr. til 6900 Kr. - 2. Behandling.
+Bevilgedes."	1940	9	16
+"31"	1940-09-16	"closed"	"19400916B_161.pdf"	11	"191_1-1940"	"Andragende fra Arbejdernes Andelsboligforening om Forhøjelse af Statsbyggelaan til 3 Huse ved Brendstrupvej. - 2. Behandling.
+Bevilgedes."	1940	9	16
+"32"	1940-09-16	"closed"	"19400916B_161.pdf"	12	"8_19-1940"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat paa Grund af urigtig Selvangivelse. .
+Kommissionen foreslaar følgende Efterbetalinger.
+Haandværksmester P. A. Henriksen. Samsøgade18 ....17000Kr.00 Ø.
+Rentier I. P. C. Thygesen, Østbanetorv 7..................12500\"00\"
+Modehandlerinde Frk. A. Andersen, Sølystgade3 .....12000\"00\"
+fhv. Bagerm. N. A. Valskov,
+C. Købkesgade 14........11400\"00\"
+Malerm. P. C. Larsen, Nørregade 10 ......................9500\"00\"
+Skrædermester J. Jørgensen,
+Thunøgade 28 ...............7000\"00\"
+fhv. Kasserer L. P. Jensen, Sølystgade 6....................5300\"00\"
+Fabriksarb. Frk. A. J. Laursen,
+Lollandsgade 22.............5000\"00\"
+fhv. Bagerm. J. E. Jørgensen Barthsgade 1 ...............5000\"00\"
+Arbmd. H. P. Sørensen, Tordenskjoldsgade 80 ............5000\"00\"
+Arbmd. N. M. Madsen, Hjelmensgade 5 ...................4000\"00\"
+Husbest. Frk. D. M. Jensen, N. Ebbesensvej 96 .............3500\"00\"
+Enkefru M. M. Arntzen, Kaserneboulevard 5 .............3500\"00\"
+Tømrersvend J. O. Jensen, H. Trollesgade 36 .............3000\"00\"
+At overføre. . . . 103700Kr."	1940	9	16
+"33"	1940-09-16	"closed"	"19400916B_161.pdf"	13	"8_19-1940"	"Overført.. . 103700 Kr. 00 0. Vognmand Chr. Jensen, H. Guldbergsgade 71 ............2400\"00\"
+Smedesvend H. M. Hansen,
+Faistersgade 38 .............2200\"00\"
+Husbest. Frk. L. Alstrup, Nørre Alle 48......................1800\"00\"
+Husejer J. Jensen, Fuglesangsallé 1 A........................1600\"00\"
+Syerske Enkefru E. K. O. Hansen, Eckersbergsgade 42 .. .1500\"00\"
+Snedker A. J. Nielsen, P. Skramsgade 23 ...............1400\"00\"
+Kontrollør N. L. N. Møller, Hjortensgade 40 .................1335\"00\"
+fhv. Inkassator K. Petersen, Ny Munkegade 62.................1300\"00\"
+Arbmd. J. P. Andersen, Mindegade 9..........................1300\"00\"
+Pensionist, Enkefru M. K. Nielsen, Teglværksgade 19 ....1200\"00\"
+Børstenbindersv. P. Adamsen,
+Lollandsgade 16..............1000\"00\"
+ps. Maskinpasser M. Laursen,
+Thunøgade 30 ................1000\"00\"
+fhv. Mælkehdlr. A. C. Larsen,
+Sølystgade 41................1000\"00\"
+Tømrersv. M. Petersen, Fyensgade 15 ........................800\"00\"
+Maskinfabrikant N. A. Lange,
+Møllestien 59 ...............770\"00\"
+Enkefru D. M. Nielsen, Chr. Richardsvej 7 ...............700\"00\"
+Kommis N. 0. Henriksen, Sølystgade 17.....................680\" 00 \"
+At overføre 125685Kr.00 Ø."	1940	9	16
+"34"	1940-09-16	"closed"	"19400916B_161.pdf"	14	"8_19-1940"	"Overført.. . 125685 Kr. 00 Ø. 
+Kontorass. Frk. E. Adamsen,
+Lollandsgade 16 ...............600\"00\"
+Snedkersvend C. P. Nielsen,
+Samsøgade 100.................550\"00\"
+fhv. Arbmd. C. P. Jensen, Østboulevard 25.....................450\"00\"
+Husass. Frk. C. M. Christensen,
+Nr. Alle 42 B..................450\"00\"
+Arbejderske Fru D. Krogh,
+Sejrøgade 13 ..................440\"00\"
+Frk. G. Thygesen, Østbanetorv 7.........................380\" 00 \"
+Prokurist E. Gade, H. Trollesgade 3 ..........................346\"40\"
+Pensionist, Enkefru E. M. Jensen, Teglværksgade12....335\"00\"
+Elektriker O. G. Laursen, Grønnegade 83........................240\"00\"
+Arbmd. P. G. Lovmand, Vejlegade 9...........................150\"00\"
+Malersvend A. L. Julsgaard,
+Trepkasgade 3...............140\"00\"
+pens. Inspektør Carl Jensen,
+Montanagade 55 ................100\"00\"
+Glarmester T. L. P. Justesen,
+Christianiagade 11.............2600\"00\"
+Dødsboet efter Enkefru Johanne Møller, Frue Kirkeplads1.881\"25\"
+Dødsboet efter Frk. A. J. Damsgaard, Grejsdal Hvilehjem..50\"03\"
+Ialt. . . 133397 Kr. 68 Kr.
+Tiltraadtes."	1940	9	16
+"35"	1940-09-16	"closed"	"19400916B_161.pdf"	15	"8_19-1940"	"23.Borgmesteren henviste til, at der skulde ske en Reduktion af Landets Kvægbesætninger paa Grund af Fodermangel, og Taleren vilde henstille, at der foretages en Undersøgelse af, hvorvidt Kommunen bør foretage Beredskabskøb af Flæsk og Kartofler til Byens Befolkning.
+Efter at flere Medlemmer havde udtalt deres Tilslutning til Tanken, vedtoges det at nedsætte et Udvalg til at foretage det videre fornødne, og hertil valgtes Borgmesteren, H. J. Baden, Johanne Berg, Kai Blicher og I. C. Sørensen."	1940	9	16
+"36"	1940-09-16	"open"	"19400916_99.pdf"	1	"no related record"	"Mødet den 16. Septbr. 1940.
+Fraværende: Thomas Christensen og Sigvald Nielsen:"	1940	9	16
+"37"	1940-09-16	"open"	"19400916_99.pdf"	1	"550-1940"	"Skrivelse fra Socialministeriet angaaende Tilskud til det af Landsforeningen til Arbejdsløshedens Bekæmpelse foranstaltede Arbejde med Optagning af Stød ved Arbejdsløse.
+Toges til Efterretning."	1940	9	16
+"38"	1940-09-16	"open"	"19400916_99.pdf"	1	"101 - 1940"	"Meddelelse fra Justitsministeriet om Teaterbevilling for \"Kasino\".
+Toges til Efterretning."	1940	9	16
+"39"	1940-09-16	"open"	"19400916_99.pdf"	1	"23_6 - 1940"	"Regnskab for \"Den gamle By\".
+Toges til Efterretning."	1940	9	16
+"40"	1940-09-16	"open"	"19400916_99.pdf"	1	"11_5 -1940 og 11_4-1940"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a. 11_5 -1940Fabrikant A. Retbøl.
+b. 11_4-1940Murermester Chr. Hansen.
+Toges til Efterretning."	1940	9	16
+"41"	1940-09-16	"open"	"19400916_99.pdf"	1	"598-1940"	"Andragende fra Danske Kvinders Samfundstjeneste om Tilskud til Kursus for ubemidlede Husmødre.
+Skoleudvalget indstiller at yde et Tilskud paa 50 Øre pr. Undervisningstime.
+Indstillingen vedtoges."	1940	9	16
+"42"	1940-09-16	"open"	"19400916_99.pdf"	2	"535-1940"	"Andragende fra Marthaforbundet om Tilskud til Husholdningskursus.
+Skoleudvalget indstiller at yde et Tilskud paa 50 Øre pr. Undervisningstime.
+Indstillingen vedtoges."	1940	9	16
+"43"	1940-09-16	"open"	"19400916_99.pdf"	2	"611-1940"	"Indstilling fra Skolekommissionen angaaende Undervisningspligtens Indtræden og Ophør.
+Følgende Indstilling forelaa:
+\"I Henhold til Lov Nr. 160 af 18/5 1937 om Folkeskolen, § 43, Stk. 1 indtræder Undervisningspligten ved Skoleaarets Begyndelse (1. April) for de Børn, der paa dette Tidspunkt er fyldt 7 Aar. Ifølge samme Paragrafs Stk. 2 ophører Undervisningspligten med Udgangen af et Skoleaar for de Børn, der paa dette Tidspunkt er fyldt 14 Aar. Imidlertid fastsætter samme Paragrafs Stk. 4, at for Børn, der er født i Skoleaarets 3 første Maaneder, kan Kommunalbestyrelsen tillade, at de med Hensyn til Undervisningspligtens Indtræden og Ophør stilles, som om de var født før Skoleaarets Begyndelse.
+Da man i Aarhus Kommuneskoler faktisk modtager alle de Børn, der er født i Skoleaarets 3 første Maaneder, ved Skoleaarets Begyndelse 1. April, og da Antallet af undervisningspligtige Børn har Indflydelse ved Beregning af Tilskud fra fælleskommunal Udligningsfond, tillader man sig herved at indstille, at Byraadet giver en almindelig Dispensation med Hensyn til Undervisningspligtens Indtræden og Ophør, hvorved det tillades at optage de Børn, der er født i Skoleaarets 3 første Maaneder, som skolepligtige ved Skoleaarets Begyndelse og udskrive dem 7 Aar efter. Det"	1940	9	16
+"44"	1940-09-16	"open"	"19400916_99.pdf"	3	"611-1940"	"bemærkes, at det i Henhold til Undervisningsministeriets Cirkulære af 9/11 1937 aldrig kan paalægges nogen at sende et Barn, der er født i Skoleaarets 3 første Maaneder, i Skole, før Barnet efter Loven er undervisningspligtig, altsaa til den følgende 1. April.
+Indstillingen vedtoges."	1940	9	16
+"45"	1940-09-16	"open"	"19400916_99.pdf"	3	"347-1940"	"Indstilling fra Skoleudvalget angaaende den nye Skole i vestre Bydel.
+Stecher Christensen foreslog, at denne og den følgende Sag gaar tilbage til Skoleudvalget til Undersøgelse bl. a. af Vilkaarene for Afholdelsen af en Konkurrence.
+Sagen gik tilbage til Udvalget."	1940	9	16
+"46"	1940-09-16	"open"	"19400916_99.pdf"	3	"678-1940"	"Henstilling fra Skoleudvalget om Udvidelse af Marselisborg Skole.
+Sagen gik tilbage til Udvalget."	1940	9	16
+"47"	1940-09-16	"open"	"19400916_99.pdf"	3	"670-1940"	"Indstilling fra Lønudvalget angaaende Aflønning af de ved Kommunen beskæftigede Personer, der indkaldes til Civilbeskyttelsestjeneste.
+Følgende Indstilling forelaa:
+\"Siden Indkaldelsen af Mandskab til Civilbeskyttelsestjenesten paabegyndtes, har Spørgsmaalet angaaende Aflønning af de ved Kommunen beskæftigede Personer, som indkaldes til saadan Tjeneste, staaet aabent, idet man har ønsket at afvente, hvilken Stilling Staten og Københavns Kommune maatte tage til Spørgsmaalet, forinden dette afgøres for Aarhus Kommunes Vedkommende.
+Efter at der nu fra Statens Vedkommende er taget Beslutning i Sagen, hvilken Beslutning ventes efterfulgt af en tilsvarende for Københavns Kommunes Vedkommende, tillader"	1940	9	16
+"48"	1940-09-16	"open"	"19400916_99.pdf"	4	"670-1940"	"man sig herved at indstille til Vedtagelse neden-staaende Regler, som svarer til de af Staten vedtagne.
+I.Under Indkaldelse til Civilbeskyttelsestjeneste udbetales der Tjenestemænd, prøveansatte (Aspiranter) og andre Personer, som oppebærer Maanedsløn, fuld Lønning med Fradrag af de fra Statens civile Luftværn oppebaarne Vederlag. Det er dog en Forudsætning, at de paagældende i det Omfang, hvori det efter den paagældende Institutions Skøn er muligt, udfører delvis Tjeneste. Personer, som ikke ved Indkaldelsen har haft mindst 3 Maaneders Ansættelse i Kommunens Tjeneste, kan dog kun oppebære ovennævnte Lønning i Indkaldelsesmaaneden og den paafølgende Maaned.
+II.Foranstaaende Regler bringes til Anvendelse fra 1. Juli 1940 at regne, saaledes at Vederlag, der før nævnte Tidspunkt er udbetalt gennem Statens civile Luftværn, ikke fradrages.
+III.Udbetaling af Løn i Henhold til foranstaaende Regler kan kun finde Sted indtil det Tidspunkt, da de paagældende maa antages at ville være blevet afskediget af Kommunens Tjeneste, saafremt de ikke var blevet indkaldt.
+Til Orientering skal man oplyse, at der for Tiden er indkaldt 3-4 ved Kommunen beskæftigede maanedslønnede Personer til Civilbeskyttelsestjeneste.\"
+Indstillingen vedtoges."	1940	9	16
+"49"	1940-09-16	"open"	"19400916_99.pdf"	4	"679-1940"	"Indstilling om Ændring i Reglerne for Udbetaling af Tilskud til Lejen for"	1940	9	16
+"50"	1940-09-16	"open"	"19400916_99.pdf"	5	"679-1940"	"Lejligheder til mindrebemidlede børnerige Familier.
+Fra Stadsarkitekten forelaa følgende Skrivelse:
+1.\"1 den af Byraadet i Mødet den 7/6 1939
+godkendte Forretningsgang ved Behandling af Ansøgninger om Huslejenedsættelse for mindrebemidlede, børnerige Familier i Henhold til Lov af 13/4 1938 findes paa Side 2 under Afsnit 
+A-2-b følgende Bestemmelse:
+Boligforeningen sender hver Maaned til Kommunen en specificeret Opgørelse over Tilskudsbeløbene.
+Jeg tillader mig at henstille til det ærede Udvalg, at \"hver Maaned\" ændres til \"hvert Kvartal\" og som Motivering herfor skal jeg anføre følgende:
+Ændringen vil mindske Arbejdet for saavel Boligforeningen som Skattekontoret og mit Kontor, idet der ikke vil være stort mere Arbejde forbunden med at gennemgaa en Kvartals-Opgørelse end en Maaneds-Opgørelse, og det skulde være muligt at bestemme Tilskudenes Mindstebeløb forud for 3 Maaneder, jævnfør Lovens § 25 samt Ministeriets i Afskrift medfølgende Skrivelse af 7. f. M., hvoraf det fremgaar, at Tilskudene ved Formindskelse af Børneantallet først reguleres fra og med det Tidspunkt, hvortil Andelsforholdet kan opsiges af Andelshaveren. Opsigelsesfristen for Arbejdernes Andels Boligforening og \"Ringgaarden\" er henholdsvis 3 Maaneder og et halvt Aar.
+Kvartals-Opgørelsen skulde udbetales inden den 8. i den midterste Kvartalsmaaned, saaledes at Tilskudene for for Eksempel Oktober Kvartal udbetales senest den 8. November."	1940	9	16
+"51"	1940-09-16	"open"	"19400916_99.pdf"	6	"679-1940"	"Ændringen er tiltraadt af de nævnte Boligforeninger samt Skattekontoret og Revisionen.
+Et Eksemplar af Forretningsgangen følger hoslagt.
+2.Endvidere tillader jeg mig at forelægge følgende til det ærede Udvalgs Afgørelse:
+En Del af Tilskudsmodtagerne har faaet Tilladelse til at medregne Børn over 16 Aar, som faar fortsat Uddannelse eller er vedvarende arbejdsløse, dog kun til det fyldte 18. Aar.
+Jeg tillader mig at forespørge, om Tilskudene for nævnte Børn ophører med Udgangen af den Maaned, de fylder 18 Aar, eller først efter henholdsvis 3 Maaneders eller et halvt Aars Forløb, jævnfør Opsigelsesfristerne.
+3.Endvidere ønsker jeg gerne oplyst, om Tilskudene kan reguleres i Henhold til Opsigelsesfristerne, hvis et af de under Punkt 2 nævnte Børn af en uforudseelig Aarsag alligevel ikke kan medregnes til det fyldte 18. Aar, for Eksempel ved at et Barn kommer af Lære eller ikke mere kan betegnes som vedvarende arbejdsløs.
+Svarer Udvalget ikke bekræftende paa Punkt 3, kan den under Punkt 1 nævnte Ændring i Forretningsgangen formentlig ikke gennemføres, da man jo saa ikke kan bestemme Tilskudene forud for et Kvartal.\"
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Den af Stadsarkitekten foreslaaede Ændring i Udbetalingsreglerne anbefales.
+Endvidere foreslaas følgende Ordning i Tilfælde, hvor en Tilskudsmodtager har faaet Dispensation fra Reglerne om, at der ved Beregningen"	1940	9	16
+"52"	1940-09-16	"open"	"19400916_99.pdf"	7	"679-1940"	"ning af Tilskud kun maa medregnes Børn til det fyldte 16. Aar:
+Har Tilskudsmodtageren faaet Tilladelse til at medtage et Barn udover det fyldte 16. Aar til et Tidspunkt, hvis Indtræden ved Tilladelsens Meddelelse kan angives bestemt, f. Eks. til Barnets fyldte 18. Aar, bortfalder Tilskudet til Barnet ved Udgangen af den Maaned, i hvilken Tidspunktet indtræder.
+Indtræder der derimod Omstændigheden som bevirker, at Retten til Tilskudet falder bort, forinden dette Tidspunkt naas, eller har Tilskudsmodtageren kun faaet Tilladelse til at medtage Barnet til et Tidspunkt, hvis Indtræden ikke bestemt kunde angives ved Tilladelsens Meddelelse, f. Eks. til Barnet kommer i Arbejde, bortfalder Tilskudet til Barnet fra og med det Tidspunkt, hvortil Lejemaalet kan opsiges af Tilskudsmodtageren, dog inden Forløbet af et halvt Aar efter Udløbet af den Maaned, i hvilken de Omstændigheder, der bevirker Tilskudets Bortfald, er indtruffet, og i første Tilfælde under alle Omstændigheder ved Udløbet af den Maaned, i hvilken det bestemt angivne Tidspunkt indtræder.\"
+Indstillingen vedtoges."	1940	9	16
+"53"	1940-09-16	"open"	"19400916_99.pdf"	7	"69-1940"	"Indstilling fra Sygehusudvalget om Ændringer i det vedtagne Takstregulativ for Kommunens Hospitaler. (Se 1939-40, A. Side 147).
+Udvalget foreslaar følgende Ændringer:
+ Ordene \"anerkendt Sygekasse eller Statsbanepersonalets Sygekasse\" ændres overalt til: \"statsanerkendt Sygekasse herunder ubemidlede Medlemmer af Statsbanepersonalets Sygekasse.\""	1940	9	16
+"54"	1940-09-16	"open"	"19400916_99.pdf"	8	"69-1940"	"A III, Stk. 3: Ordet \"Ekstravagt\" udgaar.
+Stk. 4: Maksimumshonoraret ønskes fastsat til 
+350 Kr.
+Stk. 6 ønskes affattet som anført, idet den hidtidige Betalingsmaade ønskes bibeholdt.
+A VI. Taksten for Patienter med Fnat ønskes fastsat til 6 Kr.
+Tiltraadtes."	1940	9	16
+"55"	1940-09-16	"open"	"19400916_99.pdf"	8	"442-1940"	"Forespørgsel fra A/S Aarhus højere Drenge- og Pigeskole om Byraadet vil overtage Bestyrelsen af det Legat, der er oprettet i Anledning af Selskabets Likvidation.
+Overdroges til Skoleudvalget."	1940	9	16
+"56"	1940-09-16	"open"	"19400916_99.pdf"	8	"11_6-1940"	"Købekontrakt med Gartner  H. P. Jensen angaaende en Grund i \"Vorrevang\".
+Godkendtes."	1940	9	16
+"57"	1940-09-16	"open"	"19400916_99.pdf"	8	"3_6-1940 og 3_4-1940 og  3_9-1940"	"Efterbevilling af Overskridelser i Regnskabet for:
+a. 3_6-1940Gasværket,
+Elektricitetsværket, Forbrændingsanstalten, Svømmehallen og Fjernvarmningsanlæget.
+b.(J.Nr.3_4-1940).Marselisborg Hospital.
+c.(J.Nr.3_9-1940).Sporvejene.
+Overgik til 2. Behandling.
+16. (J.Nr."	1940	9	16
+"58"	1940-09-16	"open"	"19400916_99.pdf"	8	"3_5-1940 og 3_7-1940 og 3_8-1940"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J.Nr.3_5-1940).Slagtehuset.
+b.(J.Nr.3_7-1940).Kommunehospitalet.
+c. 3_8-1940Kommunehospitalets 
+Fjernopvarmningsanlæg.
+2.Behandling.
+Efterbevilling meddeltes."	1940	9	16
+"59"	1940-09-16	"open"	"19400916_99.pdf"	8	"606-1940"	"Andragende fra Mælkeorganisationerne om Forhøjelse af Mælkeprisen samt Indstilling om Bemyndigelse for Mælkeudvalget til fremtidig at godkende Ændringer i Mælkeprisen."	1940	9	16
+"60"	1940-09-16	"open"	"19400916_99.pdf"	9	"606-1940"	"Borgmesteren pegede paa, at der jævnlig skete Ændringer i Smørprisen, og i Henhold til Loven medførte det Ændringer i Mælkeprisen, hvorfor det var mest praktisk, at Udvalget fik Bemyndigelse til at godkende Priserne.
+Stecher Christensen oplyste, at Udvalget ingen Indflydelse havde paa disse Priser, idet det var en Forhøjelse af Producentprisen, som ifølge Loven fulgtes af en tilsvarende Forhøjelse for Mejerierne. I Morgen skulde Udvalget antagelig have sit sidste Møde angaaende en Nedsættelse af Prisen for Sødmælk i løst Maal.
+Indstillingen vedtoges."	1940	9	16
+"61"	1940-09-26	"open"	"19400926_109.pdf"	1	"no related record"	"Mødet den 26. Septbr. 1940.
+(Ekstraordinært).
+Fraværende: Thomas Christensen og Sigvald Nielsen.
+1. (j. Nr."	1940	9	26
+"62"	1940-09-26	"open"	"19400926_109.pdf"	1	"715-1940"	"Indstilling fra Budgetudvalget angaaende Foranstaltninger fra Kommunen i Anledning af Kongens Fødselsdag.
+Følgende Indstilling forelaa:
+\"I Anledning af Hans Majestæt Kongens Fødselsdag skal man indstille, at der til de paa vedlagte Fortegnelse opførte private Børneforsorgsinstitutioner fordeles ialt 10000 Kr., saaledes som paa Fortegnelsen foreslaaet.
+Chr. IX’s Børnehjem........75Børn5000Kr.
+Børnehjemmet \"Nazareth...12 Børn 500 Kr.
+Mødre-ogSpædbørnshjemmet
+\"Bethesda\"......16 Mødre, 32 Børn 1000 Kr.
+Frk. Kjærtinges Børnehave (tidligere Tietgens Plads).20 Børn 100 Kr.
+Fru Henchels Børnehave (tidligere Grønnegade)....27 Børn 100 Kr.
+Børnehaven, Fredensgade 52   16 Børn 100 Kr.
+-Langelandsgade  18 Børn 100 Kr.
+-Stadion Alle...  39 Børn 100 Kr.
+-Otto Rudsgade.  30 Børn 100 Kr.
+At overføre. . .7100Kr."	1940	9	26
+"63"	1940-09-26	"open"	"19400926_109.pdf"	2	"715-1940"	"Overført 7100 Kr. 
+Børnehaven, Herluf Trollesgade  25Børn 100 Kr.
+Børnehaven \"Granly\"..... 42 Børn 100 Kr.
+Guldbryllupsasylet....ca. 100 Børn 700 Kr.
+Arveprinsesse Carolines
+Børneasyl ............ca. 100 Børn 600 Kr.
+Asylet \"Børnely\"......ca. 100 Børn 700 Kr.
+ ca. 18 Børn 200 Kr.
+Marthahjemmets Vuggestue ca..... 44 Børn 500 Kr.
+lalt . 10000Kr.
+Endvidere skal man skal indstille, at der paa Fødselsdagen serveres Chokolade paa Børneoptagelseshjemmene \"Højvang\", Christiansgade 18, Fritidshjemmet, De gamles Hjem, Forsørgelsesanstalten og Sygeafdelingen, samt at der paa Kommunens Regning for hver Rentenyder serveres Kaffe eller Chokolade med Brød og Cigarer i Østergades Forsamlingsbygning, Haandværkerforeningen og \"Folkets Hus\" i Amaliegade.\"
+Borgmesteren: Maa jeg byde Medlemmerne velkommen til dette Møde, som udelukkende er ansat i Anledning af Hans Majestæt Kongens Fødselsdag.
+I en vanskelig og ond Tid fejrer vi vor elskede Konge Christian den 10.’s 70 Aars Fødselsdag; derfor vil vi paa dette offentlige Møde tilkendegive Hans Majestæt Kongen Aarhus Bys Borgeres Hengivenhed og Taknemlighed. Hele det danske Folk staar samlet om vor Konge med Ønsket om, at det maa lykkes Kongen med hans Regering at føre Landet gennem den for Land"	1940	9	26
+"64"	1940-09-26	"open"	"19400926_109.pdf"	3	"715-1940"	"og Folk saa vanskelige Tid, saa vi igen maa blive et frit Folk i et frit Land.
+Som et synligt Bevis paa vore Følelser foreslaar Budgetudvalget at fordele 10000 Kr. til private Børnehjem og lignende Institutioner i Aarhus, som medfølgende Fortegnelse udviser, samt at servere en Forfriskning paa Kommunens sociale Institutioner og for Kommunens Rentenydere. Vi tror, at Kongen vilde have ønsket det saaledes, hvis vi havde spurgt ham derom, og det skulde altsaa være et offentligt Bevis paa vor Taknemlighed og Hengivenhed for vor Konge.
+Endelig har vi afsendt følgende Adresse:
+Til Hans Majestæt Kongen.
+I Anledning af Deres Majestæts 70 Aars Fødselsdag tillader Aarhus Byraad sig herved paa Aarhus Bys Vegne at frembære sin underdanigste og hjerteligste Lykønskning.
+Paa Byraadets Vegne
+  H. P. Christensen.
+Forslaget vedtoges enstemmigt."	1940	9	26

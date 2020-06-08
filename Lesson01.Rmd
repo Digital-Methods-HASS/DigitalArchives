@@ -1,7 +1,7 @@
 ---
-title: "Lesson 01 - Hello world"
+title: "Lesson 01 - Introduction to Digital Archives, with Trove as an example"
 author: "Adela Sobotkova"
-date: "19 August 2019"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
@@ -26,24 +26,41 @@ knitr::opts_chunk$set(echo = TRUE)
 - We’ll be available to assist students this week and in a series of follow-up face-to-face meetings
 
 ## Assessment
-- Argumentative essay that builds on the skills developed in this week
-- Digital Archive review
+- Digital Archive review (comparative argumentative essay that builds on the skills developed in this week)
 
 ## Collectors and collections
 ### Introducing Trove
 Let’s start our exploration of collections by looking at Trove, the principal public digital archive of Australia.
 
-Why? Trove is a collection of collections – it brings together the holdings of hundreds of organisations, from local historical societies to national institutions. It’s a useful place to get an overview of Australia’s cultural heritage collections. But don’t be fooled into thinking that Trove includes everything! (We’ll be following this up in coming weeks.)
+Why? Trove is one of the most modern and multi-faceted national digital archives out there in the world. It is a collection of collections – it brings together the holdings of hundreds of organisations, from local historical societies to national institutions. It’s a useful place to get an overview of Australia’s cultural heritage collections. But don’t be fooled into thinking that Trove includes everything! 
 
 ### Let’s try a simple search:
 
-Go to trove.nla.gov.au
-- Look around the page. What sorts of things are in Trove? How many resources are currently included? [Hover for answer]
-- Type ‘butter pat’ (without the quotes) in the search box and click ‘Search’.
+Go to www.trove.nla.gov.au
+- Look around the page. What sorts of things are in Trove? How many resources are currently included? 
+- Type ‘danish immigrant’ (without the quotes) in the search box and click ‘Search’.
 - Find the ‘Pictures, photos, objects’ results box and click on it to focus on results from the Trove pictures zone. (There’s more about Trove’s zones here.)
 - Let’s refine our results using facets. Under ‘Refine your results’ on the left hand side, click ‘Object’. What happens?
-- Look through your results for a wooden butter pat. How many can you find? Where do they come from?
+- Look through your results for a danish immigrant. How many can you find? Where do they [the records] come from?
 - Click on the title of an object to view more details. Now click on the thumbnail or the ‘view at…’ link – Trove will send you to the website of the organisation that holds the object.
+
+Write out brief answers to these questions and be ready to discuss:
+1) how many resources are there in Trove?
+2) what is a 'facet' and how does it differ from a Search box?
+3) are records stored in Trove?
+
+### Disasters and accidents
+
+Let's say you are concerned about public health and industrialisation, and are interested in knowing the trend in the amount of accidents through the last 150 years, through time and space. 
+
+Start a new search on www.trove.nla.gov.au
+- Look around the page. What sorts of things are in Trove? How many resources are currently included? 
+- Type ‘accident’ (without the quotes) in the search box and click ‘Search’.
+- Find the ‘Digitised newspapers and more’ results box and click on it to focus on results from the Trove newspapers zone. (There’s more about Trove’s zones here.)
+- Let’s refine our results using facets. Under ‘Refine your results’ on the left hand side, click ‘Decade’. What happens? Click for 'More'
+- Look through your results for accidents reported in newspapers. How many can you find? Where do they [the records] come from?
+- What decade sees the most accidents reported in Australia?
+- How does the trend change in New South Wales versus Victoria?
 
 
 ### Are we all curators now?
@@ -57,7 +74,7 @@ As you can see, using Trove you explore collections all around Australia. For mo
 
 Is there a difference between the sort of collecting that an individual undertakes and what happens in a museum or archive? What is that difference?
 
-This is a question we’ll return to several times throughout this week. We’ll examine questions like authority and control – who chooses what is kept and why? We’ll also look at how collection items can be embedded within systems that document their context and relationships. What gives an object its meaning, significance, and authenticity?
+This is a question we’ll return to several times throughout this class. We’ll examine questions like authority and control – who chooses what is kept and why? We’ll also look at how collection items can be embedded within systems that document their context and relationships. What gives an object its meaning, significance, and authenticity?
 
 Using Trove, people can assemble their own collections, reflecting their interests, and serving the needs of their own communities. Let’s look at some examples:
 
@@ -77,7 +94,6 @@ You’re welcome to create a list on any topic that interests you. If inspiratio
 
 Here are the requirements for your list:
 
-- Use Australian content only (try using the ‘Australian only’ checkbox to limit your results)
 - Add at least 10 items.
 - Include at least 2 photos, 2 objects, and 2 newspaper articles.
 - Use items with thumbnail images if possible.
@@ -94,3 +110,8 @@ Here’s an exhibition about [The Chinese in NSW](http://baibi.github.io/chinese
 It’s easy to turn your list into an exhibition, just follow [these instructions](https://github.com/wragge/diy-trove-exhibition). Have a go and share the results on Blackboard.
 
 Not only is this a nicer way of presenting the contents of your lists, it’s an example of what becomes possible once we share collection data online. We can not only search it, we can build new things with it. 
+
+
+<font color="blue">
+This tutorial was adapted from Tim Sherratt. Original content on this site is licensed under a Creative Commons Attribution 4.0 International License.
+</font>

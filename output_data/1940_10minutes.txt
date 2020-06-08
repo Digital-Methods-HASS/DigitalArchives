@@ -1,0 +1,806 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1940-10-03	"closed"	"19401003B_177.pdf"	1	"no related record"	"Mødet den 3. Oktober 1940.
+(For lukkede Døre).
+Fraværende: Kai Blicher. Thomas Christensen, J. R. Fanger, Hans Madsen, I. C. Sørensen og E. Win-terberg."	1940	10	3
+"2"	1940-10-03	"closed"	"19401003B_177.pdf"	1	"537-1940"	"Licitationstilbud paa Omlægning af Thorvaldsensgade.
+Brolægningsudvalget indstiller at overdrage Arbejdet ttl Johs. M. Pedersen &amp;amp; Søn for 11518 Kr. Med Tillæg af Materialer, Asfaltering m. m. bliver hele Udgiften 48400 Kr. Desuden foreslaas, at et budgetteret Beløb paa 48277,90 Kr., som oprindelig var tænkt anvendt til Banegaardsgade, anvendes til Omlægning af Thorvaldsensgade. Vedtaget ved Cirkulation."	1940	10	3
+"3"	1940-10-03	"closed"	"19401003B_177.pdf"	1	"738-1940"	"Licitationstilbud paa Snedkerarbejdet og fast Inventar til det ny Raadhus.
+Budgetudvalget indstiller at fordele Arbejdet saaledes:
+Gruppe I: Tømrermester A.Winkler
+for..................48357,00Kr.
+Gruppe II: Tømrermester N. C. Christensenfor.......8473,66\"
+Gruppe III: Snedkermester Knud Jørgensen for........ 114266,00\""	1940	10	3
+"4"	1940-10-03	"closed"	"19401003B_177.pdf"	2	"738-1940"	"Overført 171096,66 Kr. 
+Gruppe IV: Tømrermester Rasmussen Hviid og Snedkermester Chr. Schou for 124265,00 \" 
+Gruppe V: Tømrermester A. Winkler for ................15940,00 \"
+lait 311301,66 Kr.
+Indstillingen vedtoges."	1940	10	3
+"5"	1940-10-03	"closed"	"19401003B_177.pdf"	2	"702-1940"	"Andragende fra Fagorganisationernes Byggeselskab om, at det paa \"Solgaarden\", Afsnit 1, hvilende Skadesløsbrev til Arbejder Spare - og Laanekassen, stort 220000 Kr., maa fordeles paa de 7 Ejendomme, der udgør Afsnit 1.
+Fra Budgetudvalget forelaa følgende Indstilling :
+\"Foranstaaende anbefales under Forudsætning af, at det samlede Skadesløsbrev paa 220000 Kr. fordeles paa de enkelte Ejendomme paa en saadan Maade, at Ejendommene efter Fordelingen er behæftet med Pantegæld med samme Procent af Ejendomsskylden.\"
+Borgmesteren anbefalede Indstillingen, idet Kommunens Risiko ikke blev større end hidtil.
+Indstillingen vedtoges."	1940	10	3
+"6"	1940-10-03	"closed"	"19401003B_177.pdf"	2	"152-1940"	"Tilbud fra Ny jydske Købstadkreditforening paa Laan i Aldersrenteboligerne i nordre Bydel, Afsnit D. - 2. Behandling.
+Indstillingen vedtoges."	1940	10	3
+"7"	1940-10-03	"closed"	"19401003B_177.pdf"	2	"701 - 1940"	"Indstilling fra Velfærdsudvalget angaaende Indkøb af Bacon.
+Følgende Indstilling forelaa:
+\"For at sikre Byens Befolkning saltet Flæsk i Vinteren, der nu staarfor Døren, har Udvalget efter Anbefaling af Slagterlauget i Aarhus og"	1940	10	3
+"8"	1940-10-03	"closed"	"19401003B_177.pdf"	3	"701 - 1940"	"Aarhus Slagtermesterforening truffet Aftale med Randers Andelssvineslagteri og Horsens Andelssvineslagteri om Levering af 6000 halve Baconsider fra hvert Slagteri i Overensstemmelse med de i vedlagte Overenskomst nærmere angivne Vilkaar og udbeder sig Byraadets Tiltrædelse hertil.
+Senere vil Udvalget fremkomme med Indstilling om den nærmere Ordning med Hensyn til Udlevering af Flæsket til Køberne, herunder paa hvilken Maade Køberne skal erlægge Betalingen.\"
+Borgmesteren oplyste, at ifølge Overenskomsten havde Slagterierne paataget sig fuldstændig Garanti for Saltning og Eftersaltning af Flæsket, og det kunde leveres successivt indtil
+1.April næste Aar. Der skulde nu føres Forhandlinger med Slagtermestrene om den bedst mulige Fordeling, saa Siderne kunde blive delt paa forsvarlig Maade, hvis nogen ikke ønskede en hel Side. Slagterne forlangte en ret stor Procentdel for dette Arbejde, men det skulde der altsaa forhandles nærmere om.
+Indstillingen vedtoges."	1940	10	3
+"9"	1940-10-03	"closed"	"19401003B_177.pdf"	3	"643- 1940"	"Andragende fra den permanente Byggeudstilling om at faa overladt Grunden paa Hjørnet af Filtenborgs Plads og Strandvejen til Opførelse af et Jubilæumshus, der agtes bortloddet.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Idet man vedlægger en Kalkulation over Byggeforetagendet - hvorved bemærkes, at Byggegrunden dog kun kan ansættes til 15250 Kr., da der skal foretages Fundering derpaa, hvilken Fundering selvfølgelig maa afholdes"	1940	10	3
+"10"	1940-10-03	"closed"	"19401003B_177.pdf"	4	"643- 1940"	"af Byggeforetagendet - samt Betingelserne for Konkurrencen, skal man indstille, at Andragendet bevilges, dog med det Forbehold, at Tegningerne for Bygningen samt Regnskaberne skal forelægges Udvalget til Godkendelse, og at der paalægges Grunden de sædvanlige Servitutbestemmelser efter Kommunens Købekontraktformular, hvorhos alle Omkostninger, herunder ogsaa Udstykningsomkostningerne, maa afholdes af Byggeforetagendet.\"
+Borgmesteren oplyste, at Huset skulde bortloddes ved Byens Jubilæum i 1941. Budgetudvalget havde anbefalet Andragendet, ogsaa fordi den nævnte Grund maaske blev noget vanskelig at sælge med den store Facade til 2 Gader, og alle Pengene var jo ikke tabt, naar der blev bygget et Hus paa Grunden. Hvis der ved Bortlodningen fremkom et Overskud, skulde det anvendes dels til den permanente Udstilling, dels til Udsmykning af Raadhuset.
+Indstillingen vedtoges."	1940	10	3
+"11"	1940-10-03	"closed"	"19401003B_177.pdf"	4	"255-1940"	"Andragende fra Vognmand N. B. M. Gaardsdal om Eftergivelse af Afgiften for 1940 af Bilruten Harald Jensens Plads - Moesgaard Strand.
+Brolægningsudvalget anbefaler, at Afgiften nedsættes fra 600 Kr. til 300 Kr.
+Indstillingen vedtoges."	1940	10	3
+"12"	1940-10-03	"closed"	"19401003B_177.pdf"	4	"698 - 1940"	"Ansøgning fra Skuespiller Helge Dahl om Bevilling til Vennelyst Teater.
+Anbefalet af Parkudvalget.
+Anbefaledes."	1940	10	3
+"13"	1940-10-03	"closed"	"19401003B_177.pdf"	4	"729-1940"	"Andragende fra A. Svanholm om Autorisation som Gas- og Vandmester.
+Anbefalet af Belysningsudvalget.
+Bevilgedes."	1940	10	3
+"14"	1940-10-03	"closed"	"19401003B_177.pdf"	5	"711 - 1940"	"Andragende fra Lærer N. P. Chr. Arlund om Afsked med Pension fra 31. December 1940.
+Anbefalet af Skolekommissionen.
+Anbefaledes."	1940	10	3
+"15"	1940-10-03	"closed"	"19401003B_177.pdf"	5	"710-1940"	"Meddelelse fra Socialudvalget om Ansættelse af Frk. Else Refslund-Poulsen som Sundhedsplejerske i Stedet for Frk. Nanna Bøttger Jensen, der har opsagt sin Stilling.
+Tiltraadtes."	1940	10	3
+"16"	1940-10-03	"closed"	"19401003B_177.pdf"	5	"8_21-1940"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat paa Grund af urigtig Selvangivelse.
+Kommissionen foreslaar følgende Efterbetalinger:
+Enkefru K. M. A. Krarup, Marselis Boulevard 16 ........... 20000 Kr. 00 0.
+Savværksarbejder J. P. Nielsen, Hjortensgade 21...............9000\"00\"
+Fyrbøder J. S. Hansen, H. Brogesgade 23 ......................7400\"00\"
+Rentrice Frk. A. Simonsen, Nørreport 17 ........................6000\"00\"
+Pensionist Enkefru J. C. Warnich. Grønnegade 1 .................5300\"00\"
+Pensionist Enkefru J. Olsen, H. Guldbergsgade 113 ............4000\"00\"
+Pensionist S. S. Jensen, Bülowsgade 8 .......................4000\"00\"
+Fhv. Møllermester S. C. Sørensen, Ringkøbingvej 5 ...........3600\"00\"
+Husejer Frk. C. Andersen, Kystvej 45..........................3600\"00*
+Pensionatejer M. N. Larsen. Graven 18-20 ................... . . .3200\"00\""	1940	10	3
+"17"	1940-10-03	"closed"	"19401003B_177.pdf"	6	"8_21-1940"	"Overført... 66100 Kr. 00 0. 
+Tømrermester A. Petersen, Sjællandsgade 114....................3100\"00\"
+Tømrersvend E. Clausen, Niels Juelsgade 87 .................3000\"00\"
+Frugthandler E. Jensen, Michaelsensgade 5 ...................2800\"00\"
+Murersvend J. Hansen, Langelandsgade 220 ...................2600\"00\"
+Arbejdsmand J. J. Petersen, Vesterport 6 ......................2300\"00\"
+Chauffør C. M. Jensen, Ringkøbingvej 7 ..................2000\"00\"
+Enkefru S. K. Jensen, Sandøgade 6 ..........................1900*00*
+Karetmagersvend P. P. Bak, Sdr. Ringgade 24...................1800\"00\"
+Bybud J. C. L. Jensen, Klostergade 41 .........................1500\"00\"
+Farveriejer F. J. K. Svendsen, Vestergade 37 ................1500\"00\"
+Bogholder N. G. Lassen, Skovvej 46 H.........................1200\"00\"
+Direktrice Frk. L. E. Funch, Vester Allé 20 ....................1100\"00\"
+Stuepige Frk. Alma Rasmussen, St. Torv 4....................1100\"00\"
+Husbest. Frk. A. C. P. Gylling, Marienlundsallé 3 ............1060\"00\"
+Forvalter N. P. Sørensen, Vesterbrogade 36 ......................1050\"00\"
+Gravør S. C. Frandsen, O. Rudsgade 86.......................1000\"00\"
+Maskinarbejder C. M. Rasmussen, Sjællandsgade 97 . . . . ..1000\"00*"	1940	10	3
+"18"	1940-10-03	"closed"	"19401003B_177.pdf"	7	"8_21-1940"	"Overført... 96110 Kr. 00 0. 
+Maskinarbejder E. Andersen, Horsensgade 7 ................900\"00\"
+Kontorbud S. Sørensen, Vestergade 3 .........................900\"00\"
+Pens. Overpostbud R. A. Sørensen, Ringkøbingvej 27 ..........875\"00\"
+Arbejdsmand C. A. Petersen, Ny Munkegade 99..................850\"00\"
+Restauratrice Fru J. C. Petersen, Vesterport 10 ................800\"00\"
+Portner J. Jørgensen, Trøjborgvej 40 .......................800\"00\"
+Arbejdsmand S. A. Jensen, Sejrøgade 11 ......................700\"00\"
+Billedskærer G. B. Thane, Skovvangsvej 226 ...................650\"00\"
+Tømrersvend L. E. Larsen, H. V. Kaalundsvej 8 ................600\"00\"
+Fhv. Bogholderske Frk. C. K. M. Sørensen, Mejlgade84 ....600\"00\"
+Arbejderske Frk. K. M. J. S. Nielsen, Teglværksgade5 .....575\"00\"
+Murersvend N. Jørgensen, Østboulevard 21....................525\"00\"
+Chauffør J. C. L. Christensen, Blegdammen 8..................510\"00\"
+Frk. E. M. Haid, Aaboulevard 24486\"90\"
+Skræder N. A. P. Rønn, Guldsmedgade 30 ....................400\"00\"
+Former J. G. Nielsen, Sjællandsgade 97 ........................400\"00\"
+Boxforvalter L. G. V. Petersen, Aaboulevard 24 ...............400\"00\""	1940	10	3
+"19"	1940-10-03	"closed"	"19401003B_177.pdf"	8	"8_21-1940"	"Overført... 107081 Kr. 90 0. 
+Tømrer C. M. Andersen, Østboulevard 15...................365*00\"
+Købmand K. Holst-Petersen, Aaboulevard 32 .......... .......350\"00\"
+Pens. Arbejdsmand N. P. Johannesen, Thunøgade 30. . . .340\"00\"
+Tømrersvend C. M. Christensen, Trøjborgvej 8 A................335\"00\"
+Enkefru J. Nielsen, E. Warmingsvej 29 ........................325\"00\"
+Kærnemager R. S. Jensen, Falstersgade 3....................315\"00\"
+Tømrersvend C. T. H. Bøje, Marienlundsallé 16 ............300\"00\"
+Husejer Enkefru N. S. Nielsen, Nørregade 7 ...................300\"00\"
+Arbejdsmand C. P. C. Bødker, Møllestien 4 B.................275\"00\"
+Arbejdsmand J. C. Jensen, Skovfaldet 5 ......................265\"00\"
+Husbest. Enkefru C. Hviid, Rosensgade 30 ........... .......250\"00\"
+Uddeler H. N. Gjerulff, I. Huitfeldsgade 72 ..................225\"00\"
+Syerske Enkefru M. S. Jensen, Vestergade 81 B................220\"00\"
+Murersvend L. C. Nielsen, Ny Munkegade 22...................210\"00\"
+Linierer A. Knipp, \"Lykkebo\", Dybkjærvej.....................200\"00\"
+Repræsentant H. Kielgast, Toldboden .........................180\"00\"
+Husbest. Frk. P. M. H. Kjærbye,
+Knudrisgade 32 ............ . . .180\"00\""	1940	10	3
+"20"	1940-10-03	"closed"	"19401003B_177.pdf"	9	"8_21-1940"	"Overført... 111716 Kr 90 0. 
+Husass. Frk. I. J. R. Holm, Mejlgade 97 .......................165\"00\"
+Handlende Frk. C. V. N. Bloch, Helgenæsgade 8.................135\"00\"
+Chauffør B. R. Riber, Vestergade 81 A........................120\"00*
+Trafikassistent H. Christensen, Tordenskjoldsgade 87.75\"00\"
+Dødsboet efter Chauffør A. Petersen, Lollandsgade 75.............1915\"40\"
+Dødsboet efter Enkefru M. B. Hansen, Tordenskjoldsgade23135\"00\"
+Ialt.. .114262Kr.300.
+Tiltraadtes."	1940	10	3
+"21"	1940-10-03	"closed"	"19401003B_177.pdf"	9	"20_4 -1940"	"Indstilling fra Legatudvalget om Uddeling af 2 Portioner af Politiassistent Jørgensens Legat.
+Tildeltes Jens Vilh. Petersen og Jensine K. Laursen."	1940	10	3
+"22"	1940-10-03	"closed"	"19401003B_177.pdf"	9	"32_3-1940"	"Indstilling fra Socialudvalget om, at Arbejdsmand Harald J. Lundbøl anbringes paa Arbejdsanstalten i 3 Maaneder.
+Tiltraadtes."	1940	10	3
+"23"	1940-10-03	"closed"	"19401003B_177.pdf"	9	"16_10-1940"	"Indstilling fra Socialudvalget om Ydelse af Tillægshjælp efter Forsorgslovens § 293, Stk. 2.
+Tiltraadtes."	1940	10	3
+"24"	1940-10-03	"closed"	"19401003B_177.pdf"	9	"16_9-1940"	"Indstilling fra Socialudvalget om Ydelse af Kommunehjælp udover den i Forsorgslovens § 297, Stk. 1, fastsatte Grænse.
+Tiltraadtes."	1940	10	3
+"25"	1940-10-03	"closed"	"19401003B_177.pdf"	9	"12_11-1940"	"Indstilling fra Socialudvalget om Huslejetilskud til Aldersrentenydere.
+Tiltraadtes."	1940	10	3
+"26"	1940-10-03	"closed"	"19401003B_177.pdf"	10	"12_10-1940"	"Indstilling fra Socialudvalget om personligt Tillæg til Alders- og Invaliderente-nydere.
+Tiltraadtes.
+19.Borgmesteren meddelte, at Ejendommen i Mørksgade tilhørende \"De unges Hiem\", skulde til Tvangsauktion. Der var i Ejendommen som
+4.Prioritet et Statsboligfondslaan paa 10000 Kr., hvoraf Kommunen garanterede for Halvdelen, og Kommunen havde derfor en vis Interesse i at byde paa Ejendommen, hvis den eventuelt kunde købes ved at overtage de første 3 Prioriteter til ialt 87000 Kr., og muligvis kunde det ogsaa betale sig at byde noget højere. Ejendomsskylden var 115000 Kr. Der var dog en Gældspost paa 4000 Kr. til Renter og Afdrag, som skulde udredes.
+Budgetudvalget bemyndigedes til at handle paa bedst mulig Maade.
+20.Borgmesteren gjorde opmærksom paa, at Politistyrken i Aarhus var blevet udvidet, og Politimesteren havde anmodet om, at Politiet maa faa Raadhussalen, der for Tiden anvendes af Folkeregistret. Det var jo Meningen, at Politiet skulde overtage hele Bygningen, naar det ny Raadhus blev færdigt, og Taleren havde derfor ment, at man saa vidt muligt burde imødekomme Politimesteren. Folkeregistret skulde saa foreløbig flyttes til den ny Ejendom \"Centrum\" paa Aaboulevarden, hvor man havde Tilbud om Lokaler, og der skulde saa forhandles med Politiet om Leje af Salen.
+Tiltraadtes."	1940	10	3
+"27"	1940-10-03	"open"	"19401003_113.pdf"	1	"no related record"	"Mødet den 3. Oktober. 1940.
+Fraværende: Kai Blicher, Thomas Christensen, 
+J. R. Fanger, Hans Madsen, I. C. Sørensen og 
+E. Winterberg."	1940	10	3
+"28"	1940-10-03	"open"	"19401003_113.pdf"	1	"11_6-1940"	"Indenrigsministeriets Godkendelse af Købekontrakt med Gartner H. P. Jensen.
+Toges til Efterretning."	1940	10	3
+"29"	1940-10-03	"open"	"19401003_113.pdf"	1	"473-1940"	"Undervisningsministeriets Godkendelse af Besættelse af 7 Lærerembeder og 8 Lærerindeembeder ved det kommunale Skolevæsen.
+Toges til Efterretning,"	1940	10	3
+"30"	1940-10-03	"open"	"19401003_113.pdf"	1	"114-1940"	"Socialministeriets Godkendelse af Udvidelse af Undgomsforanstaltningen \"Aarhus Cyklebane.\"
+Toges til Efterretning."	1940	10	3
+"31"	1940-10-03	"open"	"19401003_113.pdf"	1	"672-1940"	"Andragende fra Aarhus Taxa om Takstforhøjelse.
+Anbefalet af Politimesteren.
+Brolægningsudvalget anbefaler, at Taxa faar Tilladelse til at forhøje Taksterne for Droskekørsel med 85 %.
+Indstillingen vedtoges."	1940	10	3
+"32"	1940-10-03	"open"	"19401003_113.pdf"	1	"285-1940"	"Andragende fra Landsforeningen til Arbejdsløshedens Bekæmpelse om Bevilling til Værktøj til Arbejdsløse."	1940	10	3
+"33"	1940-10-03	"open"	"19401003_113.pdf"	2	"285-1940"	"Fra Socialudvalget forelaa følgende Indstilling:
+\"Idet man hoslagt fremsender Regninger over Værktøj, der er stillet til Raadighed for Landsforeningen til Arbejdsløshedens Bekæmpelse til Brug ved den af Foreningen organiserede Stødoptagning med Tilskud efter Beskæftigelsesloven, skal man under Henvisning til tidligere Forhandlinger, hvorunder Udvalget har tilsluttet sig, at man hjalp Landsforeningen med Anskaffelse af Værktøj, anmode om at faa oplyst, hvilken Konto man kan anvise Beløbet paa.
+Samtidig skal man oplyse, at der til Dato er anskaffet Værktøj til ca. 60 Arbejdere, ialt til et Beløb af ca. 2500 Kr.
+Det er Landsforeningens Mening indtil videre kun at beskæftige disse 60 Arbejdere ved Stødoptagning, men hvis Arbejdet forløber tilfredsstillende, og der bliver Mulighed for at føre Tilsyn med en større Arbejdsstyrke, vil man forøge Antallet muligvis til 150.
+Man skal derfor udbede sig Bemyndigelse til at stille Værktøj til Raadighed for yderligere 90 Mand, saaledes at der ialt vil blive anvendt et Beløb paa ca. 6000 Kr. til Værktøj.
+Værktøjet forbliver Kommunens Ejendom.\" Anbefalet af Budgetudvalget. 
+Borgmesteren anbefalede Forslaget, idet man tidligere var gaaet ind paa at skaffe Værktøj til de Arbejdsløse,
+Indstillingen vedtoges."	1940	10	3
+"34"	1940-10-03	"open"	"19401003_113.pdf"	2	"728-1940"	"Udkast til Reglement for Udlejning af Aldersrenteboligerne ved Marselis Boulevard. (Side 13).
+Følgende Indstilling forelaa:"	1940	10	3
+"35"	1940-10-03	"open"	"19401003_113.pdf"	3	"728-1940"	"\"Udvalget tillader sig herved at indstille medfølgende Reglement for Udlejning af Kommunens Boliger for Aldersrentenydere ved Marselis Boulevard til det ærede Byraads Godkendelse.
+Reglementet er fuldstændig som det for Boligerne ved Skovvangsvej gældende.\"
+Indstillingen vedtoges."	1940	10	3
+"36"	1940-10-03	"open"	"19401003_113.pdf"	3	"709-1940"	"Indstilling fra Socialudvalget om Reglement for den kommunale Sygepleje. (1939-40, A Side 117).
+Følgende Indstilling forelaa:
+\"Hoslagt fremsender man Udkast til Reglement for den kommunale Sygepleje i Aarhus med Anmodning om Byraadets Godkendelse. Udkastet er ligelydende med det af Byraadet i 1939 godkendte Reglement, dog at Taksten efter § 5 er ændret derhen, at den pr. Besøg af uddannet Sygeplejerske nu udgør 1,75 Kr., medens den tidligere udgjorde 1,50 Kr. For huslig Hjælp er Taksten 1,00 Kr. pr. Time, medens den i 1939 var fastsat til 0,75 Kr. pr. Time.
+I 1939 - 40 androg den takstmæssige Betaling for den kommunale Sygepleje efter Reglementets hidtidige Takst 20474,00 Kr., medens den samlede Udgift var 23880,28 Kr.
+Den takstmæssige Beregning dækkede altsaa ikke fuldtud Udgifterne.
+Reglementet bedes af Byraadet fremsendt til Socialministeriet til Godkendelse af de ændrede Takster.\"
+Indstillingen vedtoges."	1940	10	3
+"37"	1940-10-03	"open"	"19401003_113.pdf"	3	"727-1940"	"Andragende fra Nationalforeningen til Tuberkulosens Bekæmpelse om Udbetaling af Tilskud."	1940	10	3
+"38"	1940-10-03	"open"	"19401003_113.pdf"	4	"727-1940"	"Det paa Konto 25 opførte Beløb paa 1000 Kr. bevilgedes."	1940	10	3
+"39"	1940-10-03	"open"	"19401003_113.pdf"	4	"172_2-1940"	"Andragende fra Aarhus Universitet om Udbetaling af Tilskud.
+Af det paa Konto 25 opførte Beløb paa 75000 Kr. bevilgedes 40000 Kr. til Udbetaling."	1940	10	3
+"40"	1940-10-03	"open"	"19401003_113.pdf"	4	"703-1940"	"Andragende fra Aarhushallen om Garanti paa 4000 Kr. til Opera- og Ballet-gæstespil af det kgl. Teater samt Bevilling af 2500 Kr. til en Forestilling for Skoleelever.
+Budgetudvalget kan ikke anbefale Andragendet
+Borgmesteren gjorde opmærksom paa, at Aarhus Kommune ydede til Teater og Musik ca. 67000 Kr. aarlig. Man havde undersøgt Forholdet i København, og det viste sig, at man der ydede 75000 Kr. til Teaterforestillinger for Skolebørn og 32000 Kr. til Musik eller ialt 107000 Kr. altsaa et meget lille Beløb i Forhold til, hvad der ydedes i Aarhus. Det kgl. Teater fik for 1940-41 et Statstilskud paa 1174000 Kr., og saa skulde man synes, at Staten kunde paalægge Teatret at give enkelte Forestillinger i de større Provinsbyer, som har Lokaler dertil. Da Forholdene tilmed i Aar var særlig vanskelige, havde Udvalget ikke ment at kunne anbefale en saadan Bevilling i indeværende Aar.
+Kunde ikke bevilges."	1940	10	3
+"41"	1940-10-03	"open"	"19401003_113.pdf"	4	"462-1940"	"Indstilling fra Belysningsudvalget angaaende Overenskomst med Sønderjyllands Højspændingsværk.
+Følgende Forslag forelaa:
+                    OVERENSKOMST
+ mellem Aarhus Belysningsvæsen, i det følgende kaldet Aarhus, og Andelsselskabet Sønderjyllands Højspændingsværk, i det følgende kaldet S. H., om Samarbejde."	1940	10	3
+"42"	1940-10-03	"open"	"19401003_113.pdf"	5	"462-1940"	"§ 1.
+Formaalet med denne Overenskomst er at udveksle Maskinkraft, Reserver og Energi, saaledes at Aarhus og S. H. bl. a. ved Udskydelse af Bygning af Nyanlæg m. m. opnaar de størst mulige Besparelser i Produktionsudgifterne.
+Samarbejdet foregaar efter den mellem Aarhus, Fælleskraftstationen i Odder (i det følgende kaldet F. K.), Den sydøstjydske Samleskinne (i det følgende kaldet S. Ø. S.) og S. H. oprettede Overenskomst om teknisk Samarbejde med de i efterfølgende Paragraffer angivne Særaftaler.
+§ 2.
+I Overenskomst om teknisk Samarbejde mellem Aarhus, F. K., S. Ø. S. og S. H. § 3, Stk. 1 er fastsat, at Aarhus og S. H. i Fællesskab bygger og bekoster:
+1)En 8 km lang 6 kV, 3 X 95 mm2 Luftledning fra Aastrupbro imod 60 kV Stationen ved Harte.
+2)Tilslutningsanlæg for den under 1) nævnte Luftledning ved 60 kV Transformatorstationen i Aastrupbro.
+3)En ca. 22 km lang 60 kV, 3 x 95 mm2 Luftledning fra F. K. (Odder) til Aarhus.
+4)Tilslutningsanlæg ved F. K. for den under 3) nævnte Luftledning.
+5)En 60 kV Friluftstation i Aarhus i Tilslutning til Aarhus E. V.
+6)Etablering af Distancerelæanlæg efter nærmere Aftale paa 60 kV Stationen i Aarhus. Af disse Anlæg bygger og bekoster S. H. de under 1), 2) og 3) nævnte Anlæg."	1940	10	3
+"43"	1940-10-03	"open"	"19401003_113.pdf"	6	"462-1940"	"For Bygning af den under 3) nævnte Luftledning betaler Aarhus som sin Andel til S. H. ialt Kr. 304000, der erlægges med Kr. 104000, ved denne Overenskomsts Underskrift, Kr. 25000, den 1. Oktober 1940 og Kr. 25000 den 1ste i hver følgende Maaned, indtil Beløbet er betalt.
+For de 10 km Luftledning nærmest Aarhus gælder, at Aarhus desuden betaler det Beløb, Erstatningen pr. Mast til Lodsejerne overstiger den Erstatning pr. Mast, der gennemsnitlig betales for den øvrige Strækning af Ledningen fra F. K. til Aarhus. Erstatninger, der betales for Skov samt Erstatning for Master, der er anbragt i Skov, medtages ikke ved Beregning af Gennemsnitsprisen.
+Ovennævnte Betaling er baseret paa den Ledningstracé, der mentes gennemførlig den
+3.Juli 1940. Skulde Udstikningen af Ledningen vise, at Tracéen maa ændres, skal Betalingen reguleres op eller ned med de Beløb, hvormed Anlægssummen forøges eller formindskes som Følge af Ændringen i Tracéen.
+Det under Punkt 4) nævnte Tilslutningsanlæg paa F. K.’s Transformatorstation i Odder udføres af S. H., og Udgiften hertil bæres af Aarhus og S. H. hver med Halvdelen.
+Aarhus bygger og bekoster den under Punkt 5) nævnte 60 kV Friluftsstation ved Aarhus med Tilslutning til Aarhus Elekiricitetsværk samt det under Punkt 6) nævnte Distancerelæanlæg paa Stationen i Aarhus.
+Ejendomsretten og Vedligeholdelsespligten til foranstaaende Anlæg stiller sig saaledes: Det under 1) nævnte Anlæg ejes og vedligeholdes af S. H."	1940	10	3
+"44"	1940-10-03	"open"	"19401003_113.pdf"	7	"462-1940"	"Det under 2) nævnte Anlæg ejes og vedligeholdes af S. H.
+Det under 3) nævnte Anlæg ejes og vedligeholdes med 2/3 af Linien fra Aarhus at regne af Aarhus og Resten af S. H.
+Det under 4) nævnte Anlæg ejes og vedligeholdes af F. K. med Undtagelse af de Apparater og Instrumenter, som kan fjernes uden Gene for Friluftsstationens fortsatte Drift.
+Det under 5) nævnte Anlæg ejes og vedligeholdes af Aarhus.
+Det under 6) nævnte Anlæg ejes og vedligeholdes af Aarhus.
+Saafremt der hos en af Parterne opstaar saadanne Belastningsstigninger, at de 60 kV Ledninger ikke længere kan overføre den nødvendige Effekt, optager Parterne i god Tid Forhandling om Etablering af en direkte Forbindelsesledning for mindst 60 kV mellem Aarhus og S. H.
+§ 3.
+Parterne forpligter sig til baade direkte og indirekte at respektere hinandens Forsyningsomraader.
+Ovennævnte Forpligtelser til at respektere hinandens Forsyningsomraader gælder, uanset om Overenskomst om en direkte Forbindelsesledning opnaas, i 5 Aar efter Udløbet af Overenskomsten om teknisk Samarbejde mellem Aarhus, F. K.,
+ S. Ø. S. og S. H.
+§ 4.
+Aarhus og S. H. stiller hver for sig hele sin Maskinkraft og den Maskinkraft, hvorover"	1940	10	3
+"45"	1940-10-03	"open"	"19401003_113.pdf"	8	"462-1940"	"der til enhver Tid raades ifølge Overenskomster med andre Værker, til Raadighed for Samarbejdet.
+Af den saaledes til Raadighed for Samarbejdet staaende samlede Maskinkraft paaregnes Aarhus og S. H. at beslaglægge hver sin Del, beregnet efter Forholdstalsmetoden efter de respektive aarlige Maximalbelastninger til eget Forbrug og til Dækning af kontraktmæssige Forpligtelser. Det Antal kW, 
+S. Ø. S. paaregnes at beslaglægge, beregnes ved at dividere den i Henhold til Overenskomsten mellem S. H. og S. Æ. S. § 5, Stk. 3 erlagte Erstatning for Effektafgift i Kroner med 30.
+Saafremt een af Parterne beslaglægger Maskinkraft, beregnet som angivet, udover sin egen Maskinkraft tillagt den Maskinkraft, den paagældende Part raader over ifølge Kontrakt med andre Værker, stilles den manglende Maskinkraft, til Raadighed af den anden Part for en aarlig Betaling paa:
+Kr. 1 5,0 0 pr. kW.
+Indtil Maximalbelastningen indenfor 
+Aarhus-Gudenaacentralens nuværende Forsyningsomraade overstiger 30000 kV, betaler Aarhus dog til S. H. højst Kr. 105000 pr. Aar, svarende til 7000 kV Andelsmaskinkraft. Betalingen for Maskinkraft fra Aarhus til S. H. kan dog i de første 5 Aar aldrig blive lavere end den Afgift, S. H. i Henhold til § 7 betaler til Aarhus for at overtage hele Leverancen af Effekt og Energi til S. Ø. S. + Kr. 25000.
+Den Maskinkraft, som de to Parter for Tiden Raader over, fastsættes ved denne Beregning til følgende Værdier:"	1940	10	3
+"46"	1940-10-03	"open"	"19401003_113.pdf"	9	"462-1940"	"Aarhus’s Maskinkraft:
+Turbineanlæg 26 MW, begrænset af Kedelkraften til:24,0MW
+Aarhus’s egne Dieselanlæg:1,2 MW
+Aarhus’s Andele i Gudenaacentralen: 1,3 MW
+Til Raadighed for Aarhus ifølge Kontrakter:5,5 MW
+Ialt: 32,0MW
+SH’s Maskinkraft:
+Turbineanlæg 38 MW, begrænset af Kedelanlæg til:30,0MW
+Til Raadighed for S. H. ifølge Kontrakter:5,5 MW
+Ialt: 35,5MW
+Aarhus’s og S. H.’s samlede Maskinkraft: 67,5 MW
+Saafremt en af Parterne eller noget af de Værker, som ifølge Kontrakter har givet Aarhus eller S. H. Raadighed over sin Maskinkraft, undlader at vedligeholde eller reducerer sin Maskinkraft, reduceres ovennævnte Talværdier tilsvarende.
+Saafremt Maskinkraften hos en eller begge Parter helt eller delvis skulde blive ubrugelig i længere Tid, forhandler Parterne om en rimelig Ordning med Hensyn til Effektafgiften.
+Foretager de to Parter Udvidelser eller forøges den Maskinkraft, som Parterne ifølge nærværende eller nye Overenskomster kommer til at raade over, forøges ovenstaaende Talværdier svarende til den reelle effektive Forøgelse af Maskinkraften beregnet efter Anlæggenes maximale Ydeevne i mindst 2 Timer.
+Hver af Parterne har paa Forlangende Pligt til paa Tro og Love at tilstille den anden Part alle nødvendige Oplysninger til Bedømmelse"	1940	10	3
+"47"	1940-10-03	"open"	"19401003_113.pdf"	10	"462-1940"	"af Anlæggenes Ydeevne i 2 Timer og Drifts-Sikkerheden og til at foretage de herfor eventuelt nødvendige Belastningsforsøg.
+§ 5.
+For Energi leveret af den ene Part til den anden og ikke udlignet i Aarets Løb betaler Modtageren pr. kWh den anden Parts Brændselsudgift pr. netto kWh ab Værk + 20 % med følgende Tillæg:
+For de første 5 Mill. kWh: 0,85 Øre pr. kWh
+For følgende 5 Mill. kWh:  0,75 Øre pr. kWh
+For følgende 5 Mill. kWh:  0,65 Øre pr. kWh
+For Resten af Leverancen:0,55 Øre pr. kWh
+Ved Brændselsudgiftenpr. nettoabVærk
+forstaas Udgiften til Brændsel leveret frit i Silo, opgjort i Overensstemmelse med Værkets Regnskab for det paagældende Regnskabsaar. Disse Udgifter divideres med Antallet af de ab Værk i samme Regnskabsaar som 10 kV afgivne kWh. Ved Anvendelse af Tørv og Brunkul som Brændsel regnes med Maximalpris herfor, saalænge en saadan findes,
+§ 6.
+De leverede og modtagne kWh beregnes
+-uanset hvorledes Detaillerne vedrørende Maalerne senere fastlægges - som leveret og modtaget paa 60 kV Siden i Transformatorstationerne i henholdsvis Aarhus og Aabenraa, og Tabene i de 60 kV Linier minus det i § 5, Stk, 3 i Overenskomsten mellem Aarhus, F. K., S. Ø. S. og S. H. nævnte Bidrag paa 10 % til Dækning af Tab ved Levering af kWh fra S. Ø. S. og F. K.’s Værker til Samleskinnen, deles af Aarhus og S. H. efter Forholdstal i Henhold til samtlige de af disse to Værker"	1940	10	3
+"48"	1940-10-03	"open"	"19401003_113.pdf"	11	"462-1940"	"i Aarets Løb til Samleskinnen afgivne kWh maalt i Aabenraa og Aarhus.
+§ 7.
+Leveringen til S. Ø. S. i Henhold til Overenskomsten af 1940 mellem S. H. og S. Ø. S. deles med Halvdelen til hver af Parterne, men S. H. har, indtil Aarhus har udvidet sit Kedel- og Maskinanlæg og mindst for Kontraktens første 4 Aar, Ret og Pligt til at levere hele Mængden af Energi til S. Ø. S., mod at S. H. til Aarhus betaler en Afgift paa 0,15 Øre pr. kWh for Halvdelen af den leverede Elektricitetsmængde samt Halvdelen af den af
+ S. Ø. S. til S. H. ifølge forannævnte Overenskomsts § 5, Stk. 3 erlagte Erstatning for Effektafgift (1,25 Øre pr. kWh).
+Indtil Forbindelsen mellem F. K. og Aarhus er etableret, beholder S. H. hele Indtægten fra S. Ø. S. for Energi og Effekt.
+Vedrørende Maalinger, Maalearrangementer, Betalingsterminer m. m. træffes nærmere Aftale, naar den endelige Overenskomst om Samarbejde mellem S. H. og S. Ø. S. og den endelige Overenskomst om teknisk Samarbejde mellem Aarhus, F. K., S. Ø. S. og S. H. foreligger.
+§ 8.
+Samarbejdet mellem Aarhus og S. H. foregaar ved Udveksling af kWh.
+Fuldstændig Udligning af udvekslede kWh sker 1 Gang i hvert Kalenderaar, med mindre der træffes anden Aftale.
+I Havaritilfælde har Parterne Pligt til at hjælpe hinanden med alle til Raadighed staaende Midler; men Reparationen af den havarerede Del af Anlægget skal, saafremt Havariet er til"	1940	10	3
+"49"	1940-10-03	"open"	"19401003_113.pdf"	12	"462-1940"	"Gene for den anden Part, afhjælpes saa hurtigt som overhovedet muligt.
+Samarbejdet tilrettelægges iøvrigt ved Aftaler mellem de to Værkers tekniske Ledere saaledes, at de størst mulige driftsøkonomiske Fordele opnaas og saaledes, at disse i videst mulig Omfang fordeles ligeligt mellem Parterne.
+§ 9.
+Eksempel paa Afregning for Driftsaaret 1942-43:
+1.Maskinkraft:
+Aarhus raader over ialt: 32,0 MW 
+S. H. raader over ialt : 35,5 MW
+Maskinkraft ialt: 67,5 MW
+Aarhus’s Maximum (incl. udenbys 
+Kunder):26,5 MW
+S. H.’s Maximum:15,4 MW
+S. Ø. S. regnes at beslaglægge:
+7000000 X 1,25/100 : 30 kW:2,916 MW
+44,816 MW
+Aarhus har beslaglagt:
+(26,5+ 1,458) x 67,5/44,816 =42,1MW
+svarende til 42,1 - 32,0 = 10,1 MW mere end egen Maskinkraft.
+I Henhold til § 4, Stk. 4 betales dog kun for 7000 kW å 15 Kr. = Kr. 105000.
+2.Levering af kWh:
+Afgivet til 60 kV Nettet ifølge Maalere:
+ Aarhus: 6000000 kWh 
+S. H.:19000000 kWh
+S. Ø. S. 2000000 kWh
+Ialt 27000000 kWh"	1940	10	3
+"50"	1940-10-03	"open"	"19401003_113.pdf"	13	"462-1940"	"Modtaget tra 60 kV Nettet ifølge Maalere: 
+Aarhus: 12000000 kWh 
+S. H.:2000000 kWh
+S. Ø. S.: 11000000 kWh
+Ialt 25000000 kWh 
+Tab i 60 kV
+Nettet: 2000000 kWh
+Ialt 27000000 kWh 
+Andele i Tab:
+S. Ø. S.: 10 % af 2000000 kWh =200000 kWh
+Aarhus: 6/6+19
+(2000000 - 200000) =432000 kWh
+S.H.: 19/6+19
+(2000000200000)=1368000 kWh
+Ialt 2000000 kWh
+Køb ogSalg af kWh:
+S. Ø.S. modtaget:11000000kWh
+S. Ø.S. afgivet - Tab:1800000 kWh
+S. Ø.S. købt ialt, netto:9200000kWh
+Aarhus modtaget:12000000 kWh
+Aarhus afgivet - Tab:5568000 kWh
+Aarhus købt ialt, netto:6432000 kWh
+S. H.afgivet - Tab:17632000kWh
+S. H.modtaget:2000000 kWh
+S. H.solgt ialt, netto:15632000kWh
+Ifølge S. H.s Regnskab har S. H.s Brændselsudgift pr. netto kWh ab Værk for Driftsaaret været 0,9 Øre.
+Aahus betaler S. H. for leverede kWh:
+5000000 x 0,9x1,2+0,85/100 = Kr. 96500,00
+1432000 x 0,9x1,2+0,75/100 = Kr. 26205,60
+lalt Kr. 122705,60"	1940	10	3
+"51"	1940-10-03	"open"	"19401003_113.pdf"	14	"462-1940"	"Ifølge § 7, Stk. 1 skal S. H. i Driftsaaret 1942-43 levere alle de af S. Ø. S indkøbte kWh.
+S. H. betaler for at overtage Aarhus’s Andel af Leverancen:
+½ x 9200000 X 0,15/100 =Kr.6900,00
+&lt;br&gt;
+½ X 7000000 X 1,25/100 =Kr.43750,00
+Ialt Kr. 50650,00
+Afregning mellem Aarhus og S. H.:
+Aarhus betaler tilS.H. for
+Maskinkraft:Kr.105000,00
+Aarhus betaler tilS.H. for
+leverede kWh.Kr.122705,60
+IaltKr.227705,60
+S. H. refunderer Aarhus for Andel i Leveringtil 
+S. Ø. S.Kr.50650,00
+Aarhus betaler tilS.H.ialtKr.177055,60
+Detbemærkes,atAarhus’sBetaling til
+S.H. for leveretMaskinkraft (Kr.105000) som
+fastsat i § 4, Stk. 4 ikke er lavere end den Fortjeneste, Aarhus opnaar efter § 7 for leveret Effekt og Energi + 25000, idet sidstnævnte Sum andrager:
+Aarhus’s Fortjeneste ifølge § 7: Kr. 50650,00
+plusKr. 25000,00
+IaltKr. 75650,00
+§ 10.
+Forinden Udvidelser foretages, forhandler Parterne om Udvidelsernes Størrelse og Placering.
+Alle Nyanlæg, herunder Ledninger o. l., udføres under Hensyn til Opnaaelse af den størst mulige Økonomi og Driftssikkerhed."	1940	10	3
+"52"	1940-10-03	"open"	"19401003_113.pdf"	15	"462-1940"	"§ 11.
+Overenskomsten gælder, indtil den af en af Parterne opsiges med 2 Aars Varsel til Ophør en 1. April. Overenskomsten kan dog tidligst opsiges til Ophør den 1. April 1946. Vedrørende Respekten for Forsyningsomraader henvises ved denne Overenskomsts eventuelle Ophør til § 3 sidste Stykke.
+§ 12.
+ITilfælde af Uenighed om Overenskomstens Forstaaelse eller ved Uoverensstemmelser mellem Aarhus og S. H. kan hver af Parterne, saafremt Enighed ikke kan opnaas ved Forhandling, indanke Sagen for en Voldgiftsdomstol. Til denne Domstol vælger hver af Parterne sin Voldgiftsmand, medens Opmanden, der skal være Jurist, udvælges af Dansk Ingeniørforening.
+Klageren udvælger først sin Voldgiftsmand og giver Modparten skriftlig Meddelelse om Valget, hvorefter denne udvælger sin Voldgiftsmand senest 4 Uger derefter. Sker dette ikke, udvælger Klageren begge Voldgiftsmændene.
+Voldgiftsdomstolens Kendelse er endelig, og Sagen kan ikke senere indankes for nogen Domstol.
+§ 13.
+Overenskomsten træder i Kraft, naar den er underskrevet af begge Parter, og afløser da Overenskomst af 30. Juli 1938.
+Borgmesteren erindrede om, at paa Mødet den 2. Juli blev der vedtaget en Overenskomst med Samleskinnen, hvorefter der blev Forbindelse mellem Aarhus og Sønderjyllands"	1940	10	3
+"53"	1940-10-03	"open"	"19401003_113.pdf"	16	"462-1940"	"Højspændingsværk gennem de østjydske Byer. Derfor maatte den tidligere Overenskomst ændres paa visse Punkter,og Talerenanbefaledeat
+godkende Ændringerne.
+Overenskomsten godkendtes.
+12. (J.Nr."	1940	10	3
+"54"	1940-10-03	"open"	"19401003_113.pdf"	16	"3_12-1940 og 3_11-1940 og 3_10-1940 og 3_14-1940 og 3_13-1940"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J.Nr.3_12-1940).Vandværket.
+b.(J.Nr.3_11-1940).Kloakpumpestationen.
+c.(J.Nr.3_10-1940).Parkvæsenet.
+d.(J.Nr.3_14-1940).Bygninger ogInventar.
+e.  3_13-1940Kommunale Ejendomme under Udvalget for Byens Udvidelse og Bebyggelse.
+Overgik til 2. Behandling."	1940	10	3
+"55"	1940-10-03	"open"	"19401003_113.pdf"	16	"3_4-1940 og 3_9-1940 og 3_6-1940"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.3_4-1940).MarselisborgHospital.
+b.3_9-1940).Sporvejene.
+c.  3_6-1940Gasværket, Elektricitetsværket, Forbrændingsanstalten, Svømmehallen og Fjernopvarmningsanlæget.
+2.Behandling.
+Efterbevilling meddeltes."	1940	10	3
+"56"	1940-10-17	"closed"	"19401017B_187.pdf"	1	"no related record"	"Mødet den 17. Oktbr. 1940.
+(For lukkede Døre).
+Fraværende: Kai Blicher, J. R. Fanger, Vald. Kloster og Chr Nielsen."	1940	10	17
+"57"	1940-10-17	"closed"	"19401017B_187.pdf"	1	"746-1940"	"Licitationstilbud paa Bygningsarbejder til Iltnings- og Filteranlæget i Stautrup. 
+Vandværksudvalget indstiller at overdrage Arbejdet til Murermester Ejner Mikkelsen for 163974 Kr.
+Vedtaget ved Cirkulation."	1940	10	17
+"58"	1940-10-17	"closed"	"19401017B_187.pdf"	1	"658 - 1940"	"Indstilling fra Budgetudvalget angaaende Tilskud til Zoologisk Have.
+Følgende Indstilling forelaa:
+\"Det indstilles, at der fra nu af indtil 1. April n. A. ydes et Tilskud paa 5000 Kr. maanedlig eller ialt 30000 Kr. til Zoologisk Have, hvorefter Haven maa indrette Dyrebestanden.\"
+Borgmesteren oplyste, at man havde modtaget en Skrivelse fra Tilsynet med Haven med Oplysninger om, hvorledes de økonomiske Forhold ligger. Der var lavet en Opstilling af Indtægter og Udgifter i de to sidste Aar, og Stillingen var i Aar meget daarlig, idet Udgiften til Foder var steget meget stærkt, medens Besøget i høj Grad havde svigtet. Tilsynet havde opstillet forskellige Forslag, hvoraf det dyreste med Bevaring af den nuværende Dyrebestand vilde kræve et Tilskud paa 45000 Kr. for Vinteren; et billigere"	1940	10	17
+"59"	1940-10-17	"closed"	"19401017B_187.pdf"	2	"658 - 1940"	"Forslag med nogen Indskrænkning af Bestanden vilde kræve 35000 Kr., et tredje Forslag med Bortsalg af de fleste Dyr vilde kræve ca. 20000 Kr., og endelig kunde der være Tale om en Likvidation af Haven. Men en saadan vilde for Tiden næppe indbringe mere end 10-20000 Kr., medens der under normale Forhold vilde være Værdier for 80-100000 Kr., og det vilde være lidet opmuntrende for Kommunen at skulle opgive Haven, efter at der var ofret saa mange Penge derpaa. Udvalget var enigt om at anbefale det foreliggende Forslag, hvorefter der maa afskaffes en Del Dyr, men Haven ellers opretholdes i omtrent fuld Udstrækning.
+Indstillingen vedtoges."	1940	10	17
+"60"	1940-10-17	"closed"	"19401017B_187.pdf"	2	"694-1940"	"Andragende fra Arbejdsmand A. L. Andersen om Tilladelse til at udtræde af Ligningskommissionen.
+Bevilgedes."	1940	10	17
+"61"	1940-10-17	"closed"	"19401017B_187.pdf"	2	"774-1940"	"Andragende fra Suppleant, Formand Alfr. Pedersen om Fritagelse for at indtræde i Ligningskommissionen.
+Bevilgedes."	1940	10	17
+"62"	1940-10-17	"closed"	"19401017B_187.pdf"	2	"105-1940"	"Valg af Medlemmer og Suppleanter til Ligningskommissionen.
+Til Medlemmer valgtes:
+Maler L. C. Sørensen, Fasanvej 11.
+Skræder F. P. Madsen, Skovvangsvej 226.
+Til Suppleanter valgtes:
+Formand H. S. N. Hyllested, Chistiansgade 8. Tømrer Th. Jensen, G. C. Amdrupsvej 3. Inspektør J. Nielsen, Ndr. Ringgade 102.
+Stecher Christensen meddelte, at man i Forbindelse hermed havde drøftet Spørgsmaalet om Skatteindbetalingen, og man var enige om at henstille, at det gennem Borgmesteren"	1940	10	17
+"63"	1940-10-17	"closed"	"19401017B_187.pdf"	3	"105-1940"	"paalægges Skattedirektøren at udarbejde et Forslag, hvorefter Skatten fremtidig betales paa 10 eller 12 Gange Løbet af Aaret. Taleren haabede, at Byraadet kunde slutte sig dertil.
+I. C. Sørensen kunde principielt slutte sig dertil, og Talerens Gruppe havde i sin Tid rejst Spørgsmaalet. Forhaabentlig vilde det ikke paa ny blive saboteret, som det faktisk blev dengang.
+Stecher Christensen svarede, at dengang var det en frivillig Ordning, men nu kom det til at gælde alle.
+I.C. Sørensen vilde meget henstille, at det bliver 10 Rater og ikke 12, da der var et Par Maaneder, hvor det vilde være uheldigt at opkræve Skat.
+Borgmesteren antog, man kunde enes om at sige højst 10 Rater. Da det blev drøftet, ftemsatte Taleren den Tanke, at der blev indført en lignende Ordning for Betaling af Gas og Lys; det vilde blive mere lempeligt for Forbrugerne efter den store Forhøjelse af Priserne, og Værkerne vilde hurtigere faa Pengene ind. Taleren henstillede, at man tiltraadte Tanken, saa der indførtes samme Ordning for Betaling af Lys og Gas som for Betaling af Skat.
+Det vedtoges at tiltræde Tænken om Ratebetaling af Skat, Gas og Lys."	1940	10	17
+"64"	1940-10-17	"closed"	"19401017B_187.pdf"	3	"778 - 1940"	"Andragende fra tidl. Sygeplejerske ved Kommunehospitalet, Fru Ingeborg Høyer om Erstatning paa Grund af et hende overgaaet Sygdomstilfælde.
+Fra Lønudvalget forelaa følgende Indstilling: \"Fremsendes til Byraadet, idet man indstiller, at der i Betragtning af de foreliggende Omstændigheder ses bort fra, at den i Loven"	1940	10	17
+"65"	1940-10-17	"closed"	"19401017B_187.pdf"	4	"778 - 1940"	"fastsatte Anmeldelsesfrist er overskredet, samt at Sagen, saafremt Direktoratets Afgørelse maatte gaa ud paa, at den omhandlede Skade anses for forvoldt ved den paagældende Sygeplejerskes Arbejde paa Kommunehospitalet, i Henhold til Ulykkesforsikringslovens § 10, Stk. 1 og 2, indankes for Ulykkesforsikringsraadet og eventuelt Socialministeren.\"
+Tiltraadtes."	1940	10	17
+"66"	1940-10-17	"closed"	"19401017B_187.pdf"	4	"29_7-1940"	"Andragende fra Arbejdsmand ved Elektricitetsværket Thøger Nielsen om Afsked med Pension paa Grund af Sygdom.
+Bevilgedes. Pensionen fastsattes til 1870 Kr. fra 1/1 1941."	1940	10	17
+"67"	1940-10-17	"closed"	"19401017B_187.pdf"	4	"780-1940"	"Andragende fra Kontorassistent ved Vandværket Johs. Jacobsen om Afsked med Pension paa Grund af Sygdom.
+Bevilgedes. Pensionen fastsattes til 2533,33 Kr. fra 1/1 1941."	1940	10	17
+"68"	1940-10-17	"closed"	"19401017B_187.pdf"	4	"29_9-1940"	"Andragende fra Formand ved Brolægningsvæsenet Jens Nielsen om Afsked med Pension fra 1/11 1940.
+Bvilgedes. Pensionen fastsattes til 1524,16 Kr."	1940	10	17
+"69"	1940-10-17	"closed"	"19401017B_187.pdf"	4	"29_8-1940"	"Andragende fra Arbejdsmand ved Begravelsesvæsenet Søren Nielsen om Afsked med Pension fra 1/1 1941.
+Bevilgedes. Pensionen fastsattes til 1925 Kr."	1940	10	17
+"70"	1940-10-17	"closed"	"19401017B_187.pdf"	4	"779-1940"	"Fastsættelse af Pension til fhv. Fyrbøder ved Vandværket S. Lauritzens Enke.
+Pensionen fastsattes til 1290,18 Kr."	1940	10	17
+"71"	1940-10-17	"closed"	"19401017B_187.pdf"	4	"776-1940"	"Fastsættelse af Pension til pens. Kontorbud ved Belysningsvæsenet J. J. H. Davidsens Enke.
+Pensionen fastsattes til 1276,67 Kr."	1940	10	17
+"72"	1940-10-17	"closed"	"19401017B_187.pdf"	4	"435-1940"	"Indstilling angaaende Udstykninger og Vejanlæg paa Viby Mosegaard."	1940	10	17
+"73"	1940-10-17	"closed"	"19401017B_187.pdf"	5	"435-1940"	"Fra Stadsingeniøren forelaa følgende Indstilling:
+\"I Henhold til Markudvalgets Anmodning i Udvalgsmødet den 13/9 d. A. har jeg forberedt Udstykning og Afsætning af ca. 150 nye Kolonihaver paa Viby Mosegaard, hvoraf en Del allerede er afsat.
+Udstykningen af disse Haver kræver imidlertid Forlængelse af den Adgangsvej, som for Tiden er i Gang. Paa den vedlagte Plan er angivet Beliggenhed af de nyudstykkede Haver og den Vejstrækning, som det herefter er nødvendigt at anlægge.
+Den mindst mulige Forlængelse af Hovedvejen er vist med stærk Farve indtil Tolstoisminde, Udgiften herved vil andrage 5500 Kr.
+Idette Beløb er inkluderet Opbrydning af den gamle Vej hen over de udlagte Haver fra Aahave til Tolstoisminde.
+Herudover maa der dog regnes med, at ogsaa den øvrige Strækning af den eksisterende Vej maa opbrydes af Hensyn til Udlægningen af Haver. Da det ogsaa er hensigtsmæssigt at faa Hovedvejen forlænget allerede nu hen til den sidste Tværsti, skal jeg foreslaa, at Vejarbejdet udføres saaledes, at Hovedvejen anlægges hen til denne Tværsti, og Stien befæstes op til den første Vej parallel med Hovedvejen, og at den gamle Vej brydes op i hele sin Strækning, idet Materialerne anvendes til det ovennævnte Vejarbejde. Under Forudsætning af de samme Enhedspriser som for den igangværende Entreprise, vil dette Arbejde koste 9500 Kr. Jeg har under Haanden forhørt hos Entreprenøren for det igangværende Stykke, Ingeniør Crome, som er villig til at udvide"	1940	10	17
+"74"	1940-10-17	"closed"	"19401017B_187.pdf"	6	"435-1940"	"Entreprisen til de samme Enhedspriser, kun med et Tillæg paa 25 Øre pr. m3 for længere Transport at Jorden. Jeg skal meget henstille, at der entreres paa denne Maade, og saafremt Udvalget ønsker Arbejdet hurtigt igangsat og fremmet, vil det være nødvendigt at entrere saaledes ogsaa under Hensyn til, at Jordarbejderne vil gribe ind i hinanden.
+Saafremt Udvalget kan tiltræde min Indstilling, og Byraadet vil give den nødvendige Bevilling paa 9500 Kr., kan Arbejdet igangsættes omgaaende og fuldføres paa ca. 6 Uger. Det bemærkes, at en Afgørelse af Sagen ikke kan udsættes udover indeværende Uge, saafremt den forudsatte Fordeling af Jordarbejdet mellem de to Entrepriser skal kunne finde Sted.\"
+Tiltraadt af Markudvalget.
+H.P. Jensen meddelte, det var blevet nødvendigt at fremkomme med nærværende Forslag paa Grund af den store Efterspørgsel efter Kolonihaver. For at faa Jorden udnyttet maatte der udstikkes Veje og udføres en Del Jordarbejde, ellers vilde der blive en hel Del Kiler og daarligt beliggende Arealer, som ikke kunde udlejes, og hvis Vejarbejdet først skulde udføres senere, vilde man gøre megen Skade. Endelig var Forholdet det, at paa det Stykke, som var under Arbejde, skulde der bortkøres en Del Materiale, og ved at køre dette paa Plads nu, vilde man spare at flytte Jorden en Gang til. Derfor var det billigst at udføre det straks, og Udgiften var næsten altsammen Arbejdsløn.
+Borgmesteren gik ud fra, at de samme Entreprenører vilde udføre dette Arbejde for samme Betaling med et Tillæg paa 25 Øre for længere Transport, og da man vilde faa Brug"	1940	10	17
+"75"	1940-10-17	"closed"	"19401017B_187.pdf"	7	"435-1940"	"for mange Haver, hvis Arealet ved Skanderborgvej skal afgraves, maatte dette Areal bringes i Orden. Udgiften, 9500 Kr., maatte opføres paa det kommende Aars Budget.
+Indstillingen vedtoges."	1940	10	17
+"76"	1940-10-17	"closed"	"19401017B_187.pdf"	7	"8_20-1940"	"Skrivelse fra Indenrigsministeriet i Anledning af Andragende fra Møbelpolstrer C. R. Larsen, Riisskov, om Eftergivelse af Erhvervsskat til Aarhus Kommune for Skatteaaret 1940.
+Fra Skattedirektøren forelaa følgende Skrivelse :
+\"Idet man hoslagt tilbagesender den af det ærede Byraad under 18. f. M. fremsendte Sag  8_20-40) vedrørende Eftergivelse af den Møbelpolstrer C. R. Larsen, Grenaavej 71, Risskov, til Aarhus Kommune paalignede Erhvervsskat for Skatteaaret 1940-41, skal man anføre følgende:
+Skatteyderen havde indtil 11. Maj d. A. Ophold i Aarhus Kommune, hvor han er optaget paa Hovedligningen for 1940-41 og er ansat til Statsskat efter Indkomst 3251 Kr. og Formue 0 Kr.
+Ansættelsen er foretaget i Henhold til foreliggende Selvangivelse, og den angivne Bruttoindtægt 3851 Kr. hidrører udelukkende fra Lønindtægt.
+Fra ovennævnte Dato at regne tog Skatteyderen Ophold i Vejlby-Risskov Kommune, og da han efter det hertil oplyste bibeholdt sin erhvervsmæssige Tilknytning til herværende Kommune, og ved Tidspunktet for Erhvervsskattepligtens Indtræden fortsat havde Arbejdssted her, optoges han ved første Tillægsligning til Erhvervsskatteansættelse paa Basis af de"	1940	10	17
+"77"	1940-10-17	"closed"	"19401017B_187.pdf"	8	"8_20-1940"	"i Selvangivelsen indeholdte Oplysninger, jvfr. Bestemmelsen i Lov om personlig Skat til Kommunen af 18. Februar 1937 § 19, Stk. 2.
+Den foretagne Ansættelse er godkendt af saavel Skatteyderen som Opholdskommunen, idet Paaklage ikke har fundet Sted.
+Da Skatteyderens formindskede Indtjeningsmuligheder maa formenes at være af forbigaaende Karakter, finder man ikke, at det foreliggende Tilfælde kan henføres under de i ovennævnte Lovs § 39 indeholdte Bestemmelser.\"
+Tiltraadtes."	1940	10	17
+"78"	1940-10-17	"closed"	"19401017B_187.pdf"	8	"8_22- 1940"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat paa Grund af urigtig Selvangivelse.
+Kommissionen foreslaar følgende Efterbetalinger:
+Rentrice, Enkefru A. M. Andersen, Kildegaarden 15............ 48600 Kr. 00 0.
+Købmand S. Nielsen, C. Hauchsvej 8 ........................7800\"00\"
+Husejer C. Nielsen, Dr. Margrethesvej 17 ................ 4800\"00\"
+Vognmand J. Hansen Christensen, Nørregade 4 ...............4000\"00\"
+Arbmd. J. Nielsen, Østboulevard 11c......................... 3500\"00\"
+Detaillist S. R. Sørensen, P. Skramsgade 7..................3200\"00\"
+Købmand I. L. Thorup, Ny Banegaardsgade 45.................3135\"00\"
+Husbest. Frk. E. K. Steffensen, Banegaardsgade 21.............2500\"00\"
+Tjener A. N. Christensen, Jægergaardsgade 146 ...............2450\"00\"
+Transport 78985 Kr. 00 Ø."	1940	10	17
+"79"	1940-10-17	"closed"	"19401017B_187.pdf"	9	"8_22- 1940"	"Transport: 78985 Kr. 00 Ø.
+ Fhv. Ølhandler J. P. Nielsen, St. Blichersgade 5............. 2025\"00\"
+Pensionist M. Nielsen, Silkeborgvej 98 ........................1850c00\"
+Tømrersvend P. Petersen, Tordenskjoldsgade 34..............1800\"00\"
+Arbmd. J. P. Petersen, Brammersgade 58........................1500\"00\"
+Enkefru A. M. K. Poulsen, Samsøgade 3.........................1435\"00\"
+Expdtr. Frk. A. M. Sørensen, I.Huitfeldsgade 70............1075 \" 00\"
+Enkefru E. M. Hagen Sørensen, Teglværksgade 20...............1000\"00\"
+Pens. Arbmnd. J. Rasmussen, Knudrisgade 15 ................900\"00\"
+Fhv. Skibshandler R. M. Rasmussen Østboulevard 21............880\"00\"
+Murersvend C. C. Petersen, Banegaardsgade 10..............815\"00\"
+Kontorist H. M. Hansen, Fr. Allé 117 ...........................760\"00\"
+Enkefru E. K. Poulsen, Svalevej 8..........................750\"00\"
+Enkefru A. E. Jensen, Langelandsgade 35 a.................735\"00\"
+Bankbud L. A. Viking, Skovgaardsgade 8...................625\"00\"
+Stentrykker H. Petersen, Marstrandsgade 25 ................620\"00\"
+Arbmd. A. Larsen, Brammersgade 58........................600\"00\"
+Pakkerske Frk. A. M. Nielsen,
+Bissensgade 6 .................585\"00*"	1940	10	17
+"80"	1940-10-17	"closed"	"19401017B_187.pdf"	10	"8_22- 1940"	"Transport: 96040 Kr. 00 Ø.
+Kontorist Frk. B. K. Nicolaisen,
+Sct. Pauls Plads 12...........530\"00\"
+Arbmd. J. Chr. Jensen, Lundbyesgade 16.......................500\"00\"
+Ekspedient J. Christensen, Dr.Margrethesvej3 ...........450\"00\"
+Bagerimedhj. Frk. J. Sørensen,
+Skolegade 9...................410\"00\"
+Brandmand E. V. Bach, Lollandsgade 38.......................375\"00\"
+Ekspeditrice Frk. C. E. Nielsen,
+O. Rudsgade 30................370\"00\"
+Mejerist R. Sørensen, Michaelsensgade 7 ...................370\"00\"
+Arbmd. A. M. Nielsen, Fasanvej 10............................365\"00\"
+Kedelpassser S. P. Calmar, Østboulevard 33 ....................350\"00\"
+Tobaksspinder J. C. Sørensen,
+Ndr. Ringgade 121.............300\"00\"
+Kontorist Frk. E. Færge, Otto Rudsgade 37...................135\"00\"
+Kogejomfru Frk. A. V. Nielsen,
+Dr. Margrethesvej 27..........130\"00\"
+Kontorass. Frk. E. C. Jensen,
+Langelandsgade 35 a...........50\"00\"
+Dødsboet efter pens. Gasværksarbejder R. P. Jensen Bogensegade 8 .......................2665\"30\"
+Dødsboet efter fhv. Gymnastiklærer N. A. Nielsen, H. Brogesgade 47.......................1240\"04\"
+Dødsboet efter Pensionist P. J. Petersen, Ny Munkegade 10
+ 976\"50\"
+Transport 107156 Kr. 84 Ø."	1940	10	17
+"81"	1940-10-17	"closed"	"19401017B_187.pdf"	11	"8_22- 1940"	"Transport: 107156 Kr. 84 Ø. 
+Dødsboet efter Lagerekspedient J. C. Petersen, Falstersgade 10 a....................................500\"00\"
+Dødsboet efter Enkefru I. M. Madsen, Hjarnøgade3-5...119\"70\"
+Ialt: 107776Kr.540.
+Tiltraadtes."	1940	10	17
+"82"	1940-10-17	"closed"	"19401017B_187.pdf"	11	"126_17 -1940"	"Andragender om Kommunens Garanti for Laan til Boligindskud i \"Ringgaarden.\"
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler Garanti paa sædvanlige Betingelser for følgende Laan:
+Typograf Lauritz Petersen, 248 Kr.
+Tjener Niels Winkler, 375 Kr.
+Glassliber Mads Daugaard, 320 Kr.
+Tiltraadtes.
+17. (J.Nr."	1940	10	17
+"83"	1940-10-17	"closed"	"19401017B_187.pdf"	11	"15_14-1940 og 15_16-1940 og 15_18-1940 og 15_21-1940 og 15_23-1940 og 15_25-1940 og 15_20-1940 og 15_22-1940 og 15_12-1940 og 15_13-1940 og 15_24-1940"	"Andragender om dansk Indfødsret.
+Fra Udvalget forelaa følgende Indstilling: Anbefalede Andragender.
+a.(J.Nr.15_14-1940).Skræder E. J.A. Karlsson,
+b.(J.Nr.15_16-1940).Kontormedhjælper Ilse Leest,
+c.(J.Nr.15_18-1940).Musiker Max C. Wahle,
+d.(J.Nr.15_21-1940).Formand R. H. Brogren,
+e. 15_23-1940Frk. Rosa Madsen,f. Trautenberger,
+f. 15_25-1940Kurvemager A. R. Klingenberg,
+g.(J.Nr. 15_20-1940Malerlærling A.A. K. Vogeley,
+h. 15_22-1940Sygeplejerske Wera I. Brodin.
+Ikke anbefalede Andragender.
+a.(J.Nr. 15_12-1940Murer P. A. M. Heesemanns,
+b. 15_13-1940Elektriker C. J. Sundvall,
+c. 15_24-1940Bagersvend H. P. Hansen.
+Tiltraadtes."	1940	10	17
+"84"	1940-10-17	"closed"	"19401017B_187.pdf"	12	"18-1940"	"Andragender om Fritagelse for Hundeafgift.
+Fra Udvalget forelaa følgende Indstilling: Anbefalede Andragender.
+Fru Mette M. T. Jensen, Nygade 25. 
+Børstenbinder K. A. Mikkelsen, Aagade 2 . a 
+Charlotte E. Madsen, Solhjem, Bethesdavej. Kobbersmed P. Chr. Kallesøe, Montanagade 37. Fisker H. Boel, Studsgade 12.
+Enke Marie J. Lauritzen, Fiskergade 86.
+S.P. Godsk, Montanagade 43.
+Margrethe Christensen, Dannebrogsgade 7. 
+Jensine Krarup, Nattergalevej 14.
+Ingine H. Almstrup, Godthaabsgade 6.
+Marie Jensen Dam, Dybkjærvej 9.
+Ikke anbefalede Andragender.
+Niels Rasmussen, H. Guldbergsgade 29 a 
+M. Chr. Andersen, Vestergade 56.
+Enke Nielsine Jensen, Klostergade 58.
+Enke Wilhelmine Willemoes, Thunøgade 53. 
+H. Chr, M. Ibsen, Grønnegade 38.
+Enke Anna D. Jørgensen, Banegaardsgade 7. 
+Frk. Rosa M. Rasmussen Møllesti 47.
+Enke Dorthea N. Nielsen, Skovvej 105.
+Claus G. Jensen, Marselisborg Allé 6 a.
+Anna Rokkjær, Absalonsgade 1 b.
+Søren M. Sørensen, Skovvej 89.
+Thora Jensen, Aaboulevard 7.
+Ane M. Sørensen, Nørregade 19.
+C. R. Wieghorst, Frb. Torv 1.
+Anine Kitthler, Istedgade 29.
+O. H. Andersen, \"Højvang\", Randersvej.
+Ellen Rasmussen, Frue Kirkeplads 1.
+Bodil M. Hjarsbæk, Montanagade 9.
+Karen Christensen, Tromsøgade"	1940	10	17
+"85"	1940-10-17	"closed"	"19401017B_187.pdf"	13	"18-1940"	"Hans Madsen meddelte, at bortset fra ganske enkelte, som havde haft Fritagelse i mange Aar. havde man sagt nej til alle ny Ansøgere undtagen blinde, døve og Invalider, for under de nuværende Forhold maatte Folk lade være med at holde Hund, naar de ikke har Raad dertil.
+Tiltraadtes."	1940	10	17
+"86"	1940-10-17	"open"	"19401017_129.pdf"	1	"no related record"	"Mødet den 17. Oktbr. 1940.
+Fraværende: Kai Blicher, J. R. Fanger, Vald. Kloster og Chr. Nielsen.
+1.(J.Nr."	1940	10	17
+"87"	1940-10-17	"open"	"19401017_129.pdf"	1	"69-1940"	").Indenrigsministeriets Stadfæstelse af Tillæg til Regulativ for Aarhus kommunale Hospitaler.
+Toges til Efterretning.
+2.(J.Nr."	1940	10	17
+"88"	1940-10-17	"open"	"19401017_129.pdf"	1	"191_9-1940"	").Meddelelse fra Indenrigsministeriet om Bevilling af Statslaan til Arbejdsmand J. H. U. Hemdorff.
+Toges til Efterretning.
+3.(J.Nr."	1940	10	17
+"89"	1940-10-17	"open"	"19401017_129.pdf"	1	"23_8-1940"	").Beretning for Ole Rømer
+Observatoriet i 1939-40.
+Toges til Efterretning.
+4.(J.Nr."	1940	10	17
+"90"	1940-10-17	"open"	"19401017_129.pdf"	1	"739-1940"	").Fortegnelse over anmeldte
+Byggeforetagender i Tiden 1/10 1939 til 30/9 1940.
+Toges til Efterretning."	1940	10	17
+"91"	1940-10-17	"open"	"19401017_129.pdf"	1	"784-1940"	"Meddelelse fra Parkudvalget om paatænkt Anlæg af enkelte Mønsterkolonihaver i den nordvestre Del af Vennelyst.
+Johanne Berg meddelte, at der udefra var rettet Henvendelse om at faa anlagt Mønsterhaver, og Udvalget havde ment, at der kunde laves 4 á 5 saadanne i Vennelyst. Man tænkte sig at lave forskellige Haver, der kunde vise Avl af Køkkenurter, Frugt, Blomster o. s. v., og der skulde bygges Sommerhuse; men man regnede"	1940	10	17
+"92"	1940-10-17	"open"	"19401017_129.pdf"	2	"784-1940"	"med, at Forhandlere af saadanne muligvis vilde opstille Husene gratis. Næste Aar var Byens Jubilæumsaar, hvor der kunde ventes større Besøg af fremmede, og mange af disse vilde sikkert være interesseret i at se saadanne Haver. Udgiften kunde afholdes paa indeværende Aars Budget, og Haverne kunde fjernes efter 1 Aars Forløb.
+I. C. Sørensen kunde paa Gruppens Vegne slutte sig til Forslaget, ogsaa fordi Kolonihavesagen havde haft en Del Besværligheder i de sidste Par Aar. Taleren havde dog helst set, at Haverne blev anlagt paa et Sted, hvor de kunde faa en mere permanent Karakter; men det kunde der maaske raades Bod paa.
+Johanne Berg svarede, at det ikke var Meningen, det skulde være permanente Haver; de skulde staa 1 eller 2 Aar. Vennelyst var et centralt Sted, hvor der kom en Del Mennesker, og Parken vilde danne en smuk Ramme om Haverne.
+Thomas Christensen mente ikke, at Mønsterhaver, der kun skulde ligge 1 Aar, havde nogen Betydning; det burde være fleraarige Haver, der kunde være som en Slags Forsøgsmark for Havebrugere. Taleren vilde dog ikke modsætte sig Forslaget.
+Johanne Berg bemærkede, at saadanne Mønsterhaver, som Thomas Christensen omtalte, blev anlagt af Kolonihavefolkene selv. Efter Forslaget her skulde Haverne kun være en Udstilling.
+H.P. J e n s e n syntes, at under de nuværende Forhold var det af Betydning at vise, hvad man kan faa ud af en Have, og det kunde maaske give en Del Mennesker Lyst til selv at faa en Have, naar de saa, hvad der kan fremskaffes af"	1940	10	17
+"93"	1940-10-17	"open"	"19401017_129.pdf"	3	"784-1940"	"Levnedsmidler derfra.
+Borgmesteren fandt det udmærket at lave saadanne Ting, der kan have Tilknytning til Byens Jubilæum. Men selv om Udgiften kunde afholdes af dette Aar Budget, burde man næppe i Almindelighed disponere over de Beløb, der kunde spares, idet flere Budgetter gav Underskud. Men her var der vist Enighed om at anvende ca. 3000 Kr. til dette Formaal.
+Indstillingen vedtoges."	1940	10	17
+"94"	1940-10-17	"open"	"19401017_129.pdf"	3	"756-1940"	"Driftsregnskab for Naturhistorisk Museum for 1939-40 samt Indstilling fra Budgetudvalget om Bevilling af 1495,76 Kr. til Haveanlæg.
+Borgmesteren oplyste, at der var lavet Vejanlæg, hvortil der tidligere var bevilget Penge, men Haveanlæget kunde ikke afholdes af dette Beløb, men var foreløbig afholdt af Parkudvalgets Budget.
+Indstillingen vedtoges."	1940	10	17
+"95"	1940-10-17	"open"	"19401017_129.pdf"	3	"741-1940"	"Andragende fra Det danske Hospitalsfond og Alberdomshjem i Hamborg om Tilskud.
+Socialudvalget anbefaler at yde et Tilskud paa 300 Kr. for indeværende Aar.
+Indstillingen vedtoges."	1940	10	17
+"96"	1940-10-17	"open"	"19401017_129.pdf"	3	"788-1940"	"Andragende fra Aarhus Esperanto-Aftenskole om Tilskud til Kursus.
+Skoleudvalget indstiller at yde et Tilskud paa 50 Øre pr. Undervisningstime.
+Indstillingen vedtoges."	1940	10	17
+"97"	1940-10-17	"open"	"19401017_129.pdf"	3	"767-1940"	"Meddelelse om Generalforsamling i Danske Gasværkers Tjærekompagni.
+Borgmesteren valgtes til Repræsentant."	1940	10	17
+"98"	1940-10-17	"open"	"19401017_129.pdf"	3	"781-1940"	"Indstilling fra Lønudvalget om, at det Kommunens og Havnens Tjenestemænd"	1940	10	17
+"99"	1940-10-17	"open"	"19401017_129.pdf"	4	"781-1940"	"for de første 7 Maaneder af indeværende Regnskabsaar tillagte midlertidige Dyrtidstillæg ogsaa udbetales i de sidste 5 Maaneder, saafremt Statens Tjenestemænd faar tilsvarende Ydelse.
+Indstillingen vedtoges."	1940	10	17
+"100"	1940-10-17	"open"	"19401017_129.pdf"	4	"747-1940"	"Henvendelse fra Danmarks Naturfrednings Aarhus-Komité og Aarhus Turistforening med Forslag til Overenskomst mellem Aarhus og Maarslet Kommuner om Fredning af Træer ved Moesgaard.
+Fra Andragerne forelaa Meddelelse om en Forhandling med Maarslet Sogneraad om Sagen, og fra dette forelaa følgende Skrivelse:
+\"Maarslet Sogneraad tilbyder herved at frafalde Træfældning paa den gamle Odder Landevej fra Skovfogedhuset til Samshuset paa følgende Vilkaar:
+Kommunen frafalder enhver Ret til Træfældning paa ovennævnte Vejstrækning mod:
+a)at Aarhus Kommune overtager Vedligeholdelsesforpligtelsen og Snekastningspligten samt øvrige Forpligtelser, indtil Vejen kan udgaa af Vejregulativet og nedlægges som offentlig Vej, i hvilken Henseende Maarslet Kommune forpligter sig til at medvirke til Vejens Nedlægning, saa snart Aarhus Kommune maatte ønske det
+b)at Aarhus Kommune leverer Maarslet Sogneraad 400 Rm, Bøgebrænde - ½ Klov, 1/4 Fagot og 1/4 Knippel - med Halvdelen i indeværende Skovningssæson og Resten i næste Sæson. Brændet skal aftages paa Aarhus Kommunes sædvanlige Betingelser m. H. t. Afhentning o. lign.
+Maarslet Kommune er endvidere villig til at frafalde enhver Træfældning paa den saakaldte"	1940	10	17
+"101"	1940-10-17	"open"	"19401017_129.pdf"	5	"747-1940"	"Kildevej fra Moesgaard Allé mod Giber Aa til Sogneskellet mod Beder-Malling Kommune, mod at Aarhus Kommune m. H. t. denne Vej paatager sig tilsvarende Vedligeholdelses-og Snekastningspligt m. v. som fornævnt.\"
+Sagen var derefter tilsendt Parkudvalget, som indstiller at imødekomme Andragendet, idet Udvalget tiltræder den i Andragendet fremsatte Motivering.
+Udvalget for Byens Udvidelse og Bebyggelses Flertal kan ikke anbefale Overenskomsten med Maarslet Sogneraad, medens et Mindretal indstiller den til Byraadets Vedtagelse.
+Borgmesteren forelagde Sagen med Henvisning til de af Maarslet Sogneraad opstillede Betingelser. Angaaende en Nedlæggelse af Vejen om 3 Aar, saa vilde der maaske fremkomme Protest derimod, saa det var ikke givet, at det kunde gennemføres. Flertallet i Udvalget for Byens Udvidelse og Bebyggelse havde ment, at i en Tid, hvor der var saa knapt med Brændsel, var det urimeligt af Sogneraadet at stille saadanne Krav for at lade Træerne staa, og Aarhus havde i Forvejen fra sine Skove leveret meget Brændsel til Nabokommunerne og derefter maattet sige nej til mange af Byens Borgere. Man kunde selvfølgelig være enige om, at Træerne betød, en landskabelig Skønhed og derfor burde spares og Maarslet Sogneraad burde saa ogsaa have været lidt mindre glubsk i sine Krav. Imidlertid havde Talerens Gruppe med stort Flertal vedtaget at tiltræde Forslaget. Taleren vidste ikke, hvorledes den konservative Gruppe stillede sig dertil, men Sagen var jo ikke saa stor, at man behøvede at foretage Afstemning derom.
+I.C. Sørensen svarede, at den konservative"	1940	10	17
+"102"	1940-10-17	"open"	"19401017_129.pdf"	6	"747-1940"	"Gruppe saa paa Sagen ligesom Borgmesteren og mente, at Overenskomsten var lidet gunstig for Aarhus; men man ønskede ingen Afstemning derom.
+Johanne Berg kunde give de foregaaende Talere Ret i, at Maarslet Kommune havde været temmelig fordringsfuld; men Parkudvalget havde set saaledes derpaa, at den gamle Landevej med de smukke gamle Træer havde en saa stor landskabelig Værdi, at det vilde være meningsløst at fælde Træerne, og Taleren vilde takke Byraadet, fordi man fik Lov til at beholde Træerne.
+Thomas Christensen vilde ikke fremtvinge en Afstemning om Sagen, men kunde ikke tiltræde Forslaget, for der var ikke megen Fornuft i, at Aarhus skal betale for at bevare disse Træer.
+Borgmesteren fandt ogsaa, at det var en ubillig Ordning for Aarhus. Men der maatte vel laves en Overenskomst, saa man blev sikret imod, at Aarhus for Tid og Evighed faar Forpligtelse overfor denne Vej, og man maatte vel ogsaa gaa ud fra, at Træerne blev Aarhus Kommunes Ejendom, naar man skulde betale dem med Brændsel.
+Parkudvalgets Indstilling vedtoges."	1940	10	17
+"103"	1940-10-17	"open"	"19401017_129.pdf"	6	"3_12-1940 og 3_11-1940 og 3_10-1940 og 3_14-1940 og 3_13- 1940"	"Efterbevilling af Overskridelser i Regnskabet for:
+a. 3_12-1940Vandværket.
+b. 3_11-1940Kloakpumpestationen.
+c. 3_10-1940Parkvæsenet.
+d.(J.Nr. 3_14-1940Bygninger og Inventar.
+e. 3_13- 1940Udvalget for Byens Udvidelse og Bebyggelse.
+2.Behandling.
+Efterbevilling meddeltes."	1940	10	17
+"104"	1940-10-17	"open"	"19401017_129.pdf"	7	"11_7-1940"	"Købekontrakt med Frk. Edith
+Pedersen angaaende en Byggegrund ved Rostrupsvej.
+Godkendtes."	1940	10	17
+"105"	1940-10-17	"open"	"19401017_129.pdf"	7	"11_8-1940"	"Købekontrakt med Murermester Harald Andersen angaaende en Byggegrund ved Rostrupsvej.
+Godkendtes."	1940	10	17
+"106"	1940-10-17	"open"	"19401017_129.pdf"	7	"11_9-1940"	"Købekontrakt med Konstruktør
+ A. Bøgh Mortensen angaaende en Byggegrund ved Roald Amundsens Vej.
+Godkendtes."	1940	10	17
+"107"	1940-10-31	"closed"	"19401031B_201.pdf"	1	"no related record"	"Mødet den 31. Oktober 1940.
+(For lukkede Døre).
+Fraværende: Johanne Berg, Kai Blicher, Thomas Christensen, J. R. Fanger, Hans Madsen og J. P. N. Siig."	1940	10	31
+"108"	1940-10-31	"closed"	"19401031B_201.pdf"	1	"323-1940"	"Aarhus Stiftamts Godkendelse af, at Arbejdsmand H. J. Lundbøll anbringes paa Arbejdsanstalten.
+Toges til Efterretning."	1940	10	31
+"109"	1940-10-31	"closed"	"19401031B_201.pdf"	1	"606-1940"	"Indberetning fra Mælkeudvalget angaaende Forhandlingerne med Mejerierne og Mælkeforhandlerne om en Mælkeordning.
+Stecher Christensen henviste til Beretningen, hvor der var redegjort for Udvalgets Synspunkter, bl. a. at Mejerierne baade overfor Byraadet og overfor Offentligheden maatte tage Ansvaret for den Ordning, der var lavet, idet Udvalget ikke havde Bemyndigelse til at gennemtvinge noget andet. Men førstkommende Lørdag vilde der fra Mejerierne blive tilstillet Udvalget et nyt Forslag til nærmere Ordning af Sagen, og før den Tid var der næppe Anledning til at komme ind derpaa.
+Toges til Efterretning."	1940	10	31
+"110"	1940-10-31	"closed"	"19401031B_201.pdf"	1	"722-1940"	"Licitationstilbud paa Gadeanlæg ved Ringgaarden."	1940	10	31
+"111"	1940-10-31	"closed"	"19401031B_201.pdf"	2	"722-1940"	"Brolægningsudvalget indstiller at overdrage Arbejdet til Entreprenør Arne Jensen for 4717,20 Kr. - Med Tillæg af Materialer m. v. bliver hele Udgiften 14300 Kr.
+Vedtaget ved Cirkulation."	1940	10	31
+"112"	1940-10-31	"closed"	"19401031B_201.pdf"	2	"712-1940"	"Licitationstilbud paa Vejanlæg paa Viby Mosegaard samt Indstilling om, at Bevillingen til Vejanlæget forhøjes fra 6000 Kr. til 9200 Kr.
+Brolægningsudvalget indstiller at overdrage Arbejdet til Entreprenør Johs. M. Petersen for 7660 Kr. - Med Tillæg af Materialer m. v. vil Udgiften andrage 9200 Kr.
+Vedtaget ved Cirkulation."	1940	10	31
+"113"	1940-10-31	"closed"	"19401031B_201.pdf"	2	"657-1940"	"Laanetilbud fra Statsanstalten for Livsforsikring paa et Laan paa 1,1 Mill. Kr. til Aldersrenteboligerne i nordre Bydel.
+Følgende Betingelser forelaa:
+\"Laanet, der udbetales af Anstalten til Kurs 93, afdrages i Løbet af 30 Aar med 1/60 halvaarlig, Renten vil i de første 13 Halvaarsterminer være 2 ½ % og derefter i Resten af af Laanetiden 2 % halvaarlig af den til enhver Tid skyldige Restgæld. Gennemsnitsrenten vil for hele Laanetiden blive ca. 2 1/4 % halvaarlig, og den effektive Rente af Laanet paa de omskrevne Vilkaar ca. 2 5/8 halvaarlig.
+Laanet vil være uopsigeligt fra Anstaltens Side, saa længe Kommunen opfylder sine Forpligtelser. medens det af Byraadet vil kunne opsiges med 1 Aars Varsel til Indfrielse i en
+11.December eller 11. Juni Termin.\"
+Anbefalet af Budgetudvalget.
+Vedtaget ved Cirkulation."	1940	10	31
+"114"	1940-10-31	"closed"	"19401031B_201.pdf"	2	"210 b-1940"	"Tilbud fra A/S Dansk Folkeforsikringsanstalt"	1940	10	31
+"115"	1940-10-31	"closed"	"19401031B_201.pdf"	3	"210 b-1940"	"paa et Laan paa ½ Mill. Kr. til det ny Raadhus.
+Følgende Skrivelse forelaa:
+\"I Anledning af Deres ærede Forespørgsel beklager vi at maatte meddele Dem, at Anstalten ikke paa nuværende Tidspunkt kan opgive de nærmere Betingelser for Laan til Effektuering i December Termin, hvorimod vi kan oplyse, at for Laan, der er akcepteret inden den 15/11 d. A., er den effektive Rente 5,1 % p. a., hvorefter Laanet vil kunne ydes paa følgende Betingelser:
+Amortisationstid 30 Aar, 4 % p. a., faste Afdrag 1/60 pr. Termin, Kurs 89,42.\"
+Anbefalet af Budgetudvalget.
+Vedtaget ved Cirkulation."	1940	10	31
+"116"	1940-10-31	"closed"	"19401031B_201.pdf"	3	"745-1940"	"Forespørgsel fra Aarhus Stiftamt angaaende en Afstemning nu i Oplandskommunerne om Indlemmelse af disse i Aarhus Kommune.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Det indstilles, at der svares Stiftamtet, at man som Forholdene for Tiden ligger, anser det for formaalsløst at lade en Afstemning om det omspurgte foretage nu.\"
+Tiltraadtes."	1940	10	31
+"117"	1940-10-31	"closed"	"19401031B_201.pdf"	3	"821-1940"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Overtagelse af Ejendommen Nygade 6 ved Tvangsauktion.
+Følgende Indstillling forelaa:
+\"Vedlagt fremsendes Auktionsindkaldelse vedrørende den Enkefru Agathe Thorsen, Aarhus tilhørende Ejendom Matr. Nr. 573 af Aarhus Købstads Bygrunde, beliggende Nygade 6, samt Skrivelse fra Socialudvalget."	1940	10	31
+"118"	1940-10-31	"closed"	"19401031B_201.pdf"	4	"821-1940"	"Ejendommen er saaledes behæftet:
+Oprindelig:Nunedbragttil:
+Ny jydske Købstad-Creditforening....2900 Kr.2246 Kr.
+Aarhus Hypotekforening..............2000\"380\"
+Skadesløsbrev til Aarhus Kommune
+(for W.C.-Laan.440 \" 440\"
+Skadesløsbrev til Socialvæsenet (for ydet Aldersrente
+m. v.).............2000\"2000\"
+7340 Kr.5066 Kr.
+Da Ejendommen hører til de saneringsmodne Ejendomme, som Kommmunen skal erhverve, skal man indstille, at Kommunen nu paa Tvangsauktionen byder sine Prioriteter ind, idet der er Lejlighed til at erhverve Ejendommen billigt nu. Det er Hensigten at lade den nuværende Ejerinde blive boende i Ejendommen,mod at hun svarer Leje til Kommunen, hvorved bemærkes, at det kun er nødvendigt, at der svares en ringe Leje, for at Ejendommen nogenlunde kan forrente sig.\"
+Chr. Nielsen gjorde opmærksom paa, at Socialvæsenet havde et Skadesløsbrev paa 2000 Kr. i Ejendommen, og hvis Kommunen købte Ejendommen, skyldte hun alligevel de 2000 Kr., og det var maaske lige haardt nok for hende.
+I.C. Sørensen svarede, at det var ikke sikkert, hun kom til at skylde dem; det kom an paa, hvad Kommunen gav for Ejendommen.
+Borgmesteren mente ikke, det kunde ordnes paa anden Maade.
+Indstillingen vedtoges."	1940	10	31
+"119"	1940-10-31	"closed"	"19401031B_201.pdf"	5	"822-1940"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om, at Kommunen overtager Ejendommen de Mezas Vej 22 ved Tvangsauktion.
+Følgende Indstilling forelaa:
+\"Vedlagt fremsendes Indkaldelse til Tvangsauktionsmøde over Ejendommen Matr. Nr. 802 et af Aarhus Købstads Bygrunde fra Marselisborg (De Mezasvej 22, Aarhus), tilhørende Dødsboet efter Murermester Chr. Daugbjerg, samt Udkast til Auktionsvilkaar for Afhændelsen af den nævnte Ejendom, idet bemærkes, at Kommunen har et Pantebrev i den nævnte Ejendom hidrørende fra Salg af Grunden.
+Ejendommen er saaledes behæftet:
+Oprindelig:Nunedbragttil:
+Ny jydske Købstad-Creditforening ...56000Kr.53349,43Kr.
+Jydsk Hypotekforening ................22000\"15500,00\"
+Aarhus Kommune..9882\"5852,81\"
+87882Kr.74702,24Kr.
+Endelig hæfter som en 4. Prioritet paa Ejendommen et Skadesløsbrev paa 90000 Kr. til Jydsk Handels- og Landbrugsbank, men dette Skadesløsbrev har tillige Pant i 3 andre Ejendomme. Dertil kommer forskellige Renterestancer fra 11. Juni f. A. m. v.
+Ejendommen staar i Ejendomsskyld til 120000 Kr.; Handelsværdien er af Stadsarkitekten anslaaet til ca. 110000 Kr. Den indre Vedligeholdelse er god, medens der er lidt Mangler ved den ydre. Ejendommen er en Beboelsesejendom med 3 ½ og 2 Værelses Lejligheder."	1940	10	31
+"120"	1940-10-31	"closed"	"19401031B_201.pdf"	6	"822-1940"	"Under Henvisning til det oplyste skal man indstille, at Kommunen, saafremt der ikke paa Auktionen afgives et saadant Bud, at dens Tilgodehavende dækkes, byder sin Prioritet ind og overtager Ejendommen som ufyldestgjort Panthaver, idet det maa formenes, at Ejendommen altid vil kunne afhændes til en saadan Værdi, at Kommunens Tilgodehavende dækkes.\"
+Borgmesteren gjorde opmærksom paa, at den skulde bydes op til 74000 Kr., for at Kommunen blev dækket, men man fik den næppe til denne Pris.
+Indstillingen vedtoges."	1940	10	31
+"121"	1940-10-31	"closed"	"19401031B_201.pdf"	6	"811-1940"	"Indstilling fra Budgetudvalget angaaende Køb af Pressefotograf Fredslund Andersens Pladearkiv.
+Udvalget indstiller, at Arkivet købes for 3000 Kr., og at man søger at formaa Havnen til at betale 1/3 af Købesummen, idet en Del af Arkivet vedrører Forhold, der har Interesse for Havnen.
+Borgmesteren oplyste, at Arkivet indeholdt et fyldigt Materiale af Fotografier, hvoraf mange havde Interesse for Kommunen, ogsaa hvis man engang vilde have et Billedgalleri i Raadhustaarnet.
+Indstillingen vedtoges."	1940	10	31
+"122"	1940-10-31	"closed"	"19401031B_201.pdf"	6	"25_12-1940"	"Andragende fra Restauratør Jens Carlsen om Beværterbevilling i Dansk Kvindesamfunds Hus, Frue Kirkeplads 1.
+Anbefalet af Bevillingsnævnet.
+Borgmesteren gjorde opmærksom paa, at der ikke mere kunde gives Bevilling til en Ejendom; det skulde være til Restauratøren persomlig, men det gjaldt kun for samme Ejendom.
+Anbefaledes."	1940	10	31
+"123"	1940-10-31	"closed"	"19401031B_201.pdf"	7	"25_11-1940"	"Andragende fra Frk. Karen Marie Mortensen om Beværterbevilling i Aarhus Fragtmandscentral.
+Anbefalet af Bevillingsnævnet.
+Anbefaledes."	1940	10	31
+"124"	1940-10-31	"closed"	"19401031B_201.pdf"	7	"126_17-1940"	"Andragender om Kommunens Garanti for Laan til Boligindskud i Ringgaarden fra:
+a.Glassliber Mads Daugaard.
+b.Tjener Niels Winkler.
+c.Typograf Laurits Petersen.
+2.Behandling.
+Bevilgedes."	1940	10	31
+"125"	1940-10-31	"closed"	"19401031B_201.pdf"	7	"17_11-1940"	"Indstilling fra Socialudvalget om Eftergivelse af Kommunehjælp ydet til Enkefru Hedvig Vindahl.
+Indstillingen vedtoges.
+17. Stecher Christensen meddelte, at Overlærer Mousten havde bedt sig fritaget for at være Medlem af Socialudvalget, og Talerens Gruppe havde bevilget det og indstillede at vælge Gartner H. P. Jensen som Medlem af Udvalget.
+Tiltraadtes."	1940	10	31
+"126"	1940-10-31	"open"	"19401031_137.pdf"	1	"no related record"	"Mødet den 31. Oktbr. 1940.
+Fraværende: Johanne Berg, Kai Blicher, Thomas Christensen, J. R. Fanger, Hans Madsen og J. P. N. Siig."	1940	10	31
+"127"	1940-10-31	"open"	"19401031_137.pdf"	1	"11_7-1940 og 11_8-1940 og 11_9-1940"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a. 11_7-1940Frk. Edith Pedersen.
+b. 11_8-1940Murermester H. Andersen.
+c. 11_9-1940Konstruktør A. Bøgh Mortensen.
+Toges til Efterretning."	1940	10	31
+"128"	1940-10-31	"open"	"19401031_137.pdf"	1	"643-1940"	"Indenrigsministeriets Godkendelse af, at Kommunen overdrager Grunden paa Hjørnet af Filtenborgs Piads og Strandvejen til Den permanente Byggeudstilling til Opførelse af et Jubilæumshus.
+Toges til Efterretning."	1940	10	31
+"129"	1940-10-31	"open"	"19401031_137.pdf"	1	"749-1940"	"Meddelelse fra Justitsministeriet om Tilladelse for Den permanente Byggeudstilling i Aarhus til at bortlodde et Jubilæumshus.
+Toges til Efterretning."	1940	10	31
+"130"	1940-10-31	"open"	"19401031_137.pdf"	1	"698-1940"	"Meddelelse fra Justitsministeriet om, at der meddeles Skuespiller Helge Dahl Bevilling til Vennelyst Teater.
+Toges til Efterretning."	1940	10	31
+"131"	1940-10-31	"open"	"19401031_137.pdf"	2	"272-1940"	"Meddelelse fra Undervisningsministeriet om, at Viceinspektør H. Vestberg er udnævnt til Overlærer ved Samsøgades Skole fra 1/11  d. A.
+Toges til Efterretning."	1940	10	31
+"132"	1940-10-31	"open"	"19401031_137.pdf"	2	"651-1940"	"Udkast til Beværtervedtægt for Aarhus Købstad.
+Fra Bevillingsnævnet forelaa følgende Udkast: Beværtervedtægt
+ for
+Aarhus Købstad
+udfærdiget i Henhold til Lov Nr. 129. af 15. Marts 1939 om Beværtning og Gæstgiveri samt om Handel med stærke Drikke.
+§ 1. Bevillinger til Beværtninger med Ret til Udskænkning af stærke Drikke meddeles i Aarhus Købstad efter Forholdet:
+ 1 Bevilling for hver 700 Indbyggere.
+Antallet af Bevillinger til Beværtninger uden Udskænkning af stærke Drikke fastsattes til 60.
+§ 2.
+Alle Bevillinger, som i Henhold til ovennævnte Lov og foranstaaende § 1 meddeles i Kommunen, udfærdiges for et Tidsrum af 5 Aar.
+§ 3.
+Nærværende Vedtægt skal revideres inden-Udgangen af Aaret 1947.
+Tiltraadtes."	1940	10	31
+"133"	1940-10-31	"open"	"19401031_137.pdf"	2	"680-1940"	"Andragende fra Aarhus Kapervognmandsforening om midlertidige Holdepladser for Hestedrosker.
+Fra Brolægningsudvalget forelaa følgende Indstilling:"	1940	10	31
+"134"	1940-10-31	"open"	"19401031_137.pdf"	3	"680-1940"	"\"Udvalget kan anbefale, at Kapervognmandsforeningen indtil videre faar Tilladelse til at benytte Holdepladserne ved Banegaarden, Store Torv og Nørreport. For Tilladelsen betales 5 Kr. pr. Vogn pr. Maaned.
+Ligeledes kan Udvalget anbefale, at Byraadet approberer de fremsendte Køretakster for Kaperkørsel med Hestedrosker\"
+ Indstillingen vedtoges."	1940	10	31
+"135"	1940-10-31	"open"	"19401031_137.pdf"	3	"123-1940"	"Indstilling fra Skattedirektøren angaaende Ændring i Indbetalingsblanketterne for Ejendomsskatter.
+Følgende Skrivelse forelaa:
+\"Ved hoslagt at tilbagesende Andragende af 30. Marts d. A. fra Frederiksbjerg Grundejerforening om Ændring i Indbetalingsblanketterne for Ejendomsskatter, Vandafgift og Kloakafgift samt Afgift for Afhentning af Dagrenovation, skal jeg meddele, at jeg har forhandlet med Stadsingeniøren om Sagen, og at man mener at have fundet en Form, hvorefter man kan imødekomme Grundejerforeningens Ønske.
+Ændringen kan foretages paa følgende Maade:
+Paa Skattesedlen for Ejendomsskatten har man hidtil opført Vandafgiften og Afgiften til Kloakpumpestationen i en fælles Post, og Afgift for Afhentning af Dagrenovation i een Post for sig, hvorimod man nu tænker sig at anføre Vandafgiften for sig, saaledes at denne kan afstemmes med Maaleraflæsningen, og saa sammenlægge Afgiften til Kloakpumpestationen og Afgiften for Afhentning af Dagrenovation, der begge er faste Afgifter, til een Post."	1940	10	31
+"136"	1940-10-31	"open"	"19401031_137.pdf"	4	"123-1940"	"Oplysning om de to Afgifters Størrelse anføres dernæst paa Skattesedlens Bagside.
+Jeg vedlægger Eksemplarer af Skattesedlerne, hvoraf den ændrede Tekst efter den foran skitserede Plan fremgaar, og jeg tillader mig at foreslaa, at Ordningen gennemføres fra 1. April 1941, idet jeg skal bemærke, at Gennemførselen ikke vil betyde nogen væsentlig Merudgift for Kommunen.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges."	1940	10	31
+"137"	1940-10-31	"open"	"19401031_137.pdf"	4	"810-1940"	"Indstilling fra Stadsingeniøren om Bevilling af 1167,40 Kr. til Maling af Clemensbros Underside.
+Anbefalet af Budgetudvalget saaledes, at Beløbet opføres paa det kommende Aars Budget.
+Indstillingen vedtoges."	1940	10	31
+"138"	1940-10-31	"open"	"19401031_137.pdf"	4	"744-1940"	"Indstilling fra Markudvalget angaaende Opdrætning af Svin paa Kommunens Gaarde.
+Følgende Indstilling forelaa:
+\"Under Henvisning til Budgetudvalgets Skrivelse af 10. d. M.  744-1940) skal man meddele, at man har fortsat de af Udvalget ønskede Forhandlinger med Direktør Jacobsen og Direktør Gruhn, med hvem man under Forhandling senest 
+D. D. er naaet til Enighed om det ønskelige i, at Opdrætning af Svin ved Kommunens Foranstaltning snarest paabegyndes.
+Som det fremgaar af hoslagt tilbagefølgende, med Udvalgets ovenciterede Skrivelse fulgte Erkæring fra Gaardejer Karl Jacobsen, Viby, og Forstander Toftegaard-Madsen, Vejlby Landbrugsskole, har de af Budgetudvalget som særlig sagkyndig udpegede Mænd ment i det"	1940	10	31
+"139"	1940-10-31	"open"	"19401031_137.pdf"	5	"744-1940"	"væsentlige at kunne tiltræde den af nærværende Udvalg under 3. d. M. opstillede Kalkulation.
+Efter de senest D. D. stedfundne Forhandlinger med Direktørerne Jacobsen og Gruhn synes det Beløb, der ved Foranstaltningens Iværksættelse kræves investeret fra Kommunens Side, at andrage ca. 75000 Kr. hvilket Beløb fremkommer saaledes:
+Indkøb af 360 Polte á ca. 45 Kr.
+pr. Stk...........................16200Kr.
+Indkøb af 36000 kg Byg á 0,30 Kr.
+pr. kg...........................10800 Kr.
+Indkøb af 36000 kg skummet Mælk
+á 0,06 Kr. pr....................2160 Kr.
+Indkøb af 576000 kg. Spild å 0,05
+Kr. pr. kg.......................28800 Kr.
+Diverse Udgifter (herunder Pasning, Kørsel, Strøelse, evt. Køb af Brændsel til Kogere, Indretning
+af Svinestaldeetc.)............16200 Kr.
+Ialt...74160Kr.
+afrundettil...75000Kr.
+Som det vil ses, har den væsentligste Del af det Beløb, som Kommunen maa investere, for at den ønskede Opdrætning af Svin kan finde Sted, Karakter af rene Driftsudgifter, saaledes at Kommunens Risiko ved Foranstaltningens senere Ophør vil være ret minimal.
+Da det paa nærværende Tidspunkt er overvejende sandsynligt, at de opfedede Grise vil kunne indbringe en Pris, leveret til Kommunens Institutioner eller afhændet paa anden Maade, der ligger over Dagsprisen i Dag, synes der ikke ved Foranstaltningens Gennemførelse at kunne blive Spørgsmaal om nævneværdigt Tab for Aarhus Kommune. Spørgsmaalet indskrænker"	1940	10	31
+"140"	1940-10-31	"open"	"19401031_137.pdf"	6	"744-1940"	"sig herefter dertil, om Kommunen har tilstrækkelig Interesse i vedblivende at beskæftige et betydeligt Antal arbejdsløse Personer ved Spildindsamlingen til at ville stille det foran opgjorte Beløb Kr. 75000, til Raadighed.
+Under Hensyn til, at det fra Bestyrelsen for den lokale Forening til Arbejdsløshedens Bekæmpelse er fremhævet, at Afgørelse maa træffes snarest mulig, tillader man sig at henstille, at der snarest maa blive taget endelig Stilling til nærværende Indstilling.\"
+Borgmesteren meddelte, at der i Dag var kommet en Henvendelse fra Direktør Østergaard, som havde en større Virksomhed paa Slagtehuset, at han kunde tænke sig at oprette en Destruktionsanstalt, hvor han vilde behandle vaadt Spild sammen med Affald fra Slagtehuset, og det vilde kunne give Beskæftigelse til ca. 75 Mand. Der havde ikke været Tid til at gennemgaa Forslaget, men Taleren vilde foreslaa, at man foreløbig udsætter Sagen og sender den til Budgetudvalget til nærmere Undersøgelse af Spørgsmaalet. Det vilde vare ca. 4 Maaneder at opføre en Destruktionsanstalt, og det maatte derfor undersøges, hvorledes man kunde afsætte Spildet i den Tid. Det var Meningen paa en saadan Anstalt at lave Foderkager, hvorved man fik en bedre Udnyttelse af Spildet, ogsaa fra Slagtehuset, og det vilde være af mere permanent Karakter og derved have større Betydning i Fremtiden.
+H. P. Jensen vilde berigtige forskellige Meddelelser i Pressen om denne Sag. Der var skrevet, at man foreslog at anvende 75000 Kr., og det var paa en Maade rigtigt, men disse Penge skulde komme ind igen, naar Svinene"	1940	10	31
+"141"	1940-10-31	"open"	"19401031_137.pdf"	7	"744-1940"	"var fedet op, saa Foretagendet skulde kunne hvile i sig selv. Der var ogsaa skrevet om Bygning af Svinestalde i nordre Bydel; men det var forkert, idet Kommunen ejede en halv Snes Gaarde, der blev drevet som kvægløst Landbrug, og der var Stalde nok til Svinene. Baggrunden for Forslaget var at holde Spildindsamlerne i Gang.
+Sagen henvistes til Budgetudvalget."	1940	10	31
+"142"	1940-10-31	"open"	"19401031_137.pdf"	7	"579-1940"	"Andragende om Tilskud til to af Arbejdsteknisk Skole foranstaltede Kursus for Arbejdsløse i Aarhus.
+Udvalget for Undervisning af Arbejdsløse anbefaler, at der ydes et Tilskud paa indtil Halvdelen af Udgifterne.
+Budgetudvalget indstiller, at der ydes et Tilskud paa 1/3 af Udgifterne ved de omhandlede Kursus, dog højst ialt 1400 Kr.
+Stecher Christensen oplyste, at Købstadsforeningen havde foreslaaet at yde 1/3 af Udgiften, saa det blev ens i de forskellige Byer.
+Indstilllingen vedtoges."	1940	10	31
+"143"	1940-10-31	"open"	"19401031_137.pdf"	7	"3_15-1940"	"Efterbevilling af Overskridelser i Havnens Regnskab.
+Efterbevilling meddeltes. Regnskabet indsendes til Ministeriet."	1940	10	31
+"144"	1940-10-31	"open"	"19401031_137.pdf"	7	"3_13-1940"	"Efterbevilling af Overskridelser i Tinghusets Regnskab.
+Overgik til 2. Behandling."	1940	10	31
+"145"	1940-10-31	"open"	"19401031_137.pdf"	7	"11_10 - 1940"	"Købekontrakt med Overbetjent C. E. Jarsing angaaende en Byggegrund ved Jens Munks Vej.
+Godkendtes."	1940	10	31
+"146"	1940-10-31	"open"	"19401031_137.pdf"	7	"790-1940"	"Indstilling fra Skolekommissionen angaaende Omlægning af Skoletiden for"	1940	10	31
+"147"	1940-10-31	"open"	"19401031_137.pdf"	8	"790-1940"	"de kommunale Skoler paa Grund af Mørkelægningen.
+Følgende Indstilling forelaa:
+\"I Anledning af Mørkelægningstiden i Forbindelse med Sommertidens Bibeholdelse finder Skolekommissionen det paakrævet at ændre den normale Skolegangsorden, idet man anser det for uforsvarligt at lade Skolebørnene gaa Vejen til Skole i Mørklægningstiden, og man tillader sig derfor at indstille til Byraadet, at der hos Undervisningsministeriet indhentes Godkendelse paa en Ændring af Skoletiden for Aarhus kommunale Skolevæsen for Maanederne November-Februar 1940-41, hvorefter Undervisningen begynder tidligst ½ Time efter Mørkelægningstidens Ophør, og saaledes at man i Stedet for Timer á 50 Minutter indfører Lektioner á 45 Minutter, samtidig med at man kun giver Frikvarter to Gange i Tiden indtil Kl. 14, samt at man af Hensyn til Rengøringen i fornødent Omfang afslutter Skolegangen Kl. 12 om Lørdagen for Formiddagsklassernes Vedkommende (Mellemskolens Afgangsklasser fraregnetFor saa vidt Sommertiden bibeholdes for Maanederne December og Januar, vil det blive nødvendigt at indføre Lektioner á 40 Minutter for disse 2 Maaneder.
+Med den foreslaaede Ændring vil Folkeskolens Krav om Undervisningens Omfang for Borgerskoleklassernes Vedkommende kunne overholdes.
+En Forskydning af Skoletiden kan ikke finde Sted, blandt andet paa Grund af, at Skolegangen normalt først slutter Kl. 16, og paa Grund af at der maa være Tid til at faa Skolerne rengjort og udluftede. Skolelokalerne"	1940	10	31
+"148"	1940-10-31	"open"	"19401031_137.pdf"	9	"790-1940"	"er desuden stærkt optaget af Ungdoms- og Aftenskoler.\"
+Borgmesteren meddelte, at Ministeriet havde givet Tilladelse til, at Kommunen selv ordner dette Spørgsmaal.
+Indstillingen vedtoges."	1940	10	31

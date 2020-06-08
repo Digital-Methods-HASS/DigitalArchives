@@ -1,0 +1,99 @@
+---
+title: "Lesson 03 - Digital Collections, Choosing the right one"
+author: "Adela Sobotkova"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##The digital environment
+
+Once we move into the digital environment our collection descriptions become data – we can not only read them, we can search and manipulate them in ways that that are not possible within the analogue environment. Digital collection management improves efficiency, encourages standardisation, extends discovery, and enables reuse. We can do much more with the same set of descriptions.
+
+But there are also new challenges! Often we have to deal with different varieties of data spread across multiple systems.
+
+For example, even if your descriptions are captured in digital form, that doesn’t mean you can automatically make them available to the public. Management systems are often completely separate from the systems used to deliver collections online. Digital images of collection objects can also be stored outside of collection management systems in specialised repositories (such as Digital Asset Management Systems). What about the content of exhibitions, help documentation, or information about users? All of this might be connected in some way to your collection descriptions, but it can managed quite separately. Things can get messy.
+
+To the world Trove is a website, providing access to millions of resources, but if you look at how that information is managed it’s a much more complex (and messier!) picture.
+
+![](images/trove_system.png)
+Diagram of Trove ecosystem 
+
+So while we’ll be focusing on collection management systems it’s worth remembering that they will often exist within a complex ecosystem of datatabases, repositories, and indexes. And while we’d like to think that they’re all seamlessly interconnected, it’s possible that they won’t even talk to each other!
+
+<font color="blue">
+When is a CMS not a CMS? One of the most confusing things is that many cultural heritage institutions will have two different systems known by the same acronymn – CMS. A CMS can either be a Collection Management System, like the ones we’re going to look at today, or it can be a Content Management System. Content Management Systems, like Drupal or WordPress, are used to create and manage whole web sites. Beware!
+</font>
+
+## Collection management systems
+Here are a few well-known collection management systems:
+
+- [Vernon](https://vernonsystems.com/) – used by museum, gallery and cultural heritage sector (eg. the National Gallery of Victoria).
+- [TMS](https://www.gallerysystems.com/products-and-services/tms-suite/tms/) – The Museum System – used by the museums and galleries (e.g. the Australian National Maritime Museum).
+- [EMu](https://www.axiell.com/)– now part of the bigger Axiell group of CMS products; used by Macquarie University, the National Museum of Australia to manage digital object collections.
+These systems are designed for larger institutions and have a price tag to match – although pricing information is hard to find as the systems are generally customised to the specific needs of institutions.
+
+Over recent years, open source (ie. free) alternatives have developed that match many, if not all, of the features of the proprietary systems. Of course, just because the code is free doesn’t mean there are no costs for implementation – once again considerable work can be involved in configuring, customising, and hosting the system. Open source options include:
+
+- [CollectiveAccess](https://collectiveaccess.org/) – used by the Smithsonian, Ann Arbor MoA, Western Australia Museum
+- [CollectionSpace](https://www.collectionspace.org/) – mainly used by US university collections
+- [ArchivesSpace](https://archivesspace.org/) – used by US institutions and also the National Library of Australia
+- [AtoM (Access to Memory)]() –  application for standards-based archival description and access in a multilingual, multi-repository environment (used at the ANU Archives)
+- [Mukurtu](https://mukurtu.org/) – CMS with highly refined access-control; used by a number of Indigenous community groups in Canada and Oceania
+- [Omeka](https://omeka.org/) – used across the globe
+
+In between the large proprietary systems and the open source alternatives are a growing number of cloud-hosted services. These systems are generally less able to be customised, but they’re easier to set up and use. All the administration and data entry takes place on an external web server. Most of these services operate on a ‘freemium’ model offering a basic free account with the option to pay for greater capacity or more features. Some examples include:
+
+- [eHive](https://ehive.com/) – collect it & connect it system used by Canberra Museum and Gallery
+- [Omeka.net](https://www.omeka.net/) – a hosted version of Omeka (this is what you’ll be using for your collections)
+- [Mukurtu.net](https://digitalarch.org/what-we-do/) – a hosted version of Mukurtu - which has now been retired.
+The library sector tends to be dominated by large companies such as ProQuest and the [ExLibris](https://www.exlibrisgroup.com/) suite, but there are open source alternatives like [Koha](https://koha-community.org/).
+
+## So how do you choose?
+Deciding which system is appropriate for a particular collection or institution is dependent on a number of factors – such as the size or nature of the collection, the technical support available, or who will be doing the data entry.
+
+Here you’ll find a [blank feature matrix](https://drive.google.com/file/d/1RqWDZrwZA0_t0mp2Mh54fVQk03mkUQeV/view?usp=sharing) listing a number of the collection management systems listed above. To fill it in you’ll need to explore the websites and documentation for each system. In some cases there are also ‘demo’ or ‘sandbox’ versions of the software available that you can try out. In some cases you might not be able to find an answer, but do your best!
+
+Once you’ve filled in the matrix, think about what would be the most approporiate system for:
+
+- a community museum (e.g. in your parents' hometown) with limited technical capacity, where most of the data entry will be done by volunteers;
+- a regional gallery with access to outsourced technical support and a small number of professional staff.
+- the Aarhus University Antikemuseet's collection of 3D scans of 4000 illicit objects confiscated from art dealers and needing repatriation into home collections
+
+
+##Resources, processes, and contexts
+
+If you try and create a record in some of these systems above, you'll find out that there are many more fields than you'd expect. Let’s have a think about what’s actually being ‘managed’ in a collections management system.
+
+Often we’re basically dealing with are:
+
+- Resources – the stuff of the collections (objects, documents, photographs)
+- Lists or Groups - logical conceptual groups for a given purpose
+- Tags – metadata relevant to the resources, such as date of creation, people, places, objects, or concepts contained or understood
+
+Collection management systems are not just places for storing descriptions, they also embed those descriptions within a contextual framework that aids discovery and meaning. But the lives of resources continue within their new institutional homes, so collection management systems also capture what happens to them after they’ve been ‘collected’.
+
+Look at types of ‘Procedural Records’ defined by e.g. CollectionSpace
+
+Of course the use of these different types of records will depend very much on accepted practices within an organisation.
+
+## Communities and collections
+You may have noticed that Mukurtu and Omeka are a little different to the other systems. Rather than being commercial products, or open source systems aimed at particular types of institutions, Omeka and Mukurtu were developed to meet the needs of different community groups.
+
+Mukurtu was developed for use by Indigenous communities and provides more fine-grained control over who has access to particular resources. Omeka was developed specifically to support the creation and display of online collections by a wide variety of projects or organisations. We’ll talk more about what you can do in Omeka next week.
+
+## Creating a record
+Remember what you saw as the basic elements of a record in Tropy and have a go at creating a record in one of the other CMS. Try adding some of your photos/digital objects and creating a collection that describes you.
+
+Don’t be overwhelmed by the number of fields and options. In a practical setting, you’d probably set up templates with a limited number of fields, and you’d work within an agreed descriptive framework.
+
+In an institutional setup (unlike the individual Tropy),  a CMS captures not just descriptive information, but also processes and context. In this case, there would need to be an acquisition record and a ‘person’.
+
+Omeka, you’ll be pleased to know, is much simpler to use, as it doesn’t offer the more sophisticated management options.
+
+<font color="blue">
+Original content on this site is licensed under a Creative Commons Attribution 4.0 International License.
+</font>

@@ -1,0 +1,1158 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1945-09-06	"closed"	"19450906B_99.pdf"	1	"no related record"	"Mødet den 6. Septbr. 1945.
+(For lukkede Døre).
+Fraværende: Kai Blicher og E. Rolander.
+"	1945	9	6
+"2"	1945-09-06	"closed"	"19450906B_99.pdf"	1	"773-1945"	"Indenrigsministeriets Samtykke til Optagelse af et Laan paa 3,5 Mill. Kr. hos Veksellerfirmaet Thorkild G. E. Larsen til delvis Indfrielse af Laan i Kommunekreditforeningen.
+Toges til Efterretning.
+"	1945	9	6
+"3"	1945-09-06	"closed"	"19450906B_99.pdf"	1	"818-1945"	"Licitationstilbud paa Anlæg af en Del af Augustenborggade og Nordborggade.
+Udvalget indstiller at overdrage Arbejdet til Jord- og Betonarbejdernes coop. Forretning for 9918,75 Kr. Med Materialer m. v. vil hele Udgiften andrage 33.500 Kr.
+Indstillingen vedtoges.
+"	1945	9	6
+"4"	1945-09-06	"closed"	"19450906B_99.pdf"	1	"829-1945"	"Fortroligt Tilbud paa en Blomstergave fra den hollandske Befolkning bestaaende af 50.000 Blomsterløg.
+Parkudvalget foreslaar, at Gaven med Tak modtages, idet Løgene kan anbringes i Raadhusparken eller en anden offentlig Plads i Byen.
+Tiltraadtes.
+"	1945	9	6
+"5"	1945-09-06	"closed"	"19450906B_99.pdf"	1	"99_25-1945"	"Andragende fra Murermester A. Mougaard og Tømrermester Rosenkvist Jacobsen og
+"	1945	9	6
+"6"	1945-09-06	"closed"	"19450906B_99.pdf"	2	"99_25-1945"	"Skovbo Christiansen om Statslaan til et Beboelseshus ved Hjortensgade. - 2. Behandling.
+Indstillingen vedtoges.
+"	1945	9	6
+"7"	1945-09-06	"closed"	"19450906B_99.pdf"	2	"99_37-1945"	"Andragende fra Murerm. P. Rasmussen og I. A. Sørensen om Forhøjelse af Statslaan i Sønderport 5.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler, at Statslaanet forhøjes til 28.500 Kr. og Kommunens Garanti til 14.375 Kr.
+Overgik til 2. Behandling.
+"	1945	9	6
+"8"	1945-09-06	"closed"	"19450906B_99.pdf"	2	"859-1945"	"Indstilling fra Lønudvalget om, at Sygeplejersker ved Kommunen, som har ydet Bidrag til Pensionsfonden, og som afskediges uden Pension senest med Udgangen af Marts Maaned 1946, faar de af dem indbetalte Pensionsfondsbidrag tilbagebetalt ved Afskedigelsen.
+Tiltraadtes.
+"	1945	9	6
+"9"	1945-09-06	"closed"	"19450906B_99.pdf"	2	"836-1945"	"Indstilling om Salg af Arealet mellem Dalgas Avenue, Assensgade og Hans Brogesgade til Bebyggelse og Fastsættelse af Grundprisen.
+Stadsarkitekten foreslaar, at Grundprisen sættes til 50 Kr. pr. m2, og at Grundene fordeles saaledes:
+Tømrermester Ibsen................... 3Grunde
+-Max Pedersen........... 2Grunde
+Murermester Anker Jakobsen........... 2Grunde
+-Eyvind Andreasen ... 1Grund
+-A. Mougaard............ 1Grund
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse.
+Indstillingen vedtoges.
+"	1945	9	6
+"10"	1945-09-06	"closed"	"19450906B_99.pdf"	2	"358-1945"	"Udskrift af de af Dommer Fabritius Tengnagel afholdte Forhør over forskellige Tjenestemænd angaaende deres Forhold overfor Tyskerne under Besættelsen.
+"	1945	9	6
+"11"	1945-09-06	"closed"	"19450906B_99.pdf"	3	"358-1945"	"Fra Budgetudvalget forelaa en Indstilling for hver enkelts Vedkommende.
+K. Mousten meddelte, at der fra Talerens Gruppe var fremsat Ønske om Udsættelse af Sagen, da der havde været for lidt Tid til at sætte sig ind deri. Taleren vilde derfor foreslaa, at det udsættes til næste Møde.
+Sigvald Nielsen udtalte, at det her drejede sig om Menneskeskæbner, og man burde have Tid til nøje at sætte sig ind i Sagerne, før den endelige Afgørelse skal træffes. Det var Grunden til Ønsket om Udsættelse, og ikke at man ønskede at dække over nogen.
+Jens Jensen sluttede sig hertil og foreslog, at Sagerne bliver fremlagt et Sted paa Raadhuset, hvor Byraadsmedlemmerne kan faa Adgang til at gennemse dem.
+Borgmesteren lovede dette.
+Oluf Nielsen henstillede samtidig, at Byraadssagerne bliver fremlagt et andet Sted end i Byraadssalen, idet Pressens Folk her kunde gaa ind og se Sagerne, ogsaa dem for lukkede Døre.
+Borgmesteren svarede, at det var ikke Meningen, at Pressen skulde have Adgang til Byraadssalen, men have Lejlighed til at se Sagerne i et Kontorlokale.
+Sagen udsattes.
+"	1945	9	6
+"12"	1945-09-06	"closed"	"19450906B_99.pdf"	3	"858-1945"	"Indstilling fra Skovudvalget om Godkendelse af Lejekontrakt med Forlagsboghandler Bert Fonnesberg angaaende Leje af Villa Varna.
+Godkendtes.
+"	1945	9	6
+"13"	1945-09-06	"closed"	"19450906B_99.pdf"	3	"855-1945"	"Forslag fra Ungdomsskolenævnet angaaende Tilsynet med Ungdoms- og Aftenskolerne.
+"	1945	9	6
+"14"	1945-09-06	"closed"	"19450906B_99.pdf"	4	"855-1945"	"Nævnet foreslaar, at der forsøgsvis foretages en Deling af Tilsynet med Ungdomsskolerne for den ufaglærte Ungdom og Aftenskoleundervisningen mellem Lærer Sund Nielsen og Overlærer N. C. Larsen, samt at hver af de Tilsynsførende lønnes med et Honorar af 1.200 Kr.
+K. Mousten oplyste, at der sidste Aar var ikke mindre end 140 Undervisningshold, og det var for meget for en enkelt Mand, hvorfor man foreslog denne Deling.
+Tiltraadtes.
+"	1945	9	6
+"15"	1945-09-06	"closed"	"19450906B_99.pdf"	4	"853-1945"	"Andragende fra Installationsmester Tage Møller om Autorisation som Elektroinstallatør indenfor Aarhus Oliefabriks Omraade.
+Anbefalet af Belysningsudvalget.
+Bevilgedes.
+"	1945	9	6
+"16"	1945-09-06	"closed"	"19450906B_99.pdf"	4	"852-1945"	"Indstilling fra Udvalget for Affattelse af Rigsdagsvalglister angaaende indkomne Klager over Valglisterne.
+Der forelaa 23 Klager. Af disse fandtes 4 paa Valglisterne. Der foreslaas optaget i Nordre Kreds 7,Midterkredsen 3 og Søndre Kreds 3, medens 6 ikke kan optages.
+Oluf Nielsen var Medlem af dette Udvalg, men kendte ikke noget til Indstillingen. Taleren havde spurgt det andet Udvalgsmedlem Hr. Mousten, men han vidste ikke, han var Medlem, og havde altsaa heller ikke været med. Maaske kunde Borgmesteren oplyse, hvorledes der kan foreligge en Indstilling fra Udvalget, naar det ikke har været samlet ti! Møde.
+Borgmesteren beklagede, hvis der var sket en Ekspeditionsfejl. Men man kunde maaske betragte dette som et Udvalgsmøde.
+K. Mousten kunde tiltræde Forslaget.
+Oluf Nielsen: Jeg ogsaa!
+Tiltraadtes.
+"	1945	9	6
+"17"	1945-09-06	"closed"	"19450906B_99.pdf"	5	"827-1945"	"Indstilling fra Udvalget for Besættelse af Udvalg m. m. om Valg af Medlemmer til et Boliganvisningsudvalg.
+Følgende Indstilling forelaa:
+\"I Overensstemmelse med vedlagte Skrivelser fra Aarhus Grundejerforening af 4. d. M., Arbejdernes Andelsboligforening af 1. d. M. og Aarhus Lejerforening af 2. d. M., skal man herved indstille, at der til det Boliganvisningsudvalg, der i Henhold til § 2 i Lov Nr. 400 af 22. August 1945 skal nedsættes, saafremt Byraadet vedtager, at Lovens Regler skal gælde for Aarhus Kommune, udpeges følgende:
+Efter Forslag fra Grundejerforeningerne:
+1.Tømrermester Hans Øvlisen med Tømrermester P. A. Sørensen som Suppleant.
+2.Tømrer Jens Dalbøge med Snedkermester mester Anton Christensen som Suppleant.
+Efter Forslag fra Lejerforeningen:
+1. Viceskoleinspektør A. P. H. Aagaard med Inspektør Jens Nielsen som Suppleant.
+I Sager angaaende almennyttige Boligforeninger skal de efter Grundejerforeningernes Forslag valgte Medlemmer erstattes med to Medlemmer foreslaaet af Boligforeningerne. Som saadanne foreslaas efter Indstilling fra Boligforeningerne:
+1.Snedker Anton Jensen, Ringgaarden, med Konstruktør Arne Svanhede, Socialt Boligbyggeri, som Suppleant.
+2.Forretningsfører K. Kaasgaard, Arb. Andelsboligforening med Kontorist M. Jepsen, do., som Suppleant.
+løvrigt skal der vælges to Medlemmer af Kommunalbestyrelsen, hvoraf det ene skal udpeges
+"	1945	9	6
+"18"	1945-09-06	"closed"	"19450906B_99.pdf"	6	"827-1945"	"Formand for Udvalget. Forslag herom vil fremkomme paa Byraadsmødet.\"
+K. Mousten forelagde Indstillingen og foreslog at vælge H. P. Jensen som Formand for Udvalget med Chr. Nielsen som Suppleant.
+I. C. Sørensen foreslog at vælge Ejner Mikkelsen til Medlem med Johs. Riber som Suppleant.
+Indstillingen tiltraadtes, og de foreslaaede valgtes.
+"	1945	9	6
+"19"	1945-09-06	"closed"	"19450906B_99.pdf"	6	"116-1945"	"Andragende om Garanti for Laan til Boligindskud i Det sociale Boligbyggeri fra:
+a.Litograf Peter Nielsen, Laan 500 Kr.
+b.Havnearbejder P. M. P. Kastberg, Laan 400 Kr.
+c.Murersvend G. M. Johansen, Laan 400 Kr.
+d.Bogbinder Jens L. Jensen, Laan 750 Kr.
+Overgik til 2. Behandling.
+"	1945	9	6
+"20"	1945-09-06	"closed"	"19450906B_99.pdf"	6	"17_20-1945"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet til Axel Simonsen.
+Indstillingen vedtoges.
+"	1945	9	6
+"21"	1945-09-06	"closed"	"19450906B_99.pdf"	6	"12_2-1945"	"Indstilling fra Socialudvalget om personligt Tillæg til Rentenydere.
+Indstillingen vedtoges.
+"	1945	9	6
+"22"	1945-09-06	"closed"	"19450906B_99.pdf"	6	"748-1945"	"Sagen angaaende Ydelse af Funktionstillæg til Afdelingsingeniør Frederiksen under hans Konstitution som Leder af Vandværket.
+Lønudvalget indstiller, at der ydes Funktionstillæg paa 900 Kr. aarlig fra den 25. August 1944.
+Indstillingen vedtoges.
+"	1945	9	6
+"23"	1945-09-06	"closed"	"19450906B_99.pdf"	6	"33_32-1945"	"Ansøgning fra Havneassistent af 2. Grad Mc. Cormick Jensen om Forfremmelse til Havneassistent af 1. Grad.
+"	1945	9	6
+"24"	1945-09-06	"closed"	"19450906B_99.pdf"	7	"33_32-1945"	"Anbefalet af Havneudvalget og Lønudvalget saaledes, at Forfremmelsen sker fra 1. Aug. 1945.
+Indstillingen vedtoges.
+"	1945	9	6
+"25"	1945-09-06	"closed"	"19450906B_99.pdf"	7	"721-1945"	"Indstilling fra Socialudvalget om Ydelse af fuld Len under Sygdom udover 92 Dage til Forstanderinde Frk. Inger Johanne Riise.
+Tiltraadt af Lønudvalget, dog kun for indtil 6 Maaneder.
+Lønudvalgets Indstilling vedtoges.
+"	1945	9	6
+"26"	1945-09-06	"open"	"19450906_125.pdf"	1	"no related record"	"Mødet den 6. Septbr. 1945.
+Fraværende: Kai Blicher og E. Rolander.
+Borgmesteren: Siden vi sidst var samlet, har vi mistet to af vore gode Medarbejdere, Økonomidirektør Rambusch og Fuldmægtig Frk. Kruse.
+Økonomidirektør Rambusch har igennem de forholdsvis faa Aar, han har været her, vundet sig en ganske ualmindelig Agtelse i den store Gerning, han havde paataget sig i Aarhus Kommune. Det var vel saaledes, at han endnu kun stod ved Begyndelsen af Arbejdet; der var meget tilbage at gøre for ham, og det er med den største Sorg, vi har set ham gaa bort. Han var en flittig, dygtig og initiativrig Embedsmand, den virkelige Type paa den gode Embedsmand, som aldrig søgte sit eget, men kun ønskede at ofre sig for den Kommune, hvor han havde sit Virke.
+Frk. Kruse havde i mange, mange Aar haft sit Arbejde paa Byraadskontoret under de skiftende Borgmestre. Hun forstod paa sin egen Maade at være noget for sine Chefer, forstod paa enhver Maade at hjælpe dem og støtte dem i deres Arbejde. Hun forstod ogsaa i særlig Grad
+"	1945	9	6
+"27"	1945-09-06	"open"	"19450906_125.pdf"	2	"no related record"	"at tage sig af de mange gamle, der søgte hende i hendes Egenskab af Sekretær i Legatudvalget. Hun har efterladt et stort Savn paa Byraadskontoret, hvor vi alle holdt af hende og satte Pris paa hendes enestaaende Hjælpsomhed, ikke mindst i de smaa Ting.
+Vi udtaler et Ære være deres Minde om Økonomidirektør Rambusch og Fuldmægtig Frk. Kruse. (Tilslutning!).
+"	1945	9	6
+"28"	1945-09-06	"open"	"19450906_125.pdf"	2	"507-1945"	"Indenrigsministeriets Samtykke til Mageskifte med Gasmester Kaj Olsen af mindre Arealer ved Aldersrovej.
+Toges til Efterretning.
+"	1945	9	6
+"29"	1945-09-06	"open"	"19450906_125.pdf"	2	"11_32-1945"	"Indenrigsministeriets Godkendelse af Købekontrakt med Fru Lissy Johansen.
+Toges til Efterretning.
+"	1945	9	6
+"30"	1945-09-06	"open"	"19450906_125.pdf"	2	"461-1945"	"Indenrigsministeriets Godkendelse af, at Kommunen ved Køb af Ejendommen Matr. Nr. 15 f af Stautrup paatager sig den paa Ejendommen hvilende Forpligtelse overfor I/S Stautrup Vandværk.
+Toges til Efterretning.
+"	1945	9	6
+"31"	1945-09-06	"open"	"19450906_125.pdf"	2	"46-1945"	"Udskrift af Vestre Landsrets Dom i den af Ejendomsmægler Juul Mortensen anlagte Sag angaaende Lejeafgiftens Størrelse for 2 Lejligheder i Møllegade 20.
+Toges til Efterretning.
+"	1945	9	6
+"32"	1945-09-06	"open"	"19450906_125.pdf"	2	"732-1945"	"Regnskab for Aarhus Museums historiske Afdeling i 1944-45.
+Toges til Efterretning.
+"	1945	9	6
+"33"	1945-09-06	"open"	"19450906_125.pdf"	2	"800-1945"	"Regnskab for Lærerinde Thora Madsens Legat for Aaret  1/8 1944-1/8  1945.
+Toges til Efterretning.
+"	1945	9	6
+"34"	1945-09-06	"open"	"19450906_125.pdf"	3	"608-1945"	"Regnskab for Aarhus Stiftsbogtrykkeris Jubilæumslegat.
+Toges til Efterretning.
+"	1945	9	6
+"35"	1945-09-06	"open"	"19450906_125.pdf"	3	"423-1945"	"Opgørelse over Statsfolketællingen i Aarhus pr. 15. Juni 1945.
+Fra Skattekontoret forelaa en Opgørelse, hvorefter Folketallet beløb sig til 107.383 mod 99.881 pr. 5. November 1940, altsaa en Fremgang paa 7.502 Personer. Ved sidste kommunale Folketælling pr. 10. Oktober 1943 var Folketallet i Aarhus 104.347.
+Indbyggerantallet fordelte sig saaledes:
+Dom Sogn....................18.428Personer.
+Frue Sogn...................15.563-
+Sct. Johannes Sogn ..18.140-
+Christians Sogn.............6.644-
+Sct. Markus Sogn............17.300-
+Sct. Pauls Sogn.............15.074-
+Sct. Lukas Sogn . . . ..21.375-
+Tilsammen...112.524Personer.
+~ midlertidigt nærværende...5.141-
+Ialt. ..107.383Personer.
+Borgmesteren gjorde opmærksom paa, at Byen voksede stærkt, og det kunde give Anledning til Overvejelser i forskellige Retninger. De, som var med i det daglige Arbejde, kunde mærke, hvad det vil sige at arbejde for en By, som er i saa stærk Fremgang; men man kunde kun glæde sig over, at Byens Vækst er Udtryk for, at Aarhus er en By med gode og store Fremtidsmuligheder.
+Toges til Efterretning.
+"	1945	9	6
+"36"	1945-09-06	"open"	"19450906_125.pdf"	4	"835-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om, at Borgmesteren bemyndiges til at underskrive paa By-raadets Vegne som Kautionist og Selvskyldner paa Laaneobligationer til Betaling af Boligindskud.
+Indstillingen vedtoges.
+"	1945	9	6
+"37"	1945-09-06	"open"	"19450906_125.pdf"	4	"661-1945"	"Indstilling fra Vejteknisk Udvalg om Bevilling af 35.000 Kr. til Anlæg af en Del af Augustenborggade og Nordborggade.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	9	6
+"38"	1945-09-06	"open"	"19450906_125.pdf"	4	"763-1945"	"Indstilling fra Vejteknisk Udvalg om Bevilling til Vej- og Kloakanlæg i Møllevangskvarteret.
+Fra Økonomidirektøren forelaa en Opgørelse, hvorefter Bevillingen ialt vil andrage 593.000 Kr., hvoraf 282.000 Kr. ønskes stillet til Raadighed i indeværende Regnskabsaar. Paa Arbejdsplanen var optaget 60.000 Kr., saaledes at Restbeløbet
+222.000Kr. ønskes stillet til Raadighed foruden tidligere bevilget 45.000 Kr. Det foreslaas, at Beløbet midlertidig afholdes af Kassebeholdningen for senere at restitueres af Kommunens Gade-og Vejfond.
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse og Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	9	6
+"39"	1945-09-06	"open"	"19450906_125.pdf"	4	"730-1945"	"Indstilling fra Kirkegaardsbestyrelsen om Bevilling af 9.000 Kr. til et Mindesmærke paa Nordre Kirkegaard over de ved Eksplosionskatastrofen d. 4. Juli 1944 omkomne.
+Indstillingen vedtoges, idet Tilbud fra Brdr. Kofoed paa 8.720 Kr. antoges.
+"	1945	9	6
+"40"	1945-09-06	"open"	"19450906_125.pdf"	4	"544-1945"	"Indstilling fra Skoleudvalget om Bevilling af 200.000 Kr. til Istandsættelse af
+"	1945	9	6
+"41"	1945-09-06	"open"	"19450906_125.pdf"	5	"544-1945"	"Skoler, som har været beslaglagt af den tyske Værnemagt.
+K. M o u s t e n gjorde opmærksom paa, at man, efter hvad der stod i Bladene, kunde faa det Indtryk, at disse Skoler kunde istandsættes for 200.000 Kr. Men det vilde koste mange Gange mere; her var kun Tale om at sætte Skolerne i en saadan Stand, at Børnene kan benytte dem, og ikke nogen egentlig Istandsættelse.
+Indstillingen vedtoges.
+"	1945	9	6
+"42"	1945-09-06	"open"	"19450906_125.pdf"	5	"615-1945"	"Indstilling fra Skoleudvalget om Bevilling af 6.000 Kr. i Anledning af Oprettelse af en ekstra Klasse i Marselisborg Gymnasium.
+Indstillingen vedtoges.
+"	1945	9	6
+"43"	1945-09-06	"open"	"19450906_125.pdf"	5	"757-1945"	"Forslag fra Borgmesteren om Bevilling af 1.000 Kr. til de efterlevende efter hver af de ved Eksplosionsulykken den 14. Juli 1945 dræbte som Udtryk for Byens Deltagelse.
+Budgetudvalget anbefaler, at der hertil bevilges 4.000 Kr.
+Indstillingen vedtoges.
+"	1945	9	6
+"44"	1945-09-06	"open"	"19450906_125.pdf"	5	"645-1945"	"Indstilling fra Budgetudvalget om to Tillægsbevillinger paa hver 1.675 Kr. til Anskaffelse af 2 Regnemaskiner til henholdsvis det statistiske Kontor og Hovedkassen.
+Indstillingen vedtoges.
+"	1945	9	6
+"45"	1945-09-06	"open"	"19450906_125.pdf"	5	"888-1945"	"Indstilling fra Budgetudvalget om, at forskudsvis afholdte Udgifter af Kassebeholdningen i Anledning af Indkvartering af det tyske Militær m. v. (82.707,06 Kr.) og vedrørende Velfærdsudvalgets Indkøb af Kartofler (13.444,31 Kr.) overføres til Driftsregnskab for
+1944-45.
+Borgmesteren bemærkede, at Kommunen næppe mere end højst nødvendigt skal indlade
+"	1945	9	6
+"46"	1945-09-06	"open"	"19450906_125.pdf"	6	"888-1945"	"sig paa Kartoffelhandel, men det var jo sket under en Nødssituation.
+Indstillingen vedtoges.
+"	1945	9	6
+"47"	1945-09-06	"open"	"19450906_125.pdf"	6	"889-1945"	"Indstilling fra Budgetudvalget om, at det paa Budgettet for 1944-45 opførte Tilskud paa 250.000 Kr. til en Bygning for Teknologisk Institut overføres til en Fond, hvorfra Beløbet vil kunne udbetales efter Byraadets nærmere Bestemmelse.
+Indstillingen vedtoges.
+"	1945	9	6
+"48"	1945-09-06	"open"	"19450906_125.pdf"	6	"890-1945"	"Indstilling fra Budgetudvalget om, at den paa Budgettet for 1944-45 givne Bevilling paa 10.000 Kr. til en Arkitektkonkurrence om en ny Stadionbygning overføres til Regnskabsaaret 1945-46.
+Indstillingen vedtoges.
+"	1945	9	6
+"49"	1945-09-06	"open"	"19450906_125.pdf"	6	"891-1945"	"Indstilling fra Budgetudvalget om, at den budgetterede Bevilling paa 8.000 Kr. til en Arkitektkonkurrence angaaende Bebyggelse af Museumsgrunden overføres til Regnskabsaaret
+1945-46.
+Indstillingen vedtoges.
+"	1945	9	6
+"50"	1945-09-06	"open"	"19450906_125.pdf"	6	"892-1945"	"Indstilling fra Budgetudvalget om, at Restbevillingen paa 9.301,09 Kr. vedrørende Katastrofeberedskabsplanen overføres til Regnskabsaaret 1945-46.
+Indstillingen vedtoges.
+"	1945	9	6
+"51"	1945-09-06	"open"	"19450906_125.pdf"	6	"827-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om, at Reglerne i Lov Nr. 400 af 22/8. 1945 om Boliganvisning bringes til Anvendelse i Aarhus Kommune.
+Borgmesteren anbefalede Forslaget, som Udvalget fandt rimeligt under Hensyn til Boligsituationen i Aarhus Kommune. Man blev derved Herre over samtlige Lejligheder i Kommunen, som blev ledige, og kunde anvise dem paa en
+"	1945	9	6
+"52"	1945-09-06	"open"	"19450906_125.pdf"	7	"827-1945"	"god Maade. Loven vilde give et ret stort Arbejde, som foreløbig tænkes henlagt under Bygningsinspektøren.
+Ejner Mikkelsen beklagede, at det skulde være nødvendigt at vedtage en saadan Lov. Den gjorde et stort Indgreb i Grundejernes Rettigheder og skabte ikke flere Lejligheder; men det var vel uundgaaeligt.
+Indstillingen vedtoges.
+"	1945	9	6
+"53"	1945-09-06	"open"	"19450906_125.pdf"	7	"667-1945"	"Forslag fra Lønudvalget til Lønnings- og Pensionsregler for fast ansatte Sygeplejersker og Massøser og til Lønningsregler for prøveansatte og vikarierende Sygeplejersker og Massøser samt Sygeplejeelever.
+Indstillingen vedtoges.
+"	1945	9	6
+"54"	1945-09-06	"open"	"19450906_125.pdf"	7	"831-1945"	"Indstilling fra Lønudvalget om Forhøjelse af Dyrtidstillæg til Kommunens Haandværkere og Arbejdsmænd m. fl. samt om Ændring af Skalaen for det ekstraordinære Dyrtidstillæg til Akkordarbejdere.
+Følgende Indstilling forelaa:
+\"Som Følge af den ved Overenskomstsnævnets Kendelse af 21. d. M. skete Forhøjelse af Dyrtidstillæggene til timelønnede Arbejdere vil Dyrtidstillæggene til nedennævnte ved Kommunen beskæftigede Arbejdergrupper være at forhøje til de anførte Beløb:
+"	1945	9	6
+"55"	1945-09-06	"open"	"19450906_125.pdf"	8	"831-1945"	"Samlet	Heraf	ekstraordi-
+Dyrtidstillæg nært Dyrtidstillæg
+Arbejdergrupper---------------------------------------
+23 Aar og Under 23 Aar og Under derover 28 Aar derover 23 Aar
+Øre	Øre	Øre	Øre
+Haandværkere ...	77	72	4	4
+Kedelpassere......	78	73	5	5
+Retorthusarbejdere	78	73	5	5
+Arbejdsmænd ved
+Forbrændingsanst.	78	73	5	5
+Arbejdsmænd, som lønnedes i H. til § 1 e i Overenskomsten af 20/n 1939 med kommunale Arbejds-mænds Fagfor-	j
+ening.............	78	I	73	j	5	|	5
+Øvrige Arbejds-	j	!
+mænd..............	79	j	74	!	6	j	6
+Kontorister, mand-	'	i
+lige..............	83	!	78	10	j	10
+Kontorister,kvindelige .............	56	53	8	8
+Badeassistenter,
+mandlige..........	79	74	6	6
+Badeassistenter,
+kvindelige........	51	48	3	3
+Rengøringskvinder	50	48	2	3
+Syersker..........	54	51	6	6
+Vaskeriarbejder-
+sker..............	54	51	6	6
+Lugearbejdersker	54	51	6	6
+Husmedhjælpere v.
+Hjemmesygeplejen	55	53	7	8
+"	1945	9	6
+"56"	1945-09-06	"open"	"19450906_125.pdf"	9	"831-1945"	"Da Forhøjelserne ikke maa paavirke de i Henhold til Overenskomstnævnets Kendelse af 24/8 1944 ydede ekstraordinære Dyrtidstillæg; vil den af Byraadet den 7/9 1944 vedtagne Skala for Ydelse af disse Tillæg til mandlige Arbejdere, som arbejder i Akkord, være at ændre som følger:
+Ekstra-
+ordinært
+Tillæg
+Timefortj. over 213 indtil og med 223 0.60.
+--223---233-5-
+--233---243-4-
+--243---253-3-
+dog ikke ud over 253 Øre.
+Forhøjelserne træder i Kraft fra og med Begyndelsen af den Lønningsuge, hvori Tirsdag den 21. d. M. er indeholdt, for maanedslønnedes Vedkommende dog fra og med den
+16.d. M. For timelønnet Personale, der afregnes maanedsvis, fremgaar det ikke direkte af Kendelsen, fra hvilken Dato Forhøjelserne skal træde i Kraft, men det foreslaas, at denne Dato fastsættes til Kendelsens Dato, den 21. August
+d.A., hvilket vil svare til den i et tidligere lignende Tilfælde fulgte Fremgangsmaade.
+Til Orientering oplyses, at Forhøjelserne vil medføre en Merudgift til Lønninger paa ca.
+275.000Kr. aarlig.\"
+Indstillingen vedtoges.
+"	1945	9	6
+"57"	1945-09-06	"open"	"19450906_125.pdf"	9	"847-1945"	"Indstilling fra Lønudvalget om Forholdsregler m. H. t. Lønudbetaling m. v. for den Del af Kommunens Personale, der ikke kunde holde fri paa Fredsdagen den 15. August eller paa Mindedagen den 29. August d. A.
+"	1945	9	6
+"58"	1945-09-06	"open"	"19450906_125.pdf"	10	"847-1945"	"Følgende Indstilling forelaa:
+\"I Overensstemmelse med den Ordning, der er truffet af Staten, indstilles det herved til Byraadets Vedtagelse, at der m. H. t. Lønudbetaling m. v. til dem af Kommunens Personale, som i Anledning af Krigens Afslutning den 15. August og til Minde om Begivenhederne den 29. August 1943 er fritaget for Tjeneste, eller som paa Grund af nødvendig Opretholdelse af de forskellige kommunale Virksomheder ikke har kunnet gives fri, forholdes som af Byraadet den 7. Juni d. A. fastsat vedrørende Tjenestefrihed i Anledning af Landets Befrielse, jfr. Byraadsbeslutning af 16. August vedrørende Frihed paa Mindedagen for Folkestrejken den 30. Juni d. A.\"
+Indstillingen vedtoges.
+"	1945	9	6
+"59"	1945-09-06	"open"	"19450906_125.pdf"	10	"481-1945"	"Anmodning fra Socialudvalget om Bemyndigelse til uden Forelæggelse for Byraadet at maatte afslutte Lejekontrakter om Aldersrenteboliger efter samme Retningslinier som hidtil.
+Anbefalet af Budgetudvalget for saa vidt angaar de allerede opførte Aldersrenteboliger.
+Indstillingen vedtoges.
+"	1945	9	6
+"60"	1945-09-06	"open"	"19450906_125.pdf"	10	"3_16-1945 og 3_15-1945 og 3_4-1945 og 3_20-1945 og 3_22-1945 og 3_21-1945 og 3_11-1945 og 3_17-1945 og 3_18-1945 og 3_19-1945"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_16-1945). Offentlige Lystanlæg.
+b.(J. Nr. 3_15-1945). Stadsgartnerens Kontor.
+c.(J. Nr. 3_4 -1945). Tuberkulosestationen.
+d.(J. Nr. 3_20-1945). Folkebibliotekerne.
+e.(J. Nr. 3_22-1945). Børnebibliotekerne.
+f.(J. Nr. 3_21-1945). Centralbiblioteket.
+g.(J. Nr. 3_11-1945). De af Stadsarkitekten admi-
+nistrerede Konti.
+"	1945	9	6
+"61"	1945-09-06	"open"	"19450906_125.pdf"	11	"3_16-1945 og 3_15-1945 og 3_4-1945 og 3_20-1945 og 3_22-1945 og 3_21-1945 og 3_11-1945 og 3_17-1945 og 3_18-1945 og 3_19-1945"	"h.(J. Nr. 3_17-1945). Hovedkassen.
+i.(J. Nr. 3_18-1945). Økonomikontoret.
+j. (J. Nr. 3_19-1945). Kursus for Kontorfunktionærer.
+Borgmesteren bemærkede, at de fleste Overskridelser modvirkedes af Besparelser. De skyldtes særlig Lønningsudgifter o. 1., som Udvalgene ikke var Herre over. Der var dog paa Børnebibliotekernes Konto en stor Overskridelse til Indkøb af Bøger, og Udvalget havde paatalt dette og indskærpet, at der først maa indhentes Bevilling. Paa Stadsarkitektens Konti var der en stor Merindtægt paa den kommunale Malerforretning, men Stadsarkitekten vilde senere fremkomme med en Redegørelse for dette Forhold.
+I. C. Sørensen sluttede sig til Borgmesterens Udtalelser om Børnebibliotekerne, og Udvalget var enigt om, at det skulde særlig paatales, da det var en meget stor Overskridelse i Forhold til Budgettet.
+Efterbevilling meddeltes.
+"	1945	9	6
+"62"	1945-09-06	"open"	"19450906_125.pdf"	11	"11_39-1945"	"Betinget Skøde med Arbejdernes Andelsboligforening angaaende Køb af 8100 m2 Grund ved Martin Vahls Vej, Eugen Warmings Vej og Viborgvej.
+Godkendtes.
+"	1945	9	6
+"63"	1945-09-06	"open"	"19450906_125.pdf"	11	"11_38-1945"	"Købekontrakt med Tømrer Sofus Christiansen angaaende en Grund ved en Sidevej til Hvedevangen.
+Godkendtes.
+"	1945	9	6
+"64"	1945-09-20	"closed"	"19450920B_107.pdf"	1	"no related record"	"Mødet den 20. Septbr. 1945.
+(For lukkede Døre).
+Fraværende: Esther Aggebo, G. Baunsgaard, Kai Blicher, Erna Hedtoft Larsen, Møller Rasmussen, Chr. Nielsen og Sigvald Nielsen.
+"	1945	9	20
+"65"	1945-09-20	"closed"	"19450920B_107.pdf"	1	"457-1945"	"Indstilling fra Skoleudvalget til Besættelse af Lærerembeder.
+Følgende Indstilling forelaa:
+1 § 35-Lærerindeembede.
+1.S. Mejldam.
+2.E. Enevoldsen.
+3.E. Nyeborg.
+3 Lærerembeder.
+I.1.Jens I. Pedersen.
+2.Peter Dethlefsen.
+3.Ejnar H. Jensen.
+II.1. Peter Dethlefsen.
+2.Ejnar H. Jensen.
+3.Jens I. Pedersen.
+III.1. Ejnar H. Jensen.
+2.Jens I. Pedersen.
+3.Peter Dethlefsen.
+"	1945	9	20
+"66"	1945-09-20	"closed"	"19450920B_107.pdf"	2	"457-1945"	"1 Lærerindeembede.
+1.Vibeke Balslev.
+2.Kamma Povlsen.
+3.Karna Bech.
+6 Timelærerembeder.
+1.1. Anton Guldsberg.
+2.Erik Hansen.
+3.Carl Chr. Jensen.
+II.1.Jens S. Thomsen.
+2.Carl Chr. Jensen.
+3.Robert Fisker.
+III.1.Børge Lillelund.
+2.Robert Fisker.
+3.Erik Hansen.
+IV.1.Erik Hansen.
+2.Jens S. Thomsen.
+3.Børge Lillelund.
+V.1.Carl Chr. Jensen.
+2.Børge Lillelund.
+3.Anton Guldsberg.
+VI.1.Robert Fisker.
+2.Anton Guldsberg.
+3.Jens S. Thomsen.
+3 Timelærerindeernbeder.
+I.1. Jytte Rosenlund.
+2.Gytha D. Jørgensen.
+3.Gemma Mayntz.
+II.1. Gytha D. Jørgensen.
+2.Gemma Mayntz.
+3.Jytte Rosenlund.
+III.1.Gemma Mayntz.
+2.Jytte Rosenlund.
+3.Gytha D. Jørgensen.
+Faste mandlige Vikarpladser.
+1.Niels Chr. Bystrup.
+"	1945	9	20
+"67"	1945-09-20	"closed"	"19450920B_107.pdf"	3	"457-1945"	"2.Hans F. Christensen.
+3.Helge Christensen.
+4.Poul Frederiksen.
+5.Hagbart Graversen.
+6.Viggo Herholt.
+7.Gunnar Laursen.
+8.Poul Skovbakke.
+9.Hans Petersen.
+10.Erik Bach Sørensen.
+11.Niels Grey Sørensen.
+Faste kvindelige Vikarpladser.
+1.Kirsten Baadsgaard.
+2.Agnes Leth Espensen.
+3.Elin Jensen.
+4.Inger Østergaard Jensen.
+5.Elise Poulsen.
+6.Esther Lange Møller.
+7.Henny Ubbesen.
+8.Kirsten Vigild.
+9.Jytta Wendelbo.
+Vedtaget ved Cirkulation saaledes, at de som Nr. 1 indstillede ansattes.
+"	1945	9	20
+"68"	1945-09-20	"closed"	"19450920B_107.pdf"	3	"457-1945"	"Indstilling fra Skoleudvalget
+om Ansættelse af 6 faste Vikarer.
+Følgende Indstilling forelaa:
+\"Af de som faste Vikarer indstillede, har følgende trukket deres Ansøgning tilbage:
+1)Helge Christensen.
+2)Poul Frederiksen.
+3) Gunnar Laursen.
+4) Poul Skovbakke.
+5)Erik Bach Sørensen.
+6)Henny Ubbesen.
+"	1945	9	20
+"69"	1945-09-20	"closed"	"19450920B_107.pdf"	4	"457-1945"	"I Stedet for disse har Udvalget vedtaget at indstille:
+1)Erik Christensen.
+2)Werner H. Jensen.
+3)Aage Sten Madsen.
+4)Asgar Nielsen.
+5)Inge Gaardboe.
+6)Ida Nors Nielsen.
+Indstillingen vedtoges.
+"	1945	9	20
+"70"	1945-09-20	"closed"	"19450920B_107.pdf"	4	"99_37-1945"	"Andragende fra Murerm. P. Rasmussen og I. A. Sørensen om Forhøjelse af Statslaan i Sønderport 5. - 2. Behandling.
+Indstillingen vedtoges.
+"	1945	9	20
+"71"	1945-09-20	"closed"	"19450920B_107.pdf"	4	"99_36-1945"	"Andragende fra Boligforeningen Ringgaarden om Statslaan paa 877.000 Kr. til Opførelse af 2 Blokbebyggelser med 102 Lejligheder i Møllevangen.
+Anbefalet af Udvalget for Byens Udvidelse og Bebyggelse.
+Overgik til 2. Behandling.
+"	1945	9	20
+"72"	1945-09-20	"closed"	"19450920B_107.pdf"	4	"563-1945"	"Indstilling fra Budgetudvalget om Tegning af Aktier for 30.000 Kr. i Dansk Lufttaxa.
+Følgende Indstilling forelaa:
+\"Det indstilles, at Kommunen tegner Aktier for et Beløb af 30.000 Kr. i Selskabet paa Betingelse af, at Selskabets Hovedkontor og Hjemsted bliver Aarhus, og at Selskabets Stiftelsesoverenskomst og Vedtægter i alt væsentlig bliver i Overensstemmelse med vedlagte Udkast.\"
+Indstillingen vedtoges.
+"	1945	9	20
+"73"	1945-09-20	"closed"	"19450920B_107.pdf"	4	"822-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Køb af Ejendommen Engedal i Viby.
+"	1945	9	20
+"74"	1945-09-20	"closed"	"19450920B_107.pdf"	5	"822-1945"	"Udvalget indstiller, at Ejendommen købes for 39.600 Kr. og iøvrigt paa følgende Vilkaar:
+1)Ejendommen overtages til 1. November d. A.
+2)Sælgeren faar Ret til at blive boende paa Ejendommen til 1. Marts 1946.
+3)Sælgeren faar Ret til at forpagte og drive Ejendommen indtil Vio 1946 for en Forpagtningsafgift af 1.800 Kr., hvoraf 1.500 Kr. regnes for Jorden og 300 Kr. for Lejlighed. Sælgeren skal have udtalt sit Ønske herom inden 1. Februar 1946.
+4)Sælgeren udfører Efteraarsarbejdet, herunder Saaning af Vintersæd i indeværende Efteraar, ligesom samme Arbejder udføres i 1946, saa-fremt Ejendommen forpagtes. Hvis Byen til den Tid ikke ønsker Arealet tilsaaet, afleveres Saasæden uden særskilt Betaling.
+5)Restkøbesummen erlægges kontant, saa snart Ministeriets Tilladelse er opnaaet og Skøde udstedt.
+Tiltraadt af Budgetudvalget saaledes, at der til Køb af Ejendommen med Omkostninger bevilges 40.000 Kr., der afholdes af Beløbet til uforudsete Udgifter paa Arbejdsplanen.
+Borgmesteren anbefalede Forslaget. Ejendommen laa ved Siden af Hutzelsiders Ejendom, som Kommunen havde købt, og det var et Led i Bestræbelserne for at sikre sig Ejendommene i Aarhusdalen.
+Indstillingen vedtoges.
+"	1945	9	20
+"75"	1945-09-20	"closed"	"19450920B_107.pdf"	5	"916-1945"	"Indstilling fra Budgetudvalget om, at Skattedirektøren faar Bemyndigelse til at stille de Købmændene Q. T. Stecher og B. G. Stecher tilhørende Ejendomme Nørreallé 59,
+"	1945	9	20
+"76"	1945-09-20	"closed"	"19450920B_107.pdf"	6	"916-1945"	"Grønnegade 69 og Johan Langes Vej 17 til Tvangsauktion til Dækning af Skatter. Tiltraadtes.
+"	1945	9	20
+"77"	1945-09-20	"closed"	"19450920B_107.pdf"	6	"358-1945"	"Sagen angaaende forskellige Tjenestemænds Forhold overfor Tyskerne under Besættelsen.
+Fra Budgetudvalget forelaa følgende Indstilling:
+a.Kontorist Aage Bjarne Andersen, Be-lysningsvæsenet.
+b.Kontorassistent Erik Ib Larsen, Belysnings-væsenet.
+c.Maalerkontrollør Søren Peter Petersen.Belysningsvæsenet.
+d.Brandmænd Sv. ViIh. Andersen.
+e.Lærerinde Fru P. M. Bregneballe.
+f.Lærer Hans C hr. Larsen.
+g.Installatør Niels Peter Nielsen, Slagtehuset.
+h.Trambusfører Ejnar Damgaard Andersen, Sporvejene.
+i.Trambusfører Christen Hansen, Sporvejene, 
+j. Toiletopsyn Fru Louise Westphal.
+For ovennævntes Vedkommende indstiller Udvalget, at der ikke foretages videre i Sagen. Tiltraadtes. 
+k. Lærer Tage Hansen.
+Borgmesteren oplyste, at der havde været nogen Uoverensstemmelse angaaende hans Forhold, men nu indstillede man, at der ikke foretages videre i Sagen.
+Tiltraadtes.
+1.Viceskoleinspektrice Frk. S. C. Helsing.
+Borgmesteren oplyste, at der var forskellige Meninger om hendes Forhold, men nu
+"	1945	9	20
+"78"	1945-09-20	"closed"	"19450920B_107.pdf"	7	"358-1945"	"havde hun søgt sin Afsked, og under Hensyn hertil var man enedes om, at der ikke foretages videre i Sagen.
+Tiltraadtes.
+m. Kontorelev Frk. Ester Holm Madsen, Folkebiblioteket.
+Borgmesteren meddelte, at hun efter at have udstaaet sin Elevtid vilde faa at vide, at man ikke mere har Brug for hende, og derefter havde Sagen ikke mere Interesse for Byraadet.
+Johanne Berg oplyste, at hun havde været Elev paa Folkebiblioteket, men hun vilde ikke blive antaget som Assistent, og saa var hun ikke Tjenestemand.
+Afskedigelsen tiltraadtes.
+ n. Arbejdsmand J. P. Sørensen, Begravelsesvæsenet.
+o.Arbejdsmand Holger Chr. Eskildsen, Belysningsvæsenet, 
+p. Lærer Martin Nielsen, 
+q. Mekaniker Gunnar Nielsen, Sporvejene, 
+r. Trambusfører Viggo Jensen, Sporvejene, 
+s. Konstruktør Charles P. Paulsen, Sporvejene.
+For disses Vedkommende indstiller Udvalget, at deres Sag forelægges Tjenestemandsdomstolen til Behandling. Desuden indstilles, at de, som er fritaget for Tjeneste, vedbliver at være det, men iøvrigt fritages ikke flere for Tjeneste.
+Tiltraadtes.
+t. Vognstyrer A. Chr. Haverslev Petersen, Sporvejene.
+Udvalget indstiller, at Sporvejsudvalget opfordres til at give ham en Advarsel, fordi han i Strid med Tjenestemandsvedtægten har haft
+"	1945	9	20
+"79"	1945-09-20	"closed"	"19450920B_107.pdf"	8	"358-1945"	"andet Arbejde, men at der iøvrigt ikke foretages videre i Sagen.
+Tiltraadtes.
+"	1945	9	20
+"80"	1945-09-20	"closed"	"19450920B_107.pdf"	8	"909-1945"	"Indstilling fra Lønudvalget om Regulering af Godtgørelse til Tjenestemænd for Brug af eget Motorkøretøj i Tjenesteanliggender.
+Udvalget indstiller, at Prisstigningstillæget til Tjenestemænd, der benytter eget Motorkøretøj i Tjenesteøjemed fra 1. September d. A., og saa længe Benzinprisen er 1 Kr. pr. Liter, forhøjes til 10 Øre og 6 Øre henholdsvis for Automobiler og Motorcykler, samt at Taksten for udenbys Kørsel med Automobil for de Tjenestemænd, der modtager Betaling herfor, fra nævnte Dato og indtil videre forhøjes til 46 Øre pr. km., hvortil ikke ydes noget Tillæg.
+Indstillingen vedtoges.
+"	1945	9	20
+"81"	1945-09-20	"closed"	"19450920B_107.pdf"	8	"827-1945"	"Indstilling om Valg af et Medlem til Boliganvisningsudvalget i Stedet for afd. Viceskoleinspektør Aagaard.
+Lejerforeningen foreslaar at vælge Foreningens ny Formand Translatør Hj. Højbye.
+Tiltraadtes.
+"	1945	9	20
+"82"	1945-09-20	"closed"	"19450920B_107.pdf"	8	"10_12-1945"	"Indstilling om Valg af et Medlem til Fremlejenævnet for nordre Bydel.
+Opsynsbetjent Thorup Andersen valgtes med Inspektør Jens Nielsen som Suppleant.
+"	1945	9	20
+"83"	1945-09-20	"closed"	"19450920B_107.pdf"	8	"919-1945"	"Ansøgning fra Blikkenslager Jens Chr. Madsen om Autorisation som Gas- og Vandmester.
+Anbefalet af Belysningsudvalget.
+Bevilgedes.
+"	1945	9	20
+"84"	1945-09-20	"closed"	"19450920B_107.pdf"	8	"495-1945"	"Ansøgning fra Grosserer M. K. Jeppesen om Tilladelse til Salg af Smørrebrød fra Smørrebrødsvogne i Aarhus.
+"	1945	9	20
+"85"	1945-09-20	"closed"	"19450920B_107.pdf"	9	"495-1945"	"Bevillingsnævnet kan for Tiden ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1945	9	20
+"86"	1945-09-20	"closed"	"19450920B_107.pdf"	9	"550-1945"	"Ansøgning fra Kai Løntoft om Tilladelse til Stadeplads for Kaffevogne i Aarhus.
+Bevillingsnævnet kan for Tiden ikke anbefale Andragendet.
+Borgmesteren mente ikke, det var aktuelt i Øjeblikket, og skulde man engang have Kaffevogne, var der vist Stemning for, at en eller anden Institution skal nyde godt deraf.
+Kunde ikke bevilges.
+"	1945	9	20
+"87"	1945-09-20	"closed"	"19450920B_107.pdf"	9	"893-1945"	"Indstilling fra Slagtehusudvalget om at søge Landbrugsministeriets Autorisation for Afdelingsdyrlæge Hans Thomsen til Udøvelse af Kødkontrol paa Slagtehuset.
+Tiltraadtes.
+"	1945	9	20
+"88"	1945-09-20	"closed"	"19450920B_107.pdf"	9	"921-1945"	"Indstilling om Salg af ca. 300 m2 ved Grønnegades Forlængelse til Direktør Aksel M. Jensen.
+Fra Stadsingeniøren forelaa Forslag om at sælge Arealet paa følgende Betingelser:
+1.Grunden overtages, som den henligger. For den Dels Vedkommende, der er udlejet til Kolonihaver, saa snart disse kan frigøres efter 1. November d. A.
+2.Kommunen bestemmer selv, naar Grønnegade skal fortsættes videre mod Nord.
+3.Naar Kommunens Restareal af Matr. Nr. 1836 ø til sin Tid afgraves, skal den nu købte Parcel afgraves efter nærmere Projekt, saaledes at skrænten drejes tilbage svarende til den foretagne Afgravning paa Matr. Nr. 1836 ø, saaledes at der ikke mellem Bogtrykkeriet og de senere udstykkede Parceller bliver en Vold.
+"	1945	9	20
+"89"	1945-09-20	"closed"	"19450920B_107.pdf"	10	"921-1945"	"4.Ved Købet betales 8 Kr. pr. m2.
+5.Ved Gadens Anlæg betale Bogtrykkeriet sin Andel med 10 Kr. pr. m2.
+6.Naar Nabogrunden afgraves, foretager Kommunen tillige den nærmere aftalte Afgravning af den nu solgte Parcel. Bogtrykkeriet betaler efter Opgørelse sin Andel af Afgravningen.
+7.Betalingen efter Punkt 4, 5 og 6 betales kontant eller afdragsvis efter Kommunens Regler for Salg af disse Grunde eller Betaling af Vejbidrag.
+8.løvrigt foreslaas Kommunens Servituter for Industriarealer til lettere Brug.
+Til Orientering oplyses, at Afgravningen under Punkt 6 maa anslaas til mindst 12 å 15 Kr, pr. m2, hvorfor den samlede Pris bliver temmelig stor.
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse.
+Indstillingen vedtoges.
+"	1945	9	20
+"90"	1945-09-20	"closed"	"19450920B_107.pdf"	10	"116-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om, at Kommunen betaler hele Boligindskudet paa 1.150 Kr. for Malersvend A. M. Nielsen til Lejlighed i Det sociale Boligbyggeri.
+Tiltraadtes.
+"	1945	9	20
+"91"	1945-09-20	"closed"	"19450920B_107.pdf"	10	"116-1945"	"Andragende om Garanti for Laan til Boligindskud i det sociale Boligbyggeri fra:
+a.Litograf Peter Nielsen.
+b.Havnearbejder P. M. Kastberg.
+c.Murersvend G. M. Johansen.
+d.Bogbinder Jens L. Jensen.
+2.Behandling.
+Indstillingen vedtoges.
+"	1945	9	20
+"92"	1945-09-20	"closed"	"19450920B_107.pdf"	11	"116-1945"	"Andragende fra Jord- og Betonarbejder A. O. Christensen om Garanti for Laan til Boligindskud i Det sociale Boligbyggeri.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler at yde Garanti for et Laan paa 700 Kr.
+Overgik til 2. Behandling.
+"	1945	9	20
+"93"	1945-09-20	"closed"	"19450920B_107.pdf"	11	"29_16-1945"	"Fastsættelse af Pension til Enken efter fhv. Brandmand N. J. Jørgensen.
+Pensionen fastsattes til 1.200 Kr.
+"	1945	9	20
+"94"	1945-09-20	"closed"	"19450920B_107.pdf"	11	"915-1945"	"Indstilling fra Budgetudvalget om, at der bevilges et Bidrag paa 1.000 Kr. til Dewing-Gaven.
+Indstillingen vedtoges.
+"	1945	9	20
+"95"	1945-09-20	"closed"	"19450920B_107.pdf"	11	"record_id unknown"	"Borgmesteren meddelte, at der paatænktes at faa en Udstilling \"Amerika bygger\" til Aarhus. Den havde haft stor Succes i København. Det var foreslaaet at stille Raadhushallen til Disposition, og det var ikke Meningen, det skulde koste Kommunen noget, da der fra privat Side var stillet 5.000 Kr. til Raadighed. Imidlertid vilde Udgiften nok blive noget større, og Taleren vilde da foreslaa, at Byen bevilger et lignende Beløb.
+I.C. Sørensen kunde tiltræde Forslaget, da der fra privat Side var ydet samme Bidrag.
+K. Mousten antog ikke, man fra Flertallets Side havde noget derimod.
+Det vedtoges at bevilge 5.000 Kr. til Udstillingen."	1945	9	20
+"96"	1945-09-20	"open"	"19450920_137.pdf"	1	"no related record"	"Mødet den 20. Septbr. 1945.
+Fraværende: Esther Aggebo, G. Baunsgaard, Kai Blicher, Erna Hedtoft Larsen, Møller Rasmussen, Chr. Nielsen og Sigvald Nielsen.
+"	1945	9	20
+"97"	1945-09-20	"open"	"19450920_137.pdf"	1	"11_33-1945"	"Indenrigsministeriets Godkendelse af Købekontrakt med Isenkræmmer S. A. Pedersen.
+Toges til Efterretning.
+"	1945	9	20
+"98"	1945-09-20	"open"	"19450920_137.pdf"	1	"805-1945"	"Meddelelse fra Undervisningsministeriet om, at der er bevilget Overlærer K. Mousten Afsked med Pension fra 31/10 1945.
+Toges til Efterretning.
+"	1945	9	20
+"99"	1945-09-20	"open"	"19450920_137.pdf"	1	"764-1945"	"Indstilling fra Budgetudvalget om Bevilling af 5.988 Kr. til Fonden til Fædrelandets Vel.
+Udsattes.
+"	1945	9	20
+"100"	1945-09-20	"open"	"19450920_137.pdf"	1	"848-1945"	"Indstilling fra Budgetudvalget om Bevilling af 700 Kr. til Dækning af et for Frihedsbevægelsens Bykomité opstaaet Underskud.
+Indstillingen vedtoges.
+"	1945	9	20
+"101"	1945-09-20	"open"	"19450920_137.pdf"	1	"834-1945"	"Indstilling fra Vejteknisk Udvalg om Tillægsbevilling paa 2.200 Kr. til Installation af Oliefyr m. v. ved Rensningsanlæget i Riis Skov.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	9	20
+"102"	1945-09-20	"open"	"19450920_137.pdf"	2	"816-1945"	"Indstilling fra Slagtehusudvalget om Bevilling af 35.000 Kr. til ekstraordinær Afskrivning paa Grund af Nedrivning af Garagebygninger og Gødningshus ved Slagtehuset.
+Indstillingen vedtoges.
+"	1945	9	20
+"103"	1945-09-20	"open"	"19450920_137.pdf"	2	"845-1945"	"Indstilling fra Sygehusudvalget om Bevilling paa 8.000 Kr. til Deling af 4 Værelser iKommunehospitalets Køkkenbygning til Bolig for Husassistenter.
+K. Mousten oplyste, at Husassistenterne nu boede to sammen, men man vilde gerne skaffe dem et Værelse hver, og ved denne Deling kunde der blive 8 gode Værelser.
+Indstillingen vedtoges.
+"	1945	9	20
+"104"	1945-09-20	"open"	"19450920_137.pdf"	2	"951-1945"	"Indstilling fra Vandværket angaaende Sløjfning af Branddamme.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Idet man i Overensstemmelse med Vandværkets Forslag tiltræder, at de forskellige Arbejder, der er udført vedrørende Søerne i Universitetsparken, bibeholdes, skal man iøvrigt indstille, at samtlige Branddamme sløjfes, saaledes at Sløjfningen foregaar som nærmere foreslaaet i Stadsingeniørens og Brandkommissionens Indstilling.\"
+Indstillingen vedtoges.
+"	1945	9	20
+"105"	1945-09-20	"open"	"19450920_137.pdf"	2	"751-1945"	"Indstilling fra Brandkommissionen om Udvidelse af Brandstationens Styrke.
+Fra Brandkommissionen forelaa Forslag om Udvidelse af Stationsstyrken med 4 Mand, idet dog Møller Rasmussen forbeholder sig sit Standpunkt.
+Budgetudvalget indstiller, at Stationsstyrken udvides med 2 Mand.
+"	1945	9	20
+"106"	1945-09-20	"open"	"19450920_137.pdf"	3	"751-1945"	"Jens Jensen udtalte, at Budgetudvalgets Indstilling var ikke tilfredsstillende hverken for Brandkommissionen eller for Brandvæsenet. Man havde i flere Møder diskuteret den Kritik, der var rejst mod Brandvæsenet for dets Optræden ved nogle store Brande, og om det var nødvendigt at faa en Udvidelse af Mandskabet, og det var resulteret i, at man foreslog at beholde 3 af de Sporvognschauffører, som en Tid havde været beskæftiget ved Brandvæsenet, og 1 Reservemand, altsaa 4 ialt, men nu havde Budgetudvalget halveret dette Tal, og det vilde Taleren tage Afstand fra. Siden 1937 var den faste Styrke kun steget med 4 Mand og Reserven med 1 Mand; det var kun en Stigning paa 6 % i de 7 Aar, og Brandkommissionens Indstilling var derfor fuldt forsvarlig.
+S.Lauritsen vilde som Brandmand meget beklage, at Budgetudvalget var gaaet imod Brandkommissionens Indstilling. Brandvæsenets Udvidelse havde været ganske minimal i Forhold til Byens Udvikling, og det var i høj Grad paakrævet at udvide Styrken med de foreslaaede 4 Mand, hvis man ikke vilde gaa til 7, hvilket Taleren helst saa. Man blev nødt til at tage lidt mere Hensyn til Aarhus Brandvæsen, baade m. H t. Mandskab, Materiel og Station. Materiellet var meget forældet, og det skyldtes kun de udmærkede Maskinfolk, at man havde kunnet klare sig igennem de vanskelige Aar med det gamle Materiel. Brandstationen laa paa et uheldigt Sted, og det burde overvejes at bygge en ny Afdeling ude paa Frederiksbjerg, hvis man ikke vilde afhænde den gamle og bygge en helt ny Fællesstation paa et centralt Sted. Den gamle Station var smuk nok at se paa, men meget upraktisk.
+"	1945	9	20
+"107"	1945-09-20	"open"	"19450920_137.pdf"	4	"751-1945"	"Man kunde ikke sammenligne Aarhus med Frederiksberg, idet man der kunde tilkalde Københavns Brandvæsen, hvis det blev nødvendigt. Man kunde nok her tilkalde Zonen og Falck, men det betød ikke meget ved en Storbrand. Personlig vilde Taleren foreslaa, at Sagen gaar tilbage til fornyet Overvejelse.
+K. M o u s t e n erkendte, at Brandvæsenet ikke havde faaet nogen større Udvidelse i de senere Aar, men hvad det faste Mandskab angaar, saa stod man stærkt i Forhold til andre Byer. Dernæst burde man benytte Falck og Zonen i højere Grad, end Brandvæsenet hidtil havde været inde paa; det var meningsløst ikke at gøre dette, naar de nu engang fandtes i Byen, og det havde været Motivet for Talerens Stilling.
+J. R. F a n g e r oplyste, at det var under Over-Overvejelse at nedsætte en Kommission til at behandle Spørgsmaalet om Brandvæsenet for hele Landet, og det vilde maaske resultere i, at det bliver et Rigsbrandvæsen. Derfor burde eventuelle Udvidelser vente lidt, idet Kommissionen nok vilde komme snart efter Valget. De, som havde den største Interesse i et godt Brandvæsen, var Brandforsikringsselskaberne, og de burde yde noget mere dertil. Angaaende Hr. Lauritsens Udtalelser vilde Taleren hævde, at ingen By havde et bedre Brandvæsen end Aarhus; man havde en udmærket ny Stige, en ny Sprøjte, nye Paahængssprøjter m. v., og Taleren vilde tilbagevise Paastanden om, at Materiellet ikke er tidssvarende. Aarhus var heller ikke stor nok til 2 Brandstationer, og det var rigtigt, at man m. H. t. det faste Mandskab stod bedre end de fleste Byer. Der var i Brandkommissionen for saa vidt Enighed om at foreslaa 4 Mand mere,
+"	1945	9	20
+"108"	1945-09-20	"open"	"19450920_137.pdf"	5	"751-1945"	"men naar Budgetudvalget kun vilde gaa med til 2Mand, burde man sige Tak derfor, og saa kunde man maaske senere faa 2 mere.
+Borgmesteren bemærkede, at det altid var et vanskeligt Spørgsmaal, hvor man skulde sætte Grænsen; men efter de Oplysninger, der blev givet i Budgetudvalget, mente man, at det var rimeligt at se Tiden lidt an. Taleren havde ogsaa det Indtryk, at man fra sagkyndig Side mente at kunne klare sig med 2 Mand foreløbig. Der var sikkert Enighed om, at Byen skal have det bedst mulige Brandvæsen, men man foregreb næppe noget ved at antage den foreslaaede Udvidelse paa 2 Mand, og Byraadet vilde sikkert da være lydhør overfor senere velmotiverede Krav. Taleren vilde altsaa foreslaa, at man tager det efterhaanden og i Dag nøjes med 2 Mand.
+Jens Jensen kunde ikke indrømme, at Aarhus laa bedst af alle Byer m. H. t. det faste Mandskab. Man maatte ogsaa tage i Betragtning, at i de sidste 7 Aar var Beboelsernes Antal steget med 5 % og Folketallet med 11 % og saa kom den Tid, hvor det ogsaa blev nødvendigt at udvide Brandvæsenet.
+Budgetudvalgets Indstilling vedtoges.
+"	1945	9	20
+"109"	1945-09-20	"open"	"19450920_137.pdf"	5	"814-1945"	"Andragende fra Andr. Petersen om Koncession paa en Omnibusrute Har. Jensens Plads-Filtenborgs Plads-Moesgaard Strand.
+Vejteknisk Udvalg kan ikke anbefale Andragendet, saa længe Vognmand Gaarsdal har Tilladelse til at drive Ruten til Moesgaard.
+Kunde ikke bevilges.
+"	1945	9	20
+"110"	1945-09-20	"open"	"19450920_137.pdf"	5	"820-1945"	"Indstilling fra Decisionsudvalget angaaende Decision af Kommunens Regnskab for 1941-42.
+"	1945	9	20
+"111"	1945-09-20	"open"	"19450920_137.pdf"	6	"820-1945"	"Følgende Indstilling forelaa:
+\"Decisionsudvalget har gennemgaaet de af Revisionskontoret og de kommunale Revisorer fremsatte Antegnelser og Rettelser til Regnskabet for Regnskabsaaret 1941-42.
+Gennemgangen har ikke givet Anledning ti! særlige Bemærkninger, og Regnskabet indstilles til Byraadets Decision.
+Det henstilles dog, at der senest ultimo 1945-46 af Skolevæsenet tages Stilling til, hvilke Tilgodehavender vedrørende Studielaan der maa anses for at være uerholdelige.\"
+Oluf Nielsen forelagde Indstillingen. Naa man gjorde denne Henstilling, var det ikke forr at øve Kritik, men en Del Laan var over 25 Aar gamle, og de paagældende kunde maaske ikke betale dem, for nogles Vedkommende fandtes der ikke engang et Laanebevis; det var derfor rigtigst at faa en Afskrivning af de Beløb, som maatte anses for uerholdelige.
+K. Mousten lovede, at Skoleudvalget skal se derpaa.
+Indstillingen tiltraadtes.
+"	1945	9	20
+"112"	1945-09-20	"open"	"19450920_137.pdf"	6	"799-1945"	"Forslag fra Stadsingeniøren til Forlig angaaende Afgivelse af Areal til Udvidelse af Grumstolsvej.
+Følgende Forslag forelaa:
+\"Efter Anmodning har Afdelingsingeniør Erling H. Pedersen sammen med Markforvalteren repræsenteret Aarhus Kommune ved Ekspropriationsforhandlingerne om Afgivelse af Areal fra Grumstolen til den ny Grumstolsvej, der som vist paa vedlagte Plan skærer det
+"	1945	9	20
+"113"	1945-09-20	"open"	"19450920_137.pdf"	7	"799-1945"	"nordøstre Hjørne af Grumstolens Areal. Efter det med Forbehold af Byraadets Approbation indgaaede Forlig modtager Kommunen for de afgivne Arealer, ca. 1.589 m2, 1 Kr. pr. m2, hvilken Pris maa betragtes som ret rimelig, idet Ejendommens Grundskyld udgør ca. 30 Øre pr. m2.
+Efter Vejens Istandsættelse vil Grundejerne, herunder Aarhus Kommune blive paalagt Bidrag til Vejens Istandsættelse og Overtagelse som offentlig Vej i Overensstemmelse med Holme-Tranbjerg Kommunes Vejvedtægt; nærmere Meddelelse herom vil fremkomme, naar Beløbet er beregnet. Det vil blive fastslaaet paa Grundlag af ca. 50 Kr. pr. Ib. m Facade, idet der dog ved Fordelingen tages Hensyn baade til Facadelængde og Grunddybde. Denne Paaligning forudsætter, at Holme-Tran-bjerg betaler en Del af Vejanlæget.
+Jeg skal foreslaa, at Byraadet giver sin Tilslutning til det foreslaaede Forlig.\"
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse.
+Indstillingen tiltraadtes.
+"	1945	9	20
+"114"	1945-09-20	"open"	"19450920_137.pdf"	7	"948-1945"	"Indstilling fra Lønudvalget om Forhøjelse af Reguleringstillæg m. v.
+Følgende Indstilling forelaa:
+Reguleringstillægget til Aarhus Kommunes og Aarhus Havns Tjenestemænd med tilbagevirkende Kraft fra 1. April 1945 at regne ydes efter følgende Skala:
+"	1945	9	20
+"115"	1945-09-20	"open"	"19450920_137.pdf"	8	"948-1945"	"Aarlig lønning
+Aarligt Reguleringstillæg
+Gifte Mænd og dermed ligestillede
+Andre Tjenestemænd over 40 Aar 
+Alle øvrige Tjenestemænd
+Under 1500 Kr. 149 %1087o97®/o
+1500 -1799-2304,00Kr1664,04Kr.1488,00Kr.
+1800 -2999-2388,00-1720,08-1532,04-
+3000 -4499-2424,00-1744,08-1544,04-
+4500 -5999-2700,00-1944,00-1728,00-
+6000 -7499-2748,00-1976,04-1744.08-
+7500 -8999-3024,00-2176,08-1928,04
+9000 -10499-3312,00-2384,04-2116,08-
+10500 Kr. og dero.3612,00-2600,04-2308,08-
+For de Tjenestemænd, med hvis Stilling der er forbundet Ophold med Forplejning m. v., afkortes Lønnen med et Vederlag herfor paa 750 Kr. aarlig, hvilket Beløb forhøjes med 25 Kr. for hver Portion, hvormed Reguleringstillægget ydes, jfr. Tjenestemandsvedtægtens § 23, Stk. 2. Den foran omhandlede Forhøjelse af Reguleringstillægget vil derfor medføre, at Opholdsvederlaget, der for Tiden udgør 1300 Kr. aarlig, skal forhøjes med 100 Kr. aarlig til i alt 1400 Kr. aarlig. Det bemærkes, at langt den overvejende Del af de Tjenestemænd, der har Ophold med Forplejning, nemlig Sygeplejepersonalet, betaler Opholdsvederlag efter de for Statens Tjenestemænd gældende Regler og derfor ikke berøres af det foran nævnte efter Tjenestemands-Vedtægten fastsatte Opholdsvederlag, Der foreligger ikke paa nuværende Tidspunkt Oplysning om, hvorvidt der vil blive
+"	1945	9	20
+"116"	1945-09-20	"open"	"19450920_137.pdf"	9	"948-1945"	"foretaget nogen Ændring af det i Staten for Tiden gældende Opholdsvederlag.
+Dyrtidstillægget til Aarhus Kommunes og Aarhus Havns Pensionister med tilbagevirkende Kraft fra 1. April 1945 ydes efter følgende Skala:
+Aarligt Dyrtidstillæg Aarlig Pension Gifte Mænd “ j ~~
+dermed ligestillede ivnge
+Under 1500 Kr.111°/o82! s %
+1500-1799Kr.j1H9U.00Kr.125(5,04Kr.
+1800-4499-1728,00-1280,04-
+4500-7499-1944,00-1440,00-
+7500-8999-|2160,00-_____________1600,08-
+Konjunkturtillægget med tilbagevirkende Kraft fra 1. April 1945 ydes efter følgende Skala:
+IAarligtKonjunkturtillæg
+Aarlig Lønning Gifte Mænd ' Andre
+og dermed j.A.Alleøvrige
+sover 40 AarB
+ligestillede
+Under 1500 Kr. 118 %!93a/s 7o822/i °/o
+1500-1799-1788,00Kr.;1422,00Kr.1246,08Kr.
+1800 -2999-1824,00-:1454,04-1266 00-
+3000 -4499-1824,00-1460,04-1260,00
+4500 -5999-2040,00-;1630,08-1414,08-
+6000 -7499-2040,00-j1638,00-1406,04
+7500 -•8999-2256,00-!1808,04-1560,00-
+9000 -10499•2472,00-1980,00-1712,04-
+10500 Kr. og derover2688.00-j2154,00-1862,04
+Dyrtidstillægget til Opsynskvinder ved Nød-tørftsanstalterne og Parkvæsenet med tilbagevirkende Kraft fra 1. April 1945 ydes efter følgende Skala:
+"	1945	9	20
+"117"	1945-09-20	"open"	"19450920_137.pdf"	10	"948-1945"	"LønDemedgifteMænd
+_Alle øvrige Opsyn
+ligestillede Opsynr-
+Maanedsløn 125 Kr. 128 Kr. pr. Maaned 1(J5,34 Kr. pr. Maaned
+Dagløno-' 512 Øre pr. Dag421 Øre pr. Dag
+Timeløn67 Ørei 74 Øre pr. Time62 Øre pr. Time
+De nævnte Forhøjelser vil medføre en Merudgift til Lønninger og Pensioner paa ca. 750,000 Kr. for indeværende Regnskabsaar.
+Indstillingen vedtoges.
+"	1945	9	20
+"118"	1945-09-20	"open"	"19450920_137.pdf"	10	"949-1945"	"Indstilling fra Lønudvalget om Forhøjelse af Dyrtidstillæg til Honorarlønnede.
+Udvalget indstiller, at de Tillæg, som ydes visse honorarlønnede Personer m. fl. i Kommunens Tjeneste med tilbagevirkende Kraft fra 1. April d. A. forhøjes med 5 % af de paagældende Honorarer.
+Indstillingen vedtoges.
+"	1945	9	20
+"119"	1945-09-20	"open"	"19450920_137.pdf"	10	"883-1945"	"Anmodning fra Vejteknisk Udvalg om Efterbevilling af 950,26 Kr. til Anlæg af Vej og Ledninger til Universitetets Kollegium V.
+Tiltraadtes.
+"	1945	9	20
+"120"	1945-09-20	"open"	"19450920_137.pdf"	10	"882-1945"	"Anmodning fra Vejteknisk Udvalg om Efterbevilling af 627,56 Kr. til Lægning af udvendige Kloakledninger til Universitetets Hovedbygning.
+Tiltraadtes.
+"	1945	9	20
+"121"	1945-09-20	"open"	"19450920_137.pdf"	10	"950-1945"	"Anmodning fra Vandværksudvalget om Efterbevilling til Boringer med 2719,65 Kr. og til Udvidelse af Vandindvindingsanlæg med 1880,28 Kr.
+Tiltraadtes.
+"	1945	9	20
+"122"	1945-09-20	"open"	"19450920_137.pdf"	11	"3_24-1945 og 3_23-1945 og 3_25-1945 og 3_28-1945 og 3_32-1945 og 3_30-1945 og 3_12-1945 og 3_31-1945"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_24-1945). Byraadet, Borgmesterembe-
+det og Byraadskontoret.
+b.(J. Nr. 3_23-1945). Begravelsesvæsenet.
+c.(J. Nr. 3_25-1945). Markvæsenet.
+d.(J. Nr. 3_28-1945). Mindeparken.
+e.(J. Nr. 3_32-1945). Raadhusets Færdiggørelse.
+f.(J. Nr. 3_30-1945). Raadhusforvaltningen.
+g.(J. Nr. 3_12-1945). Skolevæsenet.
+h.(J. Nr. 3_31-1945). Vandværket.
+Borgmesteren pegede paa, at der var flere store Besparelser, f. Eks. paa Begravelsesvæsenets Konto, og det kunde tyde paa, at dette Budget var lagt for rigeligt. Ligeledes var der en stor Besparelse paa Skolevæsenets Budget. Efterbevilling meddeltes.
+"	1945	9	20
+"123"	1945-09-20	"open"	"19450920_137.pdf"	11	"11_41-1945"	"Betinget Skøde med Firmaet Lindholst &amp;amp; Co.s Maskinfabrik angaaende et Areal ved Finlandsgade.
+Godkendtes.
+"	1945	9	20
+"124"	1945-09-20	"open"	"19450920_137.pdf"	11	"11_40-1945"	"Købekontrakt med Murermester Th. P. Rasmussen angaaende en Grund ved Otto Sverdrups Vej.
+Godkendtes.
+"	1945	9	20
+"125"	1945-09-20	"open"	"19450920_137.pdf"	11	"record_id unknown"	"Borgmesteren meddelte, at der var kommet en Henvendelse fra Ungdomsorganisationerne i Aarhus om at nedsætte et Ungdomsnævn, der skal være en Slags Formidler mellem Byraadet og Ungdomsorganisationerne. Nævnet skulde bestaa af Repræsentanter for disse samt for Byraadet.
+I. C. Sørensen oplyste, at den konservative Gruppe saa med Sympati paa Forslaget om at nedsætte et saadant Ungdomsnævn. Det var maaske ikke nogen god Betegnelse, idet det kunde forveksles med Ungdomsskolenævnet, hvorfor det var bedre at kalde det for Ungdomsudvalg"	1945	9	20
+"126"	1945-09-20	"open"	"19450920_137.pdf"	12	"record_id unknown"	"eller lignende. Tanken havde været fremme flere Gange, ogsaa under Besættelsen, hvor Ungdomssamvirket havde løst denne Opgave, men man vidste jo ikke, om det kunde vedblive at holde sammen. Ungdomssamvirket bestod forøvrigt ikke af alle Organisationer, idet K. F. U. M. og K. ikke var med, og skulde man have et Ungdomsudvalg, maatte de to Foreninger ogsaa være med. Det vanskeligste var maaske at faa samlet en snæver Ledelse af Udvalget, da der fandtes saa mange forskellige Organisationer, lige fra politiske til religiøse og Afholdsorganisationer, men der kunde maaske tænkes en Form som ved de samvirkende Idrætsklubber med et Repræsentantskab som vælger en Bestyrelse, og den bliver saa suppleret med Repræsentanter for Byraadet.
+Borgmesteren havde deltaget i et Møde af Repræsentanter for flere Organisationer, og der kom lignende Tanker frem, som Landsretssagføreren her udtalte. Formaalet med at vælge et saadant Udvalg var nærmere præciseret af D. S. U., som havde rejst Sagen.
+I. C. Sørensen antog, der vilde komme et Lovforslag om hele Ungdomsspørgsmaalet, naar den nye Rigsdag træder sammen, og det kunde maaske resultere i et Statsungdomsudvalg. Naar Rigsdagen havde drøftet Sagen, kunde Byraadet maaske drøfte Sammensætningen af et Udvalg.
+Det tiltraadtes, at Byraadet gaar ind for Tanken om et Ungdomsudvalg under en Form, som der senere vil fremkomme Forslag om."	1945	9	20
+"127"	1945-09-27	"closed"	"19450927B_119.pdf"	1	"no related record"	"Mødet den 27. Septbr. 1945.
+(For lukkede Døre).
+Fraværende: G. Baunsgaard. Niels Laursen, Ejner Mikkelsen og Sigvald Nielsen.
+"	1945	9	27
+"128"	1945-09-27	"closed"	"19450927B_119.pdf"	1	"99_36--1945"	"Andragende fra Boligforeningen Ringgården om Statslaan til 2 Blokbebyggelser i Møllevangen. - 2. Behandling.
+Indstillingen vedtoges.
+"	1945	9	27
+"129"	1945-09-27	"closed"	"19450927B_119.pdf"	1	"99_50-1945"	"Andragende fra Tømrermester P. B. Kjeldsen om Statslaan med Kommunegaranti for en Beboelsesbygning Tage Hansens Qade 15.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler et Statslaan paa 81.400 Kr. med Kommunegaranti for 26.341 Kr.
+Overgik til 2. Behandling.
+"	1945	9	27
+"130"	1945-09-27	"closed"	"19450927B_119.pdf"	1	"99_49-1945"	"Andragende fra Tømrermester P. B. Kjeldsen om Statslaan med Kommunegaranti til en Beboelsesbygning Tage Hansens Qade 17.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler et Statslaan paa 53.700 Kr. med Kommunegaranti for 16.911 Kr.
+Overgik til 2. Behandling.
+"	1945	9	27
+"131"	1945-09-27	"closed"	"19450927B_119.pdf"	1	"99_44-1945"	"Andragendefra Tømrermester P. B. Kjeldsen  om Statslaan med Kommunegaranti til en Beboelsesbygning Rud. Wulffs Gade 10.
+"	1945	9	27
+"132"	1945-09-27	"closed"	"19450927B_119.pdf"	2	"99_44-1945"	"Udvalget for Byens Udvidelse og Bebyggelse anbefaler et Statslaan paa 48.800 Kr. med Kom-munegaranti for 15.082 Kr.
+Overgik til 2. Behandling.
+"	1945	9	27
+"133"	1945-09-27	"closed"	"19450927B_119.pdf"	2	"99_48-1945"	"Andragende fra Murermester M. Laugesen om Statslaan med Kommunegaranti til cn Beboelsesbygning Tage Hansens Gade 19.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler et Statslaan paa 79.800 Kr. med Kommunegaranti for 24.257 Kr.
+S.Lauritsen oplyste, at der var rejst Kritik af Laugesens Arbejde i de Huse. han havde opført, og Taleren havde sammen med Murermesterforeningens og Tømrermesterforeningens Formænd været anmodet om som Skønsmand at besigtige hans sidst byggede Hus. Det var foranlediget af Indenrigsministeriets Sagkyndige, Arkitekt Axel Skou, som havde udtalt, at han under ingen Omstændigheder vilde være med til at anbefale Udbetaling af Statslaan paa Grund af den daarlige haandværksmæssige Udførelse af hele Arbejdet. Laugesen havde bygget en Del Ejendomme i Aarhus, og de var alle daarlige, men den sidste var under Lavmaalet. Nu havde Stadsarkitekten anbefalet Statslaan og det var en Fejl, men han havde vel ikke været vidende om dette Forhold; Taleren vilde derfor henstille, at Sagen gaar tilbage tii nærmere Undersøgelse.
+Borgmesteren fandt det af stor Interesse at høre en sagkyndig Udtalelse om Murermester Laugesens Arbejde, idet der var Planer om flere Huse, som han skulde bygge. Taleren havde ikke troet, det var saa slemt med Laugesen; men her var rejst et principielt Spørgsmaal, om hvorvidt man helt skulde nægte ham Statslaan for fremtidigt Byggeri; det var Byraadet næppe
+"	1945	9	27
+"134"	1945-09-27	"closed"	"19450927B_119.pdf"	3	"99_48-1945"	"forberedt paa at tage Stilling til straks, hvorfor Sagen vilde blive udsat til nærmere Behandling.
+S. Lauritsen havde ikke noget personlig udestaaende med Laugesen, men havde set mange af hans Huse og havde haft den Opfattelse, at han var en daarlig Bygningshaandværker. Naar saa Skønsmændene her var enige med Arkitekten i at nægte Udbetaling af Statslaan, var der jo ikke megen Mening i at bevilge ham yderligere Laan. Man burde maaske gøre ham opmærksom paa, at han maa tage Skeen i en anden Haand eller helt holde op med at bygge.
+Sagen udsattes.
+"	1945	9	27
+"135"	1945-09-27	"closed"	"19450927B_119.pdf"	3	"99_14-1945"	"Andragende fra Det sociale Boligbyggeri om Forhøjelse af Garanti for Statslaanet i Foreningens Blok 5 ved Vestre Ringgade.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at Kommunens Kaution for Statslaanet vedstaas, uanset at det Beløb, for hvilket Kommunen skal kautionere, bliver 238.971 Kr. mod oprindelig 237.405 Kr.
+Overgik til 2. Behandling.
+"	1945	9	27
+"136"	1945-09-27	"closed"	"19450927B_119.pdf"	3	"116-1945"	"Andragende fra Jord- og Betonarbejder A. O. Christensen om Garanti for Laan til Boligindskud i Det sociale Boligbyggeri. - 2. Behandling.
+Indstillingen vedtoges.
+"	1945	9	27
+"137"	1945-09-27	"closed"	"19450927B_119.pdf"	3	"116-1945"	"Andragende om Garanti for Laan til Boligindskud i Det sociale Boligbyggeri.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler følgende Laan:
+a.Havnearb. P. M. P. Kastberg, 750 Kr.
+b.Maskinarb. Poul E. Jensen, 1150 Kr.
+c.Havnearb. Kai B. Andersen, 1150 Kr.
+Overgik til 2. Behandling.
+"	1945	9	27
+"138"	1945-09-27	"closed"	"19450927B_119.pdf"	4	"8_6-1945"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat.
+Kommissionen foreslaar følgende Efterbetalinger:
+Direktør Hjalmar Nielsen, Strandvej 142........................... 19.938,97 Kr.
+Købmand Theodor Schmidt, Thorvaldsensgade15.................2.772,60\":
+Købmand Aksel P. Sørensen, Frederiks Alle109 - 111............4.200,00\"
+Restauratør N. P. M. Hvid, Frederiksgade 3..................2.475,00\"
+Købmand A. P. V. Grosen, Odensegade 27 ........................2.000,00\"
+Restauratrice Frk. E. M. Haugaard, Studsgade 64-66 ................1.480,00\"
+Restauratrice Enkefru A. K. Sørensen, Skovvej 23 ..................1.419,60\"
+Skrædermester J. J. H. Jensen, C. Bertelsensgade 10 ...........1.354,10\"
+Snedkermester T. C. V. Pedersen, Marstrandsgade 19...............1.150,00\"
+Repræsentant P. R. Hansen, Chr. Wærumsgade 15...................753,70\"
+Møbelfabrikant J. C. Madsen, Strandvej 60 ...................700,00\"
+Købmand C. N. Lund, Kystvej 51 698,90\"
+Enkefru E. Frandsen, Vester Alle 20..............................663,88.
+Købmand Alfr. Dahl, Skolevangsalle 27, Risskov..................530,00\"
+Murersv. S. Jacobsen, Kaserneboulevard 7 ......................433,60\"
+Prosektor K. A. Lorentzen, Skovvangsvej 214......................420,00\"
+"	1945	9	27
+"139"	1945-09-27	"closed"	"19450927B_119.pdf"	5	"8_6-1945"	"Uddeler H. P. T. Hansen, Sølystgade 19............................339,00Kr.
+Vognmand J. P. Ulrich, Tøndergade 4 ............................330,70\"
+Arbmd. C. O. J. Nielsen, Tordenskjoldsgade 36 ....................285,00\"
+Remisearb. A. P. B. Sørensen, Jægergaardsgade 12 ..............145,60\"
+Frugthandler H. T. Iversen, Frederiksgade 20 .....................80,00\"
+Dødsboet efter: Trykkeriejer Enkefru A. M. K. Rei-mann Rasmussen, Kystvej 37..12.697,00\"
+Landsretssagfører Holger Christensen, Skovvej 44 E..............8.764,80\"
+Erhvervsskat vedrørende: Ekviperingshandler A. C. P. Dahl, Skolevangsalle 27, Risskov . ..2.950,00\"
+Enkefru Mary Nielsen, Yrsavej 1, Aabyhøj..........................1.382,17\"
+Direktør Georg Nielsen, Vestre Boulevard 45, København ....519,79\"
+Ialt ... .68.484,41Kr.
+Tiltraadtes.
+"	1945	9	27
+"140"	1945-09-27	"closed"	"19450927B_119.pdf"	5	"996-1945"	"Forespørgsel fra Hotelejer C. Jul. Sørensen, \"Ansgar\", om eventuel Køb af et Areal ved Skovgaardsgades Forlængelse.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Det indstilles, at den paagældende Grund tilbydes Hotel \"Ansgar\" til en Pris af 150 Kr. pr. m2, saaledes at der betales for det nødvendige Areal, 555 m2, og saaledes at Kommunens
+"	1945	9	27
+"141"	1945-09-27	"closed"	"19450927B_119.pdf"	6	"996-1945"	"niunens Vilkaar for Salg af Grunde til høj Bebyggelse i det paagældende Kvarter iøvrigt skal være gældende, ligesom man indstiller, at Salget sker i Overensstemmelse med Stadsarkitektens Indstilling.
+Indstillingen tiltraadtes.
+"	1945	9	27
+"142"	1945-09-27	"closed"	"19450927B_119.pdf"	6	"983-1945"	"Tilbud fra A/S Jyllands Papirværk om Køb af et Areal paa ca. 15.000 m'2 mellem Vestre Ringgade og Jens Baggesens Vej.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Idet man vedlægger en Plan, paa hvilken den paagældende Grund er vist, ska! man indstille, at Tilbudet fra Jyllands Papirværk paa en Pris af 20 Kr. pr. m2 modtages med de Forbehold, der følger af Stadsingeniørens Erklæring.\"
+Indstillingen tiltraadtes.
+"	1945	9	27
+"143"	1945-09-27	"closed"	"19450927B_119.pdf"	6	"629-1945"	"Ansøgning fra Vognmand Dam Andersen om Tilladelse til at rnaatte benytte Vognmand Søren Skous Taxa-Holdeplads.
+Politimesteren og Vejteknisk Udvalg tiltræder, at Dam Andersen faar Tilladelse til at benytte Vognmand Skous Holdeplads med Andersens Vogn X 148 for 1 Aar paa Betingelse af, at Vognmand Skou vedblivende er Medlem af Taxa.
+Tiltraadtes.
+"	1945	9	27
+"144"	1945-09-27	"closed"	"19450927B_119.pdf"	6	"29_10-1945"	"Andragende fra Opsynsmand ved Slagtehuset R. Rasmussen om Afsked med Pension paa Grund af Sygdom.
+Bevilgedes. Pensionen fastsattes til 2177,93 Kr. fra 1. Oktober 1945.
+"	1945	9	27
+"145"	1945-09-27	"closed"	"19450927B_119.pdf"	7	"976--1945"	"Indstilling fra Budgetudvalget om Ændring af Reglerne for Beregning af Dagpenge ved Tjenesterejser til København.
+Følgende Indstilling forelaa:
+\"Det indstilles, at Bestemmelsen om, at der for Rejse til København med 1 Dags Ophold altid beregnes Dagpenge for 3 Dage, ophæves fra 1. Oktober d. A. paa Grund af de forbedrede Forbindelser.\"
+Tiltraadtes.
+"	1945	9	27
+"146"	1945-09-27	"closed"	"19450927B_119.pdf"	7	"457-1945"	"Indstilling om Ansættelse af Frk. Bodil Møller som fast Vikar ved Aarhus Skolevæsen.
+Tiltraadtes.
+"	1945	9	27
+"147"	1945-09-27	"closed"	"19450927B_119.pdf"	7	"991-1945"	"Indstilling fra Socialudvalget om Bevilling af Brændselshjælp til Rentenydere m. v.
+Følgende Indstilling forelaa:
+\"Det indstilles, at der i Vinteren 1945-46 ydes Brændselshjælp til Alders- og Invalide-rentenydere, saaledes at der til Rentenydere, som efter de hidtil gætdende Regler er berettiget til fuld Brændselshjælp, ydes 10 hl Koks, 15 Sk. Stødbrænde, 2 Sk. Optændingspinde og 6 Sk. Kakkelovnsbrænde. De to sidstnævnte Arter af Brændselshjælpen fra Norge. Til Rentenydere, der har Centralvarme, foreslaas ydet kontant Brændselshjælp med 130 Kr.
+Rationer af denne Størrelse foreslaas ydet til Ægtepar og enlige, hvis Formue Ikke overstiger henholdsvis 2500 Kr. og 1500 Kr., og hvis Aarsindtægt ligger under de ved Renteberegningen anvendte fradragsfri Indtægtsbeløb, der for Tiden udgør f. Eks. 617 Kr. aarllg for Ægtepar, 409 Kr. aarlig for for enlige Mænd og
+"	1945	9	27
+"148"	1945-09-27	"closed"	"19450927B_119.pdf"	8	"991-1945"	"382 Kr. aarlig for enlige Kvinder med en Tilgangsalder paa 60 Aar.
+Endvidere indstilles, at der i Tilfælde, hvor de pnagældendes Indtægt og Formue overstiger fornævnte Grænser ydes en noget mindre Brændselsration, dog at der som Hovedregel ikke ydes Brændselshjælp, saafremt Formuen udgør mere end 6000 Kr. for Ægtepar og 4000 Kr. for enlige, og Indtægten (bortset fra Alders-og Invaliderenten) ikke overstiger 1000 Kr. aarlig for Ægtepar og 700 Kr. for enlige.
+Antallet af Rationer Naturaliebrændsel, der skal uddeles efter foranstaaende Regler, anslaas til 2600, og den samlede Udgift anslaas at ville udgøre ca. 295.625 Kr., der agtes afholdt i Medfør af Folkeforsikringslovens § 40, Stk. 5. Udgiften til kontant Brændselshjælp anslaas til 61.000 Kr., der agtes afholdt i Medfør af Lov Nr. 122 af 7. Maj 1937 § 32 for Aldersrentenydere og Folkeforslkringslovens § 40, Stk. 5, for Invaliderentenydere.
+Udgiften til Kørsel af Naturaliebrændsel anslaas til 51.300 Kr., der afholdes i Medfør af Folkeforsikringslovens § 79, Stk. 3.
+Endvidere indstilles, at der til alle brændselsberettigede Alders- og Invaliderentenydere i Oktober 1945 ydes en Ekstrahjælp paa 50 Kr. til enlige og 100 Kr. til Ægtepar. Udgiften hertil anslaas at ville udgøre 250.000 Kr., der agtes afholdt i Medfør af Folkeforsikringslovens § 40, Stk. 5.\"
+Indstillingen vedtoges.
+"	1945	9	27
+"149"	1945-09-27	"open"	"19450927_149.pdf"	1	"no related record"	"Mødel den 27. Septbr. 1945.
+Fraværende: G. Baunsgaard, Niels Laursen, Ejner Mikkelsen og Sigvald Nielsen.
+"	1945	9	27
+"150"	1945-09-27	"open"	"19450927_149.pdf"	1	"11_34-1945 og 11_37-1945"	"Indenrigsministeriets Godkendelse af 4 Købekontrakter med Boligforeningen Ringgaarden.
+Toges til Efterretning.
+"	1945	9	27
+"151"	1945-09-27	"open"	"19450927_149.pdf"	1	"11_31-1945"	"Indenrigsministeriets Godkendelse af Købekontrakt med Tømrer Sofus Christiansen.
+Toges til Efterretning.
+"	1945	9	27
+"152"	1945-09-27	"open"	"19450927_149.pdf"	1	"78-1945"	"Akcept fra Jydsk Teknologisk Institut paa Kommunens Tilbud paa en Grund for en Institutbygning mellem Dalgas Avenue og Fjordsgades Forlængelse.
+Toges til Efterretning.
+"	1945	9	27
+"153"	1945-09-27	"open"	"19450927_149.pdf"	1	"907-1945"	"Indstilling fra Vejteknisk Udvalg om Bevilling af 4,500 Kr. til Istandsættelse af en Sti ved Forrensningsanlæget i Riis Skov.
+Indstillingen vedtoges.
+"	1945	9	27
+"154"	1945-09-27	"open"	"19450927_149.pdf"	1	"884-1945"	"Indstilling fra Vejteknisk Udvalg om Bevilling paa 8.000 Kr. til Istandsættelse af en bombesprængt Kloakledning i Kystvejen.
+Indstillingen vedtoges.
+"	1945	9	27
+"155"	1945-09-27	"open"	"19450927_149.pdf"	2	"979-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Bevilling af 600 Kr. til Foranstaltninger mod Fugt i Graven 29.
+Indstillingen vedtoges.
+"	1945	9	27
+"156"	1945-09-27	"open"	"19450927_149.pdf"	2	"812-1945"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Bevilling af 7.500 Kr. til Indretning af 4 Husvildeboliger i Overlærerboligen ved Nørrebrogades Skole.
+Indstillingen vedtoges.
+"	1945	9	27
+"157"	1945-09-27	"open"	"19450927_149.pdf"	2	"764-1945"	"Sagen angaaende Bevilling af Tilskud til Fonden for Fædrelandets Vel.
+Budgetudvalget indstiller, at Kommunens Bidrag forhøjes til 25.000 Kr.
+Borgmesteren anbefalede Indstillingen.
+Indstillingen vedtoges.
+"	1945	9	27
+"158"	1945-09-27	"open"	"19450927_149.pdf"	2	"923-1945"	"Indstilling fra Brandkommissionen om en ekstraordinær Afskrivning paa 3.190 Kr. paa forskelligt udtjent Materiel ved Brandvæsenet.
+Indstillingen vedtoges.
+"	1945	9	27
+"159"	1945-09-27	"open"	"19450927_149.pdf"	2	"934-1945"	"Indstilling fra Budgetudvalget om, at Udgiften paa 5.880 Kr. for Levering af
+100.000Bullox-Terninger som Gave til Hollands-hjælpen afholdes som Tillægsbevilling til Konto 25.
+Indstillingen vedtoges.
+"	1945	9	27
+"160"	1945-09-27	"open"	"19450927_149.pdf"	2	"431-1945"	"Indstilling fra Budgetudvalget om, at der bevilges 5.000 Kr. til Dækning af Købesummen for Grunden Matr. Nr. 113 an og aa af Markj. i Hasle Herred.
+Borgmesteren erindrede om, at Grunden blev købt i Fjor, fordi der blev lagt Bunkers paa Grunden, saa Ejeren blev forhindret i at bygge.
+Indstillingen vedtoges.
+"	1945	9	27
+"161"	1945-09-27	"open"	"19450927_149.pdf"	2	"918-1945"	"Indstilling fra Belysningsudvalget om Godkendelse af, at Kommunen er
+"	1945	9	27
+"162"	1945-09-27	"open"	"19450927_149.pdf"	3	"918-1945"	"indmeldt i Dansk Kulimportorganisation samt om Bevilling til Dækning af Kommunens Indskud.
+Tiltraadt af Budgetudvalget, idet der bevilges
+500.000Kr. til Dækning af Kommunens Andel af Arbejdskapitalen, saaledes at Beløbet forskudsvis afholdes af Kassebeholdningen.
+Jens Jensen anbefalede Forslaget. Forholdet var det, at Englænderne havde forlangt, at en af Staten godkendt Organisation skulde optræde som Køber af Kul i England, og der var stiftet en Organisation af Kulimportører, der skal optræde paa samtlige Importørers Vegne. Man foreslog nu, at Belysningsvæsenet indmeldes i denne Organisation, saa man derigennem faar sine Kul og Koks og samtidig sparer Mellemhandleravancen.
+Kai Blicher gjorde opmærksom paa, at der ikke var Tale om noget Indskud, men om en Garantikapital.
+Borgmesteren bekræftede, at det var en Garantikapital, som forrentes med 3 1/2 %.
+Indstillingen vedtoges.
+"	1945	9	27
+"163"	1945-09-27	"open"	"19450927_149.pdf"	3	"984-1945"	"Indstilling fra Budgetudvalget angaaende Bevillinger til Financiering af Beredskabsarbejder.
+Fra Økonomikontoret forelaa følgende Oversigt over Aarhus Kommunes Beredskabsarbejder pr. 25. September 1945.
+Samlet f.
+Ivomm.s
+Arbejdets ArtOverslags-NeUoudg
+sum0
+_____________________________________ Kr. 1 Kr.
+Opførelse af Tunnel ved Lange-! næs K. 16............................| 610.000j 452.500
+"	1945	9	27
+"164"	1945-09-27	"open"	"19450927_149.pdf"	4	"984-1945"	"Jordarbejde ved Langenæs I (Fortsættelse af tidligere paabebegyndt Afgravning) K. 15........580.000220.000
+Jordarb. paa Fabriksareal v. Frichs263.00065.000
+Oprens, af Damme i Byens Parker127.90069.000
+Regul. af Mergelgrav i Mindeparken20.5007.000
+Opret, af Pilekultur v. Aaby Vesterg.69.25053.650
+Opførelse af Kloakrensningsanlæg i Risskov, II Del................520.000362.000
+Etablering af Fjernvarmeforsyningsanlæg for Frederiksbjerg...........3.500.000 2.500.000
+Nyt Jordarbejde ved Langenæs II400.000130.000
+Omlægning af private Veje:
+Aalesnndsvej......... 26.000Kr.
+Vardøgade............ 31.000\"
+Birkeg.-Kastanieg. . 42.400\"
+Ny Tjørnegade........ 27.700\"
+-------------127.1000
+Anlæg af Del af Marselis Boulev.278.000136.000
+Oml. af Kloak i Pal. Mullers Vej.70.70044.450
+Lægning af Kloak i Stockholmsg..10.7006.300
+Lægning af do. i Trind Sø-Kvarteret20.70014.300
+Lægning af Hovedkloak over Højvangs Jord ........................34.10018.500
+Lægning af Hovedkloaker i Kvarteret mellem S. Frichs Vejs Forlængelse og Aabyvej. ... ..........42.00026.700
+Sportsanlæg ved Viby Mosegaard607.500397.500
+Anlæg af Falkevej og Blaamejsevej126.00028.200
+Anlæg af Søren Frichs Vej..........962.200463.200
+Høfdeanlæg og Kystsikring..........93.10033.300
+Anlæg af Moesgaard Strandpark .59.84015.500
+Regul. og Udvidelse af Aldersrovej95.00051.500
+Udbygning af Trøjborgvej...........139.00053.500
+Istandsættelse af Tornskadevej...36.1507.000
+"	1945	9	27
+"165"	1945-09-27	"open"	"19450927_149.pdf"	5	"984-1945"	"Anlæg af Sti omkring Brabrand Sø (opr. Overslag)................642.000 274.000
+Anlæg af 3 Fodboldbaner.........58.00019.200
+--Langelandsg. Forlæng..116.40049.000
+--Del af Trondhjemsgade33.00019.700
+--Bethesdav. lgs. Idrætsp.114.00065.500
+--Dr. Margrethes Vej...76.40042.700
+--Kaproningsb. paa Brabrand Sø..............440.00070.300
+Oprens, af Damme i ByensSkove80.00020.C00
+Anlæg af Parkeringsplads Hj. Trøjborgvej og Skovvejen...........22.00012.400
+Ialt'.10.374.540 5.727^900
+Heraf udgør de af Arb.min. godkendte Arbejder ialt Kr.........8.792.740 5.155.100
+Heraf er af Arb.min. beordret Arbejder iværksat for ialt Kr....3.791.6401.671.300
+Endvidere har Kommunen i Beredskab Anlæg af Jyllands Allé (ca. 155.000 Kr. netto) og Holmevej (ca. 50.000 Kr. netto), hvor Udgiften restitueres af Motorfonden.
+(Endvidere forventes et Lufthavnsprojekt til en formentlig Nettoudgift af ca. 2-3 Mill. Kr.).
+Vedrørende Projektet Anlæg af Sti omkring Brabrand Sø kan anføres, at det i Oversigten opførte Overslag er det oprindelige fra 1941.
+Dette Overslag er imidlertid senere blevet ændret efter forudgaaende Forhandlinger med de øvrige interesserede Kommuner og vil til sin Tid blive forelagt Byraadet til endelig Godkendelse, idet det paa nærværende Tidspunkt kan forventes at ville stille sig saaledes:
+"	1945	9	27
+"166"	1945-09-27	"open"	"19450927_149.pdf"	6	"984-1945"	"Brutto-Overslag...............ca.1.094.000Kr.
+h- Statstilskud...............\"550.000\"
+ca. 544.000 Kr. -i- Tilskud fra Forstadskoin.\"150.000\"
+NettoUdgiftca.394.000Kr.
+eller ca. 120.000 Kr. mere end anført efter det oprindelige Overslag af 1941.
+Forslag
+til Bevilling og Financiering af de af Arbejdsministeriet til Iværksættelse beordrede Beredskabsarbejder.
+'Paakr.
+Paakr.Poresi.
+Arbejdets ArtiBevillingjKinan-
+\" ihedsbeløb!
+*'r- I • mK ac\ siering ! i 1945 46 j
+Gade-
+Jordarb. ved Langenæs I. 162.000 200.0001 og vejf. Jordarbejde paa Fabriksareal ved Frichs..........65.000200.000og vejf.
+Oprensning af Damme i Byens Parker..............69.00070.000Laan
+Regulering af Mergelgrav i Mindeparken.............7.00020.500Laan
+Opretning af Pilekultur ved Aaby Vestergaard..........53.65016.250Laan
+Omlægning af private Veje: Aalesundsvej-Vardøgade,
+Birkegade - KastaniegadeMidiert
+og Ny Tjørnegade..........0100.000af Kasseb.
+Omlægning af Kloak i Paludan Mullers Vej...........44.45070.0000g vejf.
+Lægning af Kloak i Stockholms Gade.................6.30010.000og vejf.
+Lægning af Kloak i TrindCade Sø Kvarteret..............14.30020.000og vejf
+Lægning af Hovedkloak  over Højvangs Jord. . . .18.5000 og vejf.
+"	1945	9	27
+"167"	1945-09-27	"open"	"19450927_149.pdf"	7	"984-1945"	"Lægning af Hovedkloaker i Kvarteret mellem Søren Frichs Vejs Forlængelse og Aabyvej26.7000og vejf.
+Anlæg af Falkevej og Midlert.
+Blaamejsevej) ...........28.200100.000af Kasseb.
+Anlæg af Søren Frich Vej.....................463.200300.000ok véjf.
+Anlæg af Moesg. Strandpark ......................15.50060.000Laan
+Regulering og Udvidelse
+af Aldersrovej..........51.50050.000Laan
+Udbyg, af Trøjborgvej .53.50070.000Laan
+Istandsættelse af Torn-
+Midlert.
+skadevej ...............7.00030.000af Kasseb.
+____________________________!______________________________
+____________________________j 1.085.800} 1-316.750_________
+Fordelt over:
+Laan................................. 250.150Kr.
+Gade- og Vejfonden................... 800.450\"
+Midlertidigt afholdt af Kassebeholdningen ..............................35.700\"
+Endvidere forelaa fra Økonomikontoret følgende Resumé:
+\"Idet hoslagt tilbagesendes de med Udvalgets Paategninger af 17., 25. og 26. d. M. til Erklæring modtagne Sager vedrørende de af Kommunens Beredskabsarbejder, for hvilke Arbejdsministeriets Iværksættelsesordre nu foreligger, skal man bemærke følgende:
+Da Tidspunktet nu er indtraadt, hvor de af Byraadet siden 1942 godkendte Beredskabsarbejder, som danner Kommunens Beredskabsplan, bliver aktuelle, har man paa vedlagte
+"	1945	9	27
+"168"	1945-09-27	"open"	"19450927_149.pdf"	8	"984-1945"	"Bilag A opstillet en samlet Oversigt over Beredskabsplanen, saaledes som denne foreligger efter de senest reviderede Overslag, Godkendelser m. v.
+Det fremgaar heraf, at Byraadet har godkendt Arbejder til en samlet Overslagssum af 10.374.540 Kr. som Beredskabsarbejder. Heraf har man Tilsagn om Statsrefusion rned i alt 4.395.440 Kr., ligesom der vil indgaa Grundejerbidrag og Tilskud fra andre Kommuner med i alt 251.200 Kr. Kommunens samlede Nettoudgift vil herefter andrage ialt 5.727.900 Kr.
+Af de vedtagne Beredskabsarbejder har Arbejdsministeriet imidlertid indtil nu kun godkendt Projekter til en samlet Overslagssum paa 8.792.740 Kr., hvoraf Kommunens Nettoudgift andrager ialt 5.155.100 Kr., hvilket saaledes er det maximale Beløb, som Kommunen for nærværende har forpligtet sig til at udføre Arbejder for.
+Fra Arbejdsministeriet foreligger der Igangsættelsesordre for ialt 18 af de godkendte Arbejder (jfr. Oversigtens Kolonne 9). Herudover er der endvidere til Stadsingeniørens Kontor givet telefonisk Tilsagn om Tilladelse til af tekniske Grunde at iværksætte yderligere et Arbejde (Langenæsafgravning 1). Disse Arbejder, der ifølge Arbejdsministeriets Igangsættelsesordre er blevet aktuelle, beløber sig til en samlet Overslagssum af 3.791.640 Kr., hvoraf Kommunens Nettoudgift andrager ialt 1.671.300 Kr.
+I Skemaets Kolonne 10 har man indføjet de fra Institutionerne modtagne Oplysninger om, paa hvilket Tidspunkt de til Iværksættelse beordrede Arbejder tidligst vil kunne paabegyndes
+"	1945	9	27
+"169"	1945-09-27	"open"	"19450927_149.pdf"	9	"984-1945"	", og da Arbejdsministeriet har ønsket omgaaende Oplysning om Tidspunktet for disse Arbejders Paabegyndelse, skal man foreslaa, at de anførte Tider for Paabegyndelse meddeles Beskæftigelsescentralen, idet der dog maa tages udtrykkelig Forbehold med Hensyn til Indenrigsministeriets Godkendelse for de Arbejders Vedkommende, der tænkes finansieret ved Laan.
+Da Byraadets endelige Vedtagelse af og Bevilling til Afholdelse af de med Gennemførelsen af de enkelte Arbejder forbundne Udgifter vil være at indhente inden Arbejdernes Iværksættelse, har man paa medfølgende Bilag B tilladt sig at opstille et Forslag til Byraadets Bevillinger af de aktuelle Projekter.
+Man har her udeladt 2 Projekter (Nyt Jordarbejde ved Langenæs II samt Sportsanlæg ved Viby Mosegaard), idet det er oplyst, at disse Projekter tidligst vil kunne paabegyndes i For-aaret 1947 og saaledes ikke for nærværende er aktuelle.
+Saafremt Udvalget maatte vedtage at anbefale Iværksættelsen af samtlige de af Arbejdsministeriet til Iværksættelse beordrede Projekter, der under Hensyn til de tekniske Forhold lader sig paabegynde i den nærmeste Fremtid, vil der i Henhold til Oversigten paa Bilag B være at indhente Bnvillinger til en samlet Nettoudgift af 1.085.800 Kr., hvilket Beløb man ligeledes under Henvisning til den vedlagte Oversigt B skal tillade sig at foreslaa finansieret med:
+250.150 Kr. af Laanemidler
+800.450 --Gade- og Vejfonden
+"	1945	9	27
+"170"	1945-09-27	"open"	"19450927_149.pdf"	10	"984-1945"	"samt 35.700 Kr. midlertidig af Kassebeholdningen, saaledes at Beløbet restitueres af Driftsbudgettet 1946-47.
+Til den Del af de paagældende Arbejder, der forventes gennemført i indeværende Regnskabsaar, vil der kræves et kassemæssigt Beløb paa ialt 1.316.750 Kr. stillet til Raadighed. Naar dette Beløb er saa stort, skyldes det, at der ikke kan forventes Indgang af Statsrefusioner allerede i indeværende Regnskabsaar, hvorfor man midlertidig maa finansiere Bruttoudgifterne.
+Da der ikke paa den løbende Arbejdsplan er optaget noget Raadighedsbeløb til Iværksættelse af Beredskabsarbejder, vil der være at forelægge Byraadet Forslag om, at der ekstraordinært stilles et Beløb paa 1.316.750 Kr. til Raadighed paa indeværende Aars Arbejdsplan ud over de paa denne allerede optagne Raadighedsbeløb. Endskønt der ikke ved Budgetlægningen er taget Hensyn til denne ekstraordinære kassemæssige Udgift, er man dog af den Formening, at den ikke vil medføre likviditetsmæssige Vanskeligheder for Kommunen.\"
+Borgmesteren henviste til den foreliggende Indstilling og Redegørelsen fra Økonomikontoret. Der var vedtaget Arbejder til godt 10 Mill. Kr., hvoraf Ministeriet havde godkendt for ca. 9 Mill. Kr., og de vilde efterhaanden blive iværksat. Nu forelaa der fra Ministeriet Meddelelse om at paabegynde 18-19 Arbejder, som vilde koste Kommunen 1.085.800 Kr., men da man skulde staa i Forskud for ret store Beløb, var det nødvendigt at vedtage en Bevilling paa
+"	1945	9	27
+"171"	1945-09-27	"open"	"19450927_149.pdf"	11	"984-1945"	"1.316.750 Kr. 1 sidste Øjeblik var det oplyst, at Stadsingeniørens Kontor havde glemt et Beløb paa ca. 100.000 Kr., som Grundejerne skal betale til Frichsvej. Det havde været rimeligt, at dette var blevet oplyst, inden de vidtløftige Beregninger var foretaget, men det var altsaa ikke sket. Taleren vilde derfor foreslaa, at Kommunens Udgift nedsættes med 100.000 Kr. til 985.800 Kr., men da Kommunen ogsaa skulde staa i Forskud med dette Beløb, vilde den foreslaaede Bevilling ikke ændres.
+Indstillingen vedtoges saaledes, at der bevilges et Raadighedsbeløb paa 1.316,750 Kr.
+"	1945	9	27
+"172"	1945-09-27	"open"	"19450927_149.pdf"	11	"3_5-1945 og 3_34-1945 og 3_29-1945"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_5-1945). Marselisborg Hospital.
+b.(J. Nr. 3_34-1945). Revisionskontoret.
+c.(J. Nr. 3_29 -1945). Skovvæsenet.
+Efterbevilling meddeltes.
+"	1945	9	27
+"173"	1945-09-27	"open"	"19450927_149.pdf"	11	"982-1945"	"Indstilling om Udstykningsplan for Ellemarkskvarteret Vest for Jyllands Allé.
+Fra Stadsarkitekten forelaa følgende Forslag:
+\"Ved flere Lejligheder har man i Udvalget drøftet, at der savnedes større velbeliggende Villagrunde i den sydlige Bydel, navnlig nu da Grundene paa Trekanten ved Dalgas Avenue er udsolgt.
+I Udvalgsmødet den 26. Marts d. A. fremsatte jeg derfor Forslag til Udstykningsplan for Kvarteret Vest for Jyllandsallé paa det Areal, der i Øjeblikket er optaget af de tyske Barakker. Jeg tillader mig at resumere Forslagets Akter.
+Forslaget omfatter de Arealer, der paa medfølgende Plan I er vist med rød Farve.
+"	1945	9	27
+"174"	1945-09-27	"open"	"19450927_149.pdf"	12	"982-1945"	"Vejføringen følger i Princippet det af Stadsingeniøren tidligere udarbejdede Projekt, men Dyrehavevej har faaet en svag Krumning omtrent parallelt med Byskellet, hvorved Udstykningsforholdene bliver væsentligt bedre, og Gadebilledet smukkere.
+Vejanlæget foreslaas med Hensyn til Bredde og Befæstelse anlagt billigst muligt. Saaledes vil jeg foreslaa, at man nedsætter den gængse Vejbredde i Kvarteret fra 12,5 til 10 m for Husumvej og Vanløsevejs Vedkommende, idet disse Veje er udprægede lokale Veje, hvorimod Dyrehavevej, der nok vil optage nogen Udflugtstrafik fra Kongsvang og Langenæs Kvarteret, maaske bør anlægges i 12,5 m Bredde.
+Langs Ellemarksvej tænkes Grundene - hvilket forøvrigt tidligere er vedtaget af Udvalget - reserveret til 2 Etagers Rækkehuse, dels fordi de giver Villakvarteret en passende Overgang til den 3 Etagers Blokbebyggelse, og dels fordi der er stor Efterspørgsel efter denne Type. Rækkehusene bør dog være af en Standard, der svarer til den øvrige Villabebyggelse.
+Det resterende Areal er udstykket til Villagrunde af forskellig Størrelse.
+1 den nærmest Jyllandsallé beliggende Karré, hvoraf ca. Halvdelen af Parcellerne, der har et Areal paa omkring 700 m2, allerede er solgte, tænkes de resterende Grunde kun gjort eni Ubetydelighed større, hvorimod Parcellerne de øvrige 3 Karréer varierer i Størrelse fra
+1.000til 1.200 m2, hvilket netop er den Størrelse, der tiltrænges, og som giver Mulighed for et vist tilstræbt Helhedspræg.
+Grundprisen i Kvarteret var oprindeligt
+"	1945	9	27
+"175"	1945-09-27	"open"	"19450927_149.pdf"	13	"982-1945"	"fastsat til 12,50 Kr. pr. m2 mcd 1,50 til 2,50 Kr, Refusion for Pælefundering. Da alle Husene formentlig kan funderes paa billige Sandfundamenter. skal jeg foreslaa, at Grundprisen, uden Fradrag for Ekstrafundering, sættes til 14 Kr. pr. m2 for Parcellerne Syd for Dyrehavevej og 12 Kr. pr. m2 for de øvrige.
+De hidtil opførte Villaer i Ellemarken mellem Stadion Allé og Jyllands Allé bestaar af 1-1V* og 2 Etagers Huse med flade Paptage, halvhøje og høje Tegltage imellem hinanden, hvilket foraarsager, at hele Kvarteret gør et noget uharmonisk og uroligt Indtryk. En anden Aarsag hertil er de forskelligartede Hegn og ulige store Byggelinieafstande, hvis Hensigt adskillige Steder ikke synes umiddelbart indlysende.
+Som Sikkerhed for at det nu projekterede velbeliggende Villakvarter med Tiden vil fremtræde som et harmonisk Hele, tillader jeg mig at foreslaa, at der paalægges de enkelte Grunde følgende mere vidtgaaende Servitutter ud over, hvad der sædvanligvis nedfældes i Købekontrakten :
+1.Paa Parcellerne maa kun opføres Eenfamilie-huse. Dog maa der indrettes Bolig for Tjenestefolk og lignende.
+2.Paa Parcellerne ved Kongsvangs Allé, Husum-vej, Vanløsevej samt paa Parcellerne i Dyrehavevejs Nordside maa kun opføres Huse i een Etage med udnyttet Tagetage og 50° Taghældning og med Byggelinie beliggende 8V2 m fra Vejmidten. Paa Parcellerne langs Dyrehavevejs Sydside maa kun opføres Huse i fulde 2 Etager med 38° Taghældning og med Byggelinie 10 m fra Vejmidten.
+"	1945	9	27
+"176"	1945-09-27	"open"	"19450927_149.pdf"	14	"982-1945"	"3.Bygningerne maa kun placeres i de viste firkantede Felter, saaledes beliggende, at Hovedhuset faar en Facade mod Syd eller Sydvest, og henholdsvis en Facade eller en Gavl i Byggelinien parallelt med Vejlinien.
+4.Bygningernes Facader skal være af haand-strogne Mursten med tilbageliggende Fuge. Til Tag maa kun anvendes røde Tegltagsten.
+5.Ingen Bygning eller nogen Del af samme maa ligge Naboskellet nærmere end 2,5 m. Hvor Omstændighederne taler derfor, kan Garager og Udhuse dog tillades placeret saavel i Skel mod Vej som i Naboskel paa Parcellerne mod Vanløsevej, Husumvej og Kongs-vangs Allé.
+6.Paa Dyrehavevejs Sydside maa Arealet mellem Vejlinien og Byggelinien (Forhave) ingensinde indhegnes. Overgangen fra Fortov til Forhave skal markeres ved en Betonkant. Forhaven skal stedse være tilsaaet med Græs med enkelte fritstaaende Buske efter Plan godkendt af Parkudvalget. Garageindkørsler og Gange til Huset skal være af ufarvede Betonfliser. Som Afskærmning mellem Forhave og den egentlige Have skal opføres en Mur med samme Facadebehandling som selve Huset.
+7.Garager skal have støbt fladt Tag.
+8.Afstanden fra Terræn til Overkant af Stue-bjælkelag maa normalt ikke overstige 80 cm.
+De i Forbindelse med Badmintonhallen anlagte Tennisbaner, hvis Areal atter overgaar til Kommunen, foreslaas under een eller anden Form foreløbig bibeholdt.
+Det trekantede Areal mellem Dyrehavevej, Kongsvangs Allé og Byskellet foreslaas fortsat
+"	1945	9	27
+"177"	1945-09-27	"open"	"19450927_149.pdf"	15	"982-1945"	"reserveret Brandvæsenet til ny Brandstation. Saafremt Brandkommissionen paa et senere Tidspunkt frafalder dette Ønske, vil Arealet kunne udstykkes til 3 å 4 velbeliggende Villagrunde.
+Da man i Øjeblikket arbejder med Planer om Placering af en ny Sporvognsremise i denne Bydel, foreslaas det, at det store Areal mellem Kongsvangs Allé og Ridehallen indtil videre reserveres til dette Formaal.
+I denne Form kunde Udvalget ved føromtalte Møde principielt tiltræde Forslaget, men da Vejføringen ikke fulgte det allerede udførte Kloakanlæg, der bestaar af en 30 cm Spildevandsledning og en 90 cm Overfaldsledning, paalagde man mig at optage Sagen til fornyet Undersøgelse og Drøftelse med Stadsingeniøren.
+Dette har nu fundet Sted og i Henhold til et af Stadsingeniøren afgivet Responsum, vil det være nødvendigt at flytte Spildevandsledningen saaledes, at den kommer til at følge Vejføringen, og man anslaar Udgiften hertil til 15-20.000 Kr. Endvidere paapeger Stadsingeniøren Nødvendigheden af, at den Overfaldsledning, der bliver liggende paa privat Grund, sikres servitutmæssigt. Jeg skal knytte følgende Bemærkninger til disse Forhold.
+Paa de medfølgende Planer Nr. II og III er til Sammenligning vist (med rødt, blaat og gult) de Arealer der berøres af Vejens Linieføring. Saafremt man ønsker Dyrehavevej ført ret igennem, er det, for at opnaa en blot nogenlunde Udstykning, nødvendigt at nedlægge den viste blinde Vej. Dette gør, at det til Vej udlagte
+"	1945	9	27
+"178"	1945-09-27	"open"	"19450927_149.pdf"	16	"982-1945"	"lagte Areal praktisk talt er det samme for begge Projekler, og det salgbare, der omfattes af følgende Undersøgelse er ligeledes det samme for begge Projekter eller ca. 29.200 m2.
+Det skønnes som anført sandsynligt, at man for de ideelt beliggende Grunde i Dyrehavevejs Sydside kan opnaa en Pris af 14 Kr. pr. m2, og for de øvrige Grunde 12 Kr. med Undtagelse af de Grunde, der efter Plan III er placeret ved den blinde Vej og for hvilke der i bedste Fald kun kan opnaas 8 Kr. pr. m2.
+Der faas derefter ifølge Plan II ca.	8.000	m2	å	Kr.	14	(blaat)....	Kr.	112.000
+ca.	21.200	m2	h	Kr.	12	(rødt) . .. .	\"	254.400
+Ialt...	Kr.	366.400
+og efter Plan III
+ca.	6.600	m2	å	Kr.	14	(blaat)....	Kr.	92.400
+ca.	18.500	m2	å	Kr.	12	(rødt) ....	\"	222.000
+ca.	4.100	m2	a	Kr.	8	(gult).....	\"	32.800
+IaltT. .	Kr.	347.200
+Plan II giver altsaa en forøget Salgspris paa 366.400 ^ 347.200 = Kr. 19.200 og samtidig med, at der opnaas en langt smukkere Udstykning og Vejføring, skulde der altsaa i denne Sum være Kompensation for Udgifterne til Flytning af Spildevandsledningen.
+Da den 95 cm Ledning, der bliver bibeholdt, kun fører Regnvand, vil der sandsynligvis kun blive Tale om Opgravning, saafremt Ledningen synker eller paa anden Maade beskadiges. Forinden Udstykning og Salg af Grunde finder Sted, bør Ledningen dog underkastes et grundigt Eftersyn, saaledes at Chancen for Opgravning i den videre Fremtid praktisk talt er lig 0.
+"	1945	9	27
+"179"	1945-09-27	"open"	"19450927_149.pdf"	17	"982-1945"	"Naturligvis bør der ikke bygges oven paa Ledningen, men da Grundene har en passende Størrelse og Beliggenhed, kan der ikke blive nogen Vanskelighed med en saadan Servitut.
+Da jeg i Henhold til ovenstaaende mener at have redegjort for de uomtvistelige Fordele, der fremkommer, saafremt man følger mit Udstyknings-Forslag, skal jeg tillade mig at indstille Plan 1 til det ærede Udvalgs Godkendelse.\"
+Fra Stadsingeniøren forelaa følgende Erklæring:
+\"Det nu fremsatte Projekt begrænser Vejforlægningerne til Dyrehavevejs vestlige Del, saaledes at de allerede anlagte Kloaker i Vanløsevej og Husumvej ikke berøres.
+Forlægningen af Dyrehavevej anser jeg for mindre tvingende end Stadsarkitekten, men jeg skal dog undlade at fraraade Forlægningen under Forudsætning af, at det nødvendige Beløb til Kloakens Flytning, ca. 18.000 Kr., bevilges, og den omtalte Servitut faar en Form, der kan tiltrædes herfra.
+Økonomien vil dog næppe gaa lige op som forudsat af Stadsarkitekten.
+Forøgelsen af de offentlige Vejanlæg vil efter Forslag I andrage ca. 10.000 Kr., der ikke opvejes af Besparelsen ved Sidevejene, selv om Arealerne er lige store.
+Lokalvejene maa beregnes afholdt af Køberne, naar Grundprisnedsættelsen er saa stor, 6 Kr. pr. m2 som i Beregningen antaget.
+Grundprisen er temmelig strammet og vil forventelig bevirke et langsomt Salg. Tilsigter man dette, er den rigtig.
+Kongsvangs Allé er anlagt (delvis) i 20 m
+"	1945	9	27
+"180"	1945-09-27	"open"	"19450927_149.pdf"	18	"982-1945"	"Bredde af Hensyn til den fremtidige Trafik til Rosenvang, evt. ogsaa for Trambus. Jeg maa anse det for fejlagtigt nu at formindske denne Bredde, selv om den midlertidigt godt kunde være mindre, hvorfor jeg skal anbefale, at Bredden opretholdes.
+Dyrehavevej er i H. t. Byraadets oprindelige Vedtagelse udlagt i 20 m Bredde ligesom Skovbrynet. Efter at Gennemførelsen til Skanderborgvej senere blev begrænset til en Gang-og Cyklesti, blev Anlægsbredden samtidig herfra nedsat til 16 m, hvad Gaden er anlagt paa i den første Strækning. En yderligere Formindskelse anser jeg for uønskelig, ogsaa af Hensyn til at kunne beplante Gaden. Det forudsættes herved, at Spørgsmaalet om evt. Sporvejsspor i Dyrehavevej ikke kommer paa Tale, idet Forslag III ellers bør bibeholdes.
+Husumvej og Vanløsevej er vedtaget i 12 1/2 m Bredde. Denne Bredde er i sin Tid fastlagt som Mindstebredde paa Marselisborg, idet man tilstræbte et Kvarter med en vis Standard til en ret høj Pris og ikke for trykkede Vejanlæg.
+Forslaget om at formindske Villavejene til 10 m er vel ikke uforsvarligt, men jeg kan dog ikke tilraade det. I et Kvarter som det paagældende maa der forventes mange holdende Vogne i begge Gadesider, og med 3 Kørebaner kan Bredden ikke sættes mindre end I2 1/2 m.\"
+Udvalget for Byens Udvidelse og Bebyggelse indstiller at godkende Stadsarkitektens Forslag, dog saaledes, at Kongsvangs Allé bibeholdes i den gamle Bredde.
+"	1945	9	27
+"181"	1945-09-27	"open"	"19450927_149.pdf"	19	"982-1945"	"Borgmesteren gjorde opmærksom paa, at man havde fundet, at Udstykningen kunde være mere formaalstjenlig efter den nye Plan, som gav Mulighed for større Grunde, medens Gaderne blev noget smallere, idet der vist fra Ingeniørernes Side havde været en Tendens til at lave Villavejene for brede. Forslaget vilde kræve Omlægning af en Kloak, som allerede var anlagt, men stort set blev det formentlig ikke nogen Udgift, da Grundene vilde give en noget større Indtægt end efter den tidligere Plan.
+I. C. Sørensen hilste med Glæde Forslaget fra Stadsarkitekten, et Forslag, som man i nogen Tid havde savnet, idet der i høj Grad var Trang til saadanne Villagrunde. Det var ogsaa glædeligt, at man nu havde gjort Vejene noget smallere. Der var paa Planen afsat Areal til en Brandstation, og Taleren vilde straks sige, at en By som Aarhus ikke bør have mere end een Brandstation; det var baade økonomisk og driftsmæssigt det bedste, og hvis det passede, at den nuværende Station var for lille og laa daar-ligt, burde der bygges en ny paa et andet Sted, og det burde i saa Fald være et Sted ved Ringgaden; den her afsatte Plads var næppe den rigtige. Der var ogsaa afsat Plads til en Sporvognsremise. Her mente Taleren, at det vilde være praktisk at have to Remiser, een i hver Ende af Byen; det varderfor naturligt at lægge en Remise her, og samtidig burde man tage Spørgsmaalet op om Nedlæggelse af den nuværende Remise. Den blev i sin Tid anlagt i Strid med de Villaservitutter, som Kommunen selv havde lagt paa Kvarteret, og det var ikke helt korrekt. Nu var der Lejlighed til at gøre denne Uret god og placere Remisen paa et mere
+"	1945	9	27
+"182"	1945-09-27	"open"	"19450927_149.pdf"	20	"982-1945"	"praktisk Sled. Taleren vilde henstille til Udvalget, at der ikke laves for meget ved den nuværende Remise, hvis den skal nedlægges.
+J. R. Fanger indrømmede, at f. Eks. Gaderne i Riisvangen var gjort for brede, og Taleren havde ikke noget mod en mindre Bredde i Villavejene. M. Fl. t. Brandstationen var det et Krav, som havde været fremme i mange Aar, naar der var Tale om to Brandstationer, derfor blev den ved al staa paa Papiret, men der vilde aldrig komme en Brandstation her. Angaaende Remisen saa sad der for Tiden en Trafikkommission, og den skulde vel udtale sig om dette Spørgsmaal. Det var muligt, at der vilde komme Forslag om at bygge Remiser ved Kongsvang og paa Trøjborg, og i saa Fald kunde Grunden ved den nuværende Remise udstykkes; men Spørgsmaalet om Remisernes Plads var altsaa ikke afgjort.
+Jens Jensen var ogsaa forbavset over, at der var afsat Plads til en Brandstation ved Ellemarksvej, og Brandkommissionen vilde næppe foreslaa en Station paa dette Sted. M. H t. Remiser var det rigtigst at afvente Trafikkommissionens Stilling dertil; men den havde hidtil ikke lavet ret meget og vist ikke engang været indkaldt til iMøde.
+H.P. Jensen oplyste, at naar man foreslog at gøre Gaderne smallere, var det af flere Grunde. Kommunens Arealer var ret begrænsede, og det havde ofte knebet at fremskaffe de Grunde, som Køberne ønskede. De brede Gader var selvfølgelig dyrere at anlægge og vanskeligere for Beboerne at holde rene, og dertil kom, at der i saadanne Gader kun var lokal Trafik. De afsatte Pladser vilde let kunne udstykkes og sælges som Villagrunde, hvis de ikke skulde benyttes til det andet.
+"	1945	9	27
+"183"	1945-09-27	"open"	"19450927_149.pdf"	21	"982-1945"	"Borgmesteren bemærkede, at der her var berørt adskillige interessante Problemer, som endnu ikke var afklarede. Det var ogsaa nævnt i Forslaget, at hvis der ikke blev Brug for Brandstation her, kunde der sælges 3-4 velbeliggende Grunde. Der var vist Enighed om at tiltræde Planen, som den foreligger.
+Udvalgets Indstilling vedtoges.
+"	1945	9	27
+"184"	1945-09-27	"open"	"19450927_149.pdf"	21	"11_42-1945"	"Betinget Skøde med I/S \"Tanny\" ved Ejnar Jensen og C. J. Kjøller an-gaaende et Areal ved Finlandsgade.
+Godkendtes.
+"	1945	9	27
+"185"	1945-09-27	"open"	"19450927_149.pdf"	21	"11_43-1945"	"Betinget Skøde med Civilingeniør Ove Chr. Nielsen angaaende et Areal ved Hjørnet af Finlandsgade og Kathrinebjergvej.
+Godkendtes.
+"	1945	9	27
+"186"	1945-09-27	"open"	"19450927_149.pdf"	21	"995-1945"	"Tilbud paa Salg til Kommunen af svenske Standard-Træhuse til Helaarsbeboelse.
+Fra Stadsarkitekten forelaa følgende Forslag:
+\"Under mit Besøg i København i sidste Uge foretog jeg en Besigtigelse af et Prøvehus af ovennævnte Type, som var opstillet i Helsingborg.
+Prøvehuset bestod af 1 Vindfang, 1 Toiletrum, 1 Opholdsstue ca. 4,5X3,6 m og 1 Soveværelse ca. 3,6X3,0 m samt 1 Køkken, alt i et 1-Etages Hus med fladt Tag.
+Ydervægge, Gulv og Tag bestod af flere Lag Brædder og Træfiberplader alt i Henhold til vedlagte Arbejdsbeskrivelse, og var haand-værksmæssigt særdeles vel udført og saaledes isoleret, at det vil svare til et dansk Murstenshus med 2Va Stens Ydermur med den inderste 7z Sten af porøst Materiale - altsaa usædvanlig godt.
+"	1945	9	27
+"187"	1945-09-27	"open"	"19450927_149.pdf"	22	"995-1945"	"Huset var udført af Plader og monteret uden Anvendelse af Søm. De kan opstilles og sammenboltes paa ca. 24 Arbejdstimer paa et færdigstøbt Fundament eller Underlag. Huset er monteret med færdige Vinduer, Døre, Køkkeninventar, Garderobeskabe samt Kakkelovn og Komfur, men uden W. C., Haandvaske, Udhus og alt Malerarbejde.
+Prisen for Huset er 5.085 svenske Kroner f. o. b. svensk Vestkyst-Havn.
+For Huset færdigopstillet paa et passende Sted paa Kommunens ubebyggede Arealer, f. Eks. som vist paa medfølgende Tegning langs Fuglsangsalle, hvor der findes fornødne Ledninger, vil Omkostningerne pr. Hus blive:
+Indkøbspris .......................... Kr.5.850
+Transport............................. -250
+Fundament............................. -300
+Opstilling............................ -125
+Kloak................................. -325
+Vandinstallation ..................... -325
+Gasinstallation.......................-300
+Elektrisk Installation................-500
+W. C. Installation.................... -150
+V2 Udhus incl. Vaskekedler............ -1.075
+Malerarbejde.......................... -500
+Uforudset............................. -800
+lait.. Kr.10.500
+Et dansk Selskab A/S Scanbuld eri Øjeblikket under Dannelse med Formaal at fabrikere Standardhuse af Træ og Isolationsplader alt i Henhold til vedlagte Brochure.
+I Hedehusene paa A/S Sanos Fabrik besaa jeg et Prøvehus, men det var ligesaa dyrt som det svenske og ikke paa langt nær saa godt
+"	1945	9	27
+"188"	1945-09-27	"open"	"19450927_149.pdf"	23	"995-1945"	"og tiltalende, bl. a. var Tagværket ikke bygget af Plader, men paa sædvanlig Maade med Spær, Lægter og Tagsten. Men det værste var, at man ikke anede, om man kunde fremskaffe Materialer eller vidste noget om Tidspunktet for Leveringen. Det svenske Hus kan leveres straks, i Fald der kan faas Importtilladelse, men derom forhandles der i Øjeblikket med Myndighederne, idet jeg samtidig kan oplyse, at baade Helsingør, Nyborg og Kolding Kommune er i Forhandling med A/S Bjørn Saltorf om Levering af et passende Antal Huse til disse Byer.
+Bygningsinspektøren oplyser, at der i Øjeblikket findes 197 Familier under Kommunens Husvildeforsorg, og af disse befinder de 69 Familier sig under meget slette Forhold i 2 Gymnastiksale, Kommunens Administrationsbygning paa Mejlgade og i Havnens Administrationsbygning. Situationen er yderst alvorlig, idet der kun kan anvises 4 Boliger i Nørrebrogades Overlærerbolig til den 15. Oktober, og der utvivlsomt vil melde sig mange boligløse allerede 1. Oktober d. A.
+Hvis vi bare kunde disponere over Lejrbarakkerne paa Marselis Boulevard, var Situationen en ganske anden de første Aar, men da der desværre er Sandsynlighed for, at der kommer yderligere Flygtninge til Aarhus, og de under Opførelse værende 96 Boliger i \"Aldersrenteblokken\" først kan afleveres om et Aars Tid, kan Situationen nærmes betegnes som katastrofal.
+Jeg tillader mig derfor at indstille, at man søger at fremskaffe et passende Antal - f. Eks
+"	1945	9	27
+"189"	1945-09-27	"open"	"19450927_149.pdf"	24	"995-1945"	"som vist paa Tegningerne ca. 30 Stk. - af de tilbudte svenske Standardhuse.\"
+Fra Bygningsinspektøren forelaa følgende Erklæring:
+\"Til Stadsarkitektens foranstaaende Udtalelser finder jeg intet at bemærke og skal kun tilføje, at et Firma fra Aalborg i Dag har henvendt sig paa mit Kontor og forevist mig Tegninger til Huse lignende dem, som Arkitekten har forhandlet om i Hedehusene.
+Der findes ingen Elementer til saadanne Huse færdige, men det menes, at et Prøvehus vil være rejst i Aalborg omkring den I. Okt., og da man vel bør benytte dansk Arbejde ogsaa i dette Tilfælde, hvis Husene er af en saadan Beskaffenhed, at de paa det nærmeste er lige saa gode som de svenske, vil jeg finde det rigtigst, at man ser paa Prøvehuset i Aalborg, naar det er rejst.
+Angaaende Husvildesituationen skal jeg bemærke, at det Billede, Stadsarkitekten har malet ingenlunde er for mørkt, og jeg vil derfor anse det for tvingende nødvendigt, at der fremskaffes i alt Fald et passende Antal Huse af den svenske Type, som kan faas straks.\"
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, et der købes 30 Huse, medens Budgetudvalget fremsender Sagen til Byraadets Afgørelse.
+Borgmesteren udtalte, at Boligspørgsmaalet i Aarhus stadig blev vanskeligere, og til Flyttedagen den 1. Oktober havde adskillige Familier meldt sig som Husvilde, som Kommunen
+"	1945	9	27
+"190"	1945-09-27	"open"	"19450927_149.pdf"	25	"995-1945"	"paa en eller anden Maade maatte skaffe Bolig til. Man havde allerede i Sommer overvejet forskellige Udveje og var standset ved den Tanke, der i Dag forelaa som Forslag om at købe en Del svenske Træhuse til Husvildebeboelse. Disse Huse var i enhver Henseende gode, og der forelaa rosende Udtalelser om dem fra den svenske Statsprøveanstalt; de kunde leveres paa en særlig Maade som et sammensat Hus, der meget hurtigt kunde opstilles. Husene var beregnet til Enkeltbeboelse og havde hver sin Grund med en lille Have, idet man burde se at komme bort fra den grimme Rækkehusbebyggelse, Barakker o. 1.', hvor der ikke kunde blive Tale om Hjemfølelse, men det var jo alligevel ikke det samme som virkelige Lejligheder. Hermed var Husvildeproblemet dog slet ikke løst, og der arbejdedes paa forskellige Udveje for at klare Sagen. Taleren vilde paa Gruppens Vegne foreslaa, at man forsøger at indkøbe 30 Huse, men selv om dette vedtoges, vilde der være store Vanskeligheder med at faa Husene frem. Der var forøvrigt noget urimeligt i, at mens man gjorde saa meget for de tyske Flygtninge, syntes man ikke at interessere sig saa meget for vore egne husvilde Medborgere, og der var fra Regeringens Side Grund til at tage Initiativet til Forhandlinger med Sverrig om Køb af Husene.
+I. C. Sørensen meddelte, at der i den konservative Gruppe var en Del Betænkeligheder ved denne Ordning, men da Kommunen befandt sig i en meget vanskelig Situation, viide man ikke ligefrem gaa imod Forslaget. Men det var ikke nogen rigtig god Løsning, fordi det drejede sig om færdigsyede Huse fra Sverrig, som kan stilles op paa 24 Timer, saa der var ikke megen
+"	1945	9	27
+"191"	1945-09-27	"open"	"19450927_149.pdf"	26	"995-1945"	"Beskæftigelse deri. I Opførelsen af et almindeligt Hus laa der en meget stor Beskæftigelse, og man maatte tage i Betragtning, at naar de nuværende Reparationsarbejder er færdige, vilde en hel Del Haandværkere blive arbejdsledige. Indførslen af disse Huse bidrog altsaa ikke til at afhjælpe Arbejdsløshed. Dernæst var der det vanskelige, at Købet af Husene kræver svensk Valuta, og der var maaske andre Varer, som man kunde trænge stærkt til; det var heller ikke afgjort, at Ministeriet vilde give Valuta dertil, da man ikke alene skal betale Materialer, men ogsaa svensk Arbejdsløn. Dernæst krævedes der ministeriel Samtykke til, at Husene maa benyttes til foreløbig Beboelse, men det Spørgsmaal maatte vel Borgmesteren drøfte med Ministeriet. Der var altsaa i Gruppen store Betænkeligheder ved Forslaget, og dertil kom, at der kun var faa Dage til 1. Oktober, og til den Tid kunde man i hvert Fald ikke have Husene. Man havde ogsaa drøftet andre Muligheder, bl. a. at tage en Skole til Husvilde, men det vilde selvfølgelig være meget uheldigt, netop som Skolerne igen er kommet i Gang efter en længere Afbrydelse. Der havde ogsaa været tale om at bruge det gamle kirurgiske Hospital til Husvildeboliger, men det /ar ogsaa meget vanskeligt, idet der ude i Byen var mange syge Mennesker, som ventede paa Hospitalsindlæggelse, og hvis man tog denne Afdeling, vilde det yderligere sinke Indlæggelserne, hvilket vilde gaa ud over mange syge og svage Mennesker. Ulykken var, at Byen havde saa mange Vanskeligheder med Flygtningeproblemet, og Byraadet maatte lægge endnu større Pres paa Ministeriet for at faa dette Spørgsmaal væk, saa vilde disse Bygninger midlertidig kunne bruges
+"	1945	9	27
+"192"	1945-09-27	"open"	"19450927_149.pdf"	27	"995-1945"	"til Husvilde. Endelig var der en anden Ting, som man maatte passe paa. Hver Gang Socialudvalget i Sommer havde holdt Møde, blev der bevilget Understøttelse til Tilflyttere, og det var ikke rigtigt, naar Byens egne Beboere ikke havde Tag over Hovedet.
+H. P. Jensen gjorde opmærksom paa, at Baggrunden for Forslaget om at købe Husene var, at Kommunen stod i en Nødssituation. For hver Flyttedag var Antallet af Husvilde steget, og det vilde nok vedblive dermed foreløbig. Til
+1.Oktober var der anmeldt 44 Familier, som stod uden Lejlighed, og selv om en Del af disse skaffer sig Lejlighed, var Mulighederne derfor stadig mindre, og selv Loftskamre o. lign. var nu taget i Brug til Familier. Til 1. November var der anmeldt 11 Familier, og dette Tal vilde muligvis stige, medens 32 ansøgte om Lejlighed paa Grund af Giftermaal, og mange boede i Sommerhuse, paa Loftsværelser eller hos Forældrene. Boligudvalget havde i Øjeblikket ca. 300 Ansøgninger om Lejlighed, men man kunde ikke skaffe en eneste. Angaaende at tage den gamle kirurgiske Afdeling til Husvilde, saa var der desværre skrevet derom i Pressen, og det var meget beklageligt, idet Udvalget var blevet fuldstændig stormet af Folk, som ønskede at faa Lejlighed der; en af Ansøgerne var en Familieforsørger, som bor i en Bunker, saa kunde man næppe komme længere ud. Det var derfor bydende nødvendigt, at der gøres noget. Der var sikkert ingen, som ønskede at sende Kommunens Penge ud af Landet, hvis der fandtes andre Muligheder. Det var rigtigt, at Husene i nogen Grad tog Arbejdet fra danske Arbejdere, men det var dog kun for ca. Halvdelen af Beløbet, idet det vilde
+"	1945	9	27
+"193"	1945-09-27	"open"	"19450927_149.pdf"	28	"995-1945"	"koste ca. 5.000 Kr. at faa et Hus stillet op, saa noget dansk Arbejde vilde det give. Tilflytningen havde sikkert haft sin store Andel i, at der er blevet for faa Lejligheder i Byen, men det var vanskeligt at begrænse. Hvis f. Eks. en Mand købte en Ejendom i Byen, havde han Krav paa at faa en Lejlighed i Ejendommen, og i saa Tilfælde blev en Familie sagt op, uden at man kunde hindre det. Nu kunde man gennem Boliganvisningen begrænse Tilflytning ved at nægte dem Lejlighed og forbeholde disse for Byens Borgere. Men der maatte gøres noget ekstra for at skaffe disse Mennesker Tag over Hovedet. Hvis man køber de 30 Huse i Sverrig og saa eventuelt kan tage den gamle kirurgiske Afdeling eller Tøndergades Kaserne, var der Mulighed for at holde det gaaende, indtil de 96 projekterede Lejligheder i Aldersrenteboligerne til næste Aar kan blive færdige, og til den Tid kom man forhaabentlig af med de tyske Flygtninge, hvorved Problemet foreløbig var løst.
+C h r. Nielsen erindrede om. at der var en Tid, hvor man, naar man var utilfreds med et eller andet i Kommunen, gav Socialudvalget Skylden, men Taleren troede dog, at den Tid var forbi. Det var rigtigt, at Socialudvalget havde drøftet Understøttelse til Tilflyttere, men det var Folk, som var tilflyttet i det sidste Aar, og som altsaa boede i Byen, og ikke Folk, som man sendte Bud efter og inviterede til Byen. Understøttelsen trak næppe Folk til Aarhus, men naar en Person boede i Kommunen, ligegyldig hvor længe han har boet her, skulde han have Hjælp, hvis han ikke selv kan klare sig, og det samme gjaldt Folk, som flyttede fra Aarhus til andre Byer. Skulde det ændres, maatte Lovene laves
+"	1945	9	27
+"194"	1945-09-27	"open"	"19450927_149.pdf"	29	"995-1945"	"om. Man havde tidligere diskuteret, om Kommunen har Pligt til at sørge for de Husvilde; det var maaske tvivlsomt, men hvis vedkommende er i Trang, skal Socialvæsenet hjælpe ham, idet Husly maa siges at være nødvendigt til Livets Ophold, saa det blev i Virkeligheden det samme. Der var altsaa ikke Grund til at angribe Socialudvalget herfor. Men Fejlen var, at den kommunale Boliganvisning var kommet for sent, og skulde man angribe nogen for, at der kom for mange Tilflyttere, matte det være dem, som har lejet Lejligheder ud til disse. Mange af dem var kommet ind i Loftsværelser o. 1., hvor de ikke kunde bo om Vinteren, og saa blev de husvilde; men det havde Socialudvalget da ingen Indflydelse paa. Forøvrigt havde Taleren det Indtryk, at der for Tiden flyttede flere Understøttede fra end til Byen.
+J. R. Fanger pegede paa, at det vanskelige Boligspørgsmaal væsentlig skyldtes, at man ikke kunde bygge under Krigen. Kommunen havde dog gjort noget ved at projektere 96 Aldersrentelejligheder til Husvilde, men dette Byggeri var ikke kommet ret langt, idet der efter Sigende ikke kan faas Sten. Taleren vilde alligevel henstille, at man snarest mulig søger at fremskaffe disse. Naar der nu havde meldt sig 40 husvilde Familier, vilde Købet af de 30 Villaer slet ikke kunne løse Spørgsmaalet, idet de ikke kan skaffes til den Tid, og man blev saa alligevel nødt til at tage et Hospital eller en Skole. Hvis man f. Eks. maatte tage den gamle kirurgiske Afdeling, kunde der blive Plads til 60-70 Familier, saa var Spørgsmaalet løst foreløbig, og det var da ganske unødvendigt at købe disse Huse; det kunde ikke hjælpe de Folk, der blev husvilde til
+"	1945	9	27
+"195"	1945-09-27	"open"	"19450927_149.pdf"	30	"995-1945"	"Oktober og maaske heller ikke til November, hvis man da overhovedet kunde købe dem, da der var stor Rift om dem. Til April var man for-haabentlig fri for de tyske Flygtninge, og saa kunde der blive gode foreløbige Boliger til de Husvilde. Borgmesteren kunde ganske vist ikke lide Rækkehuse, men ønskede, at enhver skal have sin egen Villa, men det havde Kommunen næppe Raad til.
+Borgmesteren svarede, at der var ikke Tale om Villaer, men gode simple Træhuse, som Hr. Fanger næppe vilde ønske at bo i. Forslaget var et Forsøg paa at komme Bolignøden til Livs; det skete ikke derved, men det var dog en Støtte, og der var ikke andre Muligheder; det var derfor en ejendommelig Udtalelse af Hr. Fanger, at de Husvilde skal bo i Villaer; Sagen var for alvorlig til at tages paa den Maade. Hvis der blev Tale om kirurgisk Afdeling, kunde man i hvert Fald ikke tage hele Bygningen, saa der vilde højst blive ca. 40 Lejligheder. De foreslaaede Træhuse var den Slags, som blev brugt paa Bornholm, og de var saa gode, at der nok skulde blive Brug for dem, selv om der blev Lejligheder nok, hvad der dog ikke blev foreløbig. Der blev sikkert Beskæftigelse nok til Haandværkerne, for der vilde blive Mangel paa Lejligheder langt ud i Fremtiden, saa i den Forbindelse spillede 30 Træhuse ikke nogen Rolle. Man maatte ogsaa betænke, at en Mængde af de Lejligheder, der i Øjeblikket bruges til Husvilde, aldrig burde anvendes dertil, for de var saa daarlige, at man i Boligkommissionen helst vilde forbyde dem til Beboelse. Skulde der ikke blive Brug for Husene til nye Husvilde, kunde man begynde at evakuere nogle af dem, som bor i Barakker o. 1., saa de
+"	1945	9	27
+"196"	1945-09-27	"open"	"19450927_149.pdf"	31	"995-1945"	"kunde komme under noget bedre Forhold. Man forskertsede derfor ikke noget som helst ved at købe Husene, og Taleren vilde indtrængende anbefale Forslaget til Byraadets Velvilje.
+J. R. Fanger erkendte, at der kunde blive Arbejde nok til Haandværkerne med at bygge Huse, men Forudsætningen var, at man kunde købe de nødvendige Materialer i Udlandet, saa det blev et Valutaspørgsmaal. Hvis man brugte Valutaen til Køb af Huse, kunde man maaske ikke faa andre Ting, som der var Brug for.
+K. M o u s t e n var meget betænkelig ved Talen om at tage Kirurgisk Afdeling. I Øjeblikket var der flere Epidemier i Byen, og Professor Lomholt havde forlangt mere Plads til Patienter med Kønssygdomme; men hvor skulde man skaffe Plads, hvis Hospitalet skal anvendes til Husvilde. Der laa for Tiden ca. 300 syge og ventede paa Hospitalsindlæggelse, og hvis man nu tog Kirurgisk Afdeling, vilde de ingen Udsigt have til at komme ind paa Hospitalet. Skulde der saa komme en større Epidemi, kunde det eventuelt blive nødvendigt at tage en Skole lil de syge, men det vilde dog være forkert, naar man har et Hospital.
+Bernhard Jensen antog, at alle havde faaet et saa stærkt Indtryk af Situationens Alvor, at der næppe kunde være større Betænkelighed ved at tiltræde Forslaget. Landsretssagfører Sørensen anviste i sit Indlæg ikke nogen som helst Udvej, idet han var Modstander baade af at tage Skole og Hospital, men saa fandtes der næppe anden Mulighed end den her foreslaaede. Det var rigtigt, at Forslaget kun gav delvis Beskæftigelse til danske Arbejdere, men hvis der blev mange Henvendelser om at købe Huse, kunde
+"	1945	9	27
+"197"	1945-09-27	"open"	"19450927_149.pdf"	32	"995-1945"	"maaske Forarbejdningen ske her i Landet ved et etablere en Samlefabrik, saa man blot køber Træet i Sverige. Kommunen havde et vist Ansvar til at skaffe de Husvilde nogenlunde ordentlige Forhold, men det skete ikke ved at klumpe dem sammen i Skoler o. I.; det havde ikke nogen god Indflydelse paa Familielivet; i de foreslaaede Huse fik Familierne Lejlighed til at leve for sig selv, og ved at give dem en lille Have kunde de selv arbejde med, hvilket havde stor moralsk Betydning. Villaer i egentlig Forstand blev der næppe Tale om, men som Hjælp ttl nødstedte Mennesker var Pengene godt anvendt. Det var nemlig ikke blot Familier fra de laveste Trin i Samfundet, men ogsaa Folk, som udmærket kunde sørge for sig selv, der var blevet ramt af Bolignøden, fordi Folk udefra købte Ejendomme, flyttede ind og smed Lejere ud. Naar det bebrejdedes Socialudvalget, at det gav Understøttelse til Tilflyttere, maatte Bebrejdelsen rettes mod Grundejerne, som trods Byraadets Henstilling havde taget dem ind i deres Lejligheder. Det skete ikke i de Ejendomme, som Byraadet gav Tilskud til, og det maatte da være de private Grundejere, der sidder Henstillingen overhørig. Taleren vilde meget anbefale Forslaget, for man kunde ikke løse Spørgsmaalet ved at tage en Skole eller et Hospital, og man kunde heller ikke forsvare at lade mange af de Husvilde bo under de Forhold, som de gør i Øjeblikket.
+H.P. Jensen antog, at stort set alle Haandværkere var i Arbejde for Tiden, og Arbejdsløsheden fandtes væsentlig kun blandt Arbejdsmændene, og deres Beskæftigelse var der taget Stilling til under et andet Punkt paa Dagsordenen. Der fandtes for Tiden 197 Familier under Kommunens
+"	1945	9	27
+"198"	1945-09-27	"open"	"19450927_149.pdf"	33	"995-1945"	"Boligforsorg; de fandtes over hele Byen, men de daarligste var Gymnastiksalene i Paradisgades og Valdemarsgades Skoler, og man maatte grue for, hvorledes Beboerne skulde komme over Vinteren. De 30 Huse løste ikke Spørgsmaalet, men de kunde dog i nogen Grad mildne Situationen for de haardt ramte Mennesker. Aldersrenteboligerne blev først færdige til næste Sommer paa Grund af manglende Materialer; man var derfor nødt til at se Sandheden i Øtnene og gøre noget for at hjælpe paa Forholdet.
+0l u f N i e l s e n hævdede, at den konservative Gruppe ikke saa optimistisk paa Boligspørgsmaalet, men tværtimod betragtede det som et meget stort Problem, der ikke kunde afvises, men at der maatte gøres alt, hvad der overhovedet kan gøres i denne Sag. Naar der var fremført forskellige Betænkeligheder, saa var det kun naturligt, at der blev gjort opmærksom paa Vanskelighederne ved at faa Husene frem. Taleren saa meget nødigt, at man lægger Beslag paa den kirurgiske Afdeling, naar Situationen var saadan, at ca. 300 kirurgiske Patienter maa vente ofte 3-6 Maaneder paa Indlæggelse, og det var lige saa galt paa andre Afdelinger. For nogle af disse Mennesker drejede det sig maaske om en Operation, og ved at lægge Beslag paa Hospitalet var man med til at forværre deres Sygdom, og det kunde maaske have Døden til Følge, at de ikke kunde komme under Behandling. De 30 Træhuse løste slet ikke Spørgsmaalet, men hvis man ved at købe dem kunde undgaa at tage Hospitalet, burde man gøre det. Det var ogsaa en Kendsgerning, at naar der først er kommet Husvilde ind et Sted, var det altid meget vanskeligt at faa dem ud igen. Taleren troede ikke, at Gruppen
+"	1945	9	27
+"199"	1945-09-27	"open"	"19450927_149.pdf"	34	"995-1945"	"vilde gaa imod Forslaget, og det havde den konservative Ordfører heller ikke sagt, men Problemet blev ikke løst derved; Spørgsmaalet maatte tages op paa en anden Maade, men det kunde ikke ske nu lige op til 1. Oktober. Hvis det altsaa kunde hjælpe at købe de 30 Huse, vilde Taleren personlig ikke gaa imod det.
+Borgmesteren var fuldstændig klar over, at Problemet ikke blev løst ved Køb af de 30 Huse, og man var ogsaa klar over Vanskelighederne med Dispensationer og Valuta o. a., saa det hele maaske blev usikkert. Men man havde set saaledes derpaa, at man har Pligt til at forsøge enhver Udvej, selv om den er af ekstraordinær Karakter oe ligger udenfor de Retningslinier, som man ellers arbejder efter. Taleren saa ogsaa med dyb Bekymring paa den Udvikling, der foregik indenfor Hospitalsvæsenet. Man havde i Dag haft et Møde med Professorerne, og det var et meget mørkt Billede, der blev givet af Sygdomme og Epidemier. Taleren havde spurgt, om man ikke kunde bruge saadanne Huse som en midlertidig Nødhjælp paa Hospitalerne, og hvis det var Tilfældet, vilde der i en Aarrække være haardt Brug for disse, saa Hospitalerne kunde komme ud over de lange Ekspetancelister, som de nu er ude for. Det krævede en alvorlig Indsats fra Byraadets Side for at afhjælpe alle disse Vanskeligheder, og det var vist alle i By-raadet enige om. Taleren havde ogsaa det Indtryk, at den konservative Gruppe ikke vil gaa mod Forslaget, selv om den har sine Betænkeligheder.
+Kai Blicher havde faaet det Indtryk, at Købet af de 30 Huse kun var en Draabe i Havet. Men som Situationen var, maatte man med
+"	1945	9	27
+"200"	1945-09-27	"open"	"19450927_149.pdf"	35	"995-1945"	"megen Vægt kunne kræve, at Myndighederne fremskaffer de Materialer, der skal bruges til at bygge de 96 Lejligheder. Dette Krav var saa vel begrundet, at det offentlige næppe kunde modsætte sig det.
+I.C. Sørensen var betænkelig ved Forslaget, fordi det ikke var nogen Løsning, og ogsaa paa Grund af Beskæftigelsesspørgsmaalet. Der vilde nok blive en hel Del Arbejdsløshed blandt Haandværkerne, naar Reparationsarbejderne var forbi, og disse Huse gav ikke meget Arbejde, naar de kunde sættes op paa 24 Timer, medens det ellers varede 1/2 Aar at bygge et Hus. Men i en saa alvorlig Situation maatte der ogsaa gøres noget alvorligt overfor Statsmyndighederne, saa de forstod den uhyre vanskelige Situation for Kommunen og giver Tilladelse til, at Materialerne fremskaffes. Samtidig maatte Flygtningespørgsmaalet tages op, og det maatte kræves, at Flygtningene kommer bort fra Aarhus, naar Byen har saa vanskeligt ved at skaffe Boliger. Angaaende Understøttelse til Tilflyttere, saa blev den givet efter samme Sats som for de øvrige, men i en Nødssituation kunde man nok gøre en Forskel og maaske derved afholde en Del fra at flytte hertil.
+S.Lauritsen (frafalder Ordet).
+H. P. Jensen bemærkede, at det var ikke helt rigtigt, at Husene ikke gav noget dansk Arbejde; de kostede 5.000 Kr. og efter Opstillingen
+10.000Kr., saa de 5.000 Kr. maatte dog være dansk Arbejde. Man havde ogsaa undersøgt, om der kunde skaffes danske Træhuse, men det var i Øjeblikket meget tvivlsomt. Taleren troede, det vilde vare mange Aar, før der blev Arbejdsløshed blandt Haandværkerne, da man var saa langt bagefter med Boliger.
+"	1945	9	27
+"201"	1945-09-27	"open"	"19450927_149.pdf"	36	"995-1945"	"C h r. Nielsen kendte godt Møller Rasmussens Tanke, at der skulde rejses et Skræmmebillede for at afholde Folk fra at flytte til Byen, men det var der ingen Lovhjemmel for. Man kunde ikke sætte Takster for Hjælp, som var ganske ulovlige, og det vilde gøre det endnu værre for disse Mennesker, hvis de foruden at bo daarligt ogsaa skulde sulte.
+Kai Blicher gjorde opmærksom paa, at Prisen paa Husene var 5.000 svenske Kr.; dertil kom Grunden, Anlæggelse af Haver m. m., saa Prisen blev nok snarere 15.000 danske Kr., det kunde godt erstatte en lille Villa, og det blev i hvert Fald et meget dyrt Eksperiment.
+Borgmesteren svarede, at alle Udgifter iberegnet, dog uden Grund, blev Prisen 10.500 Kr., og det kunde ikke kaldes en Villa. Taleren vilde nødig komme ind paa Flygtningespørgsmaalet nu. Landsretssagfører Sørensen mente vist, at der ikke blev gjort tilstrækkeligt i denne Sag, men det var ikke rigtigt. Spørgsmaalet blev daglig behandlet i Byens Styre, men det var uhyre vanskeligt og sikkert lige saa vanskeligt for Regeringen, og der kunde nævnes flere Eksempler paa, hvorledes Planer, der var truffet sammen med et Ministerium, bagefter blev kuldkastet. Flygtningespørgstmaalet kunde ikke løses af den danske Regering alene, og det kunde ikke løses lokalt, men maatte ses i Samrnenhæng for hele Landet, ogsaa Anbringelsen af Flygtninge.
+Taleren sluttede hermed Diskussionen og fastslog, at der trods Betænkeligheder var Enighed om at forsøge Køb af disse Træhuse.
+Indstillingen vedtoges, idet Udgiften, 315.C00 Kr., opføres paa nærmere angiven Konto.
+"	1945	9	27

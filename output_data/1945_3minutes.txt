@@ -1,0 +1,978 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1945-03-01	"closed"	"19450301B_223.pdf"	1	"no related record"	"Mødet den 1. Marts 1945.
+(For lukkede Døre).
+Fraværende: Georg Baunsgaard, S. Lauritzen og Unmack Larsen.
+"	1945	3	1
+"2"	1945-03-01	"closed"	"19450301B_223.pdf"	1	"99_63-1944"	"Andragende fra Gasmester Chr. Johansen om Statslaan med Kommunegaranti til et Beboelseshus Haderslevgade 5.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at der anbefales et Statslaan paa
+53.900Kr. og saaledes, at Kommunen paatager sig Garantien for den Del af Statslaanet, der faar Pantesikkerhed udover 70% af Ejendommens Anskaffelsessum eller for indtil 16.845 Kr.
+Overgik til 2. Behandling.
+"	1945	3	1
+"3"	1945-03-01	"closed"	"19450301B_223.pdf"	1	"99_64-1944"	"Andragende fra Gasmester Chr. Johansen om Statslaan med Kommunegaranti til et Beboelseshus Haderslevgade 3
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at der anbefales et Statslaan paa
+51.900Kr. og saaledes, at Kommunen paatager sig Garantien for den Del af Statslaanet, der faar Pantesikkerhed udover 70% af Ejendommens Anskaffelsessum eller for indtil 16.157 Kr.
+Overgik til 2. Behandling.
+"	1945	3	1
+"4"	1945-03-01	"closed"	"19450301B_223.pdf"	2	"850-1944"	"Indstilling angaaende Ordning af Badmintonhallens Forhold.
+Følgende Indstilling forelaa:
+\"Som Udvalget formentlig vil erindre, var A/S Aarhus Badmintonhal kørt fast i 1941 og fik da paa visse nærmere Vilkaar bevilget Rentefrihed i eet Aar og Afdragshenstand ligeledes i eet Aar m. H. t. Kommunens Pantebrev i Ejendommen. I 1942 forlængedes denne Rentefrihed og Afdragshenstand i to Aar til
+11.Juni 1944.
+Man har det Indtryk, at det i den forløbne Tid i nogen Grad er lykkedes Badmintonhallen at stabilisere sine Forhold, saaledes er Medlemstallet nu ifølge Oplysning fra Selskabets Revisor, Revisor H. H. Windeløv, kommet op paa ca. 500. Selskabet har ikke betalt Afdrag og Renter i December Termin f. A., men Revisor Windeløv har i Stedet fremsendt Forslag til følgende Ordning:
+Den Badmintonhallen paahvilende Gæld til A/S Aarhus Privatbank, ca. 42.500 Kr., hvoraf 40.000 Kr. er sikrede ved 1. Prioritets Panteret i Ejendommen, og som forrentes med Kassekreditrente, søges afløst af et Laan i Ny jydske Købstad-Creditforening, stort ca. 28.000 Kr. Kommunen overtager samtidig den fra Badmintonhallens Grund tidligere udstykkede Parcel Matr. Nr. 1 xv af Aarhus Købstads Markjorder fra Marselisborg, stor 1.482 m2, til en Pris af 9 Kr. pr. m2, svarende til den Pris, Badmintonhallen i sin Tid betalte for Grunden. Købesummen udbetales kontant og afbetales paa den resterende Del af Banklaanet. Der vil formentlig herefter blive 1.500-2.000 Kr. tilbage
+"	1945	3	1
+"5"	1945-03-01	"closed"	"19450301B_223.pdf"	3	"850-1944"	"af dette Laan, som Badmintonhallen maa søge betalt paa anden Maade. Kommunen faar Prioritet efter Kreditforeningen, medens de efterstaaende Prioritetshavere, Fru Hjelmer og Frk. Alfa Toft, kvitterer deres pantsikrede Tilgodehavender i Badmintonhallen og i Stedet faar Aktier derfor.
+Der skulde herefter ifølge Revisor Windeløv være skabt stabile Forhold for Badmintonhallens videre Drift.
+Kommunen kan med Lethed videresælge den nævnte Parcel Matr. Nr. 1 xv af Aarhus Købstads Jorder fra Marselisborg til Villabebyggelse, og man skal derfor anbefale, at den foreslaaede Ordning tiltrædes.
+Stadsarkitekten og Byraadssekretæren indstiller endvidere, at Rente af Kommunens Tilgodehavende først skal beregnes fra 11. December f. A. og erlægges første Gang i 11. Juni Termin d. A., samt at Afdragene først begynder at løbe fra sidstnævnte Termin.
+løvrigt skal man oplyse, at Badmintonhallen for nylig er blevet beslaglagt af den tyske Marine.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Indstillingen tiltrædes, saaledes at Kommunens Tilgodehavende (i Henhold til de to Pantebreve) først skal forrentes fra 11. December Termin f. A., og Renten erlægges første Gang i Juni Termin d. A., ligesom Afdrag først skal begynde at løbe fra og med sidstnævnte Termin.\"
+Indstillingen vedtoges.
+"	1945	3	1
+"6"	1945-03-01	"closed"	"19450301B_223.pdf"	4	"1649-1944"	"Indstilling fra Skoleudvalget om Bortgivelse af Fripladser i de private Realskoler.
+Følgende Indstilling forelaa:
+Ved Aarhus private Realskole: Carl Emil Ramsing og Elisabeth Jensen.
+Ved Forældreskolen: Jytte Andersen og Grete Andersen.
+Ved Elise Smiths Skole: Birgit Møller.
+Ved Fru Laursens Skole: Inger Grauballe.
+Indstillingen vedtoges.
+"	1945	3	1
+"7"	1945-03-01	"closed"	"19450301B_223.pdf"	4	"1641-1944"	"Indstilling fra Skoleudvalget om Fordeling af Chr. IX’s Jubelaarslegat.
+Indstillingen vedtoges.
+"	1945	3	1
+"8"	1945-03-01	"closed"	"19450301B_223.pdf"	4	"389-1944"	"Indstilling om, at Økonomidirektøren beskikkes som tilsynsførende for Det sociale Boligbyggeri for Aarhus og Omegn og dettes Afdelinger.
+Indstillingen vedtoges.
+"	1945	3	1
+"9"	1945-03-01	"closed"	"19450301B_223.pdf"	4	"1623-1944"	"Andragende fra Kommunesekretær Tjørnehøj, Holbæk, om Afsked fra Stillingen som Kontorchef paa Økonomikontoret i Aarhus.
+Bevilgedes.
+"	1945	3	1
+"10"	1945-03-01	"closed"	"19450301B_223.pdf"	4	"33_58-1944"	"Indstilling fra Budgetudvalget om, at Ligningssekretærerne Rich. Olesen og Rejnholdt Mikkelsen fra 1. April 1945 oprykkes i 5. Lønklasse som Overassistenter.
+Indstillingen vedtoges.
+"	1945	3	1
+"11"	1945-03-01	"closed"	"19450301B_223.pdf"	4	"1635-1944"	"Fastsættelse af en aarlig Understøttelse til Chauffør Jens Sørensen, Vejvæsenet.
+Understøttelsen fastsattes til 200 Kr. aarlig uden Dyrtidstillæg.
+"	1945	3	1
+"12"	1945-03-01	"closed"	"19450301B_223.pdf"	5	"1659-1944"	"Indstilling fra Skoleudvalget om Normering af Stillingen som Socialraadgiver.
+Følgende Indstilling forelaa:
+\"I Henhold til Byraadsbeslutning af 18. Februar 1943 blev der fra 1/4 1943 antaget en Socialraadgiver, der skulde assistere dels Kommunehospitalets Børneafdeling og dels Skolevæsenet. Lønbyrden til denne Socialraadgiver har været ligelig delt mellem de 3 nævnte Institutioner.
+Da den paagældende Socialraadgiver imidlertid har taget sin Afsked, og da Skolevæsenets Behov for en Socialraadgivers Assistance er vokset betydeligt, skal man herved tillade sig at indstille, at der fra 1. April d. A. normeres en Socialraadgiver med 3/4 af Lønnen opført paa Skolevæsenets Budget og paa Socialvæsenets.
+Saafremt Byraadet kan tiltræde denne Ordning, vil der senere fremkomme Forslag til Ændring af de paagældende Budgetter.\"
+Indstillingen vedtoges.
+"	1945	3	1
+"13"	1945-03-01	"closed"	"19450301B_223.pdf"	5	"1638-1944"	"Indstilling fra Sygehusudvalget om Ansættelse af Dr. med. N. Blixenkrone-Møller som 1. Reservekirurg ved Kommunehospitalet.
+Indstillingen vedtoges.
+"	1945	3	1
+"14"	1945-03-01	"closed"	"19450301B_223.pdf"	5	"12_11-1944"	"Indstilling fra Socialudvalget angaaende personligt Tillæg til Aldersrentenydere.
+Indstillingen vedtoges.
+"	1945	3	1
+"15"	1945-03-01	"closed"	"19450301B_223.pdf"	5	"16_38-1944"	"Indstilling fra Socialudvalget om, at Hjælp til Underholdsbidrag ydet 6 Personer ikke skal have valgretsfortabende Virkning.
+Indstillingen vedtoges.
+"	1945	3	1
+"16"	1945-03-01	"closed"	"19450301B_223.pdf"	6	"16_39-1944"	"Indstilling fra Socialudvalget om, at Kommunehjælp ydet 8 Personer ikke skal have valgretsfortabende Virkning. Indstillingen vedtoges.
+"	1945	3	1
+"17"	1945-03-01	"closed"	"19450301B_223.pdf"	6	"17_53-1944 og 17_54-1944 og 17_55-1944"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet 5 nærmere angivne Personer.
+Indstillingen vedtoges.
+"	1945	3	1
+"18"	1945-03-01	"closed"	"19450301B_223.pdf"	6	"17_52-1944 og 17_54-1944"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet til:
+a.(J. Nr. 17_52 - 1944). Thekla Skov Madsen.
+b.(J. Nr. 17_54-1944). Chr. Robert Sørensen. Indstillingen vedtoges.
+"	1945	3	1
+"19"	1945-03-01	"closed"	"19450301B_223.pdf"	6	"1674-1944"	"Andragende fra Restauratør Traberg Jensen, Svømmehallen, om Tilladelse til sammen med Restaurationen at drive Svømmehallens Kiosk med Salg af Tobaksvarer m. v.
+Anbefaledes.
+"	1945	3	1
+"20"	1945-03-01	"closed"	"19450301B_223.pdf"	6	"record_id unknown"	"Borgmesteren gav Meddelelse om forskellige Skrivelser fra Stiftamtmand Herschend."	1945	3	1
+"21"	1945-03-01	"open"	"19450301_185.pdf"	1	"no related record"	"Mødet den 1. Marts 1945.
+Fraværende: Georg Baunsgaard, S. Lauritzen og Unmack Larsen.
+"	1945	3	1
+"22"	1945-03-01	"open"	"19450301_185.pdf"	1	"261-1944"	"Meddelelse fra Indenrigsministeriet om Forhøjelse af Statens Tilskud til Beredskabsprojektering.
+Toges til Efterretning.
+"	1945	3	1
+"23"	1945-03-01	"open"	"19450301_185.pdf"	1	"22_31-1944 og 22_30-1944 og 22_34-1944 og 22_33-1944 og 11_36-1944 og 11_35-1944"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a.(J. Nr. 22_31 -1944). Gasmester Chr. Johansen.
+b.(J. Nr. 22_30-1944). Arkitekt Johs. Sørensen.
+c.(J. Nr. 22_34-1944). Ingeniør H. Haugaard.
+d.(J. Nr. 22_33-1944). Konfekturehandler M. R. Pløen.
+e.(J. Nr. 11_36-1944). Remisearbejder E. J. Pedersen.
+f.(J. Nr. 11_35-1944). Ove Emanuel Pedersen.
+Toges til Efterretning.
+"	1945	3	1
+"24"	1945-03-01	"open"	"19450301_185.pdf"	1	"1061-1944"	"Meddelelse fra Justitsministeriet om Fornyelse af Bevilling for Biografen, Nørregade 46.
+Toges til Efterretning.
+"	1945	3	1
+"25"	1945-03-01	"open"	"19450301_185.pdf"	1	"3_53-1944"	"Meddelelse fra Ministeriet for off. Arbejder om Godkendelse af Overskridelser paa Havnens Budget for 1943-44.
+Toges til Efterretning.
+"	1945	3	1
+"26"	1945-03-01	"open"	"19450301_185.pdf"	2	"898-1944"	"Meddelelse fra Kirkeministeriet om, at der for 1945-46 skal paalignes 181.574 Kr. i Kirkeskat.
+Toges til Efterretning.
+"	1945	3	1
+"27"	1945-03-01	"open"	"19450301_185.pdf"	2	"1086-1944"	"MeddelelsefraArbejdsministeriet om Forhøjelse af Statstilskud til Afgravningsarbejdet ved Langenæs.
+Toges til Efterretning.
+"	1945	3	1
+"28"	1945-03-01	"open"	"19450301_185.pdf"	2	"1360-1944"	"MeddelelsefraArbejdsministeriet om Godkendelse af den af Sygekassen \"Aarhus\" foreslaaede Husmoderafløsning som Beskæftigelsesforanstaltning.
+Toges til Efterretning.
+"	1945	3	1
+"29"	1945-03-01	"open"	"19450301_185.pdf"	2	"1630-1944"	"MeddelelsefraArbejdsministeriet om Tilskud i H. t. Beskæftigelsesloven til Afholdelse af 20 Skolekoncerter i forskellige Kommuner.
+Toges til Efterretning.
+"	1945	3	1
+"30"	1945-03-01	"open"	"19450301_185.pdf"	2	"1595-1944"	"Meddelelse fra Skattedepartementet om Henstand med Betaling af Forlystelsesafgift for visse Forestillinger paa forskellige Teatre.
+Toges til Efterretning.
+"	1945	3	1
+"31"	1945-03-01	"open"	"19450301_185.pdf"	2	"1624-1944"	"Driftsregnskab og Status
+for Jydsk Væddeløbsbane i 1944.
+Toges til Efterretning.
+"	1945	3	1
+"32"	1945-03-01	"open"	"19450301_185.pdf"	2	"10_8-1944"	"Meddelelse fra Aarhus Idrætspark om, at Skibsmægler Axel Jensen er valgt til Formand for Repræsentantskabet og at Kontorchef Oluf Nielsen er indvalgt i Idrætsparkens Forretningsudvalg.
+Toges til Efterretning.
+"	1945	3	1
+"33"	1945-03-01	"open"	"19450301_185.pdf"	2	"640-1944"	"Meddelelse om ændrede Vedtægter for Aarhus Idrætspark.
+Toges til Efterretning.
+"	1945	3	1
+"34"	1945-03-01	"open"	"19450301_185.pdf"	3	"1620-1944"	"Regnskaber for 6 under Den jydske Handelshøjskole henhørende Legater.
+Toges til Efterretning.
+"	1945	3	1
+"35"	1945-03-01	"open"	"19450301_185.pdf"	3	"1645-1944"	"Indstilling om yderligere Udbetaling til Falcks Redningskorps for Abonnement i 1944-45.
+Budgetudvalget indstiller, at der udbetales 1.400 Kr., hvorefter der er udbetalt ialt 13.400 Kr.
+Borgmesteren oplyste, at der førtes Forhandlinger med Falck om en ny Ordning, saaledes at der betales pr. Ydelse, og der vilde senere komme Forslag derom.
+Indstillingen vedtoges.
+"	1945	3	1
+"36"	1945-03-01	"open"	"19450301_185.pdf"	3	"1588-1944"	"Indstilling om Bevilling af
+17.000Kr. til Opsætning af elektriske Maalere i Kommunens Husvildeboliger.
+Indstillingen vedtoges.
+"	1945	3	1
+"37"	1945-03-01	"open"	"19450301_185.pdf"	3	"1657-1944"	"Indstilling om Bevilling af 500 Kr. til Drift af en Varmestue for mindre Børn paa Christiansbjerg.
+Indstillingen vedtoges.
+"	1945	3	1
+"38"	1945-03-01	"open"	"19450301_185.pdf"	3	"3_57-1944"	"Indstilling om Efterbevilling af en Overskridelse paa 19,56 Kr. vedrørende Kommunehospitalets kirurgiske Afdeling.
+Indstillingen vedtoges.
+"	1945	3	1
+"39"	1945-03-01	"open"	"19450301_185.pdf"	3	"1643-1944"	"Indstilling om Bevilling paa 3.477,98 Kr. til Indretning af Tilflugtsrum ved Stautrupværket og af 2.753,14 Kr. til ekstraordinær Indhegning af Bygninger m. v. i Stautrup.
+Indstillingen vedtoges.
+"	1945	3	1
+"40"	1945-03-01	"open"	"19450301_185.pdf"	3	"1642-1944"	"Indstilling om Bevilling af
+30.000Kr. til ekstraordinær Bevogtningstjeneste paa Vandværkets forskellige Anlæg.
+Indstillingen vedtoges.
+"	1945	3	1
+"41"	1945-03-01	"open"	"19450301_185.pdf"	3	"1644-1944"	"Indstilling om Bevilling af
+4.000Kr. til Udligning af Forsørgelsesvæsenets
+"	1945	3	1
+"42"	1945-03-01	"open"	"19450301_185.pdf"	4	"1644-1944"	"Tilgodehavende hos Hovedkassen for Udfærdigelse af Lønningslister m. v., samt om yderligere Bevilling af 500 Kr. til Hovedkassen. Indstillingen vedtoges.
+"	1945	3	1
+"43"	1945-03-01	"open"	"19450301_185.pdf"	4	"1545-1944"	"Indstilling om Bevilling af 22.650 Kr. til Indretning af Husvildeboliger i Vennelysts Restaurationsbygning.
+Borgmesteren anbefalede Forslaget, idet disse Boliger kunde indrettes lige saa billigt som i Skolelokaler o. lign.
+Indstillingen vedtoges.
+"	1945	3	1
+"44"	1945-03-01	"open"	"19450301_185.pdf"	4	"36_1-1944"	"Indstilling om Tillægsbevilling paa 88.500 Kr. til Bevilling Nr. K. 13 til forøgede Vejanlæg, Anlæg af Parkeringsplads, Festplads samt Friluftsauditorium m. v. ved Universitetet.
+Borgmesteren pegede paa, at det var noget mere, end man oprindelig havde tænkt, men paa den anden Side var det rimeligt, at Byen giver dette Tilskud.
+Indstillingen vedtoges.
+"	1945	3	1
+"45"	1945-03-01	"open"	"19450301_185.pdf"	4	"22_38-1944 og 23_35-1944 og 22_36-1944 og 22_37-1944 og 11_37-1944"	"Købekontrakter og betingede Skøder med:
+a.(J. Nr. 22_38-1944). Arkitekt S. Lorin Rasmussen
+angaaende en Grund ved Hestehavevej.
+b.(J. Nr. 23_35 -1944). Gasmester Chr. Johansen angaaende en Grund ved Haderslevgade 3.
+c.(J. Nr. 22_36-1944 og 22_ 37-1944). Murermester Harald Andersen angaaende 2 Grunde ved Rudolph Wulffsgade 12 og 14.
+d.(J. Nr. 11_37-1944). Automobilhandler Brdr. Jørgensen angaaende en Grund ved Finderupvej. Godkendtes.
+"	1945	3	1
+"46"	1945-03-20	"closed"	"19450320B_229.pdf"	1	"no related record"	"Mødet den 20. Marts 1945.
+(For lukkede Døre).
+Fraværende: Niels Laursen og Unmack Larsen.
+"	1945	3	20
+"47"	1945-03-20	"closed"	"19450320B_229.pdf"	1	"99_63-1944"	"Andragende fra Gasmester Chr. Johansen om Statslaan til et Beboelseshus Haderslevgade 5. - 2. Behandling.
+Indstillingen vedtoges.
+"	1945	3	20
+"48"	1945-03-20	"closed"	"19450320B_229.pdf"	1	"99_64-1944"	"Andragende fra Gasmester Chr. Johansen om Statslaan til et Beboelseshus Haderslevgade 3. - 2. Behandling.
+Indstillingen vedtoges.
+"	1945	3	20
+"49"	1945-03-20	"closed"	"19450320B_229.pdf"	1	"99_59-1944"	"Andragende fra Gasmester Chr. Johansen om Statslaan paa 7.500 Kr. i H. t. Lov af 9/4 1941 til et Rækkehus paa Eskimovej 23.
+Anbefalet af Udvalget for Byens Udvidelse og Bebyggelse saaledes, at Kommunen paatager sig Garanti for den Del af Laanet, der faar Pantesikkerhed efter 70% af Anskaffelsessummen eller for 134,23 Kr.
+Overgik til 2. Behandling.
+"	1945	3	20
+"50"	1945-03-20	"closed"	"19450320B_229.pdf"	1	"116-1944"	"Andragende fra Kommunelærer Oscar J. Jensen om Kommunens Garanti for Laan til Boligindskud i Arbejdernes Andelsboligforening.
+"	1945	3	20
+"51"	1945-03-20	"closed"	"19450320B_229.pdf"	2	"116-1944"	"Udvalget for Byens Udvidelse og Bebyggelse anbefaler at yde Garanti for et Laan paa 1.000 Kr. Overgik til 2. Behandling.
+"	1945	3	20
+"52"	1945-03-20	"closed"	"19450320B_229.pdf"	2	"1697-1944"	"Bortgivelse af kommunale Fripladser i Den jydske Handelshøjskole.
+Fra Skolen forelaa følgende Indstilling:
+Hel Friplads:
+Inger Skotte, V. Ringgade 54.
+Halv Friplads:
+Lilly Pedersen, Iver Huitfeldtsgade 68.
+Else Høvids, Høegh Guldbergsgade 29.
+S.E. Tonn Petersen, Christiansgade 32. Holger Pedersen, Nr. Allé 33.
+F. S. Faurschou Borch, Skansepalæ 5.
+F. Chr. Rasmussen, Ny Munkegade 71. Tiltraadtes.
+"	1945	3	20
+"53"	1945-03-20	"closed"	"19450320B_229.pdf"	2	"1013-1944"	"Indstilling fra Belysningsudvalget om de Vilkaar, paa hvilke der kan meddeles Maskinmester H. A. Hansen ved Fødselsanstalten Autorisation som Elektroinstallatør samme Sted.
+Tiltraadtes.
+"	1945	3	20
+"54"	1945-03-20	"closed"	"19450320B_229.pdf"	2	"1714-1944"	"Indstilling fra Skoleudvalget til Besættelse af Lærerembeder.
+Følgende Indstilling forelaa:
+1 Lærerindeembede.
+1)Inger Mikkelsen.
+2)Vibeke Balslev.
+3)Kamma Poulsen.
+6 Timelærerembeder.
+I.1) Jens Ejsing.
+2)Thomas Rahbek.
+3)Laurs Gravesen.
+"	1945	3	20
+"55"	1945-03-20	"closed"	"19450320B_229.pdf"	3	"1714-1944"	"II.1) S. Brix Olesen.
+2)Hans Chr. Olsen.
+3)Thomas Rahbek.
+III.1) T. Tromholt-Madsen.
+2)Laurs Gravesen.
+3)Hans Chr. Olsen.
+IV.1) Laurs Gravesen.
+2)T. Tromholt-Madsen.
+3)Jens Ejsing.
+V.1) Thomas Rahbek.
+2)Jens Ejsing.
+3)S. Brix Olesen.
+VI.1) Hans Chr. Olsen.
+2)S. Brix Olesen.
+3)T. Tromholt-Madsen.
+5 Timelærerindeembeder.
+I.1) Signe Bertelsen.
+2)Else Marie Jensen.
+3)Anna Dam.
+II.1) Ester Rørholm.
+2)Anna Dam.
+3)Signe Bertelsen.
+III.1) Anna Dam.
+2)Inga Christensen.
+3)Ester Rørholm.
+IV.1) Inga Christensen.
+2)Ester Rørholm.
+3)Else Marie Jensen.
+V.1) Else Marie Jensen.
+2)Signe Bertelsen.
+3)Inga Christensen.
+Indstillingen vedtoges saaledes, at de som Nr. 1 indstillede ansættes.
+"	1945	3	20
+"56"	1945-03-20	"closed"	"19450320B_229.pdf"	3	"1724-1944"	"Indstilling fra Sygehusudvalget om, at cand. med. Arne Kjeld Larsen ansættes 
+"	1945	3	20
+"57"	1945-03-20	"closed"	"19450320B_229.pdf"	4	"1724-1944"	"som 1. Reservelæge ved Kommunehospitalets Tuberkuloseafdeling.
+Tiltraadtes.
+"	1945	3	20
+"58"	1945-03-20	"closed"	"19450320B_229.pdf"	4	"1673-1944"	"Indstilling fra Lønudvalget om, at Vagtmand Anders Nielsen, der før sin Ansættelse under Vagtværnet, var ansat som Hospitalsporter, og som er omkommet i Tjenesten, m. H. t. Enkepension og Efterløn betragtes som omkommet under Tjeneste ved Kommunehospitalet.
+Tiltraadtes, idet Enkepensionen fastsattes til 900 Kr.
+"	1945	3	20
+"59"	1945-03-20	"closed"	"19450320B_229.pdf"	4	"16_42-1944"	"Indstilling fra Socialudvalget om, at Kommunehjælp ydet til 8 Personer som Tillæg til Rente ikke skal have valgretsfortabende Virkning.
+Indstillingen vedtoges.
+"	1945	3	20
+"60"	1945-03-20	"closed"	"19450320B_229.pdf"	4	"16_40-1944 og 16_41-1944"	"Indstilling fra Socialudvalget om, at Kommunehjælp ydet 3 Personer, som forskudsvis udredet Underholdsbidrag ikke skal have valgretsfortabende Virkning.
+Indstillingen vedtoges.
+"	1945	3	20
+"61"	1945-03-20	"closed"	"19450320B_229.pdf"	4	"17_56-1944 og 17_58-1944"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet 8 Personer.
+Indstillingen vedtoges.
+"	1945	3	20
+"62"	1945-03-20	"closed"	"19450320B_229.pdf"	4	"17_57-1944"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet Chr. Erik Nielsen.
+Indstillingen vedtoges.
+"	1945	3	20
+"63"	1945-03-20	"closed"	"19450320B_229.pdf"	4	"1730-1944"	"Indstilling fra Borgmesteren om, at Fuldmægtig H. Jaquet, Byraadskontoret, bemyndiges til i Borgmesterens Forfald at forrette borgerlig Vielse.
+Borgmesteren meddelte, at Fuldmægtig Jarde var overanstrengt og skulde have 3 Maaneders Rekreation.
+Indstillingen vedtoges.
+"	1945	3	20
+"64"	1945-03-20	"open"	"19450320_189.pdf"	1	"no related record"	"Mødet den 20. Marts 1945.
+Fraværende: Niels Laursen og Unmack Larsen.
+"	1945	3	20
+"65"	1945-03-20	"open"	"19450320_189.pdf"	1	"22_38-1944 og 22_37-1944 og 22_36-1944 og 22_35-1944"	"Indenrigsministeriets Godkendelse af Købekontrakter med:
+a.(J.Nr.22_38-1944).Arkitekt S. L. Rasmussen.
+b.(J.Nr.22_37-1944).Murermester Harald Andersen.
+c.(J.Nr.22_36-1944).Samme.
+d.(J.Nr.22_35-1944).Gasmester Chr.Johansen.
+Toges til Efterretning.
+"	1945	3	20
+"66"	1945-03-20	"open"	"19450320_189.pdf"	1	"1675-1944"	"Meddelelse fra Arbejdsministeriet om Godkendelse af Beredskabsarbejde Anlæg af Frichsvej (Parceller I, II og III).
+Toges til Efterretning.
+"	1945	3	20
+"67"	1945-03-20	"open"	"19450320_189.pdf"	1	"1263-1944"	"Handelsministeriets Stadfæstelseaf Fundats for Tømrermester Chr. N. Withen og Hustrus Legat.
+Toges til Efterretning.
+"	1945	3	20
+"68"	1945-03-20	"open"	"19450320_189.pdf"	1	"1717-1944"	"Regnskab for Købmand Wærums, Etatsraad Filtenborgs og Købmand Jul. Philipsons Legater.
+Toges til Efterretning.
+"	1945	3	20
+"69"	1945-03-20	"open"	"19450320_189.pdf"	1	"23_20-1944"	"Beretning for Aarhus Brandvæsen i 1943-44.
+Toges til Efterretning.
+"	1945	3	20
+"70"	1945-03-20	"open"	"19450320_189.pdf"	2	"1710-1944"	"Indstilling fra Decisionsudvalget om, at Fejl under 10 Kr. i Kommunens Regnskab for 1940- 41 og 1941-42 ikke kræves berigtigede.
+Tiitraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1945	3	20
+"71"	1945-03-20	"open"	"19450320_189.pdf"	2	"1692-1944"	"Andragende fra Dansk Byplanlaboratorium om Tilskud.
+Det paa Konto 25 afsatte Tilskud paa 200 Kr. bevilgedes.
+"	1945	3	20
+"72"	1945-03-20	"open"	"19450320_189.pdf"	2	"1604-1944"	"Indstilling fra Socialudvalget om Tillægsbevilling paa 3.044,16 Kr. til Dækning af Merudgift til Aflønning af Sundhedsplejersker, Kontorhjælp og Vedligeholdelse af Inventar m. m.
+Indstillingen vedtoges.
+"	1945	3	20
+"73"	1945-03-20	"open"	"19450320_189.pdf"	2	"1703-1944"	"Indstilling om Bevilling af
+2.000 Kr. til Aarhus Museum til Udgravningsarbejder ved Brabrand Sø.
+Indstillingen vedtoges.
+"	1945	3	20
+"74"	1945-03-20	"open"	"19450320_189.pdf"	2	"1683-1944"	"Indstilling om Bevilling af
+2.026 Kr. til Naturhistorisk Museum til Dækning
+af ekstraordinære Udgifter.
+Indstillingen vedtoges.
+"	1945	3	20
+"75"	1945-03-20	"open"	"19450320_189.pdf"	2	"1545-1944"	"Indstilling om Bevilling af
+14.000Kr. til Indretning af 5 Husvildeboliger i Stueetagen i Vennelyst’s Restaurationsbygning.
+Indstillingen vedtoges.
+"	1945	3	20
+"76"	1945-03-20	"open"	"19450320_189.pdf"	2	"3_56-1944"	"Indstilling fra Socialudvalget om Tillægsbevilling til Socialvæsenets Konto XII: 224.506,96 Kr. og Konto XIII: 57.278,22 Kr.
+Indstillingen vedtoges.
+"	1945	3	20
+"77"	1945-03-20	"open"	"19450320_189.pdf"	2	"1695-1944"	"Indstilling fra Parkudvalget om Bevilling til Nedrivning af den Del af Vennelystpavillionen, som ikke indrettes til Husvildeboliger.
+Indstillingen vedtoges, idet Arbejdet overdroges Entreprenør P. Johansen for 3.600 Kr.
+"	1945	3	20
+"78"	1945-03-20	"open"	"19450320_189.pdf"	3	"1715-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Bevilling af
+80.000Kr. til Anlæg af Rørmosevej og Egebæksvej mellem Bøgebjergvej og Hestehavevej.
+Tiltraadt af Budgetudvalget saaledes, at Udgiften midlertidig afholdes af Kassebeholdningen og senere restitueres af Kommunens Gade- og Vejfond.
+Indstillingen vedtoges.
+"	1945	3	20
+"79"	1945-03-20	"open"	"19450320_189.pdf"	3	"1626-1944"	"IndstillingfraVejteknisk Udvalgom, at Arbejdet medRegulering af
+Trøjborgvej mellem Nørrebrogade og Aldersrovej optages paa Planen over Kommunens Beredskabsarbejder.
+Indstillingen vedtoges.
+"	1945	3	20
+"80"	1945-03-20	"open"	"19450320_189.pdf"	3	"1625-1944"	"IndstillingfraVejteknisk Udvalg om, at Regulering af Aldersrovej mellem Niels Juelsgade og Otto Rudsgade optages paa Planen over Kommunens Beredskabsarbejder.
+Indstillingen vedtoges.
+"	1945	3	20
+"81"	1945-03-20	"open"	"19450320_189.pdf"	3	"1648-1944"	"AndragendefraØkonomaforeningen om Tilskud til Kursus i Teori paa Ernæringsomraadet.
+Sygehusudvalget kan ikke anbefale Andragendet.
+Borgmesteren oplyste, at Hospitalsvæsenet gav Tilskud til de Køkkenassistenter, der deltog
+iKursuset, hvorfor der ikke kunde anbefales yderligere Tilskud.
+Kunde ikke bevilges.
+"	1945	3	20
+"82"	1945-03-20	"open"	"19450320_189.pdf"	3	"1696-1944"	"IndstillingfraVejteknisk Udvalg om Forhøjelse af Afgiften for Latrinrenoveringen.
+Udvalget indstiller, at Grundejernes Betaling fra 1. April 1945 forhøjes fra 5 Kr. til 7 Kr. pr. Kvartal pr. Latrinspand.
+Indstillingen vedtoges.
+"	1945	3	20
+"83"	1945-03-20	"open"	"19450320_189.pdf"	4	"1662-1944"	"Andragende fra Vognmand N. B. M. Gaarsdal om Fornyelse af Koncession paa Omnibusruten Filtenborg Plads- Moesgaard Strand.
+Anbefalet af Vejteknisk Udvalg for 2 Aar, idet man samtidig anbefaler Andragende om Tilladelse til Kørsel paa Søn- og Helligdage.
+Tiltraadtes.
+"	1945	3	20
+"84"	1945-03-20	"open"	"19450320_189.pdf"	4	"1716-1944"	"Indstilling fra Brandkommissionen om Ændring i Skorstensfejerinstruksens §§ 1 og 2 for Tiden 1/4 1945-1/4 1946.
+Kommissionen indstiller, at Skorstene, som i Henhold til Instruksen fejes 3 Gange aarlig, under de nuværende Brændselsforhold fejes 4 Gange aarlig, og at Skorstene i Villaer, som kun fejes
+2Gange aarlig, fremtidig fejes 3 Gange aarlig.
+Indstillingen vedtoges.
+"	1945	3	20
+"85"	1945-03-20	"open"	"19450320_189.pdf"	4	"1704-1944"	"Indstilling fra Lønudvalget om Forhøjelse af Dyrtidstillæg til kommunale Arbejdere.
+Følgende Indstilling forelaa:
+\"I Henhold til Kendelse afsagt af Arbejds- og Forligsnævnets Formandsskab den 3. d. M. forhøjes Dyrtidstillæggene til de Arbejdergrupper, der omfattes af Overenskomsten af 31. Oktober 1939 mellem Dansk Arbejdsgiverforening og Organisationer under De samvirkende Fagforbund, fra 1. Marts d. A. med 8 og 5 Øre pr. Time henholdsvis for mandlige og kvindelige Arbejdere.
+Det kan forudses, at der ved Lovanordning vil blive tilladt en Forhøjelse af Dyrtidstillæg, som ikke direkte omfattes af Formandsskabets Kendelse, med højst samme Beløb, hvorefter Tillæggene til nedennævnte ved Kommunen
+"	1945	3	20
+"86"	1945-03-20	"open"	"19450320_189.pdf"	5	"1704-1944"	"beskæftigede time-, dag- og ugelønnede Arbejdergrupper fra 1. Marts d. A. at regne vil være at forhøje til de anførte Beløb:
+Samlet
+Dyrtidstillæg
+Arbejdergrupper
+Øre Øre
+Haandværkere........................6257
+Gartnere............................6358
+Kedelpassere........................6358
+Retorthusarbejdere..................6358
+Arbejdsmænd ved Forbrændingsanstalten ..........................6358
+Arbejdsmænd, som lønnedes i H. til § 1 c i Overenskomsten af 20/11 1939 med Kommunale Arbejdsmænds Fagforening...........6358
+Øvrige Arbejdsmænd..................6459
+Kontorister, mandlige ..............6863
+- kvindelige ..................4643
+Badeassistenter, mandlige...........6561
+-kvindelige........4239
+Rengøringskvinder...................4038
+Syersker............................4441
+Vaskeriarbejdersker.................4441
+Lugearbejdersker....................4441
+Husmedhjælpere ved Hjemmesygeplejen ............................. 4543
+Da Forhøjelserne ikke maa paavirke de i Henhold til Overenskomstnævnets Kendelse af 21/8 1944 ydede ekstraordinære Dyrtidstillæg, vil den af Byraadet den 7/9 1944 vedtagne Skala for Ydelse af disse Tillæg til mandlige
+"	1945	3	20
+"87"	1945-03-20	"open"	"19450320_189.pdf"	6	"1704-1944"	"Arbejdere, som arbejder i Akkord, være at ændre som følger:
+Ekstraord.
+Timeløn
+Tillæg
+Over198indtilogmed208Øre..6Øre
+\"208\"-\"218\"..5\"
+\"218\"-\"228\"..4\"
+\"228\"-\"238\"..3\"
+dog ikke ud over 238 Øre.
+Til Orientering oplyses, at Merudgiften vil andrage ca. 150.000 Kr. i Regnskabsaaret 1945-46. For den tilbageværende Del af indeværende Regnskabsaar vil Merudgiften andrage ca. 12.000 Kr.\"
+Borgmesteren bemærkede, at Forslaget var i Henhold til den sidst afsagte Kendelse, og senere kom Spørgsmaalet om Tjenestemændenes Tillæg.
+Indstillingen vedtoges.
+"	1945	3	20
+"88"	1945-03-20	"open"	"19450320_189.pdf"	6	"12_12-1944"	"Indstilling fra Socialudvalget om ekstraordinær Brændselshjælp til Rentenydere m. fl.
+Indstillingen vedtoges.
+"	1945	3	20
+"89"	1945-03-20	"open"	"19450320_189.pdf"	6	"11_42-1944 og 11_40-1944 og 11_38-1944 og 11_39-1944 og 11_41-1944 og 11_43-1944 og 22_40-1944"	"Købekontrakter og betingede Skøder med:
+a.(J. Nr. 11_42-1944). Malermester H. Kjeldsen
+angaaende en Grund ved Finderupvej.
+b.(J. Nr. 11_40- 1944). Maskinsnedker Th. Hansen
+angaaende en Grund ved Uppsalagade.
+c.(J. Nr. 11_38-1944). Murer G. Moesgaard angaaende en Grund ved Højvangs Allé
+d.(J. Nr. 11_39-1944). Ekspedient Ejnar Nielsen
+angaaende en Grund ved Norvestpassagen.
+e.(J. Nr. 11_41-1944). Fyrbøder A. S. Christensen
+angaaende en Grund ved Randersvej.
+f.(J. Nr. 11_43-1944). Pakmester O. Jakobsen
+angaaende en Grund ved Højvangs Allé.
+"	1945	3	20
+"90"	1945-03-20	"open"	"19450320_189.pdf"	7	"11_42-1944 og 11_40-1944 og 11_38-1944 og 11_39-1944 og 11_41-1944 og 11_43-1944 og 22_40-1944"	"g.(J. Nr. 22_40-1944). Kabelmester G. Høisgaard
+angaaende en Grund ved Bøgebjergvej.
+Godkendtes.
+"	1945	3	20
+"91"	1945-03-20	"open"	"19450320_189.pdf"	7	"47-1944"	"Skøde til Kommunen paa en Del af Haslegaardens Jorder.
+Godkendtes.
+"	1945	3	20
+"92"	1945-03-20	"open"	"19450320_189.pdf"	7	"798-1944"	"Skøde til Kommunen paa Ejendommen Studsgade 29 og Nørregade 39-41.
+Godkendtes.
+"	1945	3	20
+"93"	1945-03-20	"open"	"19450320_189.pdf"	7	"1726-1944"	"Budget for Aarhus Havn for 1945-46.
+Borgmesteren forelagde Budgettet med følgende Oversigt:
+Driftsbudget. Pag. 2. Havne- og Bropenge er forhøjet fra 800.000 Kr. i indeværende Aar til 1.000.000 Kr., hvilket er Gennemsnittet af de Beløb, der er indgaaet i de 3 sidste Aar, i hvilke Havne- og Bropengene er steget fra 779.080,33 Kr. til 1.166.069,92 Kr. Til den 1. Marts i indeværende Regnskabsaar er der indgaaet 943.360,25 Kr., og man mener derfor, at det maa være forsvarligt at regne med 1.000.000 Kr. for det kommende Aar.
+Driftsunderskuddet, 531.560,36 Kr., skyldes i Hovedsagen de store Afskrivninger paa ca.
+706.000Kr.
+Status. Af Havnens Status ultimo 1945- 46 - Pag. 6 og 7 - vil det fremgaa, at man regner med, at Havnen ved Udgangen af nævnte Regnskabsaar vil eje Værdier til et samlet Beløb af 33.893.249,38 Kr., medens Statusoverskuddet vil andrage 30.501.014,10 Kr.
+Det ses af Konto 75, at Fonden til et Sømandshjem ved Aarets Udgang vil have naaet
+150.000Kr., og at man opretter en Fond for Udbedring af Krigsskader paa 900.000 Kr.,
+"	1945	3	20
+"94"	1945-03-20	"open"	"19450320_189.pdf"	8	"1726-1944"	"hvortil der inden Regnskabsaarets Afslutning formentlig vil komme ca. 10.000 Kr.
+Den regnskabsmæssige Kassebeholdning. Pag. 8-15 balancerer med 8.423.415,49, og man regner med at begynde med en Kassebeholdning paa 2.620.000 Kr.,
+d.v. s. godt dobbelt saa meget som i Fjor. Grunden hertil er den, at man i Aarets Løb ikke har kunnet skaffe Materialer til Udvidelse imod Nord i den Udstrækning, som man havde haabet. Hertil kommer Indtægter ifølge Driftsregnskabet, 2.091.601 Kr., og da man haaber i Løbet af Aaret at faa Fred, regner man med at optage et Laan paa 2.000.000 Kr., for at der kan sættes fuld Kraft paa Arbejderne ved Bygning af Pier 1 til Erstatning for Midtermolen. Fjernelse af den gamle Søndre Molearm, Færdigbygning af Kystværnet langs med den projekterede Pier 3 og Udbygning af et nyt Bassin V. Til dette Formaal vi! man benytte de Beløb, som indestaar i Bank og Sparekasse, Afdragene paa Tilgodehavender samt Værdien af Kreditforeningsobligationerne, -- i alt et samlet Beløb af 965.757,43 Kr.
+Af Udgiftssiden - Konto 3 - vil det ses, at man haaber paa at kunne faa bygget en Gangbro over Østbanegaardens Terræn til Fiskeri- og Lystbaadehavnen, at der til Udvidelse af Trafikhavnen mod Nord er afsat 2.533.920 Kr. og til Bygning af en ny Pier 1 ca. 824.000 Kr. Ved Sydhavnen er man færdig med Omlægning af Veje og Spor, og der resterer kun at betale Statsbanernes Regning, naar den fremkommer. Det vil bemærkes, at man under Konto 3 g har afsat et Beløb til Forarbejder til en ny Lystbaadehavn ved Varna, og under Konto 3 h 7 er afsat 150.000 Kr. til
+"	1945	3	20
+"95"	1945-03-20	"open"	"19450320_189.pdf"	9	"1726-1944"	"Indretning af en ny Materialgaard paa Lystbaademolen, saa snart Krigen er forbi, fordi man til den Tid har lovet Arbejdsgiverforeningen at afstaa Havnens nuværende Plads ved Polensgade. Endelig vil det bemærkes, at man under Konto 3 k har afsat 910.000 Kr. til Istandsættelse af Skaden paa Kaj 125-127-129 og Udbedring af andre Skader.
+Af Specifikationer til Driftsregnskabet vil man under Konto 16.10 - Pag. 29 - bemærke, at man regner med ca. 20.000 Kr. til Udgifter ved en Konkurrence om Havnens Udvidelse, hvoraf der dog formentlig i 1945-46 kun vil blive Brug for 5.000 Kr.
+Kai Blicher: Naar det Budget, der foreligger her, viser et Underskud paa 1/2 Mill. Kr., er det ikke saa alvorligt, da Havnen næsten ingen Gæld har, og Underskudet skyldes den store Afskrivning paa 700.000 Kr. Der er beregnet meget store Beløb til nye Arbejder, og hvis de kommer i Gang, vil det være nødvendigt at optage et Laan paa 2 Mill. Kr., men det er maaske lidt tvivlsomt. Det er interessant at se et Beløb paa 20.000 Kr. til en Konkurrence om Havneudvidelse; der er stor Interesse i Byen for denne Sag, og forhaabentlig vil det kunne lykkes for os at faa den udskrevet i Løbet af dette Aar. Min Gruppe kan acceptere Budgettet, som det foreligger.
+Budgettet vedtoges enstemmig.
+"	1945	3	20
+"96"	1945-03-20	"open"	"19450320_189.pdf"	9	"898-1944"	"Forslag til Budget og Arbejdsplan for 1945-46.
+Borgmesteren: Det Budgetforslag, som i Dag forelægges Byraadet, er ligesom de senere Aars Budgetter præget af den Usikkerhed, som
+"	1945	3	20
+"97"	1945-03-20	"open"	"19450320_189.pdf"	10	"898-1944"	"Fremtiden indebærer. Usikkerheden bliver desto større, jo mere vi nærmer os Krigens Afslutning - dels fordi Vilkaarene for Gennemførelse af de normale kommunale Opgaver stadig forringes, og dels fordi der stadig i højere Grad maa tages Hensyn til de Vanskeligheder, som vi kan forudse vil opstaa med Krigens Afslutning.
+Staaende over for denne Usikkerhed kan man vælge mellem to Fremgangsmaader ved Budgettets Opstilling:
+1.Man kan lægge Budgettet paa Basis af de herskende Forhold - det vil væsentlig sige paa Grundlag af det sidst afsluttede Regnskabsaar (1943-44) og indeværende Aars Budget - og dernæst ved Henlæggelser o. lign. sikre sig mod den Usikkerhed, som Tiden indeholder, eller man kan
+2.søge at gisne om Udviklingen i det kommende Aar og under Hensyn hertil fastsætte hver enkelt Budgetpost overensstemmende med den Udvikling, man forventer vil finde Sted.
+Det foreliggende Budgetforslag er opstillet i Overensstemmelse med den først anførte Frem-gangsmaade, idet Budgetforslaget i det store og hele er opstillet paa Grundlag af Forholdene ved Aarsskiftet og følgelig ikke tager Hensyn til væsentlige Ændringer i Beskæftigelses- og Forsyningssituationen. Til Imødegaaelse af den Risiko, som dette indebærer, har man derfor i Lighed med tidligere Aar foreslaaet optaget Henlæggelser til et samlet Beløb af 3,3 Mill. Kr., hvoraf alene 3,1 Mill. Kr. til Kommunens Dispositionsfond, medens Resten, 200.000 Kr., er foreslaaet henlagt til Fonden for Erhvervelse af Arealer i den indre By. Denne Henlæggelse er 150.000 Kr. mindre end paa indeværende Aars Budget, hvor
+"	1945	3	20
+"98"	1945-03-20	"open"	"19450320_189.pdf"	11	"898-1944"	"der i alt er henlagt 3.450.000 Kr. - heraf 3.250.000 Kr. til Dispositionsfonden.
+Den Opsamling, der i de senere Aar har fundet Sted paa Kommunens Dispositionsfond, tænkes saaledes fortsat med Henblik paa Imødegaaelse af de Vanskeligheder, som Omstillingen fra Krigs- til Fredsøkonomi nødvendigvis vil fremkalde.
+Trods stigende Materialemangel og Restriktioner af forskellig Art har Beskæftigelsen i det forløbne Aar været saa stor som aldrig før, men dels kan vi allerede nu se en Tilbagegang som Følge af Elektricitetsrestriktionernes Indførelse, og dels hviler den nuværende høje Beskæftigelse jo som bekendt paa et højst ustabilt Grundlag, saaledes at der - om ikke før - saa ved Overgangen til Fredstiden maa forventes at blive stillet store Krav til Kommunens Kasse. Dette vil til den Tid tvinge os til at paalægge Skatteyderne Byrder, som de vil have vanskeligt ved at bære. Denne Omstændighed har bevirket, at vi har ment det rigtigst at reservere en Del af de Midler, der i Kraft af Befolkningens forholdsvis høje Indkomst uden væsentlige Ændringer i Ligningsprocenten kan tilflyde Kommunen til Anvendelse, naar den nuværende beskæftigelsesmæssige Højkonjuktur slaar om i sin Modsætning. Den paa det foreliggende Budgetforslag foreslaaede Henlæggelse til Dispositionsfonden kan imidlertid yderligere begrundes.
+Under Hensyn til Husholdningsgassens Karakter af en Nødvendighedsvare og Elektricitetens Betydning for saavel Hjemmene som i Særdeleshed Erhvervslivet har vi anset det for ønskeligt, ja nødvendigt, at de pr. 1. Februar i Aar indførte Restriktioner paa Gas- og Elektricitetsproduktionen 
+"	1945	3	20
+"99"	1945-03-20	"open"	"19450320_189.pdf"	12	"898-1944"	"ikke giver sig Udslag i Prisstigninger for den rationerede Del af Gassen og Elektriciteten. Nedsættelsen af Forbruget betyder imidlertid en mindre Indtægt for Værkerne paa ca. 2,5 Mill. Kr., der forventes at ville stige til ca. 3,5 Mill. Kr., saafremt Gasproduktionen helt maa indstilles i Løbet af Aaret. Dette Indtægtstab er der ikke taget Hensyn til ved de her foreliggende Budgetter for Værkerne, idet disse er udarbejdede, fer Restriktionerne blev gennemført. Det maa saaledes forventes, at den væsentligste Del af den for 1945-46 foreslaaede Henlæggelse til Dispositionsfonden vil medgaa til Dækning af Underskudet paa Gas- og Elektricitetsværket.
+Denne Henlæggelse i Forbindelse med en almindelig Stigning i Kommunens Udgifter paa ca. 1,9 Mill. Kr. bevirker en Merudskrivning i personlig Kommuneskat paa 1.715.820,39 Kr., idet der ifølge indeværende Aars Budget blev udskrevet i personlige Skatter 16.917.963,29 Kr., medens Forslaget for 1945-46 ligger paa en Udskrivning af 18.633.783,68 Kr.
+Da Skattevæsenets Opgørelse over Indkomsterne endnu ikke foreligger, kan jeg ikke sige noget om, hvorvidt denne Merudskrivning vil bevirke en Stigning i Ligningsprocenten, men jeg regner med, at Indtægtsstigningen har været saa stor, at Ligningsprocenten kan holdes uforandret selv med den allerede vedtagne Ændring af Ligningsskalaen.
+Udskrivningen af personlig Kommuneskat viser som sagt en Forøgelse paa ca. 1,7 Mill. Kr. Denne Forøgelse skyldes fortrinsvis Merudgifter paa følgende Konti:
+1.Byens Bestyrelse i Almindelighed (Konto XI).................... ca. 400.000 Kr.
+"	1945	3	20
+"100"	1945-03-20	"open"	"19450320_189.pdf"	13	"898-1944"	"2.Medicinalvæsenet (KontoXVII) ca. 361.000 Kr.
+3.Afskrivningskonto (Konto
+XXVIII).........................-196.000\"
+4.Udgifter i Henhold til Lov om
+Folkeforsikring (Konto XIII)..-174.000\"
+5.Udgifter i Henhold til Lov om
+offentlig Forsorg (Konto XII).-152.000\"
+samt en Række mindre Udgiftsforøgelser, hvoraf kan nævnes Skolevæsenet med ca. 95.000 Kr., Brandvæsenet med ca. 82.000 Kr. og Gader og Veje med ca. 77.000 Kr., hvilket alt i alt medfører en Stigning i Driftsudgifterne paa ca.
+1.600.000Kr.
+Disse Merudgifter opvejes dog for en Del af Besparelser til et samlet Beløb af ca. 287.000 Kr., hvoraf den betydeligste hidrører fra \"Bidrag til forskellige Institutioner og Formaal\", der er nedsat med ca. 208.000 Kr.
+Endvidere forefindes der ogsaa en Del Forskydninger for Indtægternes Vedkommende. Af større Merindtægter kan anføres, at Rentekontoen fremviser en Stigning paa ca. 268.000 Kr., medens Sporvejene fremviser en mindre Indtægt paa ca.
+152.000Kr., og Tilskudet fra den fælleskommunale Udligningsfond og fra Staten er nedsat med ca. 116.000 Kr.
+Om de væsentligste Forskydninger vil jeg gerne sige følgende:
+Merudgiften til Byens Bestyrelse skyldes i det væsentlige Lønstigninger samt Lønninger i Anledning af særlige Foranstaltninger. Tjenestemændene opnaaede som bekendt deres hidtil betydeligste Forhøjelse af Reguleringstillægget fra 1. April 1944, og da der ikke var taget Hensyn til denne Forhøjelse paa de enkelte Institutioners Budgetforslag, slaar den først igennem i
+"	1945	3	20
+"101"	1945-03-20	"open"	"19450320_189.pdf"	14	"898-1944"	"Form af forhøjede Udgifter til Lønninger m. v. i det foreliggende Budgetforslag.
+Medicinalvæsenet fremviser en Merudgift paa ca. 361.000 Kr., hvorefter den samlede Udgift kommer op paa 4.390.889,25 Kr. Dette er - bortset fra \"Forskellige Udgifter\", der rummer Henlæggelserne - den største Udgiftspost i Budgetforslaget. At Aarhus By er i Besiddelse af et fuldt ud tidssvarende Hospitalsvæsen vil vist enhver anerkende, men at Kommunen ogsaa maa betale for det, viser det foreliggende Budgetforslag klart. Man har fra forskellig Side ment, at Hospitalernes nære Tilknytning til Universitetet i nogen Grad har fordyret Hospitalsdriften. For at klarlægge dette Problem har Sygehusudvalget foranstaltet iværksat en Undersøgelse, der foretages af Hospitalsdirektøren og Økonomidirektøren i Fællesskab, og saafremt denne Undersøgelse viser, at der er Hold i de fremsatte Gisninger, vil den eventuelt kunne blive Grundlag for en Henvendelse til Staten, idet vi principielt maa hævde, at Universitetsundervisningen - efter de Ofre, Kommunen har ydet - nu helt og holdent maa overgaa til Staten.
+Afskrivningskontoen er forhøjet med ca. 196.000 Kr. Den væsentligste Aarsag hertil er, at Afdrag paa Laan er forhøjet med ca. 113.900 Kr., og at ordinære og ekstraordinære Afskrivninger er ca. 123.600 Kr. mindre end paa indeværende Aars Budget.
+Udgifter i Henhold til Lov om Folkeforsikring fremviser en Merudgift paa ca. 174.500 Kr. Denne Forhøjelse skyldes i det væsentlige Pristalsreguleringen af Renterne, men ogsaa i nogen Grad Tilgang af nye Rentenydere. Det sidste Forhold spiller dog ikke samme Rolle som i tidligere 
+"	1945	3	20
+"102"	1945-03-20	"open"	"19450320_189.pdf"	15	"898-1944"	"Aar, idet Tilgangen af Aldersrentenydere stik imod al Beregning viser en betydelig Nedgang i Sammenligning med tidligere Aar. For Invaliderentenydernes Vedkommende kan man endog iagttage en Nedgang i det absolutte Antal. Forklaringen paa dette maa utvivlsomt være de gunstige Beskæftigelsesforhold, som har bevirket, at Personer har kunnet bibeholde deres Erhverv, endskønt de har naaet en saadan Alder, at de ellers vilde have Ret til Aldersrente. Dette bevirker en forholdsvis lille Udgift i Dag; men saa maa vi paa den anden Side ogsaa vente en højere Udgift, naar Beskæftigelsesforholdene bliver mindre gode.
+Udgifterne til offentlig Forsorg er forhøjet med ca. 151.800 Kr. Denne Forhøjelse skyldes i det væsentlige ændrede Tilbagebetalingsregler for oppebaaret Kommunehjælp, idet dette medfører Bortfald af Indtægter til et Beløb af ialt
+83.000Kr. Kommunehjælpsposten er i Lighed med Budgettet for 1944-45 optaget med 1,7 Mill. Kr. For denne Post’s Vedkommende raader der selvfølgelig stor Usikkerhed, idet den - saafremt Krigen ophører i det kommende Aar - formentlig vil vise sig at være for lavt ansat. Holder Beskæftigelsen - hvad ingen ved - kan der eventuelt opnaas visse Besparelser paa Posten.
+Den senere Tids Begivenheder har vist, at der stilles store Krav til vort Brandvæsen, hvilket da ogsaa kommer til Udtryk i det foreliggende Budgetforslag, idet Udgiften er forhøjet med ca.
+82.000Kr. Kommunens Udgift til Brandvæsenet andrager herefter 420.068,13 Kr.
+Vi kan imidlertid ogsaa fremvise Besparelser i Budgetforslaget. Den betydeligste er \"Bidrag
+"	1945	3	20
+"103"	1945-03-20	"open"	"19450320_189.pdf"	16	"898-1944"	"til forskellige Institutioner og Formaal\", der er nedsat med 208.000 Kr. hidrørende fra, at der paa indeværende Aars Budget blev optaget et Beløb paa 250.000 Kr. til Opførelse af en Bygning for Teknologisk Institut. Naar Hensyn tages til dette, er der en mindre Udgiftsstigning paa Kontoen, hvilket bl. a. skyldes, at Tilskudet til Børnehaver og Vuggestuer m. m. er forhøjet med ca. 15.000 Kr.
+For Indtægternes Vedkommende findes der - naar bortses fra Skattekontoen - ikke væsentligere Forskydninger. Dog er Renteindtægten forhøjet med ca. 268.000 Kr., hvilket i det væsentlige er Resultatet af vore Konverteringer samt en forøget Renteindtægt af Kassemidler. Sporvejene - der hidtil har kunnet hvile i sig selv - fremviser, som man vel maatte vente, et Underskud, der andrager ca. 152.000 Kr. Det har altid været Sporvognene, der har givet Penge i Kommunens Kasse, hvorimod Trambusserne altid har været en Underskudsforretning. Katastofen i Sommer bevirkede som bekendt Indstilling af Sporvognstrafikken, og da vi ikke venter at kunne faa denne i Gang før hen paa Sommeren, vil Sporvognene ikke kunne naa at indtjene noget Overskud til Dækning af Trambussernes Underskud. Jo før Sporvejene kommer i Drift, desto mindre vil Underskudet blive, og af denne Grund
+-og ikke mindst, fordi Savnet af Sporvognene er saa føleligt for Byens Befolkning - vil vi bestræbe os paa, at dette sker saa hurtigt som muligt.
+Jeg tror, det foreliggende Forslag til Kommunens Driftsbudget for 1945-46 er opstillet saa nøgternt som overhovedet muligt, uden at man derfor kan være sikker paa, at det vil holde.
+"	1945	3	20
+"104"	1945-03-20	"open"	"19450320_189.pdf"	17	"898-1944"	"Det foreliggende Budgetforslag staar og falder med Muligheden for at opretholde Beskæftigelsen, og da denne hviler paa et ret ustabilt Grundlag, maa man være forberedt paa Overraskelser.
+Arbejdsplanen har, saaledes som den foreligger for Byraadet i Dag, et Omfang, der savner sit Sidestykke i tidligere Aar. Der er foreslaaet stillet 4,9 Mill. Kr. til Raadighed til Videreførelse af igangværende Anlægsarbejder og 5,4 Mill. Kr. til Paabegyndelse af nye Arbejder eller ialt ca. 10,3 Mill. Kr.
+Af de 10,3 Mill. Kr. foreslaas ca. 6,0 Mill. Kr. afholdt af Laan, ca. 2,0 Mill. Kr. afholdt af Fonds og ca. 2,3 Mill. Kr. afholdt forskudsvis af Kassebeholdningen.
+Der er saaledes Tale om en ret betydelig Udvidelse af Kommunens Anlægsvirksomhed, idet der i indeværende Aar kun er stillet ca. 5,6 Mill. Kr. til Raadighed.
+Det Forslag, som Budgetudvalget her forelægger Byraadet, er med en enkelt ubetydelig Undtagelse de Forslag, som er indkommet fra diverse Udvalg m. v. Naar vi har ment at maatte optage samtlige Forslag paa den endelige Arbejdsplan - og ikke valgt at skære denne ned - er det ud fra den Betragtning, at Forholdene i sig selv i Kraft af Materialeknaphed m. v. utvivlsomt automatisk vil begrænse Antallet af Arbejder, der kan komme til Udførelse, samt endvidere den Omstændighed, at Beskæftigelsesforholdene kan udarte sig saaledes, at Kommunen kan se sig nødsaget til at fremskaffe det størst mulige Antal Arbejdsmuligheder.
+I denne Forbindelse kan jeg iøvrigt oplyse, at Byraadet har bundet sig til paa Arbejdsministeriets 
+"	1945	3	20
+"105"	1945-03-20	"open"	"19450320_189.pdf"	18	"898-1944"	"Forlangende at iværksætte Beredskabsarbejder, der vil medføre en Udgift for Kommunen paa ca. 7 Mill. Kr. Kommunens Anlægsvirksomhed kan saaledes i givet Fald komme op paa en Udgift for Kommunen i det kommende Aar paa ca. 17 Mill. Kr.
+Det er mit Haab - og jeg synes, Tallene taler derfor - at det maa lykkes Aarhus Kommune til sin Tid at yde en Indsats, naar Beskæftigelsesforholdene atter vender sig til det ugunstige, men vi maa samtidig have for Øje, at Planerne tilrettelægges paa en saadan Maade, at de bliver økonomisk overkommelige for Kommunen.
+Selv om der er Tale om Anlægsarbejder til et Beløb af 10,3 Mill. Kr., vil dette dog ikke medføre nogen Forøgelse af Kommunens Gæld, idet det forudsættes, at der kun skal optages Laan til et Beløb af 3,5 Mill. Kr., hvilket ikke overstiger det Beløb 3,8 Mill. Kr., der samtidig afdrages paa Gælden. Derimod vil Gennemførelse af Planen i højeste Grad paavirke Kommunens Likviditet, hvilket kan blive meget uheldigt, idet Tiden efter Krigen paa andre Omraader utvivlsomt ogsaa vil stille ekstraordinært store Krav til Kommunens Kasse.
+Jeg indstiller herefter Budgettet til Byraadets velvillige Behandling.
+Jeg skal i Aar undlade at tale om den nærmeste Fremtid; den ligger saa taaget for os alle, og vi ved ikke, hvad Tiden vil bringe. Det er sandsynligt, at det Budgetforslag, vi nu har forelagt og eventuelt faar vedtaget, ikke vil holde, og det vil formentlig blive saadan, at alt, hvad vi har opstillet, bliver kuldkastet og kommer ikke
+"	1945	3	20
+"106"	1945-03-20	"open"	"19450320_189.pdf"	19	"898-1944"	"til Udførelse; saa kommer den Tid, hvor vi i højeste Grad maa til at improvisere.
+K. Mousten : Efter at Borgmesteren i store Træk har gennemgaaet Budgettet, skal jeg indskrænke mig til enkelte Bemærkninger om de Institutioner, jeg har mest med at gøre, Skolevæsenet og Hospitalsvæsenet.
+Skolevæsenet har været haardt belastet i det sidste Aar; alle vore store Skoler og to af de mindre er taget til andet Brug. Ved Velvilje fra private Skoler og andre er det lykkedes at faa enkelte Lokaler, saa der kan gives Børnene nogen Undervisning, og det kan forhaabentlig fortsættes i det kommende Aar. Der har i Bladene været fremsat nogen Kritik, og selv om der maaske har været nogen Berettigelse deri, er det et meget daarligt Tidspunkt, den kommer frem paa.
+Paa Skoletandklinikken er Driften meget indskrænket. Vi har kun 4 Assistenter i Stedet for
+10,og Børnene fra 3 til 7 Aar kan ikke mere komme til Behandling. Det er kedeligt, fordi Behandlingen af disse har været en stor Fordel for Børnene og givet dem Mulighed for at bevare deres Tænder. Vi har været strenge overfor forsømmelige Børn, som er blevet afvist. Vi har ogsaa maattet indskrænke os til kun at tage Elever fra 1. Klasserne og har maattet afvise dem, som er udskrevet af Skolen, hvilket er en Gene, idet de først fra det 15. Aar kan komme i Sygekasse.
+Ungdomsskolen har haft noget ringere Tilslutning end i Fjor, da der meldte sig 700 Elever, hvoraf ganske vist mange faldt fra. I Aar har kun meldt sig 400, og der har ikke været saa mange Forsømmelser. Men det er alligevel temmelig faa, naar man regner med, at der i Aarhus
+"	1945	3	20
+"107"	1945-03-20	"open"	"19450320_189.pdf"	20	"898-1944"	"findes ca. 2.000, som kunde komme i Ungdomsskolen.
+Med Hensyn til Hospitalerne er det rigtigt, at Udgiften stiger stærkt og har gjort i mange Aar. Af Stigningen i Aar paa 361.000 Kr. er de
+300.000Kr. Lønstigning. Men saa godt som alle Afdelinger samt Funktionærboligen trænger til Udvidelse. Det er mere end 25 Aar siden, vi fik den medicinske Afdeling, og siden den Tid er Byen vokset med 40.000 Mennesker, saa det er forstaaeligt, at den trænger til Udvidelse. Vi har i mange Aar regnet med at skulle have en Øjen- og Ørenklinik, og det maa komme, naar vi igen kan bygge. Dermatologisk Afdeling er meget stærkt belastet paa Grund af Kønssygdommenes Udbredelse, og vi har maattet stille Senge paa Gangene og lave Etagesenge i Stuerne. Maaske burde man ind paa at gøre Behandlingsafdelingerne mindre ogsaa ved Siden af lægge Afdelinger til fortsat Behandling af Rekonvalescenter, hvor Driften kan gøres betydelig billigere. Det er et Spørgsmaal, som maa undersøges, før vi igen skal bygge.
+Det er sandsynligt, at Udgiften forøges ved, at det er Universitetshospital, men hvor meget er vanskeligt at sige. Staten sparer betydelige Udgifter ved, at Kommunen stiller Hospitaler til Raadighed for Universitetet. I København har man Rigshospitalet hertil, og Københavns Kommune lettes meget derved, idet 2/3 af Patienterne er fra København og Frederiksberg. Der er derfor Grundlag for at sige til Staten, at naar den sparer saa mange Penge ved at benytte Aarhus Hospitaler, er det rimeligt at yde Tilskud til Aarhus, ellers maa Staten selv opføre et Hospital i Byen.
+"	1945	3	20
+"108"	1945-03-20	"open"	"19450320_189.pdf"	21	"898-1944"	"Det er rigtigt, at Budgettet hviler paa et usikkert Grundlag, og det er vel nok det mest usikre Budget, vi har haft. Selv om vi har konsolideret stærkt i de senere Aar, kan der let komme Overraskelser. Vi ønsker sikkert alle at komme ned med Ligningsprocenten, men det er fornuftigt at arbejde forsigtigt og lade den staa som nu.
+Jeg vil ogsaa anbefale, at vi tiltræder det foreliggende Budget.
+I. C. Sørensen: Paa den konservative Gruppes Vegne indstiller jeg i det væsentlige det fremsendte Budgetforslag til Godkendelse, dog med det sædvanlige Forbehold, der er en Følge af de Oplysninger, der kan fremkomme mellem Budgettets 1. og 2. Behandling.
+Der har aldrig i den Tid, i hvert Fald jeg har siddet i Byraadet, været en saa kortvarig Budgetbehandling i Udvalget som i Aar. Dette kan naturligvis i nogen Grad skyldes, at der ved Økonomidirektørens og Hovedbogholderens Indberetninger er skabt et bedre og mere gennemtænkt Grundlag for Udvalget, men det skyldes naturligvis særlig den Usikkerhed, der præger alt og som gør, at man uvilkaarlig gaar mere stille med Dørene end ellers. Dette Budget er i det store og hele i det væsentlige kalkeret over sidste Aars Regnskab, og det er jo ogsaa meget vanskeligt i Dag at udtale sig om Fremtiden.
+Dette gælder naturligvis navnlig Spørgsmaalet om nye Arbejders Igangsættelse. Ingen kan jo med Bestemthed sige Tidspunktet for disse, og derfor ser vi ogsaa, hvorledes at alle de store Arbejder, som vi nu gennem flere Aar har talt om, stadig ligger i de forskellige Skuffer. Det gælder saaledes Kulturhuset, hvor Projektet vel
+"	1945	3	20
+"109"	1945-03-20	"open"	"19450320_189.pdf"	22	"898-1944"	"i det store og hele er gennemdrøftet, men hvor de afsluttende Forhandlinger med Radioraadet mangler paa Grund af de indtrufne Omstændigheder. Det gælder Spørgsmaalet om de nye Skoler, som der ikke ernogen Mulighed forat faa bygget i Dag eller iMorgen.
+Spørgsmaalet omSporvejenehvileriden
+nedsatte Kommission, men det maa dog haabes, at Retningslinierne for den fremtidige Sporvognsdrift i Aarhus i hvert Fald inden dette Aars Udgang bliver fastlagt, saaledes at Grundlaget for Genopbygningen afTrafiknettetsnarestmaa være tilstede.
+Frederiksgade-Projektet beror jo ogsaa stadig i den nedsatte Kommission, hvis Arbejde vel ikke kan ventes tilendebragt før tidligst i Slutningen af det kommende Aar. Paa samme Maade ligger de store Arbejder ved Havnen og afventer Resultatet af Havnekonkurrencen, der paa Grund af rent praktiske Vanskeligheder vel ikke kan komme i Gang før Krigen er forbi. Hvis Havnekonkurrencen skal have nogen større Betydning end Konkurrencer i Almindelighed, var det maaske ogsaa rart, om der i denne Konkurrence deltog Firmaer fra de andre skandinaviske Lande.
+Hvis vi ser bort fra de store, betydelige Arbejder, i hvilke der er megen Arbejdsløn og mange Materialer, er der jo ogsaa en hel Gruppe af Arbejder, der maa vente, til Krigen er forbi. Jeg tænker her paa de enorme Reparationsarbejder paa Bygninger, Inventar og Institutioner, som bliver uundgaaelige, hvis det hele blot skal bringes i nogenlunde Stand igen. Et stort usikkert Spørgsmaal er ogsaa dette, om der, selv om der bliver ledig Arbejdskraft, bliver Materialer nok straks efter Krigens Afslutning; det afhænger
+"	1945	3	20
+"110"	1945-03-20	"open"	"19450320_189.pdf"	23	"898-1944"	"naturligvis i første Række af, i hvilken Tilstand vor gode By befinder sig, naar dette Ragnarok er forbi.
+Det er faktisk saaledes i Dag ugørligt at tale om en Række af de Spørgsmaal, som ellers vilde være naturlige at fremføre under en Budgetbehandling. Det hele maa staa i Usikkerhedens Tegn.
+Denne Usikkerhed præger naturligvis ogsaa Tallene i Budgettet, og for en Gangs Skyld ikke mindst Gas- og Elektricitetsværkets Budget. Vi er jo ikke vant til at skulle regne med Underskud paa disse Foretagender, der naturligvis ogsaa burde være Forretninger, der hvilte i sig selv. Paa den anden Side er jeg ikke nogen Tilhænger af paa det nuværende Tidspunkt at forhøje Gas- og Elektricitetspriserne. Jeg synes ikke, det er forsvarligt overfor den store, brede Befolkning, hvoraf mange i Øjeblikket har svært nok ved at faa deres daglige Fornødenheder til at slaa til, og det maa i hvert Fald ikke gøres, før det vil vise sig endnu mere paakrævet end i Dag. Jeg forstaar godt, at mange Arbejdere og Funktionærer navnlig kan føle sig meget skuffet over de afsagte Lønkendelser, men Medaljen har jo ogsaa en anden Side. Hvis de danske Lønninger, naar Krigen hører op, i Forholdet til de udenlandske Lønninger ligger i for højt et Niveau, vil det jo let kunne medføre en endnu mere betydelig Arbejdsløshed, end den man allerede af andre Grunde frygter, og saa vilde det sidste jo blive værre end det første, men netop fordi man kan have denne Angst overfor Lønspørgsmaalet, forekommer det mig, at man fra de offentlige Myndigheders Side stadig maa se hen paa at holde Prisstigningerne nede. Netop
+"	1945	3	20
+"111"	1945-03-20	"open"	"19450320_189.pdf"	24	"898-1944"	"ud fra denne Hovedbetragtning mener jeg, at man saa længe som muligt bør undgaa en Prisstigning paa Gas og Elektricitetet. Det har været drøftet, hvorvidt det Beløb, der skulde medgaa til Imødegaaelse af eventuelt Underskud paa Belysningsvæsenet, skulde opføres som en Henlæggelse til Kommunens Dispositionsfond. Som jeg sagde i Fjor under Budgetbehandlingen, finder jeg det rigtigst at samle alt, hvad der skal bruges til ekstraordinære Dispositioner, i et enkelt Fond, og det, der er sket siden, har jo kun bekræftet, at dette er rigtigt. Vi ved alle, at der kan komme mange forskellige Overraskelser, men vi er jo ikke helt klare over, paa hvilke Omraader det sker, og netop af den Grund er det naturligt i et Dispositionsfond at samle, hvad man eventuelt kan faa Brug for i forskellige Retninger. At hensætte Penge i Dag til bestemt afgrænsede Formaal vil ikke være klogt, da man faktisk aldrig har staaet saa usikker overfor Fremtiden som nu og derfor ikke kan udtale sig med Bestemthed om nogen Ting. Hvad der ser mørkt ud, kan maaske blive lysere, og omvendt - noget vi slet ikke regner med, kan ske.
+I Anledning af de Skader, der er sket forskellige Steder i Byen, har man rejst Spørgsmaalet om, hvorvidt der kunde lægges nye Linier for Genopbygningen. Det er vel desværre for tidligt at lægge dette fast, og jeg tror hele denne Diskussion kommer til at hvile nogen Tid endnu. En enkelt Ting skulde man nok drøfte, nemlig Spørgsmaalet i Anledning af Skaden paa Vennelyst. Jeg er enig med dem, der mener, at Vennelyst i den gamle Skikkelse ikke bør genopføres. Vennelyst har vel altid været lidt af en Fejltagelse. Det maa tilkomme det private Initiativ
+"	1945	3	20
+"112"	1945-03-20	"open"	"19450320_189.pdf"	25	"898-1944"	"at bygge et Teater af den Art, hvis et saadant paany skal rejses.
+Det ærede Medlem, Herr Bernhard Jensen, rejste imidlertid i Fjor under Budgetbehandlingen
+eller var det ved en anden Lejlighed - et Spørgsmaal, som havde min fulde Sympati, nemlig gratis Søndagseftermiddagskoncerter og Aftenkoncerter i Sommermaanederne i forskellige af Byens Parker, hvorved man kunde give Byorkesteret ogsaa i Sommertiden en mere stabiliseret Tilværelse til Gavn og Glæde for den aarhusianske Befolkning. Jeg vil synes, at man burde meget overveje, om man ikke burde gøre Vennelystanlægget til Midtpunkt for en saadan Opgave. Det ligger egentlig meget centralt og har jo ogsaa før i Tiden spillet en Rolle i den Retning. Det var naturligt, om man i Vennelystanlægget rejste en fast Musiktribune med dette Formaal for Øje. Om den saa skal ligge paa den nuværende Plads eller nede i Hjørnet ved Sabroes Statue, det kunde Stadsgartneren og Stadsarkitekten jo saa se nærmere paa. Hvis man laver en saadan Musikplads til Eftermiddags- og Aftenkoncerter for den brede Befolkning, saa vil jeg meget fraraade, at man knytter Restauration i større Stil til et saadant Foretagende. Skulde der endelig være Mulighed for at nyde noget i Forbindelse med Musikken, hvad jeg ikke finder absolut paakrævet, saa synes jeg i hvert Fald kun der skulde være Tale om, at man fik et Konditori med Konditoripriser, saaledes at det hele virkelig blev en billig Fornøjelse.
+Borgmesteren nævnede, at der eventuelt kunde blive Arbejder for 17 Mill. Kr. Jeg vil gøre opmærksom paa, at de 7 Mill. Kr. er Kommunens Tilskud til Beredskabsarbejder; men hertil 
+"	1945	3	20
+"113"	1945-03-20	"open"	"19450320_189.pdf"	26	"898-1944"	"maa lægges Statens Tilskud, vel 5-6 Mill. Kr. saa de nævnte Arbejder kan komme op paa en Værdi af 22-23 Mill. Kr.
+Angaaende de enkelte Budgetter er der i Aar ikke meget at sige til de enkelte Poster. Det bør dog maaske understreges, at Hospitalsvæsenet nu er avanceret frem til at blive den største Udgiftspost i Kommunens Budget og saaledes overstiger Udgiften til Lov om offentlig Forsorg.
+Der har i flere Aar været talt om den stadige Stigning af Udgifterne paa dette Budget, og jeg skal blot paany efterlyse - og jeg fremførte ogsaa sidste Aar, om der er Mulighed for at faa oplyst, hvad Universitetet egentlig koster Byens Sygehusvæsen, Udgifterne pr. Sygedag er her forholdsvis meget dyrere end andre Steder.
+Hvad angaar Byens Renholdelse er den ikke god, navnlig var det galt i Snekastningsperioden, men der er navnlig ogsaa saa meget Papir, der ligger og flyder, og i det hele gør Byen jo et daarlig holdt Udseende. Jeg forstaar godt, at der har været meget store Vanskeligheder ved Renholdelsen, da man ikke har kunnet faa Maskinkraft til denne, og at Arbejdet tit maa forekomme Vejinspektøren næsten uoverkommeligt at faa gjort, men vi skal jo alligevel passe paa, at Byen holdes ren i det Omfang, det paa nogen Maade er gørligt - ikke mindst i disse Tider, hvor man kan befrygte Sygdomme og andet.
+Hvad angaar Kirkegaardens Budget kunde der maaske godt være Lejlighed til at drøfte Spørgsmaalet om Priser for Vedligeholdelse af Gravsteder o. lign., men det er maaske nok rigtigst at vente med dette Spørgsmaal, til Krigen er forbi. Imidlertid saa jeg forleden Dag et Indlæg 
+"	1945	3	20
+"114"	1945-03-20	"open"	"19450320_189.pdf"	27	"898-1944"	"fra en af Byens Præster, hvor han besværede sig over Tidspunktet for Begravelser, der var lagt saa uheldigt, at de, der skulde deltage i Begravelserne - det gjaldt navnlig Arbejdere - nu maatte i visse Tilfælde have en hel Dag fri i Stedet for at kunne nøjes med en halv Fridag. Jeg kan ikke rigtig se, at dette er nødvendigt, og jeg vil meget henstille til Kirkegaardsbestyrelsen snarest at faa dette Forhold ændret igen. Nu, da vi er et Stykke hen paa Aaret, skulde det vel heller ikke være nødvendigt at lukke Kirkegaardene saa tidligt. Et Forhold af denne Art spiller ogsaa en økonomisk Rolle for adskillige Mennesker, og jeg synes, at det maa gaa forud for eventuelle andre Ønsker.
+Sporvejsudvalget Budget er jo præget af det rene Hasard. Det var at haabe, at vi snart kunde faa Sporvogne i Gang igen. En gennemgaaende Sporvognskørsel er jo alligevel trafikmæssigt bedre end Trambuskørsel, men det kan der maaske ikke siges noget helt bestemt om, hvornaar Sporvognene rigtig kommer i Gang.
+Som sagt har jeg ikke meget i Aar at bemærke til de forskellige Udvalgs Budgetter. Det har været meget vanskeligt at lægge disse under Hensyn til den almindelige Usikkerhed, i hvilken vi alle befinder os. Men netop paa Grund af denne Usikkerhed har der jo ogsaa været megen Enighed til Stede, og det haaber.jeg ogsaa, der vil være, naar Budgettet endelig skal lægges og vedtages, og Skatteprocenten fastsættes ved anden Behandling. Der er jo nogen Mulighed for, at Skatteprocenten kunde falde lidt, men paa den anden Side forstaar jeg godt de Ønsker, der er fremme om at konsolidere sig mod Overraskelser.
+"	1945	3	20
+"115"	1945-03-20	"open"	"19450320_189.pdf"	28	"898-1944"	"Kai Blicher: Paa Skattebilletten er der et Beløb, som de fleste studser over, og det er den fælleskommunale Udligningsskat. Her har under Krigen været en mærkelig Udvikling. I 1939-40 afgav Aarhus 2.806.000 Kr. og modtog
+2.439.000Kr., altsaa 367.000 Kr. mindre end betalt. I 1945-46 skal Kommunen afgive 5.590.000 Kr. og faar 2.475.000 Kr., altsaa over 3 Mill. Kr. mindre, end vi skal betale. Paa en Maade kan man sige, at det er en glædelig Udvikling, idet det viser, at Aarhus Kommune har stærkt stigende Indtægter. Men hvis det skal være retfærdigt, maa hele Landet ligne fuldstændig ens, og det er vist tvivlsomt. Skattevæsenet i Aarhus kan sikkert finde frem til Folks virkelige Indtægter, men man tvivler om, at det sker ret mange andre Steder. En stor Del af Udgifterne retter sig efter, hvad de forskellige Kommuner har forbrugt til forskellige Formaal, men hvis man bestemte Udgifterne efter de Beløb, som er nødvendige for en virkelig sund økonomisk Politik, vilde det give et mere retfærdigt Resultat, og det vilde være mere økonomisk for Landet som Helhed.
+Angaaende Kommunens Laanepolitik er det ikke nogen Hemmelighed, at vi har haft en betydelig Kassebeholdning, og det er ret kostbart at ligge med mange Penge i Kassen, da de næsten ingen Rente giver, hvorimod Laanene koster meget. Da vi i 1944 laante 6 Mill. Kr., havde vi mange Penge i Kassen, men vi laante alligevel, dels fordi Renten var af tiltalende Størrelse, dels fordi man vilde sikre sig at have tilstrækkelige Midler i Kassen, naar Pengene skulde bruges. Men selv om et Laan er til en billig Rente, kan det ret hurtigt blive dyrt, hvis
+"	1945	3	20
+"116"	1945-03-20	"open"	"19450320_189.pdf"	29	"898-1944"	"Pengene skal ligge uden at give Renter. Nu er Forholdet det, at vi har rigelige Midler et godt Stykke frem i Tiden, og forhaabentlig laaner vi ikke flere Penge, selv om den billige Rente frister dertil, før den Dag, da vi virkelig skal bruge dem.
+Fra mange Sider har der været udtalt Ængstelse for de kommunale Værkers Underskud, idet Beskæftigelsen og dermed Produktionen bliver betydelig nedsat. Vi har den samme Frygt i Aarhus, ja maaske større end mange andre Steder, fordi vi her har et meget stort Produktionsapparat.
+I Aarhus forbruger vi kun 1/3 af den Elektricitet, vi fremstiller, medens Resten sælges til udenbys Kunder; det er en Forretning, der gøres næsten uden Avance; det er jo nok en Fordel for os, men ogsaa en stor Fordel for dem, som køber Strøm, og det er lidt uretfærdigt, at Aarhus Kommune alene skal bære de store Omkostninger ved, at Værkerne omtrent ligger stille. Der kunde være Rimelighed i, at de Byer og Selskaber, som køber Elektricitet hos os, var med til at bære disse ekstraordinære Omkostninger, og jeg vil henstille, naar der skal forhandles om Elektricitetspriser i de kommende Aar, at man da søger at tage Hensyn til dette Forhold.
+Sigvald Nielsen: Jeg er glad ved, at de to Grupper er enige om ikke at forhøje Gas-og Elektricitetspriserne; det har Betydning for dem, der særlig lider under Dyrtiden, nemlig Embedsmænd, Funktionærer og Arbejdere, som m. H. t. Lønninger er underkastet Vedtagelser, de ikke selv har Indflydelse paa. Jeg er derimod ikke enig med Konsul Blicher angaaende de kommunale Værkers Forrentning. Værkerne skal køre, og saa er det da en Fordel at kunne sælge
+"	1945	3	20
+"117"	1945-03-20	"open"	"19450320_189.pdf"	30	"898-1944"	"den Strøm, vi ikke selv skal bruge, selv om den skal sælges til Produktionspris. Under normale Forhold har Aarhus her en stor Overskudsforretning paa Grund af den store Mængde Elektricitet, der kan sælges.
+Det glæder mig, at Landsretssagfører Sørensen har læst, hvad \"Demokraten\" skrev angaaende Kirkegaardene. Jeg er egentlig enig med Præsten, som skrev, at Tiden for Begravelserne bør ændres. Jeg vil ogsaa haabe, at Hr. Sørensen vil gaa med til, at der bliver ensartet Jord til Gravsteder og ikke forskellige Klasser, for der bør ikke gøres Forskel paa Folk, naar de er døde.
+Der har været forskellige Meninger om Zoologisk Have. Da Byraadet tog Sagen i sin Haand og likviderede Borgerkomitéen og ansatte en uhyre dygtig Leder, skulde man vente sig noget stort. Jeg har et Par Gange været derude, og jeg indrømmer, at Ombytningen af Dyrene derude er gjort rasende godt, idet de fleste Dyr nu er forsvundne og maaske sendt til Odense. Selvfølgelig kunde der godt undværes visse Dyr,
+f.Eks. Kaniner og Duer, men de er der stadig, og de Dyr, som Folk bryder sig om at se, er borte. Man burde sætte Entréen ned, i hvert Fald for Børn; en Entré paa 25 Øre er tilstrækkelig for det, der bydes paa i Øjeblikket. Haven styres som bekendt af et Embedsmandsudvalg, og det vil maaske have den til at forrente sig; men det bør dog laves saaledes, at Byens Borgere kan være bekendt at gaa derud og tage Gæster med. Stod det til mig, skulde dette Embedsmandsudvalg afskaffes og erstattes af et Byraadsudvalg, f. Eks. Skovudvalget.
+"	1945	3	20
+"118"	1945-03-20	"open"	"19450320_189.pdf"	31	"898-1944"	"Chr. Nielsen: Jeg skal ikke sige noget om det sociale Udvalgs Budget, idet der ikke i de senere Aar har været rettet Kritik imod det. Grunden er vel, at Udgiften er gaaet ned, men maaske ogsaa Erkendelsen af, at der er administreret saa fornuftigt og forsvarligt som muligt.
+Jeg kan slutte mig til Landsretssagfører Sørensens Tanke om at lave en Folkepark i Vennelyst, maaske med en lille billig Restauration. Jeg kan ogsaa slutte mig til Tanken om at ændre Begravelserne lidt i demokratisk Retning; det støder mange Mennesker, at det er altfor ulige hvad Udsmykning i Kapellet o. lign. angaar, men det er vist ogsaa Kirkegaardsbestyrelsens Mening at rette noget derpaa.
+Møller Rasmussen: Paa Slagtehusudvalgets Vegne skal jeg henlede Opmærksomheden paa, at vi bliver nødt til at bygge en Kødby, naar Forholdene tillader det. De nuværende Bygninger er 50 Aar gamle og er aldrig blevet moderniseret, saa de kan ikke vedblive at gøre Fyldest. De Forhold, som presser haardest paa, er de veterinære, idet vi stadig faar Paatale af Stadsdyrlægen, som ikke vedblivende kan overhøres. Ogsaa Forholdene for de Folk, der skal arbejde dernede, er meget utilfredsstillende. Skal Slagtehuset forrente sig, maa det moderniseres og gøres saa godt som muligt for de Kunder, som kommer der. Jeg vil derfor henstille til Medlemmerne at se velvilligt paa Sagen, naar den kommer frem i Byraadet.
+De Handlende i Guldsmedgade er meget daarligt stillet, fordi en Del af Gaden stadig er afspærret. Jeg vil spørge, om man ikke fra Lille Torv kunde faa aabnet en Passage for gaaende,
+"	1945	3	20
+"119"	1945-03-20	"open"	"19450320_189.pdf"	32	"898-1944"	"saa Folk kan faa Adgang til de Forretninger, som endnu er tilbage i Gaden.
+Oluf Nielsen: Det forelagte Budget er ikke præget af Lyssyn m. H. t. den økonomiske Fremtid for Kommunen; det samme kan siges om de enkelte Borgeres Budget, og det kan knibe for mange af disse at betale Skatterne. Udfra denne Betragtning vil jeg gerne rejse Spørgsmaalet om at gennemføre en ny Form for Skatteindbetaling, saaledes at Skatten betales pr. Maaned i Stedet for pr. Kvartal. Fra andre Byer, som har denne Form, har jeg faaet Indtryk af, at det er en stor Tilfredsstillelse for de fleste Borgere at kunne betale Skatten paa den Maade. Den er maaske lidt mere bekostelig for Kommunen, men det er min Overbevisning, at de forøgede Udgifter vil opvejes derved, at Nedgangen i Skatten paa Grund af Dødsfald, Bortrejse eller manglende Betalingsevne vil blive mindre. Man har i Budgettet sat et Beløb paa ialt 1.600.000 Kr. til Imødegaaelse heraf, og det Beløb vil sikkert formindskes, hvis man gaar over til 10 Terminers Betaling. Jeg ved vel, at denne Form tidligere har været praktiseret i Byen, og at det ikke blev nogen Succes; men hertil er at sige, at Ordningen var baseret paa Frivillighed og fandt Sted i en økonomisk Opgangstid; men i en Tid, hvor det gaar den modsatte Vej, vilde sikkert alle hilse med Glæde at faa en saadan Betalingsform. Indenfor Kommunens Funktionærer har man rejst det samme Spørgsmaal, og en enkelt Institution har praktiseret Ordningen med at betale i 10 Maaneder. Jeg tror, at naar den aarhusianske Befolkning først har prøvet det, vil de hilse en saadan Ordning 
+"	1945	3	20
+"120"	1945-03-20	"open"	"19450320_189.pdf"	33	"898-1944"	"med Glæde, og jeg vil henstille til Byraadet at forsøge at faa denne Reform indført.
+Jens Jensen: Jeg skal give enkelte Oplysninger om Kommunens Lønudgift siden 1943. Jeg er forbavset over de Tal, som blev forelagt mig, vel nærmest fordi jeg ikke altid har været enig i de Afgørelser, der har fundet Sted i Lønudvalget, og det skyldes maaske, at jeg til daglig maa være paa den anden Side Plankeværket, medens jeg som Medlem af Lønudvalget nærmest staar som Arbejdsgiver.
+Kommunens aarlige Lønningsudgift er siden Valget i 1943 steget med ca. 1 ½ Mill. Kr., heri ikke medregnet den Stigning, der er fremkommet ved Personaleforøgelser. Af disse Forhøjelser paa 1 ½ Mill. udgør Stigningerne efter Pristallet ca. 1 Mill. Kr., medens Resten hidrører fra reelle Forbedringer i de forskellige Gruppers eller Personers Lønforhold, dels ved Overenskomstændringer, dels ved ekstraordinære Oprykninger eller Bevilling af Tillægsydelser af forskellig Art. Af denne halve Mill. Kr. kommer ca. 470.000 det Personale til gode, som omfattes af de forskellige Overenskomster med Organisationerne, medens højst 30.000 Kr. kommer de af Kommunens Tjenestemænd til gode, som er placeret i de 5 øverste Lønklasser.
+Som Medlem af Slagtehusudvalget vil jeg ogsaa anbefale, at vi faar Lov til at projektere en Kødby. Der er flere Ting paa Slagtehuset, som er uholdbare, ja i direkte Strid med Regulativerne for Renlighed, Transport af Kød o. l., og det kan ikke i Længden forsvares.
+H. P. Jensen: Paa samme Maade som det er gaaet med Udligningsfonden, er det ogsaa gaaet med den mellemkommunale Refusion, idet
+"	1945	3	20
+"121"	1945-03-20	"open"	"19450320_189.pdf"	34	"898-1944"	"den stadig er gaaet ned. Da Ordningen begyndte, fik Aarhus 1.324.000 Kr. eller 41,94 % af det anmeldte Beløb, men i 1942-43 fik vi kun 168.000 Kr. eller 6,81 % af det anmeldte Beløb, altsaa en Nedgang paa 35 %. Der er ganske vist sket forskellige Ændringer i Udregningerne, men alligevel faar man det Indtryk, at der maa være noget forkert et eller andet Sted. Det skulde nødig være saaledes, at Aarhus Kommune, som maaske har en mere gennemført Skatteteknik end forskellige andre Kommuner, derved kommer til at betale en forholdsvis større Del end andre, og jeg vil henstille til Budgetudvalget, om man ikke kunde føre dette Spørgsmaal frem i Købstadforeningen, saa det kan blive klarlagt, om Aarhus betaler forholdsvis mere til denne Institution end andre Byer.
+For Skovenes Vedkommende er der sket forskellige Forskydninger, siden Budgettet blev lagt, idet flere af Skovrestaurationerne er overtaget til andet Formaal, og det vil bevirke, at Indtægtsbeløbene vil faa en anden Karakter. Hvorledes det endelige Resultat vil blive er umuligt at sige.
+Angaaende selve Budgettet vil jeg mene, at saafremt det er muligt og økonomisk forsvarligt, var det næppe nogen Skade, hvis Skatteprocenten kunde gaa ned, f. Eks. til 10 eller deromkring.
+S.Lauritzen: Jeg vil takke for Tilskudet til Teknologisk Institut. Vi fik i Fjor 60.000 Kr. og ligeledes i Aar, og vi smuldrer ikke Pengene bort; vi har anskaffet en Maskinafdeling, som er vurderet til 94.000 Kr., det skal anvendes som Oplæringssted for Metalindustriens Lærlinge, der skal have 3 Maaneders Kursus. Der er i det sidste Aar afholdt 53 Kursus paa Instituttet, og for Tiden er vi inde paa et Kursus til frivillige
+"	1945	3	20
+"122"	1945-03-20	"open"	"19450320_189.pdf"	35	"898-1944"	"Mesterprøver, som vi venter os en hel Del af. Instituttet arbejder godt, og jeg vil haabe, at Byraadet fortsat vil vise sin Velvilje, for der er desværre mange, som arbejder imod os.
+Erna HedtoftLarsen: Jeg vil ikke rette nogen Kritik af det sociale Udvalg, men fremsætte det Ønske, at Udvalget vil sætte meget ind paa at faa en Arbejdsanstalt for unge Kvinder. Tallet paa unge Kvinder som er kommet ind paa gale Veje, har aldrig været saa stort som nu, og efter Krigen vil der findes mange med en sløj Moral, som trænger til at komme under ordnede Forhold.
+Georg Baunsgaard: Jeg vil slutte mig til Oluf Nielsens Forslag om Skattebetaling i 10 Rater; det vil gøre det lettere for Folk med smaa Indtægter at betale deres Skat, særlig underordnede Funktionærer o. l., som er maanedslønnede, og som har meget svært ved at skrabe Penge sammen til et Kvartals Skat. Det vil være en Fordel at tilrettelægge Systemet som f. Eks. i København, hvor Julemaaneden og Feriemaaneden er undtaget fra Skattebetaling. Jeg er overbevist om, at Merudgiften vil blive opvejet af en mindre Afgang i Skat. For Folk med store Indtægter kan det være ret ligegyldigt, men for dem, som skal lægge Penge til Side til Skatten, er det ikke ligegyldigt, og det maa være Byraadets Opgave at lægge Skattebetalingen saaledes, at Folk lettest kan skaffe Pengene ti! Skatten. Jeg vil meget anbefale at forsøge denne Ordning.
+Borgmesteren erkendte, at Byen ikke var saa ren som tidligere; det var i nogen Grad Kommunens Skyld, men ogsaa Borgerne holdt daarligere rent, og her maatte ske en Forandring. Zoologisk Have var faktisk ikke aabnet endnu,
+"	1945	3	20
+"123"	1945-03-20	"open"	"19450320_189.pdf"	36	"898-1944"	"og det var dog naturligt at flytte Dyrene bort, mens der renses ud i Haven. Begravelsestiderne er diskuteret i Kirkegaardsbestyrelsen, men her maa man betænke, at Aarhus ikke mere er nogen lille By, og de gamle Begravelsesskikke, som f. Eks. Ligfølge til Kapellet, bør forsvinde. Det er umuligt at gøre alle Begravelser ens, og hvad den forskellige Pris paa Gravsteder angaar, saa er der absolut ingen Forskel at se paa Kirkegaarden, men hvis nogle absolut vil betale mere for et Gravsted, bør de have Lov dertil. Forøvrigt er man ved at indføre en Slags Standardbegravelser.
+Angaaende Kommunens Laanepolitik mener jeg ikke, at der er optaget flere Laan, end man havde Brug for. I December 1942 opfordrede den konservative Gruppe til at optage Laan, og Byraadet var enigt om, at det var klogt at skaffe Penge til Byen, mens de var billige. Men man vedtog kun at søge Laan til Arbejder, som var vedtaget eller sat i Gang, saa det har ikke været planløst og bliver det heller ikke i Fremtiden. Vi skal føre en forsigtig Laanepolitik, men vi skal ikke ud i Spekulation.
+Hvad Elektricitetsværket angaar, maa man erindre, at Aarhus sælger mere Strøm, end Byen selv bruger; derved kan man have et større Værk, hvorved Driften bliver billigere, og det kommer Byen til gode. Jeg kan slutte mig til Tanken om en Folkepark i Vennelyst, og Parkudvalget har ogsaa været inde paa, at der ikke skal opføres nogen ny Bygning derude; om der kan arrangeres Friluftskoncerter, vil Udvalget overveje. Kødbyen har været drøftet i Budgetudvalget, men vi har ønsket, at Stadsarkitekten skal være med som raadgivende, og at der opstilles en økonomisk
+"	1945	3	20
+"124"	1945-03-20	"open"	"19450320_189.pdf"	37	"898-1944"	"Baggrund for Kødbyen, saa er Budgetudvalget parat til at diskutere Sagen. Det maa indrømmes, at det er meget uheldigt, at Guldsmedgade er lukket, og jeg skal henstille, at Nedbrydningsarbejdet fremmes mest muligt, saa Gaden kan aabnes i hvert Fald for spadserende.
+Hvor meget Skattebetaling i 10 Terminer betyder, ved jeg ikke, og jeg er ikke sikker paa, at Folk bliver himmelglade over det, særlig de fattigste, som venter med at betale til sidste Frist og undertiden længere. Den frivillige Ordning, som man havde en Tid, giver ikke noget Fingerpeg; men er der Stemning derfor, skal jeg ikke modsætte mig det. Jeg ved ikke, om det vil blive nogen Fordel for Aarhus at faa ændret noget angaaende Udligningsfonden. Aarhus har haft en god Beskæftigelse og gode Indtjeningsmuligheder. og det afspejler sig deri. Bliver Byen igen haardt ramt af Arbejdsløshed, kan den nuværende udligning maaske blive en Fordel for Aarhus. Men vi kan have Opmærksomheden henvendt derpaa.
+Jeg vil hermed slutte Forhandlingerne og meddele, at eventuelle Ændringsforslag til Budgettet maa være indsendt senest førstkommende Lørdag Kl. 12.
+Budgettet overgik til 2. Behandling.
+"	1945	3	20
+"125"	1945-03-28	"closed"	"19450328B_233.pdf"	1	"no related record"	"Mødet den 28. Marts 1945.
+(For lukkede Døre).
+Fraværende: J. R. Fanger, Niels Laursen og Unmack Larsen.
+"	1945	3	28
+"126"	1945-03-28	"closed"	"19450328B_233.pdf"	1	"1592-1944"	"Indenrigsministeriets Samtykke til Erhvervelse af Ejendommen Matr. Nr. 5 u m. fl. af Hinge, som Urgrosserer Jens P. Larsen har skænket Kommunen.
+Toges til Efterretning.
+"	1945	3	28
+"127"	1945-03-28	"closed"	"19450328B_233.pdf"	1	"189-1944"	"Meddelelse fra Justitsministeriet om, at Byraadets Forslag til Pensionsordning for Viceprosektor Tage Lund ikke kan tiltrædes, og at Justitsministeriet herefter ikke ser sig i Stand til at foretage videre i Sagen.
+Toges til Efterretning.
+"	1945	3	28
+"128"	1945-03-28	"closed"	"19450328B_233.pdf"	1	"99_59-1944"	"Andragende fraGasmester Chr. Johansen omStatslaan medKommunegarantii RækkehusEskimovej 23. -2. Behandling.
+Indstillingen vedtoges.
+"	1945	3	28
+"129"	1945-03-28	"closed"	"19450328B_233.pdf"	1	"116-1944"	"Andragende fra
+Kommunelærer Oskar Johs. Jensen om Garanti for Laan til Boligindskud i Arbejdernes Andelsboligforening. - 2. Behandling.
+Indstillingen vedtoges.
+"	1945	3	28
+"130"	1945-03-28	"closed"	"19450328B_233.pdf"	2	"116-1944"	"Andragende fra Maler Ernst Fr. Rasmussen om Garanti for Laan til Boligindskud i Det sociale Boligbyggeri.
+Udvalget for Byens Udvidelse og Bebyggelse anbefaler at yde Garanti for et Laan paa 650 Kr.
+Overgik til 2. Behandling.
+"	1945	3	28
+"131"	1945-03-28	"closed"	"19450328B_233.pdf"	2	"22_39-1944"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om, at en Del af Grunden til Ejendommen Østergade 5 afhændes til Landbosparekassen.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Indstilling:
+\"Efter at Bygningerne paa den af Kommunen eksproprierede Ejendom Østergade 5 er nedrevet, skal man indstille, at 55 m2 af den Del af Grunden, der bliver tilbage, efter at 245 m2 fratages til Udvidelse af Telefonsmøgen (samt til en ubetydelig Udvidelse af Østergade) overlades Aarhus Belysningsvæsen for 12.000 Kr. til Opførelse af en Transformatorstation, medens de resterende 227 m2 sælges til Landbosparekassen i Aarhus for 45.000 Kr. til Fortsættelse af Sparekassens Bygning paa de tilstødende Grunde Østergade 7 og 9.
+Idet man vedlægger Udkast til Skøde til Landbosparekassen paa det nævnte Areal, skal man tillige indstille Skødet til Byraadets Godkendelse, saaledes at der ikke afkræves Sparekassen Bidrag til Brolægning af den udvidede Telefonsmøge, idet det ved Fastsættelse af Prisen til 45.000 Kr. har været en Forudsætning, at Landbosparekassen intet skulde bidrage til Gadens Anlæg.\"
+Indstillingen vedtoges.
+"	1945	3	28
+"132"	1945-03-28	"closed"	"19450328B_233.pdf"	3	"1317-1944"	"Andragende fra Jydsk Teknologisk Institut om en Grund til Opførelse af en Bygning for Institutet.
+Stadsarkitekten anviser 2 Grunde, enten den nordligste Del af Arealet mellem Dalgas Avenue og Fjordsgades Forlængelse, ca. 9.000 m2 til en Værdi af 350.000-400.000 Kr. eller den gamle Amtssygehusgrund, ca. 11.000 m2 til en Værdi af ca. 500.000 Kr,
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse, dog med Bemærkning, at den sidstnævnte Grund ikke kan ventes stillet til Disposition de første 3-4 Aar.
+Fra Økonomidirektøren forelaa følgende Skrivelse:
+\"Tilbagesendes Budgetudvalget med Bemærkning, at man, saafremt Udvalget maatte være sindet at anbefale Bortskænkning af en af de omhandlede Grunde, skal foreslaa, at der af Jydsk Teknologisk Institut udstedes et Pantebrev lydende paa Grundens Værdi, saaledes at Obligationen er rente- og afdragsfri, saa længe Arealet benyttes til det Formaal, som er forudsat ved Arealets Afstaaelse. Skulde Ejendommen senere overgaa til anden Benyttelse, bør Gælden forrentes og afdrages efter nærmere i Pantebrevet fastsatte Betingelser, der formentlig bør være de for Kommunens Grundsalg i Almindelighed gældende.\"
+Budgetudvalget indstiller, at man tilbyder at skænke Institutet en af de nævnte Grunde paa de i Økonomidirektørens Skrivelse foreslaaede Vilkaar.
+"	1945	3	28
+"133"	1945-03-28	"closed"	"19450328B_233.pdf"	4	"1317-1944"	"Borgmesteren anbefalede Indstillingen, hvorefter Institutet maa vælge mellem de to foreslaaede Grunde.
+Indstillingen vedtoges.
+"	1945	3	28
+"134"	1945-03-28	"closed"	"19450328B_233.pdf"	4	"33_29-1944"	"Indstilling fra Lønudvalget om endeligt Forslag til Vedtægt for Kommunens og Havnens Tjenestemænd m. v. - 2. Behandling. Følgende Indstilling forelaa:
+\"Efter at Byraadet den 5. Oktober 1944 havde vedtaget et fra den 1. s. M. gældende Forslag til ny Vedtægt for Kommunens og Havnens Tjenestemænd, er efter Indstilling fra Lønudvalget vedtaget nogle Ændringer til Forslaget, som gaar ud paa følgende:
+1)Forlængelse af Efterindtægtsperioden for Enker efter Tjenestemænd eller Arbejdere, som omkommer ved Udførelsen af deres Tjeneste.
+2)Tilbagebetaling af det fulde indbetalte Pensionsbidrag ved Afsked uden Pension.
+3)Omnormering af følgende Stillinger: Apotekeren ved Kommunens Apotek. Bademesteren ved Svømmehallen. Automobilmesteren ved Sporvejene.
+4)Oprettelse af følgende nye Stillinger: Overbadeassistenten ved Svømmehallen. Kontrolløren ved Rotteudryddelsen.
+Lønudvalget har nu ladet det saaledes ændrede Forslag aftrykke til endelig Vedtagelse og har samtidig under Forudsætning af Byraadets Tilslutning foretaget følgende Ændringer, som herved indstilles til Vedtagelse: Byraadssekretærens og Socialdirektørens Bestillingstillæg forhøjes tned 2.000 Kr. og Kommunebogholderens og Stadsgartnerens
+"	1945	3	28
+"135"	1945-03-28	"closed"	"19450328B_233.pdf"	5	"33_29-1944"	"med 1.000 Kr. Der tillægges Lederen af Lønningskontoret et Bestillingstilæg paa 1.000 Kr., Kontorchefen ved Socialkontoret et personligt Tillæg paa 600 Kr., og det personlige Tillæg til Kontorchefen ved Belysningsvæsenet forhøjes fra 300 Kr. til 600 Kr.
+Samtidig indstiller man, at der udenfor Vedtægten ydes Fuldmægtig paa Byraadskontoret Keld Jarde et Honorar for Udførelse af særlig Tjeneste paa 1.000 Kr. een Gang for alle.\"
+Indstillingen vedtoges.
+"	1945	3	28
+"136"	1945-03-28	"closed"	"19450328B_233.pdf"	5	"1653-1944"	"Andragende fra Dyrlæge ved Slagtehuset A. K. Mikkelsen om at maatte fratræde sin Stilling den 1. April d. A.
+Anbefalet af Lønudvalget.
+Bevilgedes.
+"	1945	3	28
+"137"	1945-03-28	"closed"	"19450328B_233.pdf"	5	"33_42-1944"	"Indstilling fra Lønudvalget om Ændring af Lønforholdene for Lærerne ved Kommunens Fritidshjem.
+Udvalget indstiller, at Lærerstillingerne ved Fritidshjemmet fra 1. April d. A. m. H. t. Løn og Pension behandles efter de til enhver Tid for Lærere ved Skolevæsenet gældende Regler, men saaledes, at Stillingerne iøvrigt er underkastet Tjenestemandsvedtægtens Bestemmelser.
+Endvidere indstilles, at der tillægges Lærer Jørgensen som Leder de for Viceinspektører ved Skolevæsenet gældende Tillæg, samt at han overføres til de ny Lønningsregler med Lønanciennitet fra 1. Januar 1934.
+Indstillingen vedtoges.
+"	1945	3	28
+"138"	1945-03-28	"closed"	"19450328B_233.pdf"	5	"33_43-1944"	"Indstilling fra Lønudvalget om Ændring af Stillingen som Mekaniker ved Observatoriet.
+"	1945	3	28
+"139"	1945-03-28	"closed"	"19450328B_233.pdf"	6	"33_43-1944"	"Udvalget indstiller, at den omhandlede Stilling fra 1. April d. A. ændres til ikke-videnskabelig Assistent ved Observatoriet og oprykkes til 5. Lønklasse, samt at hans Lønanciennitet i nævnte Lønklasse fastsættes til 1/4 1939.
+Indstillingen vedtoges.
+"	1945	3	28
+"140"	1945-03-28	"closed"	"19450328B_233.pdf"	6	"33_65-1944"	"Indstilling fra Lønudvalget om Forhøjelse af Bestillingstillæg for Bogholdere ved Forsørgelsesvæsenet og Skattevæsenet fra 500 Kr. til 800 Kr. aarligt.
+Indstillingen vedtoges.
+"	1945	3	28
+"141"	1945-03-28	"closed"	"19450328B_233.pdf"	6	"33_70-1944"	"Indstilling fra Lønudvalget om Ordning af Løn- og Pensionsforhold for Overbibliotekaren ved Folkebiblioteket.
+Udvalget indstiller, at Andragerens Lønanciennitet fra 1. Januar d. A. at regne ændres til 1. Januar 1942.
+Endvidere indstilles, at Overbibliotekarens Pensionsforhold ændres saaledes, at han fra Ansættelsesdatoen tillægges Ret til Pension i H. t. Tjenestemandsvedtægten, samt at han til Pensionsfonden ekstraordinært indbetaler et Beløb svarende til 10 Aars Bidrag beregnet med 5 % af 6.500 Kr. aarligt eller ialt 3.250 Kr., hvorefter Pensionsalderen regnes fra 1. Januar 1940.
+Indstillingen vedtoges.
+"	1945	3	28
+"142"	1945-03-28	"closed"	"19450328B_233.pdf"	6	"33_71-1944"	"Indstilling fra Lønudvalget om Ydelse af et Arbejdstidstillæg paa 300 Kr. aarligt til Maskinmesteren ved Kloakpumpestationen.
+Indstillingen vedtoges.
+"	1945	3	28
+"143"	1945-03-28	"closed"	"19450328B_233.pdf"	6	"33_64-1944"	"Forslag fra Stadsdyrlægen angaaende midlertidig Besættelse af en Stilling som Dyrlæge ved Levnedsmiddelkontrollen.
+Stadsdyrlægen foreslaar, at Dyrlæge Gunnar Mortensen i et Aar overgaar fra Besætningskontrollen til Mælkekontrollen, og at Mortensens
+"	1945	3	28
+"144"	1945-03-28	"closed"	"19450328B_233.pdf"	7	"33_64-1944"	"Stilling i dette Aar besættes med Dyrlæge Fru E. Mortensen.
+Tiltraadt af Lønudvalget, idet Ordningen ikke medfører forøgede Udgifter for Kommunen eller for Mejerierne.
+Indstillingen vedtoges.
+"	1945	3	28
+"145"	1945-03-28	"closed"	"19450328B_233.pdf"	7	"1705-1944"	"Forslag fra Stadsdyrlægen om Antagelse af Vikar for sygemeldt Dyrlæge Lassen ved Besætningskontrolien samt fortsat Ydelse af fuld Løn til Dyrlægen, indtil Vikaren antages.
+Tiltraadt af Lønudvalget.
+Indstillingen vedtoges.
+"	1945	3	28
+"146"	1945-03-28	"closed"	"19450328B_233.pdf"	7	"33_61-1944"	"Indstilling om fortsat Ydelse af Bestillingstillæg til Ingeniør ved Havnen T. Heiede.
+Indstillingen vedtoges.
+"	1945	3	28
+"147"	1945-03-28	"closed"	"19450328B_233.pdf"	7	"1747-1944"	"Indstilling fra Lønudvalget om Bevilling af Pension til Enken efter Bibliotekar ved Folkebiblioteket Chr. Kinch samt om Ændring af Reglerne for Ydelse af Efterindtægt til Kommunens og Havnens Tjenestemænd.
+Udvalget indstiller, at der fra 1. Marts d. A. at regne bevilges Enken en aarlig Pension paa Kr. 1.298,04 samt Børnetillæg og Dyrtidstillæg efter de gældende Regler.
+Samtidig indstilles, at Tjenestemandsvedtægtens § 58 vedrørende Ydelse af Efterindtægt fra 1. Oktober f. A. at regne ændres saaledes, at Paragrafen bliver ligelydende med de i Tjenestemandsloven fastsatte tilsvarende Bestemmelser, hvorefter der til Tjenesteindtægten henregnes de foruden den faste Løn oppebaarne forskellige Tillægsydelser.
+Indstillingen vedtoges.
+"	1945	3	28
+"148"	1945-03-28	"closed"	"19450328B_233.pdf"	8	"1598-1944"	"Andragende fra Formand ved Vejvæsenet August Pedersens Enke om Forlængelse af Efterindtægtsperioden fra 3 til 12 Maaneder.
+Lønudvalget kan ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1945	3	28
+"149"	1945-03-28	"closed"	"19450328B_233.pdf"	8	"29_19-1944"	"Andragende fra Havneformand H. Svenningsen om Afsked med Pension fra 1. Juli 1944.
+Bevilgedes. Pensionen fastsattes til 2.698,73 Kr.
+"	1945	3	28
+"150"	1945-03-28	"closed"	"19450328B_233.pdf"	8	"1581-1974"	"Indstiiling om Bevilling af Pension til Enken efter pens. Belysningsmester ved Havnen J. Vestergaard Rasmussen.
+Pensionen fastsattes til 1.549,77 Kr.
+"	1945	3	28
+"151"	1945-03-28	"closed"	"19450328B_233.pdf"	8	"1748-1944"	"Indstilling om Bevilling af Pension til Enken efter pens. Maalerkontrollør A. Andersen.
+Pensionen fastsattes ti! 1.100 Kr.
+"	1945	3	28
+"152"	1945-03-28	"closed"	"19450328B_233.pdf"	8	"1749-1944"	"Indstilling om Pension til Enken efter Maskinpasser ved Brandvæsenet V. Holst Jensen.
+Pensionen fastsættes til 1.303,70 Kr.
+"	1945	3	28
+"153"	1945-03-28	"closed"	"19450328B_233.pdf"	8	"1585-1944"	"Bevilling af Pension til Sygeplejerske ved Centralstationen Fru Helga Harboe.
+Pensionen fastsattes til 1.350 Kr. fra 1/5 1945.
+"	1945	3	28
+"154"	1945-03-28	"closed"	"19450328B_233.pdf"	8	"29_20-1944"	"Bevilling af Efterløn til fhv. Arbejdsmand ved Belysningsvæsenet M. L. Michelsen.
+Efterlønnen fastsattes til 180 Kr. aarlig fra 1/5  1945.
+"	1945	3	28
+"155"	1945-03-28	"closed"	"19450328B_233.pdf"	8	"1750-1944"	"Andragende fra fhv. Arbejdsmand ved Slagtehuset Jul. Nielsen om fortsat Bevilling af en aarlig Understøttelse paa 200 Kr.
+Lønudvalget indstiller at yde en aarlig Understøttelse paa 200 Kr. uden Dyrtidstillæg.
+Indstillingen vedtoges.
+"	1945	3	28
+"156"	1945-03-28	"closed"	"19450328B_233.pdf"	9	"1751-1944"	"Andragende fra fhv. Arbejdsmand ved Vej- og Kloakvæsenet A. Andreasen om en aarlig Understøttelse.
+Lønudvalget indstiller at yde 200 Kr. aarlig uden Dyrtidstillæg.
+Indstillingen vedtoges.
+"	1945	3	28
+"157"	1945-03-28	"closed"	"19450328B_233.pdf"	9	"1752-1944"	"Andragende fra fhv. Opsyn ved Nødtørftsanstalteme Frk. J. Kier om en aarlig Understøttelse.
+Der bevilgedes 200 Kr. uden Dyrtidstillæg.
+"	1945	3	28
+"158"	1945-03-28	"closed"	"19450328B_233.pdf"	9	"1631-1944"	"Andragende fra fhv. Rengøringsassistent ved Læssøesgades Skole Fru E. Henriksen om en aarlig Understøttelse.
+Der bevilgedes 100 Kr. uden Dyrtidstillæg.
+"	1945	3	28
+"159"	1945-03-28	"closed"	"19450328B_233.pdf"	9	"1564-1944"	"Andragende fra fhv. Rengøringsassistent ved Læssøesgades Skole Fru Kirstine Jensen om en aarlig Understøttelse.
+Der bevilgedes 100 Kr. uden Dyrtidstillæg.
+"	1945	3	28
+"160"	1945-03-28	"closed"	"19450328B_233.pdf"	9	"1753-1944"	"Andragende fra fhv. Murer ved Gasværket M. P. Laursen om Forhøjelse af hans aarlige Understøttelse.
+Der bevilgedes 150 Kr. uden Dyrtidstillæg.
+"	1945	3	28
+"161"	1945-03-28	"closed"	"19450328B_233.pdf"	9	"17_59-1944"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet Jens Christensen.
+Indstillingen vedtoges.
+"	1945	3	28
+"162"	1945-03-28	"open"	"19450328_227.pdf"	1	"no related record"	"Mødet den 28. Marts 1945.
+Fraværende: J. R. Fanger, Niels Laursen og Unmack Larsen.
+"	1945	3	28
+"163"	1945-03-28	"open"	"19450328_227.pdf"	1	"1089-1944"	"Meddelelse fra Indenrigsministeriet om, at Trøjborg Apotek indtil videre træder udenfor Ordningen med Trevagtsskifte m. H. t. Natte- og Søndagsvagter paa Apotekerne i Aarhus.
+Borgmesteren oplyste, at det skyldtes en Henstilling herfra, idet Beboerne paa Trøjborg nødig vilde gaa ned i Byen om Aftenen.
+Toges til Efterretning.
+"	1945	3	28
+"164"	1945-03-28	"open"	"19450328_227.pdf"	1	"389-1944"	"Meddelelse fra Indenrigsministeriet om Beskikkelse af Økonomidirektøren som Tilsynsførende med Det sociale Boligbyggeri.
+Toges til Efterretning.
+"	1945	3	28
+"165"	1945-03-28	"open"	"19450328_227.pdf"	1	"1570-1944"	"Skrivelse fra Justitsministeriet om Fornyelse af Aarhus Teaters Teaterbevilling.
+Toges til Efterretning.
+"	1945	3	28
+"166"	1945-03-28	"open"	"19450328_227.pdf"	1	"574-1944"	"Arbejdsministeriets Godkendelse af Detailprojekt for Omlægning af Aalesundsvej m. fl. som Beredskabsarbejder.
+Toges til Efterretning.
+"	1945	3	28
+"167"	1945-03-28	"open"	"19450328_227.pdf"	2	"1734-1944"	"Regnskab for Købmand Jul. Philipsons Legat i 1944.
+Toges til Efterretning.
+"	1945	3	28
+"168"	1945-03-28	"open"	"19450328_227.pdf"	2	"23_21-1944"	"Aarsberetning for Ole Rømer Observatoriet.
+Toges til Efterretning.
+"	1945	3	28
+"169"	1945-03-28	"open"	"19450328_227.pdf"	2	"1388-1944"	"Udkast til Fundats for fhv. Lokomotivmester Albert E. Rasmussen og Hustrus Legat.
+Anbefalet af Legatudvalget med følgende Ændring:
+Som nyt 2. Stk. i Fundatsens Punkt 3 indføjes :
+\"Saafremt Legatkapitalen nogen Sinde skulde gaa ned under 6.000 Kr., vil Renterne være at tillægge denne, indtil den igen er bragt op paa dette Beløb, og først da vil Renterne paany være at uddele i Overensstemmelse med foranstaaende Bestemmelse.\"
+Tiltraadtes.
+"	1945	3	28
+"170"	1945-03-28	"open"	"19450328_227.pdf"	2	"1399-1944"	"Udkast til Fundats for Rentier Jørgen Sørensen og Hustrus Legat til Kræftens Bekæmpelse.
+Anbefalet af Legatudvalget med Indføjelse af følgende Bestemmelse:
+\"Det reviderede Regnskab tilsendes Landsforeningen til Kræftens Bekæmpelse og optages i dennes Aarsberetning.\"
+Tiltraadtes.
+"	1945	3	28
+"171"	1945-03-28	"open"	"19450328_227.pdf"	2	"1706-1944"	"Forslag fra Sundhedskommissionen om Samarbejde mellem Levnedsmiddelkontrollen og Priskontrollen.
+"	1945	3	28
+"172"	1945-03-28	"open"	"19450328_227.pdf"	3	"1706-1944"	"Fra Økonomidirektøren forelaa følgende Skrivelse :
+\"Kontrollen med Overholdelse af Sundhedsvedtægten var tidligere underlagt Sundhedspolitiet, ligesom Udgifterne herved helt og holdent blev afholdt af Staten.
+Det af Sundhedskommissionen foreslaaede Samarbejde med Priskontrollen, der vil nødvendiggøre Ansættelse af mindst een Priskontrollør mere, medfører imidlertid, at hele Udgiften ved Kontrollens Udøvelse overgaar til Kommunen, hvilket man principielt maa nære Betænkelighed ved. idet det kan tænkes at faa Konsekvenser for Udgiftens Placering i Fremtiden.
+Da der imidlertid, ikke mindst under de herskende Forhold, utvivlsomt er et meget stort Behov for Genindførelse af en Kontrol med Sundhedsvedtægtens Overholdelse, skal man foreslaa, at Sundhedskommissionens Forslag imødekommes. For imidlertid at opnaa nogen Refusion af Udgiften, skal man endvidere efter stedfunden Drøftelse med Stadsdyrlægen foreslaa, at Kontrollen udøves af en under Vagtværnet ansat og aflønnet Kontrollør, der stilles til Raadighed for Priskontrollen.\"
+Budgetudvalget tiltræder Sundhedskommissionens Forslag paa den af Økonomidirektøren foreslaaede Maade.
+Indstillingen vedtoges.
+"	1945	3	28
+"173"	1945-03-28	"open"	"19450328_227.pdf"	3	"1701-1944"	"Forespørgsel fra Skattedepartementet i Anledning af Andragende fra Sct. Georgs Gildet i Aarhus om Skattefrihed for den af Foreningen afholdte Velgørenhedskoncert i Aarhus den 28. Januar, subsidiært at
+"	1945	3	28
+"174"	1945-03-28	"open"	"19450328_227.pdf"	4	"1701-1944"	"der kun svares et til Overskudet svarende Skattebeløb.
+Budgetudvalget foreslaar at svare, at man fra Byraadets Side intet har at erindre imod, at Andragendet imødekommes.
+Tiltraadtes.
+"	1945	3	28
+"175"	1945-03-28	"open"	"19450328_227.pdf"	4	"261-1944"	"Indstilling om Fordeling af det Beløb, der er til Raadighed til Beredskabsprojektering.
+Fra Stadsarkitekten forelaa følgende Forslag til Fordeling, idet det første Tal angiver Statens Tilskud, det andet Kommunens:
+1)Det sociale Boligbyggeri, Jens Baggesensvej, 17.100 + 8.550 Kr.
+2)Fagorganisationnernes Andels Byggeselskab, Silkeborgvej, 9.290 + 4.650 Kr.
+3)Ringgaarden V, Jens Baggesensvej, 15.180 + 7.580 Kr.
+4)Ingeniør T. Chr. Andersen, Helge Rodesvej, 5.850 -f 2.920 Kr.
+5)Tømrermester B. Kirk Mikkelsen, Helge Rodesvej, senere overført til Tømrermester E. Christensen og Grosserer K. V. Larsen, 5.550 + 2.770 Kr.
+6)Ingeniørerne B. Jensen og V. Madsen, Rud. Wulffsgade, 11.820 + 5.900 Kr.
+7)Udgaaet.
+8)Murermester Harald Andersen, V. Ringgade, 430 + 220 Kr.
+9)Postbud N. J. Petersen og Tømrermester Aage Petersen, V. Ringgade, 720 -j- 360 Kr.
+10)Murerm. Chr. og Kaj Iversen, V. Ringgade, 440 + 220 Kr.
+11)Murermester H. Lodshøj, V. Ringgade, 1.140 + 580 Kr.
+"	1945	3	28
+"176"	1945-03-28	"open"	"19450328_227.pdf"	5	"261-1944"	"12)Tømrermester P. B. Kjeldsen, Tage Hansens-gade, 2.350 f 1.170 Kr.
+13)Murermester M. Laugesen, Tage Hansens-gade, 2.900 + 1-450 Kr.
+Ialt 72.770 + 36.370 Kr.
+I disse Projekter er der ialt 790 Lejligheder og 19 Butikker.
+Der er herefter endnu en Rest paa Kr. 6.030 af Statens Bevilling.
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse.
+Indstillingen vedtoges.
+"	1945	3	28
+"177"	1945-03-28	"open"	"19450328_227.pdf"	5	"432-1944"	"Indstilling om Valg af Repræsentanter til et Udvalg angaaende Anlæg af en Sti omkring Brabrand Sø.
+Udgik af Dagsordenen.
+"	1945	3	28
+"178"	1945-03-28	"open"	"19450328_227.pdf"	5	"350-1944"	"Decision af Kommunens Regnskab for 1940-41.
+Fra de kommunale Revisorer forelaa følgende Erklæring:
+\"Idet vi skal henvise til de af den kommunale Revisor gjorte Bemærkninger og Antegnelser til Regnskaberne og til Aktiverne samt oplyse, at samtlige Overskridelser er behørigt efterbevilgede bortset fra en Overskridelse, stor Kr. 96.639,64 paa Fjernopvarmnings-anlægets Konto III K. 13, indstiller vi Regnskabet til Godkendelse under Forudsætning af, at den manglende Efterbevilling indhentes hos Byraadet.
+Vi skal iøvrigt oplyse, at der i Aarets Løb er foretaget ialt 88 Kasseeftersyn.\"
+Tiltraadt af Decisionsudvalget.
+Fra Belysningsudvalget forelaa følgende Erklæring:
+"	1945	3	28
+"179"	1945-03-28	"open"	"19450328_227.pdf"	6	"350-1944"	"\"Til det ærede Udvalgs Orientering oplyses, at der allerede under 11. December 1942 fra Kommunens Bogholderkontor ved Fremsendelse af Ekstraktafskrift af Revisors Antegnelser til Regnskabet for 1940-41 forelaa Skrivelse vedrørende den omhandlede Overskridelse paa Konto III K. 13, Kr. 96.639,64, idet Efterbevilling herfor ikke forelaa.
+I Anledning heraf oplyste man overfor det ærede Udvalg, at det skyldtes en beklagelig Fejl fra Belysningsvæsenets Side, at der ikke var søgt Efterbevilling for Beløbet, hvilken Oplysning videresendtes til Bogholderkontoret, hvorefter man var af den Formening, at det videre fornødne vilde blive foretaget uden yderligere Foranstaltninger fra Belysningsvæsenets Side.
+Man tillader sig herved at indstille, at nærværende Sag tilbagesendes Byraadet med Anmodning om Efterbevilling for Overskridelsen, Kr. 96.639,64, Fjernopvarmningsanlæget, Nyanlæg, Konto III K. 13, paa Regnskabet for 1940-41.\"
+Budgetudvalget tiltræder Efterbevilling af Overskridelsen.
+Efterbevilling af Overskridelsen meddeltes, hvorefter Regnskabet decideredes overensstemmende med Udvalgets Indstilling.
+"	1945	3	28
+"180"	1945-03-28	"open"	"19450328_227.pdf"	6	"862-1944"	"Andragende fra Aarhus-Foreningen af 1944 om Tilskud paa 259 Kr. til Kursus i Husgerning for unge Piger, der er udskrevet fra Hjælpeklasser.
+Anbefalet af Budgetudvalget, idet Udgiften kan afholdes af det i Budgettet afsatte Beløb til Ungdoms- og Aftenskoler.
+Indstillingen vedtoges.
+"	1945	3	28
+"181"	1945-03-28	"open"	"19450328_227.pdf"	7	"1743-1944"	"Indstilling fra Vejteknisk Udvalg om Forhøjelse af Afgiften for Afhentning af Dagrenovation.
+Udgik af Dagsordenen.
+"	1945	3	28
+"182"	1945-03-28	"open"	"19450328_227.pdf"	7	"1744-1944"	"Indstilling fra Lønudvalget om midlertidig Forskydning af Arbejdstiden paa Kommunens Kontorer.
+Udvalget indstiller, at Arbejdstiden fra 3. April d. A. og indtil videre paa Ugens 5 første Dage lægges fra Kl. 8-1630, medens de øvrige overenskomstmæssige Bestemmelser vedrørende Arbejdstiden forbliver uændrede.
+Indstillingen vedtoges.
+"	1945	3	28
+"183"	1945-03-28	"open"	"19450328_227.pdf"	7	"1745-1944"	"Indstilling fra Lønudvalget om Fastsættelse af Reguleringstillæg m. v. for Regnskabsaaret 1945-46.
+Følgende Indstilling forelaa:
+\"Ved en af Finansministeriet den 15. Marts d. A. udstedt Lovanordning er der for Finansaaret 1945-46 gennemført en Forhøjelse af Reguleringstillægget til Statens Tjenestemænd med een Portion. Endvidere er det siden 1938 ydede midlertidige Løntillæg, der oprindelig udgjorde 168 Kr. aarlig for gifte Mænd m. fl. og fra 1/11 1944 forhøjedes til 288 Kr. aarlig for gifte Mænd m. fl., forlænget for nævnte Finansaar og samtidig forhøjet til 384 Kr. aarlig for gifte Mænd m. fl. Endelig er Reglerne om Børnetillæg og om Beregning af Reguleringstillæg til ugifte under 40 Aar forlænget.
+Da de tilsvarende Tillæg til Aarhus Kommunes og Aarhus Havns Tjenestemænd og Pensionister ydes efter de for Statens Tjenestemænd gældende Regler, for saa vidt angaar det ordinære Dyrtidstillæg til Pensionister dog
+"	1945	3	28
+"184"	1945-03-28	"open"	"19450328_227.pdf"	8	"1745-1944"	"kun med de Beløb, hvormed Reguleringstillæget ydes ud over de ved Udgiftstal 2843-2946 gældende Tillæg, vil der være at afgive Indstilling til Byraadet om, at Reguleringstillægget til Aarhus Kommunes og Aarhus Havns Tjenestemænd i Regnskabsaaret 1945-46 ydes efter følgende Skala:
+Aarligt Reguleringstillæg
+Aarlig Lønning 
+Gifte Mænd og dermed ligestillede
+Andre Tjenestemænd over 40 Aar
+Alle øvrige Tjenestemænd
+&lt;br&gt;
+Under 1500 Kr. 123 °/o82 %71 '/o
+1500 - 1799-1920,00Kr1280,04Kr.1104,00Kr.
+1800 -2999-2004,00-1336,08-1148,04-
+3000 -4499-2040,00-1360,08-1160,04-
+4500 -5999-2268,00-1512,00-1296,00-
+6000 -7499-2316,00-1544,04-1312,08-
+7500 -8999-2544,00-1696,08-1448,04
+9000 -10499-2784,00-1856,04-1588,08-
+10500 Kr. og dero.3036,00-2024,04-1732,08-
+a t Dyrtidstillægget til Aarhus Kommunes og Aarhus Havns Pensionister i Regnskabs-aaret 1945-46 ydes efter følgende Skala:
+Aarligt Dyrtidstillæg Aarlig Pension Gifte Mænd 
+dermed ligestillede
+Under 1500 Kr.85%j56V\"%
+1500 - 1799 Kr.1308,00Kr.872,04Kr.
+1800 - 4499-1344,00-|896,04-
+4500 - 7499-1512,00-j1008,00-
+7500 - 8999-|1680,00-______j 1120,08-_______
+"	1945	3	28
+"185"	1945-03-28	"open"	"19450328_227.pdf"	9	"1745-1944"	"For Pensionister, som den 31. Marts 1943 oppebar Dyrtidstillæg til Pension fra Kommunen eller Havnen, skal Dyrtidstillægget dog udgøre mindst 384 Kr. aarlig.
+a t det midlertidige Dyrtidstillæg ti! Aarhus Kommunes og Aarhus Havns Tjeneste-mænd og Pensionister i Regnskabsaaret 1945-46 ydes efter følgende Skala:
+Aarligt midlertidigt Dyrtidstillæg
+Aarlig Lønning	Gifte	Mænd
+,	,	Andre	over	...	.
+og dermed	Alle	øvrige
+..	,	40	Aar
+ligestillede
+Under 1500 Kr.	27 °/o	18 7o	14 7o
+ikke over	ikke over	ikke over
+384,00 Kr	256,08 Kr.	200,04 Kr.
+Fra 1500 Kr.	384,00 Kr.	256,08 Kr.	200,04 Kr.
+at der udover foranstaaende Tillæg ydes Tje-nestemænd og Pensionister, der har Forsørgerpligt overfor Børn under 18 Aar, et særligt Tillæg paa 120 Kr. aarlig for hvert Barn under 18 Aar udover eet.
+Under de mellem Finansministeriet og Tjenestemandsorganisationerne stedfundne Forhandlinger om Reguleringstillægget fremsattes der fra Organisationernes Side Krav om et større Antal Portioner Reguleringstillæg, skønt Stigningen i det Udgiftstal, hvorefter Reguleringstillægget retter sig, kun gav dem Ret til een Portion. I Betragtning af den Forhøjelse, der ved Arbejds- og Forligsnævnets Formandsskabs Kendelse af 3. Marts d. A. var sket af Dyrtidstillægget til de timelønnede Arbejdere, hvilken Forhøjelse svarede til 2 Portioner Reguleringstillæg for de lavest lønnede Grupper
+"	1945	3	28
+"186"	1945-03-28	"open"	"19450328_227.pdf"	10	"1745-1944"	"af Tjenestemændene, var Finansministeriet ogsaa villigt til at gennemføre en større Forhøjelse for Tjenestemændene, end de efter Tjenestemandsloven havde Krav paa, men da Ministeriet ikke ønskede at forhøje Reguleringstillægget ud over de ved Loven hjemlede Beløb, maatte Forhøjelsen ske ved en Ændring af det midlertidige Løntillæg. Den herefter gennemførte Forhøjelse af dette Tillæg udgør 96 Kr. aarlig for gifte Tjenestemænd og dermed ligestillede, jfr. Tjenestemandslovens § 91, Stk. 1, og svarer saaledes til een Portion Reguleringstillæg for Tjenestemænd med mindre end 4.500 Kr. i aarlig Lønning.
+Under Hensyn til den Motivering, hvormed Forhøjelsen af det midlertidige Løntillæg er foretaget, bør Konjunkturtillægget til visse Teknikere m. fl. samt Dyrtidstillægget til Opsynskvinder ved Nødtørftsanstalterne og Parkvæsenet, der skal forhøjes med samme Beløb sotn Reguleringstillægget, formentlig tillige forhøjes med et til Forhøjelsen af det midlertidige Løntillæg svarende Beløb. Man skal i denne Forbindelse erindre om, at den Forhøjelse af det midlertidige Løntillæg, der fandt Sted fra Vn 1944 at regne, og som udgjorde 120 Kr. aarlig for gifte Mænd m. fl., ikke fik Indflydelse paa de her omhandlede Tillæg. Denne Forhøjelse skulde sammen med det oprindelige Tillæg paa 168 Kr. aarlig for gifte Mænd m. fl. tjene til Udfyldning af det Interval i Udgiftstallet, der ligger mellem 2426 og 2843 Kr., og til Dækning af hvilket Tjenestemændene kun havde opnaaet een Portion Reguleringstillæg, medens der udkrævedes 4 Portioner til Dækning af det. Da Konjunkturtillægget til Teknikere
+"	1945	3	28
+"187"	1945-03-28	"open"	"19450328_227.pdf"	11	"1745-1944"	"m. fl. og Dyrtidstillægget til Opsynskvinderne kun skal ydes, henholdsvis forhøjes med de Beløb, hvormed Reguleringstillægget ydes ud over de ved Udgiftstal 2946 henholdsvis 3986 gældende Tillæg, fandtes der ikke et tilsvarende udækket Interval i disse Reguleringsordninger og dermed ingen Motivering for at lade denne Forhøjelse af det midlertidige Tillæg komme de af disse Ordninger omfattede Personer til gode.
+Endvidere bør Forhøjelsen af det midlertidige Løntillæg formentlig faa samme Virkning som en Forhøjelse af Reguleringstillægget med een Portion ved Fastsættelsen af det Beløb, hvormed der i det kommende Regnskabsaar skal ske Afkortning i Lønnen til Tjenestemænd, der har Ophold med Forplejning ved en af Kommunens Institutioner, idet dette Beløb er sat i Forhold til det Antal Portioner, hvormed Reguleringstillægget ydes, jfr. Tjenestemandsvedtægtens § 23, Stk. 2. Det bemærkes, at langt den overvejende Del af de Tjenestemænd, der har Ophold med Forplejning, nemlig Sygeplejepersonalet, betaler Opholdsvederlag efter de for Statens Tjenestemænd gældende Regler og derfor ikke berøres af det foran nævnte efter Tjenestemandsvedtægten fastsatte Opholdsvederlag. Der foreligger ikke paa nuværende Tidspunkt Oplysning om, hvorvidt Statens Opholdsvederlag ændres for det kommende Finansaar.
+Saafremt Lønudvalget tiltræder det foran anførte, vil der endvidere være at afgive Indstilling til Byraadet om, at Konjunkturtillægget i Regnskabsaaret 1945
+-46 ydes efter følgende Skala:
+"	1945	3	28
+"188"	1945-03-28	"open"	"19450328_227.pdf"	12	"1745-1944"	"Aarlig Lønning 
+Aarligt Konjunkturtillæg
+Gifte Mænd og dermed ligestillede
+Andre over 40 Aar
+Alle øvrige
+Under 1500 Kr. 92 °/o672/s %\"56J/s%
+15001799-1404,00Kr.1038,00Kr.862,08Kr.
+1800 -2999-1440,00-1070,04-882,00-
+3000 -4499-1440,00-1076,04-876,00
+4500 -5999-1608,00-1198,08-982.08-
+6000 -7499-1608,00-1206,00-974,04
+7500 -8999-1776,00-1328,04-1080,00-
+9000 -10499-1944,00-1452,00-1184,04-
+10500 Kr. og derover2112,00-1578,00-1286,04-
+a t Dyrtidstillægget til Opsynskvinder ved Nødtørftsanstalterne og Parkvæsenet i Regnskabsaaret 1945-46 ydes efter følgende Skala:
+Dyrtidstillæg
+Løn De med gifte Mænd ligestillede Opsyn
+.... Alle øvrige Opsyn
+Maanedsløn125Kr.96Kr.pr.Maaned73,34 Kr. pr. Maaned
+Dagløn5-S84Ørepr.Dag293Ørepr.Dag
+Timeløn67Øre57Ørepr.Time45Ørepr.Time
+a t der til Personer, som oppebærer Konjunkturtillæg, og til Opsynskvinder ved Nødtørftsanstalterne og Parkvæsenet i Regnskabsaaret 1945-46 ydes Børnetillæg efter de for Tjenestemændene gældende Regler,
+og
+at Opholdsvederlaget, jfr. Tjenestemandsvedtægtens § 23, Stk. 2, for Regnskabsaaret 1945-46 forhøjes til 1.300 Kr.
+Endelig skal Dyrtidstillægget til maaneds-og daglønnede Hospitalsportører og Husassistenter
+"	1945	3	28
+"189"	1945-03-28	"open"	"19450328_227.pdf"	13	"1745-1944"	", der indførtes fra 1/4 1943 og oprindelig udgjorde 12 %, forhøjes med samme Antal Procenter som Reguleringstillægget til Tjenestemænd med Lønninger under 1.500 Kr. aarlig, idet Forhøjelser, der ikke skyldes Ændringer i Udgiftstallet, dog ikke skal have Indflydelse paa Dyrtidstillægget. Den Forhøjelse af Reguleringstillægget, der gennemførtes fra 74 1944 (med tilbagevirkende Kraft fra Vn 1943), og som udgjorde 142/3 % for ugifte Tjenestemænd med Lønninger under 1.500 Kr. aarlig, skyldtes ikke nogen efter 1943 stedfunden Stigning i Udgiftstallet, men efter Andragende fra de paagældende Personalegrupper bevilgedes der dem ekstraordinært for Tiden indtil lU 1945 en tilsvarende Forhøjelse af Dyrtidstillægget, der saaledes for Tiden udgør 262/s %\". Da de Forhold, der motiverede denne ekstraordinære Forhøjelse, stadig er til Stede, bør denne Bevilling formentlig forlænges for det kommende Regnskabsaar. Herudover tilkommer der de paagældende en Forhøjelse paa 4% som Følge af den foran indstillede Forhøjelse af Reguleringstillægget, saaledes at det samlede Dyrtidstillæg for Regnskabsaaret 1945-46 vil udgøre 302/3 %\". Da de vedrørende disse Personalegrupper afsluttede Overenskomster er opsagt til Udløb den sl/s d. A., er der formentlig ingen Grund til at tage det Spørgsmaal op til Overvejelse, om Forhøjelsen af det midlertidige Løntillæg bør medføre en tilsvarende Forhøjelse af det heromhandlede Dyrtidstillæg. Det skal dog anføres, at en saadan Forhøjelse vilde andrage 42/s %.
+Merudgiften til Lønninger i Anledning af
+"	1945	3	28
+"190"	1945-03-28	"open"	"19450328_227.pdf"	14	"1745-1944"	"de foran omhandlede Forhøjelser vil for Regnskabsaaret 1945-46 andrage ca. 300.000 Kr.\"
+Indstillingen vedtoges.
+"	1945	3	28
+"191"	1945-03-28	"open"	"19450328_227.pdf"	14	"1746-1944"	"IndstillingfraLønudvalget
+om Fastsættelse af Honorartiilæg for 1945-46.
+Udvalget indstiller, at de Tillæg, som ydes visse honorarlønnede Personer m. fl. i Kommunens Tjeneste, fra 1. April d. A. forhøjes med 5 % af de paagældende Honorarer.
+Indstillingen vedtoges.
+"	1945	3	28
+"192"	1945-03-28	"open"	"19450328_227.pdf"	14	"33_69-1944"	"IndstillingfraLønudvalget om Oprykning fra 11. til 9. Lønklasse af Assistenterne ved Kommunens Fritidshjem.
+Indstillingen vedtoges.
+"	1945	3	28
+"193"	1945-03-28	"open"	"19450328_227.pdf"	14	"22_41-1944"	"Købekontrakt med KonstruktørH.P. SølvstenangaaendeenGrund ved
+Rørmosevej.
+Godkendtes.
+"	1945	3	28
+"194"	1945-03-28	"open"	"19450328_227.pdf"	14	"11_44-1944"	"Købekontrakt med Svejser P. V. Kristensen angaaende en Grund ved Nordvestpassagen.
+Godkendtes.
+"	1945	3	28
+"195"	1945-03-28	"open"	"19450328_227.pdf"	14	"11_45-1944"	"Købekontrakt med Montør H. Sønderholm angaaende en Grund ved Havrebakken.
+Godkendtes.
+"	1945	3	28
+"196"	1945-03-28	"open"	"19450328_227.pdf"	14	"898-1944"	"Forslag til Budget og Arbejdsplan for 1945-46. - 2. Behandling.
+Fra Budgetudvalget forelaa følgende Ændringsforslag:
+De kirkelige Ligninger.
+Konto B. 3. c. Udgiften til Domkirkens Kirkekasse forhøjes med............................40.000,00 Kr.
+Ialt. . .40.000,00 Kr.
+"	1945	3	28
+"197"	1945-03-28	"open"	"19450328_227.pdf"	15	"898-1944"	"Kommunens Driftsbudget.
+Konto 5408. Personlig Kommuneskat forhøjes med ....460.714,52Kr.
+Konto 11018. Statsrefusion forhøjes med......................50.285,72\"
+Konto 11019. Mellemkommunal Refusion forhøjes med..........18.857,13\"
+Merindtægtialt. . .529.857,37Kr.
+Konto 9829. Medhjælp i Køkkenet paa Arbejdsanstalten
+forhøjes med ..................1.200,00Kr.
+Konto 9856. Arbejdspenge til indlagte paa Arbejdsanstalten
+forhøjes med...................3.000,00\"
+Konto 9870. Afløsning af Op-synsmænd paa Arbejdsanstalten forhøjes med...........6.000,00\"
+Konto 11009. Huslejetilskud til Aldersrentenydere forhøjes
+med .........................88.000,00\"
+Konto 11020. Kommunens Andel til Refusionsforbundet
+forhøjes med.................21.350,00\"
+Konto 11032. Udgiften til Pigehold paa De gamles Hjem
+forhøjes med.................5.000,00\"
+Konto 4001. Løn til en Tegneelev paa Kloakværkerne..720,00\"
+Konto 4002. Reguleringstillæg
+til samme....................396,00\"
+Konto 8205. Pension til Overassistent V. E. HansensEnke1.995,37\"
+Konto 8207. Dyrtidstillæg til samme...........................1.896,00\"
+"	1945	3	28
+"198"	1945-03-28	"open"	"19450328_227.pdf"	16	"898-1944"	"Understøttelse til fhv. Arbejdsmand Chr.Frandsen......150,00Kr.
+Understøttelse til fhv. Arbejdsmand Knud Hansen............150,00\"
+Konto 16110. Yderligere Henlæggelse til Dispositionsfonden .....................400.000,00\"
+Merudgift ialt. .529.857,37Kr.
+Borgmesteren forelagde Ændringsforslagene.
+Ændringsforslagene vedtoges.
+Borgmesteren gennemgik derefter Budgettets Hovedposter med de vedtagne Ændringer og meddelte, at det Beløb, der efter Hovedligningen vil være at ligne paa Formue og Lejlighed, vil udgøre
+19.094.498 Kr. 20 Øre og til Menighedsudgifter
+664.345 Kr. 00 Øre.
+Budget og Arbejdsplan vedtoges enstemmig.
+Det vedtoges at fastsatte den i § 2 C i \"Vedtægt for Ligning af personlig Kommuneskat i Aarhus Købstadkommune\" ommeldte Procentdel, der vil være at lægge til det Beløb, som skal udskrives efter Formue og Lejlighed, til 5 %.
+"	1945	3	28

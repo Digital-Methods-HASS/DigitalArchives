@@ -1,0 +1,643 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1943-01-07	"closed"	"19430107B_249.pdf"	1	"no related record"	"Mødet den 7. Januar 1943.
+(For lukkede Døre).
+Fraværende: Esther Aggebo, Thomas Christensen, K. Mousten, E. Rolander, I. C. Sørensen og S. F. Sørensen.
+"	1943	1	7
+"2"	1943-01-07	"closed"	"19430107B_249.pdf"	1	"1032-1942"	"Indenrigsministeriets Samtykke til Overdragelse af 52 kommunale Beboelsesejendomme til \"Frederiksbjerg Boligselskab\".
+Toges til Efterretning.
+"	1943	1	7
+"3"	1943-01-07	"closed"	"19430107B_249.pdf"	1	"1031-1942"	"Indenrigsministeriets Samtykke til Optagelse af Hypotekforeningslaan i nogle kommunale Beboelsesejendomme.
+Toges til Efterretning.
+"	1943	1	7
+"4"	1943-01-07	"closed"	"19430107B_249.pdf"	1	"234-1942"	"Indstilling om yderligere Bevilling til Opførelse af Aldersrenteboliger i vestre Bydel. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	1	7
+"5"	1943-01-07	"closed"	"19430107B_249.pdf"	1	"1186-1942"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse til Byplanvedtægt for Matr. Nr. 733, 734, 735, 736 og 737 af Bygr. beliggende mellem Store Torv, Borgporten, Volden og Rosensgade.
+Følgende Udkast forelaa:
+"	1943	1	7
+"6"	1943-01-07	"closed"	"19430107B_249.pdf"	2	"1186-1942"	"Udkast til Byplanvedtægt.
+Det vedtages i Medfør af Lov Nr. 181 af 29. April 1938 om Byplaner at paalægge Matr. Nr. 733, 734, 735, 736 og 737, beliggende mellem Store Torv, Borgporten, Volden og Rosensgade følgende partielle Byplan:
+§ I.
+Den viste nye Gade mellem Store Torv og Rosensgade skal gennemføres i en Bredde af 19 m mellem Byggelinierne.
+§ 2.
+Den tiloversblevne Del af Matr. Nr. 733, beliggende mellem den nye Gades østre Byggelinie og Skellet til Matr. Nr. 732, maa kun bebygges med en Bebyggelse, der efter Byraadets Skøn paa hensigtsmæssig Maade knytter sig til og harmonerer med den paa Matr. Nr. 732 eksisterende Bebyggelse.
+§ 3.
+De tiloversblevne Dele af Matr. Nr. 733, 734 og 735 samt Matr. Nr. 736 og 737 maa kun anvendes til en 5-Etages Bebyggelse, der afstemmes efter en samlet Plan, som efter Byraadets Skøn paa hensigtsmæssig Maade samstemmes til et Hele, der ogsaa omfatter Matr. Nr. 673 b.
+§ 4.
+For de i Paragrafferne 2 og 3 nævnte Bebyggelser gælder, at de kun maa anvendes til Butikker samt Forretningsbrug og Beboelse.
+Saafremt der i Loftsetagen indrettes fornødne Udenomsrum, kan Kældrene anvendes i Forbindelse med de i Stueetagen beliggende Butikker, forsaavidt Tilladelse hertil kan opnaas efter gældende Bygningsvedtægt.
+"	1943	1	7
+"7"	1943-01-07	"closed"	"19430107B_249.pdf"	3	"1186-1942"	"Der maa ikke paa Omraadet indrettes nogen Virksomhed, der ved Røg, Larm, ilde Lugt, ubehageligt Skue eller paa anden Maade er til Ulempe for de omboende.
+§ 5.
+Som vist paa den til nærværende Vedtægt hørende Plan Nr. 9-70 skal de ved den projekterede Gade fremkomne 3 Hjørner afskæres ved en Linie, der mindst i Stueetagens Højde er mindst 5 m lang. For det 4. Hjørne ved Rosensgade vil der, saafremt den paa Matr. Nr. 732 eksisterende Bebyggelse undergaar væsentlige Ombygninger, blive krævet en Hjørneafskæring paa 2,5 m, ligeledes i Stuetagens Højde. Arealet udenfor Afskæringerne skal udlægges til Gadeareal.
+§ 6.
+De i foregaaende Paragraffer trufne Bestemmelser skal ikke være til Hinder for, at den eksisterende Bebyggelse bibeholdes i sin nuværende Skikkelse.
+Der maa dog ikke, jfr. Byplanlovens § 11, foretages saadanne Om- eller Tilbygninger, der er i Strid med Planen. Ej heller maa Arealerne ved Ændringer benyttes paa saadan Maade, der kan være i Strid med Planen.
+§ 7.
+Ovenstaaende Bestemmelser er dog ikke til Hinder for, at Byraadet i Henhold til Byplanlovens § 12 ved Ekspropriation eller Regulering helt eller delvis gennemfører nærværende Vedtægts Bestemmelser indenfor Omraadet.
+§ 8.
+Aarhus Kommune alene har Paataleret overfor Overtrædelser af nærværende Vedtægt.
+"	1943	1	7
+"8"	1943-01-07	"closed"	"19430107B_249.pdf"	4	"1186-1942"	"Byraadet kan indrømme mindre betydende Lempelser i Vedtægtens Bestemmelser.
+§ 9.
+Større Forandringer i nærværende Byplan kan ske ved Byraadets Beslutning og Indenrigsministeriets Godkendelse efter Reglerne om Vedtagelse og Godkendelse af nye Planer, jfr. Byplanlovens § 5.
+Borgmesteren henviste til Forhandlingen i det aabne Møde. Sagen hastede noget, idet Planen først skulde vedtages af Byraadet og fremlægges til offentligt Eftersyn i 3 Uger, hvorefter den skal til Ministeriet, og Byggeforbudet angaaende Sparekassens Ejendom udløb den 28. Februar.
+J. R. Fanger anmodede om at faa Sagen udsat. Der maatte være Tid nok, idet der var 7-8 Uger til den 28. Februar.
+Borgmesteren svarede, at der vilde gaa 14 Dage, før der kunde holdes Byraadsmøde, og saa kunde der blive for lidt Tid. Men saa maatte Byraadet være indforstaaet med, at man eventuelt anmoder Ministeriet om at forlænge Byggeforbudet, ellers kunde det blive dyrt for Kommunen.
+Sagen udsattes.
+"	1943	1	7
+"9"	1943-01-07	"closed"	"19430107B_249.pdf"	4	"1215-1942"	"Indstilling fra Parkudvalget angaaende Restauratør Kaj Hansens Huslejerestance for Vennelyst.
+Følgende Indstilling forelaa:
+\"Idet man skal oplyse, at Direktør Kaj Hansen i 1940 fik Henstand med Betaling af 8 Maaneders Husleje, af hvilke han i 1941 indbetalte Halvdelen, saaledes at han pr. 31. December
+"	1943	1	7
+"10"	1943-01-07	"closed"	"19430107B_249.pdf"	5	"1215-1942"	"staar i Restance med 4 Maaneders Husleje, Kr. 7333,33, skal man indstille, at Direktøren pr. 3. Januar 1943 betaler 2 Maaneders Husleje udover den normalt forfaldne Husleje, og at de resterende 2 Maaneders Husleje betales pr. 1. August 1943.
+Det bør dog være en Forudsætning, at Huslejekautionisterne stadig hæfter for 3 Maaneders Husleje, og at Kommunens Revisor naar som helst skal have Adgang til Direktørens Regnskaber.\"
+Indstillingen vedtoges.
+"	1943	1	7
+"11"	1943-01-07	"closed"	"19430107B_249.pdf"	5	"1186-1942"	"Anmodning fra Ligningskommissionen om Bevilling af yderligere 500 Kr. for indeværende Regnskabsaar.
+Anbefalet af Budgetudvalget, saaledes at Beløbet optages som Tillægsbevilling paa Konto XI.
+Overgik til 2. Behandling.
+"	1943	1	7
+"12"	1943-01-07	"closed"	"19430107B_249.pdf"	5	"10_7-1942"	"Valg af 2 Medlemmer til Ligningskommissionen i Stedet for Baneformand O. Olesen, der er udnævnt til Medlem af Skatteraadet, og afdøde Skræder F. P. Madsen.
+Suppleanterne Formand H. S. N. Hyllested og Tømrer Th. Jensen valgtes.
+"	1943	1	7
+"13"	1943-01-07	"closed"	"19430107B_249.pdf"	5	"1219-1942"	"Ansøgning fra Kontorchef Erik Tjørnehøj om 1 Aars Orlov samt Indstilling fra Budgetudvalget om Ansættelse af Kontorchef ved Økonomikontoret.
+Følgende Indstilling forelaa:
+\"Tilbagesendes Aarhus Byraad, idet man har vedtaget Økonomidirektørens Indstilling, hvorefter der bevilges Kontorchef E. Tjørnehøj 1 Aars Orlov med Fratræden 1. Marts 1943.
+Man har samtidig vedtaget at indstille
+"	1943	1	7
+"14"	1943-01-07	"closed"	"19430107B_249.pdf"	6	"1219-1942"	"Ekspeditionssekretær ved Randers Kommunes økonomiske Forvaltning cand. polyt. Kjeld Olsen til Ansættelse fra 1. Marts 1943 paa de for Stillingen som Kontorchef ved Økonomikontoret normerede Vilkaar, nemlig 1 Aars Prøveansættelse og Løn efter Tjenestemandsregulativets
+2.Lønklasse + et personligt Tillæg paa 1000 Kr.\" Indstillingen vedtoges.
+"	1943	1	7
+"15"	1943-01-07	"closed"	"19430107B_249.pdf"	6	"8_23-1942"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat.
+Kommissionen foreslaar følgende Efterbetalinger:
+Læderhdl. J. Nørregaard Bentzen, Sct. Paulsgade 5 . . .. 54500 Kr. 00 Ø. Købmand J. 0. Christensen,
+Strandvej 54 ..............7000\"00\"
+Kaffehdl. M. Jensen, Bruunsgade 40 ...................5600\"00\"
+Købmand B. P. Sørensen,
+Nørrebrogade 14 ...........4800\"00•\"
+Trikotagehdl. L. C. Suder,
+Silkeborgvej 54 ...........3160\"00\"
+Frk. Anna Cathr. Jørgensen,
+Frue Kirkeplads 1 .........2825\"00\"
+Enkefru E. Christensen, Tietgens Plads 6 ...............2800\"00\"
+Bagermester C. Mortensen,
+I. Huitfeldsgade 67 B . ...2600\"00\"
+Forretningsf. H. C. M. Petersen, H. Brogesgade 43 ...2400\"00\"
+Ps. Maskinm. C. A. Gejler,
+Tordenskjoldsgade 65....2200\"00\"
+At overføre...87885Kr.00 Ø.
+"	1943	1	7
+"16"	1943-01-07	"closed"	"19430107B_249.pdf"	7	"8_23-1942"	"Overført... 87885 Kr. 00 Ø.
+Ekspdtr. Frk. J. Grauballe,
+Bruunsgade 64...............2200\"00\"
+Murerm. H. H. Christiansen,
+Assensg. 20, nu: Aabyhøj 2100\"00\"
+Kontorist Frk. A. E. Rasmussen,Badstuegade 19...........2030\"00\"
+Gymnastiklærerinde Frk. N.
+C. Christiansen, Studiestr.
+67, København...............1800\"00\"
+Fhv. Maskinfabrk. C. Sørensen, Blegdammen 2.............1780\"00\"
+Enkefru M. L. Thomsen, Fr.
+Allé 105....................1450\"00\"
+Fhv. Detaillist J. Faistrup,
+Skovvej 14 .................1400\"00\"
+Bladforhandler T. Petersen,
+L. Krusesgade 2 B...........1200\"00\"
+Parfumehdlr. Frk. A. C. S.
+Bonde, Kildegaarden4...755\"00\"
+Havnelods N.C.Nielsen, Skovfaldet 7 .....................490\"00\"
+Murersv. J. P. Jensen, Tordenskjoldsgade 65................355\"00\"
+Konditorske Frk. J. M. Nielsen,Nørre Alle 30............345\"00\"
+Kedelsm. J. Mikkelsen, Skovvangsvej 15 ..................235\"00\"
+Frisørmester A. Rohde, Thorvaldsensgade 13.............50\"00\"
+Dødsboet efter:
+Bladekspdtr. Frk. A. L. Larsson, Ringkøbingvej 13 .. .876\"20\"
+Enkefru Wilhelmine Christensen, Fr. Allé 87 .............649\"00\"
+At overføre...105600Kr.20 Ø.
+"	1943	1	7
+"17"	1943-01-07	"closed"	"19430107B_249.pdf"	8	"8_23-1942"	"Overført.. . 105600 Kr. 20 Ø.
+Ps. Stationsforst., C. Gøtzsche,
+H. Brogesgade 25............513\"84\"
+Enkefru Marie Grabow, Vestergade 36, Randers, tidl.:
+Aarhus......................467\"39\"
+Murerformand J. Nørgaard Jensen, Viby J., tidl.: Aarhus ..........................363\"65\"
+Ialt. .. 106945Kr.08 Ø.
+Tiltraadtes.
+"	1943	1	7
+"18"	1943-01-07	"closed"	"19430107B_249.pdf"	8	"17_24-1942 og 17_20-1942 og 17_21-1942 og 17_22-1942 og 17_23-1942"	"Indstilling fra Socialudvalget om Eftergivelse af Hjælp ydet til:
+a.(J.Nr.17_24 -1942).Lilly J. Pedersen.
+b.(J.Nr.17_20-1942).Aage Poulsen.
+c.(J.Nr.17_21- 1942).Søren J. Andersen.
+d.(J.Nr.17_22-1942).Harry Pedersen.
+e.(J.Nr.17_23-1942).Harald M. Nielsen.
+Indstillingen vedtoges.
+"	1943	1	7
+"19"	1943-01-07	"open"	"19430107_203.pdf"	1	"no related record"	"Mødet den 7. Januar 1943.
+Fraværende: Esther Aggebo, Thomas Christensen, K. Mousten, E. Rolander, I. C. Sørensen og S. F. Sørensen.
+Borgmesteren: Paa det første Møde i detnyeAar vil jegønske Raadets Medlemmer
+godt Nytaar med Tak for Arbejdet i det Aar, der svandt, og med Ønske om et godt Samarbejde i det Aar, vi er begyndt paa. Jeg udtrykker endvidere Ønsket om, at det Aar, vi er gaaet ind i, maa blive lysere for Byraadet og dets Arbejde og for Byens Befolkning, og at det fælles Ønske, vi alle har om en snarlig Fred, maa ske Fyldest.
+"	1943	1	7
+"20"	1943-01-07	"open"	"19430107_203.pdf"	1	"22_41-1942"	"Indenrigsministeriets Godkendelse af betingede Skøder med Murermester M. Laugesen.
+Toges til Efterretning.
+"	1943	1	7
+"21"	1943-01-07	"open"	"19430107_203.pdf"	1	"506-1942"	"Arbejdsministeriets Godkendelse af Vejanlæg paa Langenæs som Beskæftigelsesarbejde.
+Toges til Efterretning.
+"	1943	1	7
+"22"	1943-01-07	"open"	"19430107_203.pdf"	2	"1180-1942"	"Landbrugsministeriets Godkendelse af Planerne til en Industribygning ved Slagtehuset.
+Toges til Efterretning.
+"	1943	1	7
+"23"	1943-01-07	"open"	"19430107_203.pdf"	2	"19_65-1942"	"Meddelelse fra Socialministeriet om den Aarhus Kommune i Henhold til Lov om offentlig Forsorg og Lov om Folkeforsikring tilkommende Statsrefusion for 1941-42.
+Toges til Efterretning.
+"	1943	1	7
+"24"	1943-01-07	"open"	"19430107_203.pdf"	2	"10_5-1942"	"Meddelelse fra Skattedepartementet om Beskikkelse af Forretningsfører K. Kaasgaard og Arkitekt Johs. Frederiksen til Vurderingsformænd i henholdsvis søndre og nordre Skyldkreds for de kommende 10 Aar.
+Toges til Efterretning.
+"	1943	1	7
+"25"	1943-01-07	"open"	"19430107_203.pdf"	2	"23_4-1942"	"Regnskab for Naturhistorisk Museum i 1941-42.
+Toges til Efterretning.
+"	1943	1	7
+"26"	1943-01-07	"open"	"19430107_203.pdf"	2	"1188-1942"	"Regnskab for Aarhus Byorkester i 1941-42.
+Toges til Efterretning.
+"	1943	1	7
+"27"	1943-01-07	"open"	"19430107_203.pdf"	2	"1080-1942"	"Indstilling fra Sygehusudvalget om Bevilling til Udvidelse af Kirurgisk Afdeling. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	1	7
+"28"	1943-01-07	"open"	"19430107_203.pdf"	2	"1204-1942"	"Indstilling fra Sygehusudvalget om Bevilling af 12000 Kr. til Anskaffelse af et nyt Køleanlæg til Marselisborg Hospital og 4000 Kr. til Anskaffelse af en Generator til Hospitalets Automobil.
+Budgetudvalget tiltræder Indstillingen saa-ledes, at Forslaget paany maa fremkomme paa næste Regnskabsaars Budget ledsaget af indhentede Tilbud paa Levering af saavel Køleanlæg som Generator.
+Budgetudvalgets Indstilling vedtoges.
+"	1943	1	7
+"29"	1943-01-07	"open"	"19430107_203.pdf"	3	"1176-1942"	"Indstilling fra Slagtehusudvalget om Tillægsbevilling til Dækning af Overskridelser paa Slagtehusets Budget for 1942-43.
+Tiltraadt af Budgetudvalget saaledes, at Beløbet, 4500 Kr. til Ekstraarbejde og 10000 Kr. til Brændsel og Belysning afholdes som Tillægsbevilling paa indeværende Aars Regnskab Konto D.
+Borgmesteren oplyste, at Beløbet kunde dækkes af Merindtægt og Besparelser.
+Overgik til 2. Behandling.
+"	1943	1	7
+"30"	1943-01-07	"open"	"19430107_203.pdf"	3	"435-1942"	"Forslag til Sikring af det vedtagne Projekt for Udvidelse af Frederiksgade - Studsgade m. m.
+Fra Stadsingeniøren forelaa følgende Forslag:
+\"I Anledning af Udvalgets Anmodning af 2. Juli skal jeg hermed fremkomme med Forslag til Sikring af det vedtagne Projekt. Det vil være naturligt, at Sikringen deles i to Afsnit, nemlig:
+1.Den særlige Sikring af Vejen over Sparekassens Grund mellem Store Torv og Rosensgade, hvor der foreligger Protest fra een af Ejerne (Spare- &amp;amp; Laanekassen), og af Ministeriet er nedlagt et midlertidigt Forbud.
+For denne Del skal jeg henvise til min særlige Indstilling af samme Dato.
+2.Den almindelige Sikring af Planens Gennemførelse.
+For den almindelige Sikring af Projektet skal jeg anføre følgende almindelige Betragtning:
+Der har fra flere Sider været insisteret paa, at Sikringen skulde nødvendiggøre en Fastlæggelse gennem Byplanloven med hertil hørende Tinglysning. Efter Erfaringerne fra
+"	1943	1	7
+"31"	1943-01-07	"open"	"19430107_203.pdf"	4	"435-1942"	"København og Drøftelse til forskellige Sider, navnlig med Sekretæren for Byplanlaboratoriet og Kontorchef Ove Larsen i Indenrigsministeriet, under hvem Byplanlovens Administration sorterer, maa jeg meget indtrængende fraraade denne Udvej som dels unødvendig og dels uhensigtsmæssig, idet den baade unødigt og utidigt vil fremkalde Vanskeligheder mellem Grundejerne og Kommunalbestyrelsen og vanskeliggøre den Tillempning til de efterhaanden opstaaende Problemer, som er mulige, naar Tillempningerne alene og til enhver Tid ligger i Kommunalbestyrelsens egen Haand.
+For at undgaa saadanne Vanskeligheder og heraf eventuelle flydende Indsigelser og eventuelle Erstatninger bør man undgaa Tinglysning ogsaa i Form af partielle Byplaner saa længe som muligt.
+Den vedtagne Plan bør betragtes som en af Kommunalbestyrelsen vedtagen Orienteringsplan paa længere Sigt, og til Sikring af Planen vil det efter min Opfattelse, som stærkt er bekræftet i Samtale med Kontorchef Ove Larsen, være tilstrækkeligt at meddele de Grundejere, hvis Ejendomme falder ind under Planens Omraade, at Byraadet har vedtaget en saadan Plan med den Konsekvens, at fremtidige Ændringer i de bebyggelsesmæssige Forhold skal afstemmes efter Planen.
+Saavel efter min som Kontorchefens Opfattelse maa rimelige Hensyn til Grundejerne anses for fyldestgjort ved denne Fremgangsmaade.
+Der vedlægges Koncept til en saadan Meddelelse til Grundejerne, hvortil bemærkes, at der for enkelte Grundejere muligt vil blive
+"	1943	1	7
+"32"	1943-01-07	"open"	"19430107_203.pdf"	5	"435-1942"	"Anledning til at give Meddelelsen en særlig Modifikation. Meddelelsen tænkes ledsaget af et Udsnit af den vedtagne Plan, omfattende de i Meddelelsen omhandlede Ejendomme og tilstødende Grunde.
+Efter denne Meddelelse henvises Grundejerne til ved enkelte Byggeforetagender eller, naar Interesse iøvrigt haves, at søge nærmere Oplysninger om Planen paa Stadsingeniørens Kontor.
+Genpart af Planen bør samtidig officielt tilstilles Bygningskommissionen, saaledes at tilsvarende Oplysninger om Planens Indskrænkninger i Byggefriheden kan faas paa dette Kontor.
+Der vedlægges ligeledes Koncept til Skrivelse til Bygningskommissionen.
+Denne Fremgangsmaade giver ikke Mulighed for formelle Indsigelser og heraf følgende Erstatningskrav, før Planen kommer til at danne en Hindring for efterhaanden indtrædende aktuelle Byggeforetagender. Naar saadanne kommer til at foreligge, maa man, ligesom Tilfældet har været ved Jydsk Telefon A/S og med Spare- &amp;amp; Laanekassen, forhandle med Grundejerne, og saafremt Enighed ikke herved kan opnaas, enten søge nedlagt et midlertidigt Forbud ligesom for Spare- &amp;amp; Laane-kassens Grund eller eventuelt straks lade tinglyse en partiel Byplan paa den paagældende Grund og saa mange af de tilstødende Grunde, som Sagen efter Kommunalbestyrelsens Skøn i hvert enkelt Tilfælde maa give Anledning til.
+Endelig staar naturligvis tilbage, at Kommunen foretager Ekspropriation, hvor Kommunalbestyrelsen
+"	1943	1	7
+"33"	1943-01-07	"open"	"19430107_203.pdf"	6	"435-1942"	"i de enkelte Tilfælde maatte anse denne Mulighed for hensigtsmæssig.\"
+Udvalget for Byens Udvidelse og Bebyggelse fremsender Sagen til Byraadet.
+Borgmesteren forelagde Sagen, som var en naturlig Følge af den Beslutning, Byraadet tidligere havde taget, og som var nødvendig, enten man havde vedtaget det ene eller det andet af disse Gadeprojekter. Taleren gennemgik Forslagets vigtigste Bestemmelser og anbefalede at tiltræde det.
+J. R. Fanger erklærede, at den konservative Gruppe ønskede visse Oplysninger først, og anmodede om at faa Sagen udsat.
+Borgmesteren fandt det kedeligt at udsætte Sagen, da det tog Tid at faa den i Orden; men det var der jo ikke noget at gøre ved.
+Sagen udsattes.
+"	1943	1	7
+"34"	1943-01-07	"open"	"19430107_203.pdf"	6	"1225-1942"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse angaaende Udkast til en Ide- og Skitsekonkurrence om en Bebyggelsesplan for Arealet mellem Langelandsgade, Poul Martin Møllers Vej og den projekterede Vej Nord for den udvidede Botanisk Have.
+Fra Stadsingeniøren forelaa følgende Forslag:
+\"Program for en offentlig Idé- og Skitsekonkurrence om en Bebyggelsesplan for et Areal ved Botanisk Have, tilhørende Aarhus Kommune.
+Aarhus Byraad indbyder herved alle indenfor Aarhus Kommune og Oplandskommunerne Vejlby-Risskov, Hasle-Skejby-Lisbjerg, Aaby,
+"	1943	1	7
+"35"	1943-01-07	"open"	"19430107_203.pdf"	7	"1225-1942"	"Viby og Holme boende Arkitekter og Ingeniører til en lokal Idé- og Skitsekonkurrence om en Bebyggelsesplan for et Areal Nord for Botanisk Have i Aarhus Kommune.
+A.Oplysninger og Vejledning.
+1.Konkurrencens Formaal.
+Konkurrencens Formaal er at søge fremskaffet Forslag til hensigtsmæssig Terrænudformning, Vejanlæg, Bebyggelse og Beplantning for det paagældende Areal i en saadan Form, at den kan danne Retningslinie for en af Kommunen paatænkt Bebyggelse, uanset om denne sker samlet eller over en Aarrække.
+2.Arealet.
+Arealet er beliggende Nord for Botanisk Have mellem Vestre Ringgade og Langelandsgade og begrænses mod Nord af de projekterede Forlængelser af Kaserneboulevarden og Paludan Müllers Vej og mod Syd af en projekteret Vej langs Grænsen af den udvidede Botanisk Have. De paa Oversigtsplanen viste projekterede Veje er fastlagt og skal respekteres af de konkurrerende saavel med Hensyn til Tracé, Bredde og Længdeprofil.
+Arealets samlede Størrelse indenfor de begrænsede Veje er ca. 11,8 ha.
+Omraadet er for Tiden udnyttet til Kolonihaver.
+Paa Kortet, der medfølger Programmet, er indtegnet Højdekurver, der viser Arealets nuværende Terrænforhold. De indtegnede Koter paa den anlagte Langelandsgade samt de to fastlagte Gader Nord og Syd for Arealet skal respekteres.
+"	1943	1	7
+"36"	1943-01-07	"open"	"19430107_203.pdf"	8	"1225-1942"	"Arealets Form forventes at nødvendiggøre nogen Regulering. De konkurrerende stilles dog - saa vidt som de omliggende Hovedvejes Fastlæggelse betinger - frit overfor at foreslaa Reguleringens Omfang. Udover de økonomiske Hensyn vil der blive lagt Vægt paa, at den foreslaaede Regulering ikke stiller urimelige Krav til Tilførsel eller Bortskaffelse af Fyld i større Omfang end nødvendigt. Koterne til eksisterende eller projekterede Kloaker i omliggende Hovedveje er ikke paaført paa Planen, men det kan forventes, at Kloakerne ligger ca. 2,5 m under Vejen.
+Selv om der ikke direkte skal afledes aktuelt Byggeri ud fra Konkurrencen, vil der dog blive lagt Vægt paa, at de konkurrerende respekterer Bygnings- og Sundhedsvedtægten for Aarhus Købstad, og - for saa vidt man maatte afvige fra førstnævnte - i hvert Fald holder sig indenfor Rammerne af den for Tiden gældende Bygningslov for København.
+3.Bebyggelsen.
+Arealet tænkes udnyttet til Boligbebyggelse i 3-4-5 Beboelseslag for saavel mindre som større Lejligheder. Der maa regnes med Placering af Levnedsmiddelbutikker i fornødent Omfang; herudover vil der næppe være Behov for Indretning af Butikker. Der maa i et vist Omfang indrettes Garageplads. Der ønskes indrettet Legepladser for Børn, evt. i Tilknytning til Børnehave.
+Med Hensyn til Udformning og Tæthed af Bebyggelsen stilles de konkurrerende frit. Det bemærkes dog, at der vil blive lagt Vægt paa en rimelig økonomisk Udnyttelse af Arealet.
+"	1943	1	7
+"37"	1943-01-07	"open"	"19430107_203.pdf"	9	"1225-1942"	"Om Kommunens Planer for Bebyggelse af det nævnte Areal skal yderligere oplyses, at Kommunen vil udskyde Bebyggelsen, indtil Byggeforholdene er saa normale, at der kan forventes et gedigent Byggeri paa Arealet. Byraadet ønsker endvidere en Bebyggelse, der i Udformning og Tæthed kan motivere en betydelig Salgspris paa formentlig 30 - 60 Kr. pr. m2, alt efter Beliggenhed og Byggehøjde.
+B.	Almindelige Konkurrencebetingelser.
+1.	Konkurrencens Grundlag.
+Konkurrencens Grundlag er nærværende
+Program med tilhørende Bilag:
+Kort i Maal 1 :1000 over Arealet med tilstødende Veje og Oversigtskort i Maal 1 : 4000 for den omliggende Bydel samt Akademisk Arkitektforenings Konkurrenceregler.
+2.	Forslagenes Omfang og Fremstillingsform.
+Der ønskes følgende Tegninger:
+a.	Situationsplan over Bebyggelsen i Maal 1:1000 med tilhørende Tvær- og Længdeprofiler af Bebyggelse og Terræn i samme Maal.
+b.	Skraaprojektion. Der ønskes en Fremstilling af den foreslaaede Bebyggelse i Skraaprojektion.
+Da Formaalet med Konkurrencen er at faa fremskaffet en Bebyggelsesplan, ønskes der ikke specielt fremstillede Plantyper af Husene.
+Alle Tegningerne skal være i Format som de udleverede Kort. Højde 60 cm, Bredde 34 cm.
+"	1943	1	7
+"38"	1943-01-07	"open"	"19430107_203.pdf"	10	"1225-1942"	"c.Kortfattet Beskrivelse af Forslagets Hoveddisposition samt Opgivelse af bebygget Areal og m2 Etageareal ønskes saa vidt muligt paaført Tegningerne og skal, saafremt den medfølger som selvstændigt Bilag, være maskinskrevet i 2 Eksemplarer i Dansk Standardformat, 21 X 29,7 cm.
+3.Forslagenes Mærkning og Emballering.
+Forslagene skal være anonyme.
+Alle Tegninger og Omslaget paa den eventuelle skriftlige Del af Forslaget forsynes i højre Hjørne forneden med et Kendingstal paa 4 Cifre, holdt indenfor et Kvadrat med Siden 5 cm.
+Regelmæssige Tal og Talrækker som f. Eks. 1234 og 5555 bør undgaas af Hensyn til Muligheden for Forveksling.
+Det samme Kendingstal skal findes paa en ugennemsigtig Konvolut, hvori der paa et Ark i Standardformat er anført Forfatterens Navn og Adresse med Gentagelse af Kendingstallet.
+Efter Bedømmelsen aabnes Navnekonvolutten, saafremt der ikke paa dennes Forside er taget Forbehold om, at den kun maa aabnes ved Præmiering eller Indkøb.
+Forslagene skal indleveres uopklæbede og plane. Der modtages ingen Tegninger under Glas, i Ramme eller sammenrullede.
+Emballagen skal udvendig tydeligt mærkes med Forslagets Kendingstal og det Antal Tegninger m. m., den indeholder.
+4.Forslagenes Aflevering og Afhentning.
+Forslagene skal senest den 1. April 1943 Kl. 17 indleveres til Raadhusforvalteren paa
+"	1943	1	7
+"39"	1943-01-07	"open"	"19430107_203.pdf"	11	"1225-1942"	"dennes Ekspedition paa Raadhuset, 2 Etage. Naar Forslagene indleveres, udstedes en Kvittering, lydende paa Kendingstallet.
+Ikke præmierede og ikke indkøbte Forslag vil mod Tilbageleveringen af omtalte Kvittering efter afholdt Udstilling kunne afhentes af Deltagerne efter nærmere Bekendtgørelse i de lokale Aviser. For ikke afhentede Forslag paatager Byraadet sig intet Ansvar.
+Hvert indkommet Forslag brandforsikres fra Indleveringsdatoen til Udleveringsfristens Udløb for 1500 Kr.
+5.Bedømmelse og Præmiering. Saafremt der indkommer mindst 3 programmæssige Forslag, uddeles følgende Præmier.
+1.Præmie..................... 3000Kr.
+2.- ....................... 2000\"
+3.-.................... 1000\"
+Herudover vil eventuelt kunne indkøbes
+indtil 3 Forslag à 500 Kr.
+Bedømmelsen foretages af en Komité, hvis enkelte Medlemmer har underskrevet Programmet.
+6.Følgende Krav vil være ufravigelige for Præmieringen og Indkøb. Forslagene skal være indleverede rettidigt. Deltagerne maa ikke forinden Bedømmelsens Afslutning gøre Brud paa deres Anonymitet.
+7.Forslagenes Udstilling.
+Efter Bedømmelsen bliver Forslagene offentligt udstillet efter nærmere Bekendtgørelse i de lokale Aviser.
+8.Konkurrenceudskrivernes Rettigheder.
+"	1943	1	7
+"40"	1943-01-07	"open"	"19430107_203.pdf"	12	"1225-1942"	"De præmierede eller indkøbte Forslag er Byraadets Ejendom, og Byraadet har Ret til uden videre Vederlag at udnytte samt eventuelt offentliggøre disse.
+Det bemærkes særligt, at Præmietagerne ikke ved den eventuelle Bebyggelse kan forvente nogen Præferencestilling med Hensyn til Projektering af denne, idet Byraadet paa dette Punkt ønsker at være frit stillet.
+9.Forespørgsler.
+Eventuelle Forespørgsler vedrørende Konkurrencen maa kun og indtil 15. Februar 1943 rettes til Arkitekt. M.A.A., C. F. Møller, Stadion Allé, Telefon 3026.
+10.Dommerkomitéen bestaar af underskrevne:
+For Aarhus Byraad:
+E. Stecher Christensen, Borgmester.
+K. Mousten, Overlærer, Viceborgmester.
+V. Kloster, Købmand.
+Hans Madsen, Kontorbestyrer.
+Møller Rasmussen, Købmand.
+A. J. Rambøll, Stadsingeniør.
+Fred. M. R. Draiby, Stadsarchitekt, M. A A
+For Akademisk Arkitektforening: Peter Bredsdorff, Arkitekt, M. A. A.
+C.F. Møller, Arkitekt, M. A. A.
+For Dansk Ingeniørforening:
+P. Harding, Civilingeniør.
+Afdelingsingeniør C. V.Smith-Hansen, Stadsingeniørens Vej- og Byplanafdeling, er Dommerkomitéens Sekretær.\"
+Tiltraadt af Udvalget for Byens Udvidelse og Bebyggelse.
+"	1943	1	7
+"41"	1943-01-07	"open"	"19430107_203.pdf"	13	"1225-1942"	"Johanne Berg henviste til, at Planen ogsaa omfattede Parkanlæg og Legepladser, hvorfor det var naturligt, at Stadsgartneren korn med i Bedømmelseskomiteen, hvilket Taleren vilde foreslaa.
+J. R. Fanger sluttede sig hertil. Taleren spurgte, om Ingeniør Harding var udpeget af Ingeniørforeningen, eller om denne skulde udnævne et Medlem.
+Borgmesteren svarede, at han var foreslaaet af Embedsmændene.
+J. R. Fanger syntes, da det skulde være en lokal Konkurrence, at man burde lade den lokale Forening udpege et Medlem.
+H. P. Jensen gjorde opmærksom paa, at der paa det nævnte Areal var mange Kolonihaver, og selv om der ikke blev Tale om Bebyggelse foreløbig, vilde Haverne til sin Tid blive opsagt. Man burde derfor i Tide sørge for at faa udlagt Areal til nye Haver.
+Borgmesteren svarede, at man havde jo Markudvalget til at fremkomme med Forslag herom.
+Indstillingen vedtoges saaledes, at Stadsgartneren tiltræder Bedømmelseskomiteen.
+"	1943	1	7
+"42"	1943-01-07	"open"	"19430107_203.pdf"	13	"1198-1942"	"Indstilling fra Belysningsudvalget om Ændring af Bestemmelserne for den kommunale Elektroinstallatørprøve.
+Indstillingen vedtoges.
+"	1943	1	7
+"43"	1943-01-07	"open"	"19430107_203.pdf"	13	"846-1942"	"Andragende fra Arbejdsteknisk Skole om Udbetaling af Tilskud.
+Det paa Budgettet opførte Beløb paa 3400 Kr. bevilgedes.
+"	1943	1	7
+"44"	1943-01-07	"open"	"19430107_203.pdf"	13	"3_42-1942"	"Efterbevilling af Overskridelser i Indkvarteringsudvalgets Regnskab. - 2. Behandling.
+Efterbevilling meddeltes.
+"	1943	1	7
+"45"	1943-01-07	"open"	"19430107_203.pdf"	14	"3_43-1942 og 3_45-1942 og 3_44-1942 og 3_46-1942"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_43-1942). Kasseudvalget.
+b.(J. Nr. 3_45-1942). Skovene.
+c.(J. Nr. 3_44-1942). Observatoriet.
+d.(J. Nr. 3_46-1942). Mindeparken.
+Overgik til 2. Behandling.
+"	1943	1	7
+"46"	1943-01-21	"closed"	"19430121B_257.pdf"	1	"no related record"	"Mødet den 21. Januar 1943.
+(For lukkede Døre).
+Fraværende: H. J. Baden, Kai Blicher og Thomas Christensen.
+"	1943	1	21
+"47"	1943-01-21	"closed"	"19430121B_257.pdf"	1	"116-1942"	"Indenrigsministeriets Godkendelse af Kommunens Garanti for Laan til Boligindskud for Smed E. H. Lausen, Ringgaarden.
+Toges til Efterretning.
+"	1943	1	21
+"48"	1943-01-21	"closed"	"19430121B_257.pdf"	1	"116-1942"	"Indenrigsministeriets Godkendelse af Kommunens Garanti for Laan til Boligindskud for Overpostbud Georg Sørensen og Kedelsmed V. A. Christensen, Arbejdernes Andelsboligforening.
+Toges til Efterretning.
+"	1943	1	21
+"49"	1943-01-21	"closed"	"19430121B_257.pdf"	1	"1251-1942"	"Meddelelse fra Vaabenbrødreforeningen om Udbetaling af 2 Portioner af Slagtermester P. M. Jensen og Hustrus Legat.
+Toges til Efterretning.
+"	1943	1	21
+"50"	1943-01-21	"closed"	"19430121B_257.pdf"	1	"1233-1942"	"Andragende fra Hovedbogholder Agger om Afsked med Pension fra 1. Oktober 1943.
+Bevilgedes.
+"	1943	1	21
+"51"	1943-01-21	"closed"	"19430121B_257.pdf"	1	"1276-1942"	"Andragende fra Overlærer Vilh. Hansen, Nørrebrogades Skole, om Tilladelse
+"	1943	1	21
+"52"	1943-01-21	"closed"	"19430121B_257.pdf"	2	"1276-1942"	"til at fraflytte Overlærerboligen og Fritagelse for at betale Husleje fra Fraflytningsdatoen.
+Fra Skoleudvalget forelaa følgende Erklæring:
+\"Under Hensyn til at Overlærerboliger her i Byen ikke er Tjenesteboliger, kan man formentlig ikke paalægge Overlæreren at bebo Boligen. Der findes ikke nogen Lejekontrakt med Overlæreren, men desuagtet skal man herved indstille, at Hr. Vilh. Hansen maa betale Husleje for 3 Maaneder fra 1. Februar 1943 at regne, medmindre Boligen forinden tages i Brug af andet Lejemaal.\"
+K. Mousten bemærkede, at det ikke var noget Andragende, men en Meddelelse om, at han fraflytter Boligen. Der var maaske intet at gøre derved, udover at man kan kræve, at han skal betale Huslejen, og saa var Spørgsmaalet, for hvor lang Tid. Under Hensyn til at han for egen Regning havde foretaget nogle Forbedringer af Boligen, foreslaar man, at han slipper med 3 Maaneders Husleje.
+Indstillingen vedtoges.
+"	1943	1	21
+"53"	1943-01-21	"closed"	"19430121B_257.pdf"	2	"1136-1942"	"Andragende fra forskellige Gymnastikforeninger om Tilskud til Mørklægning af Skoler.
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Udvalget kan tiltræde Skoleudvalgets Indstilling om Ydelse af et Tilskud paa 150 Kr. til Mørkelægning af Gymnastiksalen i Christiansgades Skole, samt at Skoleudvalget henvender sig til den tyske Værnemagt med Anmodning om Betaling af Mørkelægningen af Fjordsgades Skoles Gymnastiksale med 800,54 Kr.\"
+"	1943	1	21
+"54"	1943-01-21	"closed"	"19430121B_257.pdf"	3	"1136-1942"	"K. Mousten henstillede, at Aarhus Gymnastikforening retter denne Henvendelse til Værnemagten, saa vilde det muligvis gaa lettere, end hvis det kom fra Kommunen.
+Indstillingen vedtoges med den foreslaaede Ændring.
+"	1943	1	21
+"55"	1943-01-21	"closed"	"19430121B_257.pdf"	3	"636-1942"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Fastsættelse af Prisen for en Grund ved Silkeborgvej.
+Følgende Indstilling forelaa:
+\"Udvalget kan tiltræde den af Stadsingeniøren under 18. December foretagne Indstilling, hvorefter Salg af Hjørnegrunden Silkeborgvej-Vestre Ringgade-Regenburgsgade til Fagorganisationernes Andelsbyggeselskab kan finde Sted for en Pris af Kr. 15,00 pr. m2, hvorhos Omkostningerne ved Grundens Fundering er Kommunen uvedkommende.\"
+Indstillingen vedtoges.
+"	1943	1	21
+"56"	1943-01-21	"closed"	"19430121B_257.pdf"	3	"1282-1942"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse angaaende Forslag til Overenskomst med A/S Frichs om Erhvervelse af Arealer mellem Vejen og Aaen.
+Følgende Forslag forelaa:
+Forudsætninger:
+1.I Henhold til Tillæg af 2/12 1913 til Kontrakt af 28/12 1907 mellem Firmaet Søren Frichs’ Eftf. og A/S Grundarealer ved Aarhus Aa afgiver A/S Frichs, naar Aarhus Kommune senere med 3 Maaneders Varsel anmoder om det, det nødvendige Areal, ca. 1062 m2, til Udvidelsen af Søren Frichs Vej til 22 m Bredde (35 Alen). Udvidelsen sker mod Syd.
+"	1943	1	21
+"57"	1943-01-21	"closed"	"19430121B_257.pdf"	4	"1282-1942"	"2.	Matr. Nr. 17 eb, som ikke ejes af Aarhus Kommune, overtages af A/S Frichs paa de med Ejerne herom aftalte Vilkaar, jfr. hoslagte Bilag.
+Aarhus Kommune, der for sine Arealer har Adgangsret over Matr. Nr. 17 eb, frafalder samtidig sin Ret hertil mod at opnaa Adgangsret ad den langs Aaen projekterede Sti over Matr.' Nr. 17 eb og 17 g.
+3.	Af Matr. Nr. 10 b køber A/S Frichs af Aarhus Kommune et Areal i en Bredde af 70 m fra den til den 22 m Bredde udvidede Søren Frichs Vej, ialt udgørende 6800 m2, som vist paa vedlagte Plan 1 F 10882. Det købte Areal overtages i den Stand, det forefindes, uden noget som helst Ansvar for Kommunen med Hensyn til Bundforholdene.
+4.	Det købte Areal 6800 m2, skriver seks Tusinde otte Hundrede Kvadratmeter, betaler A/S Frichs med en Pris af 32000 Kr., skriver tretito Tusinde Kroner.
+5.	Mellem den af A/S Frichs erhvervede Parcel og Aaby Kommunes Rensningsanlæg udlægges en 5 m bred Adgangsvej til de bagved liggende Arealer ned til Aaen som vist.
+Saafremt A/S Frichs senere ønsker Adgangsret for sit Areal til denne Vej, betaler Firmaet herfor 1600 Kr., ligesom Firmaet i dette Tilfælde paatager sig den videre Udbygning og Vedligeholdelse af Adgangsvejen langs sin Grund. Aarhus Kommune skal dog have Færdselsret ad Sidevejen, saalænge den ejer Grundene mellem A/S Frichs Arealer og Aaen.
+6.	Den fornødne Udstykning af Kommunens afgivne Areal betales af A/S Frichs, medens
+"	1943	1	21
+"58"	1943-01-21	"closed"	"19430121B_257.pdf"	5	"1282-1942"	"Papirernes Affattelse foranstaltes af Kommunen. Stempling og Tinglysning betales af A/S Frichs.
+7.Arealerne paalægges normale Industriservitutter, saaledes at Beboelse ikke er tilladt, bortset fra eventuelt to Boliger til Portner, Opsynsmand, Maskinmester eller lignende. Kommunen forbeholder sig som normalt at godkende Facaderne, og Frichs er indforstaaet med efterhaanden at indhegne Grundstykket ud imod Søren Frichs Vej med Mur eller paa anden tiltalende og Aarhus Kommune tilfredsstillende Maade.
+Den mellem den nuværende og fremtidige Vejgrænse liggende Del af det fremtidige Vejareal, vist med brun Skravering, forbliver Kommunens Ejendom, men maa uden særligt Vederlag benyttes af A/S Frichs, indtil Vejudvidelsen foretages. Arealet skal til enhver Tid holdes pænt og ordenligt. Afgivelse svarende til Vilkaarene under Punkt 1 uden nogen Erstatning.
+8.Arealet imellem de af A/S Frichs købte Arealer og Aaen overlades A/S Frichs i 20 Aar mod et aarligt Vederlag paa 160 Kr. (eet Hundrede seksti), idet en Strimmel langs Aaen paa 12 m Bredde, der skal henligge som Parkstribe med Græs og eventuelt spredt Bevoksning og vedligeholdes i denne Stand af A/S Frichs, overlades dette Firma, saa længe ovennævnte Lejemaal opretholdes uændret og iøvrigt paa følgende Vilkaar:
+a)Det lejede Areal opfyldes og planeres efterhaanden og snarest belejligt over vandfri Højde (Kote 1,85) og det 12 m Bælte til Aaen svagtfaldende til Aakanten (Kote ca.
+0,90) Opfyldningen maa foretages, saa Opskydninger
+"	1943	1	21
+"59"	1943-01-21	"closed"	"19430121B_257.pdf"	6	"1282-1942"	"i Aaen ikke fremkommer. Det efterhaanden opfyldte Areal tilsaas eller tilplantes efter nærmere Aftale og Approbation af Stadsingeniøren.
+b)Af det lejede Areal skal mindst 1/4 mod den mod Aaen vendende Parkstribe udlægges som samlet grønt Areal med Græs og spredt Bevoksning, medens Resten kan bruges til Haver.
+c)Den reserverede Stribe langs Aaen paa indtil 12 m Bredde i den Udstrækning, Aaens Beliggenhed tillader det, inklusive Kommunens Ret til Fremføring af en Gangsti, fortsættes som antydet paa den vedlagte Plan langs Aabredden over Frichs Areal Matr. Nr. 17 g og 17 eg med Tislutning til Søren Frichs Vej langs den nuværende Aabred. Ved Udnyttelsen og Bebyggelsen af Aktieselskabets Areal her maa der tages Hensyn til, at Stien faar mindst 8 m Afstand fra Aaen, saaledes at Gennemførelsen af denne kan ske uden særlige Foranstaltninger til Indfatning af Aaen.
+d)Arealerne kan anvendes af A/S Frichs til Ophold for dets Personale, eventuelt til Opførelse af Opholdspavillon, Klubhus eller lignende, og A/S anlægger og vedligeholder Arealerne.
+Saafremt Kommunen efter Udløbet af Lejemaalet ikke selv vil udnytte de lejede Arealer, optages nye Forhandlinger mellem Kommunen og A/S om Køb eller et fortsat Lejemaal idet Firmaet dog har Forkøbs- respektive Forlejeret, og saafremt Kommunen selv vil udnytte Arealet, indgaar den overfor A/S Frichs paa samme Forpligtelser med
+"	1943	1	21
+"60"	1943-01-21	"closed"	"19430121B_257.pdf"	7	"1282-1942"	"Hensyn til Arealets Anlæg, Bevoksning etc., som nærværende Overenskomst paalægger A/S Frichs i den her nævnte Lejeperiode.
+e)Af Hensyn til det langvarige Lejemaal udstykkes de i Begyndelsen af Punkt 8 nævnte Arealer særskilt. Udstykningen betales af A/S.
+f)Herom udfærdiges særlig Lejekontrakt efter Kommunens Koncept.
+9.Naar Søren Frichs Vej til sin Tid anlægges, deltager A/S Frichs i Anlægs-Udgifterne svarende til en 19 m privat Vej i Forhold til Selskabets samlede bidragspligtige Facadelængde mod Vejen efter Kommunens Opgørelse. Kommunen er dog indforstaaet med, at Selskabets Bidragspligt begrænses svarende til en 13 m bred Vej, indtil Udvidelsen til de 22 m er gennemført ind til Ringgaden.
+Da de østligste 60 m af A/S Frichs Areal sønden for Søren Frichs Vej ikke afgiver nyttige Arealer ud mod Aaen, men medgaar til Skraaningsanlæg, er denne Strækning ikke bidragspligtig til Vejanlægget.
+10.Eksisterende og eventuelle fremtidige Kloakledninger fra Aaby Rensningsanlæg maa respekteres.
+11.Køberen maa respektere det med Firmaet Christiani &amp;amp; Nielsen indgaaede Lejemaal for Arealet nærmest Rensningsanlægget.
+12.Det købte Areal overtages 1. Oktober 1942. De nævnte 32000 Kr. indbetales kontant og skadesløst til Aarhus Kommunes Hovedkasse senest 15. Januar 1943.
+13.Lejemaalet regnes fra 1. Oktober 1942, og inden nævnte Dato hvert Aar vil Lejen ligeledes
+"	1943	1	21
+"61"	1943-01-21	"closed"	"19430121B_257.pdf"	8	"1282-1942"	"være at indbetale til Aarhus Kommunes Hovedkasse.
+14.Bestemmelserne i Paragrafferne 1, 5, ad 7, 8 c og d, 9 og 10 vil være at tinglyse som servitutstiftende paa de solgte Arealer forud for al Pantegæld og med Aarhus Kommune som paataleberettiget samt paa Matr. Nr. 17 g og 17 eg.
+15.Aftalens Forudsætninger er betingede af Byraadets Vedtagelse og Indenrigsministeriets Godkendelse samt fornøden Udstykningstilladelse.\"
+Indstillingen vedtoges.
+"	1943	1	21
+"62"	1943-01-21	"closed"	"19430121B_257.pdf"	8	"1186-1942"	"Indstilling fra Udvalget for
+Byens Udvidelse og Bebyggelse angaaende Udkast til Byplanvedtægt for Matr. Nr. 733, 734, 735, 736 og 737 af Bygr. beliggende mellem Store Torv, Borgporten, Volden og Rosensgade. - 2. Behandling. (Side 249).
+I.C. Sørensen erklærede, at den konservative Gruppe stadig maatte fastholde, at Plan 10 burde gennemføres, hvorfor man ikke kunde stemme for Forslaget. Det var desuden et Spørgsmaal, om man efter Byplanloven kunde vedtage saadanne partielle Byplaner, naar man ikke tog større Arealer end dette.
+Borgmesteren bemærkede, at Ministeriet maatte afgøre, om det er lovligt eller ikke.
+J. R. Fanger gjorde opmærksom paa, at Gruppen vilde indsende Forslag 10 b som Ændringsforslag i Henhold til Byplanloven, og saa burde burde Ministeriet have hele Plan 11 a til Sammenligning.
+Borgmesteren svarede, at Ministeriet har hele Planerne til Gennemsyn og kunde se
+"	1943	1	21
+"63"	1943-01-21	"closed"	"19430121B_257.pdf"	9	"1186-1942"	"Forslaget i Forbindelse med den foreslaaede partielle Byplan.
+Indstillingen vedtoges med 11 Stemmer mod 7.
+"	1943	1	21
+"64"	1943-01-21	"closed"	"19430121B_257.pdf"	9	"634-1942"	"Meddelelse fra Ungdomsskolenævnet om Valg af Formand og Sekretær for Udvalget samt af en Tilsynsførende ved Ungdoms- og Aftenskolerne i Aarhus Kommune.
+Følgende Skrivelse forelaa:
+\"Idet man herved meddeler, at Ungdomsskolenævnet har valgt Overlærer Mousten til Formand og Skoledirektør Sejerholt til Sekretær skal man indstille, at Overlærer N. C. Larsen konstitueres i Stillingen som Tilsynsførende for 1 Aar fra 1. Februar 1943 at regne.\"
+Tiltraadtes.
+"	1943	1	21
+"65"	1943-01-21	"closed"	"19430121B_257.pdf"	9	"97-1942"	"Indstilling fra Sygehusudvalget om Besættelse af Stillingen som Prosektor ved Kommunens Hospitaler.
+Følgende Indstilling forelaa:
+\"Paa Basis af Lægeraadets Udtalelse af 14. December 1942 indstiller Udvalgets Flertal herefter til det ærede Byraad med Justitsministeriets Godkendelse at udnævne Dr. med. E. Munck til Prosektor ved Aarhus kommunale Hospitaler, medens Mindretallet (Købmand V. Kloster) indstiller Dr. med. V. Eskelund.\"
+K. Mousten udtalte, at det havde været en meget langsommelig Sag, idet den havde staaet paa i over 1 Aar, og for saa vidt var den endt kedeligt, som der ikke var Enighed om Indstillingen. Naar Flertallet ikke kunde stemme for Eskelund, skyldtes det bl. a., at han et Par Gange
+"	1943	1	21
+"66"	1943-01-21	"closed"	"19430121B_257.pdf"	10	"97-1942"	"havde søgt Overlægestillinger i København, men var blevet forbigaaet til Fordel for yngre Ansøgere, baade ved Sundby Hospital og Rigshospitalet, hvor han tilmed havde været konstitueret i Stillingen 1 Aar. Naar saa samtlige Byens Overlæger anbefalede Dr. Munck, var det vel begrundet at vælge ham.
+I. C. Sørensen havde helst set, at man var enedes om at vælge den nuværende Assistent Læge Lund, som havde en udmærket praktisk Uddannelse og var en administrativt dygtig Mand. Men han var ikke Dr. med., og det videnskabelige Udvalg foreslog da en Konkurrence. Naar det videnskabelige skulde spille saa stor en Rolle, fandt Taleren det rigtigst at tage en Konkurrence, og lade Dommerkomitéen afgøre Spørgsmaalet, og Taleren vilde paa Gruppens Vegne foreslaa dette.
+K. Mousten oplyste, at Universitetsudvalget havde foreslaaet en Konkurrence, men da der kun var 2 Deltagere, som begge var kvalificerede, fandt Sygehusudvalget, at man burde spare den Tid og Bekostning, som det vilde medføre, og det gik Universitetsudvalget med til. Derfor kunde man vanskeligt nu rejse Spørgsmaal om en Konkurrence, og Taleren kunde ikke gaa med dertil.
+Borgmesteren bemærkede, at det ikke altid var den bedste Mand, som klarede sig bedst ved en Konkurrence. Det var svært at tage Standpunkt til en saadan Sag, men efter Moustens Udtalelser kunde man næppe tage en Konkurrence.
+I.C. Sørensen ønskede Afstemning om Forslaget.
+Forslaget om Afholdelse af en Konkurrence forkastedes med 11 Stemmer mod 6.
+"	1943	1	21
+"67"	1943-01-21	"closed"	"19430121B_257.pdf"	11	"97-1942"	"Vald. Kloster oplyste, at paa et vist Tidspunkt var Udvalget enigt om, at Eskelund var den bedst kvalificerede, men saa kom der nogle Rygter frem om Eskelund med Beskyldninger for Sløseri o. lign., hvorefter Mousten holdt paa Dr. Munck. Man havde før været udsat for Intriger fra københavnske Lægekredse, og det var en Skam, at en Mand skulde falde paa løse Rygter og anonyme Skrivelser. Taleren havde da skrevet til Dr. Eskelunds Chef paa Rigshospitalet, og han havde givet Dr. Eskelund en meget varm Anbefaling. Det var en lurvet Taktik at ville beklikke en Mand paa hans Ære for at hindre ham i at faa en Stilling, og Taleren vilde anbefale at vælge Eskelund.
+K. Mousten havde ikke i sin Begrundelse sagt noget om disse Rygter; men det havde dog vist sig, at Eskelunds Chef ogsaa var bekendt dermed, og han havde begaaet den Fejl, at han straks gik til Eskelund med Brevet. Man burde i saadanne Tilfælde kræve underhaands Oplysninger, ellers fik man ikke altid Sandheden frem.
+Johanne Berg bemærkede, at det var fortrolige Meddelelser, som var givet Læger paa Kommunens Hospitaler fra københavnske Kolleger, og det kunde ikke kaldes helt løse Rygter.
+E. Winterberg fandt, at naar Universitetet havde betegnet de to Ansøgere som lige gode, vilde det være rigtigst at tage den, som der ikke kunde siges noget paa. Paa den anden Side var det vist rigtigt, at der indenfor den københavnske Lægeverden førtes heftige Kampe om Stillingerne, og det vilde de gerne udvide til Provinsen. Men som Forholdet laa, vilde Taleren anbefale at vælge Dr. Munck.
+Vald. Kloster fandt det naturligt, at Eskelund
+"	1943	1	21
+"68"	1943-01-21	"closed"	"19430121B_257.pdf"	12	"97-1942"	"var blevet holdt ude ved Embedsbesættelser, naar han var Genstand for Forfølgelse. Det samme var i sin Tid Tilfældet med Dr. Genner, som dog senere fik en flot Oprejsning. Men en dygtig Mand burde ikke falde paa Sladder og Rygter.
+Borgmesteren erkendte, at det var kedeligt at forbigaa Eskelund, hvis det, der var sagt om ham, var forkert; men der var en vis Risiko ved at tage ham, og Taleren vilde stemme for Munck.
+E. Munck indstilledes med 11 Stemmer mod 5.
+"	1943	1	21
+"69"	1943-01-21	"closed"	"19430121B_257.pdf"	12	"1186-1942"	"Andragende fra Aarhus Ligningskommission om Bevilling af yderligere 500 Kr. for indeværende Regnskabsaar. - 2. Behandling.
+Indstillingen vedtoges.
+"	1943	1	21
+"70"	1943-01-21	"closed"	"19430121B_257.pdf"	12	"1027-1942"	"Andragende fra Zoologisk Have om Fritagelse for at svare Lejeafgift.
+Anbefalet af Skovudvalget.
+Budgetudvalget indstiller, at Haven fritages for at svare Lejeafgift indtil 1. Januar 1945.
+Indstillingen vedtoges.
+"	1943	1	21
+"71"	1943-01-21	"closed"	"19430121B_257.pdf"	12	"1283-1942"	"Indstilling om Afhændelse af Kommunens Beholdning af Kommunekreditforenings Obligationer.
+Fra Økonomidirektøren forelaa følgende Forslag:
+\"Under Henvisning til den i Budgetudvalget den 4. ds. stedfundne Drøftelse vedrørende Afhændelse af Beholdningen af Kommunekreditforenings Obligationer skal man meddele, at der inden Udvalgets Ønske om Salg af Restbeholdningen til Minimumskurs 98 var blevet videregivet Foreningen, yderligere blev solgt 414000 Kr. til Kurs 98 1/4-98 3/8 (et af Salgene til, Resten 1/4 à 1/8 over Børskurs).
+"	1943	1	21
+"72"	1943-01-21	"closed"	"19430121B_257.pdf"	13	"1283-1942"	"Herefter resterede ialt urealiseret Kr. 584000, hvoraf Kr. 84000 Kr. udgør Restbeholdningen af en Post, der tidligere var givet i Ordre, men endnu ikke afhændet. 400000 Kr. er overdraget Aarhuus Privatbanks Københavns Afdeling med Anmodning om Salg til nærmere aftalt Kurs, dog foreløbig til Kurs 98; Resten, Kr. 100000, foreslaas overtaget af P. Villadsen og Hustrus Legat til Børsens Køberkurs paa den Dag, Beslutning om Overtagelse sker.
+Det bemærkes, at Overgivelsen af ovennævnte Restbeholdning, Kr. 400000, til Aarhuus Privatbank begrundes dermed, at det nu resterende Beløb tænkes solgt paa Børsen, hvor Salg lige saavel kan effektueres gennem Aarhuus Privatbank som en hvilken som helst anden Bank. Kreditforeningen er indforstaaet med, at Aarhuus Privatbank søger at afhænde denne Post bedst muligt.\"
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1943	1	21
+"73"	1943-01-21	"closed"	"19430121B_257.pdf"	13	"989-1942"	"Andragende Jydsk Musik-Akademi og Folkemusikskolen om Nedsættelse af de kommunale Skatter for Ejendommen Guldsmedgade 25.
+Anbefalet af Skattedirektøren.
+Budgetudvalget indstiller, at den hidtidige Nedsættelse af de kommunale Skatter - nemlig 3/4 af det ialt paalignede Skattebeløb - ogsaa indrømmes Jydsk Musik-Akademi og Folkemusikskolen, dog kun for et Tidsrum af 1 Aar. Indstillingen vedtoges.
+"	1943	1	21
+"74"	1943-01-21	"closed"	"19430121B_257.pdf"	13	"17_26-1942 og 17_25-1942"	"Indstilling fra Sygehusudvalget om Eftergivelse af Hjælp ydet til:
+"	1943	1	21
+"75"	1943-01-21	"closed"	"19430121B_257.pdf"	14	"17_26-1942 og 17_25-1942"	"a.(J. Nr. 17_26-1942). Eleonora Jensen.
+b.(J. Nr. 17_25 - 1942). Kusk Karl Pedersen.
+Indstillingen vedtoges.
+"	1943	1	21
+"76"	1943-01-21	"closed"	"19430121B_257.pdf"	14	"1281-1942"	"Indstilling fra Sygehusudvalget om Ansættelse af en fast Reservelæge ved medicinsk Afdeling paa Kommunehospitalet.
+Udvalget indstiller, at Dr. med. H. Lebel ansættes fra 1. Marts 1943 paa de sædvanlige Vilkaar for 1. Reservelæger.
+Indstillingen vedtoges.
+"	1943	1	21
+"77"	1943-01-21	"open"	"19430121_217.pdf"	1	"no related record"	"Mødet den 21. Januar 1943.
+Fraværende: H. J. Baden, Kai Blicher og 
+Ths. Christensen.
+"	1943	1	21
+"78"	1943-01-21	"open"	"19430121_217.pdf"	1	"198-1942"	"Indenrigsministeriets Godkendelse af Tillæg til Regulativ for Kommunens Hospitaler.
+Toges til Efterretning.
+"	1943	1	21
+"79"	1943-01-21	"open"	"19430121_217.pdf"	1	"99_1-1942 og 99_2-1942"	"Meddelelse fra Indenrigsministeriet om Forhøjelse af Statslaan til Murermester M. Laugesen og Tømrermester P. B. Kjeldsen.
+Toges til Efterretning.
+"	1943	1	21
+"80"	1943-01-21	"open"	"19430121_217.pdf"	1	"770-1942"	"Meddelelse fra Ministeriet for Landbrug og Fiskeri om Bevilling for A. Chr. Christensen til som Auktionsmester at afholde offentlige Fiskeauktioner.
+Toges til Efterretning.
+"	1943	1	21
+"81"	1943-01-21	"open"	"19430121_217.pdf"	1	"23_17-1942"	"Beretning om de offentlige Lystanlæg i 1941-42.
+Toges til Efterretning.
+"	1943	1	21
+"82"	1943-01-21	"open"	"19430121_217.pdf"	1	"1101-1942"	"Overenskomst mellem Sygehusudvalget og Aarhus Lægeforening om offentlig Vaccination mod Difteri.
+Følgende Overenskomst forelaa:
+"	1943	1	21
+"83"	1943-01-21	"open"	"19430121_217.pdf"	2	"1101-1942"	"\"Mellem Repræsentanter for Aarhus Lægeforening og Aarhus Byraads Hospitalsudvalg er der ved et den 16. Januar afholdt Møde opnaaet Enighed om følgende Indstilling til Aarhus Byraad vedrørende offentlig Vaccination mod Difteri.
+Vaccinationen foretages hos de praktiserende Læger mod et Vederlag af 2 Kr. for den første, 1 Kr. for den anden og 2 Kr. for den 3. Indsprøjtning.
+Denne Betaling udredes for de i Aarhus hjemmehørende Børn under 15 Aar, der paabegynder Vaccinationen efter en af Byraadet fastsat Dato, samt for Børn i nævnte Aldersklasse, der efter nævnte Dato fortsætter en paa Hospital paabegyndt Vaccination, af Aarhus Kommune.
+Betalingen til Lægerne erlægges kvartaarlig efter indsendt specificeret Regning.
+Udgifter til Journalkort, Regningsblanketter
+o.lign. Tryksager er Aarhus Kommune uvedkommende.
+Ovennævnte Betalingstakst er fastsat som Maksimum for al Difterivaccination, der iværksættes efter den nu anvendte Metode, indenfor 10 Aar fra den første Vaccinations Paabegyndelse.\"
+K. Mousten oplyste, at man mente at kunne paabegynde Vaccinationen den 3. Februar. Naar det ikke kunde ske før, skyldtes det, at der for Øjeblikket ikke var Vaccine nok i Landet.
+Overenskomsten tiltraadtes.
+"	1943	1	21
+"84"	1943-01-21	"open"	"19430121_217.pdf"	2	"1176-1942"	"Indstilling fra Slagtehusudvalget om Tillægsbevilling til Dækning af
+"	1943	1	21
+"85"	1943-01-21	"open"	"19430121_217.pdf"	3	"1176-1942"	"Overskridelser i Budgettet for 1942-43. - 
+2. Behandling.
+Indstillingen vedtoges.
+"	1943	1	21
+"86"	1943-01-21	"open"	"19430121_217.pdf"	3	"1224-1942"	"Indstilling fra Belysningsudvalget om Udvidelse af Gasværkets Ovnanlæg.
+Følgende Indstilling forelaa:
+Ang.: Udvidelse af Gasværkets Ovnanlæg:
+\"Gasværkets Ovnanlæg er ca. 15 Aar gammelt og kan ikke paaregnes uden store Reparations- og Ombygningsarbejder at kunne holdes i fortsat brugbar Stand. Da Gasværket er ganske uden Ovnreserver til Indsætning under saadanne Arbejder, vil det af Hensyn til Byens Gasforsyning være absolut nødvendigt at foretage en Udvidelse af Ovnanlæget.
+Det eksisterende Ovnanlæg bestaar af 5 Ovne med ialt 20 Kamre, og dette Anlæg tænkes udvidet med een Ovn omfattende 4 Kamre, Generator og Rekuperator i Tilslutning til Anlægget.
+Den samlede Udgift til Udvidelsen anslaas til ca. 700000 Kr., hvoraf ca. 350000 Kroner forventes at komme til Udbetaling i Regnskabsaaret 1943/44 og Resten i det følgende Regnskabsaar.
+Man tillader sig at anmode om Bemyndigelse til at iværksætte den nævnte Udvidelse, idet Arbejdet overdrages til DIDIER-WERKE A/G, Berlin-Wilmersdorf, gennem Selskabets danske Repræsentant, Firmaet Edwards &amp;amp; Rasmussen, København.
+I Forventning om, at det ærede Byraad meddeler den ønskede Bemyndigelse, tillader man sig samtidig at ansøge om, at der i Tilslutning
+"	1943	1	21
+"87"	1943-01-21	"open"	"19430121_217.pdf"	4	"1224-1942"	"dertil gives Bevilling paa fornævnte ca. 700000 Kr. og saaledes, at ca. 350000 Kr. opføres paa Belysningsvæsenets Kapitalbudget for 1943/44. 
+Økonomidirektøren henstiller, at Udgiften afholdes af Gasværkets Fornyelsesfond, hvis Saldo pr. 31. Marts 1942 androg 1075352,94 Kr., samt at Arbejdet optages paa Arbejdsplanen for Regnskabsaaret 1943-44 med et Raadighedsbeløb af 350000 Kr.
+Tiltraadt af Budgetudvalget i Overensstemmelse med Økonomidirektørens Erklæring.
+Borgmesteren meddelte, at Belysningsvæsenet havde set sig om efter Udvidelsesmuligheder, og derfor købte man Grundene af Langballe og Aarhus Oliefabrik. Gasværkets Udvidelse havde egentlig staaet paa Dagsordenen gennem flere Aar, idet det var gammelt og trængte til at udskiftes, men grundet paa Tiderne havde man udskudt det. Nu var det ikke muligt at udskyde det længere, idet man ikke kunde reparere Ovnene uden at have en Reserve. Belysningsudvalget havde ogsaa beregnet en Udvidelse, idet der var afskrevet 655000 Kr. paa det gamle Værk. Taleren gennemgik Forslaget i Henhold til den foreliggende Indstilling og anbefalede at tiltræde det.
+J. R. Fanger oplyste, at man regnede med ved denne Udvidelse at kunne klare sig i 6-7 Aar, saa maatte man bygge et nyt Gasværk, naar der igen blev normale Tider.
+Indstillingen vedtoges.
+"	1943	1	21
+"88"	1943-01-21	"open"	"19430121_217.pdf"	4	"1255-1942"	"Indstilling fra Brandkommissionen om Bevilling til 2 Brandmænds Deltagelse i Rørdykkerkursus.
+"	1943	1	21
+"89"	1943-01-21	"open"	"19430121_217.pdf"	5	"1255-1942"	"Tiltraadt af Budgetudvalget saaledes, at Beløbet, 808 Kr., optages som Tillægsbevilling til Konto 22 i Budgettet for indeværende Aar.
+Overgik til 2. Behandling.
+"	1943	1	21
+"90"	1943-01-21	"open"	"19430121_217.pdf"	5	"295-1942"	"Indstilling angaaende Anskaffelse af Transportspande og Høkasser til Folkebespisningen.
+Fra Økonomidirektøren forelaa følgende Forslag:
+\" I Indstilling herfra af 23. Oktober f. A. anførtes, at saa snart Bestyrerinden af Folkekøkkenet havde overtaget den administrative Ledelse af Folkebespisningen i Aarhus og foretaget de nødvendige Undersøgelser af saavel Folkekøkkenet som andre kommunale Institutioner, der agtes inddraget under Kommunens Folkebespisningsplan, maatte der forventes Indstilling om, hvilke yderligere Anskaffelser der vilde blive nødvendige udover de i ovennævnte Indstilling foreslaaede.
+Bestyrerinden har nu foretaget en Gennemgang af Lokaler, Inventar etc. paa de forskellige paatænkte Bespisningssteder.
+Herved er det konstateret, at det ved forskellige af Skolekøkkenerne vil være nødvendigt at foretage visse Reparationer af Kedelanlæg etc., saafremt den fornødne Forøgelse af Kapaciteten skal kunne opnaas. Ifølge det oplyste vil de heromhandlede Reparationer og Installationer m. v. kunne foretages med 2 Dages Varsel, hvorfor Afholdelsen af Udgifter formentlig indtil videre maa kunne spares, idet man dog gaar ud fra, at de fornødne Udgifter vil kunne afholdes, saafremt Katastrofe-Situationen pludselig synes at være umiddelbart
+"	1943	1	21
+"91"	1943-01-21	"open"	"19430121_217.pdf"	6	"295-1942"	"forestaaende, mod at Indstilling om Tillægsbevilling afgives snarest gørligt.
+Skolekøkkenerne er forsynet med det fornødne Inventar til Ydelse af de sædvanlige Præstationer. I Katastrofetilfælde vil imidlertid det tilstedeværende Inventar være utilstrækkeligt til at bestride Produktionsforøgelsen. Afholdelsen af en væsentlig Del af de heromhandlede Anskaffelsesudgifter vil formentlig foreløbig kunne stilles i Bero, men for enkelte Anskaffelser vil det være nødvendigt at sikre Leverancen ved omgaaende Bestilling.
+Ved tidligere stedfundne Drøftelser med Hospitalerne var det forudsat, at Hospitalerne præsterede den fornødne Diætmad (3000 Portioner for Kommunehospitalet, 1000 Portioner for Marselisborg Hospital), samt at denne Mad afhentedes paa Hospitalerne mod forudgaaende Køb af Billet, der kun udstedtes efter forevist Lægeattest. Ved de stedfundne Konferencer er Bestyrerinden naaet til den Opfattelse, at det saavel for Hospitalerne som for Publikum vil være en Fordel, om Maden udleveres paa de almindelige Udleveringssteder rundt om i Byen. Saavel til Transporten af Diætmad (dels Skaanekost, dels Diætkost for Sukkersyge) som til Opbevaring af den allerede producerede, men endnu ikke udleverede Mad paa Skolerne, vil det være nødvendigt at anskaffe et betydeligt Antal Spande, ialt ca. 60. Da det under de forhaandenværende Forhold næppe vil være muligt at faa samme Sort Spande til samtlige Institutioner, henstilles, at der bevilges et Beløb paa 5000 Kr. til Anskaffelser i det strengt nødvendige Omfang, hvorved bemærkes, at Nettoprisen pr. Spand varierer omkring 80 Kr.
+"	1943	1	21
+"92"	1943-01-21	"open"	"19430121_217.pdf"	7	"295-1942"	"Det bemærkes yderligere, at de Arter af Spande, der her kommer i Betragtning, mulig vil kunne finde andet Formaal senere og ellers vil kunne sælges til Mejerier eller Landbrugere.
+Efter stedfundne Drøftelser med Revisionskontoret synes det nødvendigt, at Udleveringen af Billetter paa de forskellige Udleveringssteder foregaar ved Benyttelse af Bireka-Systemet. Firmaet er leveringsdygtigt med ca. 3 Dages forudgaaende Varsel.
+Prisen bliver 2,11 Kr. pr. 1000 Stk. For nærværende synes der ingen Anledning til at anskaffe Billetter, men man gaar ud fra, at Udgiften hertil vil kunne afholdes, saafremt Situationen pludselig skulde vise sig overhængende, men saaledes at Indstilling om Tillægsbevilling afgives snarest gørligt.
+Med Bemærkning, at det paa nærværende Tidspunkt endnu ikke er afklaret, hvor stort et Antal Høkasser det vil være nødvendigt at anskaffe til Brug mellem Hospitaler og Udleveringssteder, skal man tillade sig at indstille, at der bevilges 500 Kr. til yderligere Anskaffelse af Høkasser samt som foran nævnt 5000 Kr. til Indkøb af Transportspande m. v., ialt 5500 Kr. som Tillægsbevilling til Konto XXVI
+ A 25.
+Man skal tilføje, at det under den foretagne Gennemgang af de forskellige Lokaler etc. er oplyst, at de forskellige Skolekøkkeners Kapacitet er anslaaet noget for højt, saaledes at der maa regnes med, at Skolerne ialt vil kunne præstere ca. 2700 Portioner mindre end oprindelig beregnet. Da der endvidere maa regnes med, at Samsøgades Skole, som var beregnet at kunne præstere 3000 Portioner, foreløbig
+"	1943	1	21
+"93"	1943-01-21	"open"	"19430121_217.pdf"	8	"295-1942"	"ikke vil kunne benyttes i Folkebespisningsøjemed, vil det Antal Portioner, som daglig vil kunne udleveres fra Skolerne, med andre Ord reduceres fra 16200 til 10500. Sandsynligheden taler dog for, at Restaurationerne uden Vanskelighed vil kunne overkomme at bespise ca. 25000 i Stedet for som forudsat ca. 20000 Personer daglig, saaledes at den Byraadet tidligere forelagte Bespisningsplan for saa vidt er urokket.\"
+Tiltraadt af Budgetudvalget saaledes, at der gives Tillægsbevilling paa 5500 Kr. til Konto 26 i Budgettet for indeværende Aar.
+Overgik til 2. Behandling.
+"	1943	1	21
+"94"	1943-01-21	"open"	"19430121_217.pdf"	8	"1267-1942"	"Indstilling fra Socialudvalget om Uddeling af Levertranpræparat til Børn og gravide Kvinder.
+Følgende Indstilling forelaa:
+\"Der er ved Lov Nr. 528 af 19. December 1942 om Hjælp til mindrebemidlede til Indkøb af Levertranpræparatet \"Vitaminol\" tilvejebragt Hjemmel for Kommunerne til i Tiden indtil Udgangen af Maj Maaned 1943 at yde Børn under 15 Aar, hvis Forsørgere er mindrebemidlede, samt mindrebemidlede gravide Kvinder Hjælp til hel eller delvis Dækning af den Del af Udgiften ved Køb af det omhandlede Kvantum Levertranpræparat -  
+5/8 Liter -, som ikke dækkes af den ved Indenrigsministeriets Foranstaltning foretagne almindelige Nedsættelse af Udsalgspriser for dette Præparat.
+Idet man henviser til Socialministeriets Cirkulære af 11. Januar 1943, skal man anmode det ærede Byraad om at bemyndige det
+"	1943	1	21
+"95"	1943-01-21	"open"	"19430121_217.pdf"	9	"1267-1942"	"sociale Udvalg til at iværksætte Uddeling af Rabatkort, der helt dækker Prisen paa Præparatet. Der foreslaas trykt Rabatkort á 43 Øre, der for Børnenes Vedkommende uddeles for hele Perioden med 5 Kort ved Socialkontorets almindelige Uddeling af Rabatkort, der finder Sted i Ugen 25. til 30. Januar 1943, med en Særuddeling for dem, der ellers ikke modtager Ernæringsrabatkort i Forvejen. Den i Cirkulæret anviste Fremgangsmaade, at uddele Levertranpræparatet gennem Skolebespisningen, finder man ikke anvendelig i Aarhus, dels fordi ikke alle berettigede Børn deltager i Skolebespisningen, dels fordi denne ophører allerede i Midten af Marts Maaned.
+For de svangre Kvinders Vedkommende foreslaas, at Kortene udleveres ved Skattekontorets Foranstaltning, da de omhandlede Personer i Forvejen skal henvende sig der for at faa Rationeringsmærkerne - L 1-5 - udleveret.
+Efter de af Ministeriet fastsatte Trangsgrænser vil man formene, at ca. 22000 Børn i Aarhus Kommune vil være berettiget til Kort, men da man agter kun at udlevere Kortene efter Henvendelse, vil dette Tal antagelig blive reduceret til højst 10000 Børn, hvorefter Uddelingen i alt vil andrage ca. 21500 Kr., hvoraf Staten refunderer de 3/4, medens Kommunen kun skal afholde Udgiften til den resterende Fjerdedel, ca. 5400 Kr. Administrationsomkostningerne afholdes af Staten.
+For de svangre Kvinders Vedkommende vil man formene, at forholdsvis færre end for Børnenes Vedkommende vil andrage om Hjælp til Indkøb af Levertran.
+"	1943	1	21
+"96"	1943-01-21	"open"	"19430121_217.pdf"	10	"1267-1942"	"Alt i alt vil man anslaa Kommunens Udgift ved denne Ordning til højst at andrage ca. 6000 Kr.
+Kortene foreslaas indløst paa Skattekontoret, der i Forvejen skal udbetale den Rabat, der ydes efter selve Rationeringsmærkerne (L. Mærkerne).
+Den skitserede Ordning er foreslaaet i Forstaaelse med Skattedirektøren.\"
+Overgik til 2. Behandling.
+"	1943	1	21
+"97"	1943-01-21	"open"	"19430121_217.pdf"	10	"262-1942"	"Andragende fra Falcks Redningskorps om Forhøjelse af Betalingen for Sygetransporter.
+Sygehusudvalget foreslaar, at Betalingen fra 1. April 1943 forhøjes til 8 Kr. pr. Tur.
+Tiltraadt af Budgetudvalget.
+Indstillingen vedtoges.
+"	1943	1	21
+"98"	1943-01-21	"open"	"19430121_217.pdf"	10	"435-1942"	"Forslag til Sikring af det vedtagne Projekt for Frederiksgades Udvidelse og Gennemførelse til Studsgade. - 2. Behandling.
+ (Side 205).
+I. C. Sørensen udtalte, at det foreliggende Forslag var et embedsmandsmæssigt Forsøg paa at omgaa Byplanloven, hvilken Lov der var nogen Utilfredshed med i administrative Kredse. Byplanloven forudsatte en bestemt Fremgangsmaade, men naar den vilde volde Vanskeligheder for Administrationen, forsøgte man nu at gennemføre et Forslag, der i Virkeligheden ikke havde Hjemmel i Loven. Juridisk set fik Vedtagelsen næppe nogen Betydning, men der var noget utiltalende i at ville omgaa vedtagne Love. Grunden var selvfølgelig, at man derved vilde undgaa Grundlovens Krav om fuld Erstatning ved Ekspropriation af Ejendomme, og ved at lave en maskeret
+"	1943	1	21
+"99"	1943-01-21	"open"	"19430121_217.pdf"	11	"435-1942"	"Raadighedsindskrænkning igennem en Del Aar kunde man jo faa Værdierne ned og derved overtage dem til en billigere Pris, end hvis Kommunen eksproprierede med det samme. Denne Fremgangsmaade var utiltalende. Det burde være hele Kommunens Byrde og ikke lægges over paa nogle enkelte, som havde det Uheld at være klemt oppe i dette Foretagende. Dette Forhold blev selvfølgelig ens, enten man valgte Plan 11 eller Plan 10 b. Det Hovedsynspunkt, som den konservative Gruppe gjorde gældende, var dog stadig dette, at Forslag 10 b med Hovedaare gennem Immervad er den naturlige Løsning af hele Byplanspørgsmaalet, fordi man her følger den gamle naturlige Linieføring og ikke kommer ind i den Spekulation, som Forslag 11 vilde medføre. Det skulde dog ikke være Spekulanter, som faar en Fordel fremfor de Borgere, der arbejder for Byens Trivsel gennem en naturlig Udvikling. Gruppen vilde derfor fastholde Forslag 10 b som det bedste baade af de angivne Grunde og tillige af færdselsmæssige Grunde, og her havde man ogsaa Politiets Færdselseksperter bag sig. Taleren vilde derfor stadig henstille, at Forslag 10 b bliver det, som kommer til at danne Grundlag for en Byplan. Der var i Byplanlovens § 7 aabnet Mulighed for at fremkomme med Indsigelser og Ændringsforslag, naar den officielle Bekendtgørelse havde fundet Sted, Gruppen vilde gøre Brug af denne Bestemmelse og forlange Forslag 10b indsendt til Ministeriet som Ændringsforslag til Plan 11, og forhaabentlig vilde man ogsaa fra anden Side fremkomme med Ændringsforslag hertil. Byplanloven var en meget folkelig Lov, idet den forudsatte, at Borgerne skal have Adgang til at være med i Byens Udvikling; men
+"	1943	1	21
+"100"	1943-01-21	"open"	"19430121_217.pdf"	12	"435-1942"	"den kommunale Administration havde tilsidesat denne Tanke i Loven, og det syntes, som om det nuværende Flertal i Byraadet ogsaa lidt for meget havde tilsidesat det Folkestyrehensyn, som ligger i Loven. Taleren vilde finde det rimeligt, at fremsætte Forslag til Byplan i sin Helhed paa den af Loven foreskrevne Maade og lader Forslaget offentliggøre, saaledes at Folk kan fremkomme med Indsigelser og Ændringsforslag, hvorefter Sagen paany kan drøftes. Hvis man derefter ikke kunde blive enige, vilde det være en sund demokratisk Tanke at lade foretage en Byafstemning om et saa vigtigt Spørgsmaal, ogsaa fordi det fremkommer paa et Tidspunkt, hvor man befinder sig udenfor den ordinære Valgperiode; det vilde være mere i Overensstemmelse med Lovens Aand end det, som her præsteredes fra Stadsingeniørens Kontor. Den konservative Gruppe kunde ikke stemme for det foreliggende Forslag, for det var i Strid med Byplanlovens Aand og Bogstav.
+Borgmesteren vilde først udtale en Beklagelse over, at Landsretssagfører Sørensen Gang paa Gang benytter Byraadets Talerstol til Overfald paa Kommunens Embedsmænd, snart den ene og snart den anden. Det var ikke helt hæderligt at gøre dette, da Embedsmændene var afskaaret fra at deltage i Diskussionen. Naar Hr. Sørensen udtalte, at Forslaget var et embedsmandsmæssigt Forsøg paa at omgaa Byplanloven, saa vilde Taleren gøre opmærksom paa, at det var en Fremgangsmaade, som var tilraadet af Ministeriets Eksperter paa dette Omraade; det var sket ved flere Lejligheder, og baade ved Cirkulærer fra Ministeriet, i Artikler i Fagskrifter og andre Steder var denne Fremgangsmaade stærkt
+"	1943	1	21
+"101"	1943-01-21	"open"	"19430121_217.pdf"	13	"435-1942"	"fremhævet. Taleren forstod slet ikke Meningen med en saadan Udtalelse. Aarhus Byraad ønskede absolut ikke at omgaa Lovene, men tværtimod at følge dem baade efter deres Aand og Bogstav, og det vilde sikkert falde Hr. Sørensen svært at paapege det modsatte. I Ministeriets Cirkulære henstilles det netop, at man vedtager saadanne Orienteringsplaner som vejledende for Udviklingen, og det var dette, som man foreslog i Dag. En saadan Vedtagelse kunde til enhver Tid ændres, naar det ikke gik nogens Interesser for nær. Hvis man straks vedtog en Byplan for hele Strækningen og lod den tinglyse, vilde det medføre overmaade mange Vanskeligheder, hvis Borgerne senere kom og paapegede noget urimeligt deri, idet den saa vilde blive meget vanskelig at ændre. Derfor foreslog man her i Overensstemmelse med Embedsmændene, at man vilde vedtage en Orienteringsplan, og eftersom det bliver nødvendigt, vil man vedtage partielle Byplaner og faa disse tinglyst. Det var ikke imod Ministeriets Opfattelse, og forskellige Eksperter, som f. Eks. Ministeriets Kommitterede Kaj Henriksen, havde samme Opfattelse. Byplanloven krævede, at Planerne skal fremlægges offentlig, og det var ogsaa sket her; der var intet holdt hemmeligt, og enhver kunde fremkomme med Indsigelser, saa ingen var gaaet for nær. Det var dristigt af Hr. Sørensen at sige, at man vil omgaa Grundlovens Ord om fuld Erstatning, for der var ikke antydet et Ord derom, og det var tilmed blevet sagt, da Plan 11 blev vedtaget, at man maatte regne med store Erstatninger for Kommunen, saa der var intet som helst berettiget i den Paastand, at Kommunen vil snyde sig fra sin Erstatningspligt. Men man vilde heller
+"	1943	1	21
+"102"	1943-01-21	"open"	"19430121_217.pdf"	14	"435-1942"	"ikke være Kastebold for Spekulanter, og hvis man ikke kunde snakke sig til Rette paa et rimeligt Grundlag, havde man den Udvej at gaa til Ekspropriation, hvor uvildige Mænd fastsatte Erstatningerne. Det var altsaa helt udelukket, at Kommunen var i Stand til at omgaa Grundlovens Bestemmelse om fuld Erstatning, og Hr. Sørensen havde vist ikke tænkt rigtigt over det, han skrev ned, før han fremsatte dette mærkelige Postulat. Hr. Sørensens Hensigt var at faa en ny Opblussen af Diskussionen om Plan 10 eller 11; men denne Sag forelaa slet ikke til Behandling, idet den var afgjort, beklageligvis kun med Flertallets Stemmer; men det var sket efter Medlemmernes bedste Overbevisning som det, der gavner Byen og dens Borgere bedst, og ingen kunde med nogen som helst Ret tillægge Flertallet andre Motiver. Det var dog endnu Lov i Danmark, at det er Flertallet, som bestemmer, selv om Mindretallet skal høres, og der saa vidt muligt tages Hensyn til dets berettigede Ønsker. Hvis Mindretallet agtede at fremsætte Plan 10 b som Ændringsforslag til Byplanen, kunde man jo ikke hindre det og ønskede det heller ikke; men Flertallets Forslag var fuldt legitimt og taalte Offentlighedens Søgelys, og det kunde ogsaa taale en kritisk Gennemgang af Ministeriets Eksperter. Derfor var det vist meget tvivlsomt, at Ministeriet vil kassere dette Forslag til Fordel for Mindretallets Forslag 10 b. Naar Hr. Sørensen nævnte en eventuel Byafstemning om Forslaget, saa vilde Taleren glæde sig til den Dag, da man kan faa en Byafstemning paa frit Grundlag, som kan vise, hvem der tager fejl. Der var flere Gange i Byraadets Diskussioner kommet Ting og Antydninger frem om Folkestyret
+"	1943	1	21
+"103"	1943-01-21	"open"	"19430121_217.pdf"	15	"435-1942"	"som man ikke var helt tjent med, og som det kunde være gavnligt at tale med Vælgerne om. Men her skulde altsaa ikke drøftes Forslag 10 eller 11, men blot Spørgsmaalet om at sikre de Vedtagelser, som Aarhus Byraad træffer.
+I.C. Sørensen fandt, at Borgmesteren i den senere Tid havde tillagt sig en mærkelig skolemesteragtig Facon overfor anderledes tænkende; men det maatte man jo finde sig i, selv om det ikke var særlig behageligt. Taleren havde ved mange Lejligheder rost Kommunens Embedsmænd, saa den Paastand, at Taleren altid kritiserede dem, hørte ingen Steder hjemme. Forøvrigt havde Embedsrnændene netop i denne Sag haft Lejlighed til at forelægge og diskutere Planerne baade i Byraadet, i Pressen og paa forskellige Talerstole. Men Udtalelsen var lige saa fuldt møntet paa Ministeriets Embedsmænd som paa Kommunens, og det var rigtigt, at der blandt Embedsmændene var en Tendens til at omgaa Byplanloven. Der var i Loven fastsat en ganske bestemt Fremgangsmaade og udtrykkelig fastsat en Periode paa 5 Aar for herved at slaa fast, hvad de enkelte Borgere har at rette sig efter paa rent juridisk Grundlag; men det foreliggende Forslag vilde omgaa denne Bestemmelse. Det var for saa vidt rigtigt, at Forslaget her ikke drejede sig om Plan 10 eller Plan 11; men der forelaa for lukkede Døre Forslag om en partiel Byplan, og det var et Spørgsmaal, om en Vedtagelse heraf var juridisk bindende, da der ikke i Byplanloven fandtes noget om en saadan Fremgangsmaade, og det vilde hindre, at der fremsættes sideordnede Forslag eller Ændringsforslag dertil. Ved at paalægge Grundejerne
+"	1943	1	21
+"104"	1943-01-21	"open"	"19430121_217.pdf"	16	"435-1942"	"visse Indskrænkninger til Fordel for Plan 11,vilde man udelukke Muligheden for Gennemførelse af Plan 10 b, og derfor drejede Sagen sig ogsaa i høj Grad om de to Planer.
+Borgmesteren fastholdt, at Landsretssagfører Sørensen Gang paa Gang i Byraadet havde angrebet Embedsmændene, og det var ogsaa sket i Dag. Angaaende at Embedsmændene havde faaet Lov til at forelægge Forslaget andre Steder, saa var det sket efter Anmodning fra forskellige Foreninger, bl. a. den konservative Vælgerforening, og Taleren stillede visse Betingelser derfor, men disse Betingelser blev ikke overholdt af Foreningen. Men det burde man dog ikke angribe Embedsmændene for. Hvorvidt en Vedtagelse af Forslaget var juridisk bindende, vilde Taleren overlade til Ministeriets Jurister at afgøre, dg Taleren var tilbøjelig til at tro mere paa dem end paa Hr. Sørensen, naar det drejede sig om Byplaner. Taleren oplæste et Cirkulære fra Ministeriet, som viste, at Ministeriets Synspunkter var de samme, som laa til Grund for det fremsatte Forslag.
+I. C. Sørensen hævdede stadig, at der ikke i Byplanloven stod noget som helst om saadanne Orienteringsplaner, og uanset Ministeriets Cirkulære var Forslaget et embedsmandsmæssigt Forsøg paa at omgaa Byplanloven og samtidig et Forsøg paa at kvæle Forslag 10 b.
+Borgmesteren mente, at Begreberne flyder lidt for Hr. Sørensen, for en folkevalgt Indenrigsminister kunde dog næppe kaldes Embedsmand.
+Indstillingen vedtoges med 11 Stemmer mod 7.
+"	1943	1	21
+"105"	1943-01-21	"open"	"19430121_217.pdf"	16	"1250-1942"	"Bemærkninger angaaende Afholdelse af Udgifter til forskellige Formaal af
+"	1943	1	21
+"106"	1943-01-21	"open"	"19430121_217.pdf"	17	"1250-1942"	"Gasværkets Dispositionsfond samt Forslag om, at Fonden fra og med Regnskabsaaret 1943- 44 betegnes \"Kommunens Anlægs- og Dispositionsfond.\"
+Fra Revisor forelaa følgende Skrivelse:
+\"I Skrivelse fra Budgetudvalget af 29/9 d. A. meddeles, at Udvalget har vedtaget, at 427000 Kr. af den samlede Bevilling til Funderingsarbejder m. v. ved Universitetets projekterede Hovedbygning vil være at afholde af Gasværkets Dispositionsfond, ligesom 100000 Kr. til Amtmandsgaarden og 65000 Kr. til Teknisk Skole vil være at afholde af samme Fond.
+Man undlader ikke i denne Forbindelse at gøre opmærksom paa Købstadkommunallovens § 22, der lyder saaledes:
+\"Foruden til Optagelse af Laan udkræves Indenrigsministeriets Samtykke til at forbruge af Kommunens Kapitalformue.
+Indenrigsministeriets Samtykke udkræves dog ikke til Kommunens Forbrug af de til Anlæg eller Fornyelse af Gas-, Vand- og Elektricitetsværker eller af Gader, Veje og Kloaker henlagte særlige Midler (Fonds), naar disse finder Anvendelse efter deres Bestemmelse. Beslutning om Anvendelse af saadanne særlige Midler (Fonds) har dog kun Gyldighed, naar den træffes af et Flertal af Byraadets Medlemsantal i to paa hinanden følgende Møder med mindst 14 Dages Mellemrum.\"
+Fra Økonomidirektøren forelaa følgende Erklæring:
+"	1943	1	21
+"107"	1943-01-21	"open"	"19430121_217.pdf"	18	"1250-1942"	"\"Ved Sagens Tilbagesendelse til Budgetudvalget skal man tillade sig at bemærke følgende:
+I Overensstemmelse med forud stedfunden Drøftelse i Budgetudvalget blev der i det Byraadet forelagte Budgetforslag for 1942/43 afsat nedennævnte Udgiftsposter med Dækning i Gasværkets Dispositionsfond, jfr. Kommunens Budget for 1942/43 Side 191, 9 a-c (Budget for den regnskabsmæssige Kassebeholdning for Aaret 1942/43):
+Tilskud til Opførelse af Hovedbygning ved Universitetet.......... 327000 Kr.
+Tilskud til Opførelse af Amtmandsgaarden ...................... 100000 \"
+Tilskud til Udvidelse af Teknisk Skole.........................65000\"
+492000 Kr.
+Man maa formentlig herefter kunne gaa ud fra, at Byraadet gennem Vedtagelsen af Budgettet for sit Vedkommende har truffet gyldig Beslutning angaaende nævnte Forhold.
+Da det Tilskud, som Byraadet i Mødet den 6. Juni f. A. har vedtaget at yde til Opførelse af Universitets Hovedbygning, andrager 427000 Kr., medens der i Budgettet for indeværende Aar vedrørende den regnskabsmæssige Kassebeholdning kun er optaget et Beløb af 327000 Kr. med Dækning i Gasværkets Dispositionsfond, vil det være nødvendigt, at der forelægges Byraadet Forslag om, at der af Gasværkets Dispositionsfond yderligere afholholdes 100000 Kr. til det omhandlede Formaal.
+"	1943	1	21
+"108"	1943-01-21	"open"	"19430121_217.pdf"	19	"1250-1942"	"Gasværket har henlagt Midler dels til en Fornyelsesfond og dels til en Dispositionsfond.
+Saafremt det havde været Kommunalbestyrelsens Hensigt at finansiere Tilskudene til Universitetets Hovedbygning, Amtmandsgaarden og Teknisk Skole af Fornyelsesfondens Midler, er det indlysende, at Indenrigsministeriets Samtykke maatte indhentes i Medfør af de af Revisionskontoret citerede Bestemmelser i Købstadkommunalloven.
+Det drejer sig imidlertid om Forbrug af Dispositionsfondens Midler, og da det ved Oprettelsen af denne særskilte Fond ved Siden af Gasværkets Fornyelsesfond netop har været en Forudsætning, at denne Fonds Midler skulde kunne anvendes til andre Formaal end Fornyelse eller Udvidelse af Gasværkets Anlæg, maa man anse det for ufornødent at indhente Tilsynsmyndighedens Samtykke.
+Til Støtte herfor kan anføres, at en Række Købstadkommuner i de senere Aar er kommet ind paa at oprette Dispositionsfonds blandt andet med Henblik paa at kunne opnaa en større Handlefrihed i Forhold til Indenrigsministeriet med Hensyn til de fra Driftsregnskabet henlagte Midler. Hertil kommer, at en Kommunes Kapitalregnskab vinder i Overskuelighed, saafremt man i Stedet for en Række smaa Særfonds opretter en stor samlet Fond. Aarhus Kommune har ikke mindre end 23 forskellige Fonds i Statusregnskabet, hvilket Tal uden større Vanskelighed burde kunne reduceres meget betydeligt.
+Det maa imidlertid erkendes, at Betegnelsen \"Gasværkets Dispositionsfond\" kan forekomme
+"	1943	1	21
+"109"	1943-01-21	"open"	"19430121_217.pdf"	20	"1250-1942"	"vildledende, idet man uden at kende nærmere til Forudsætningerne for Fondens Oprettelse vil være tilbøjelig til at begrænse Midlernes Anvendelse til Belysningsvæsenets Formaal. Under Hensyn hertil skal man foreslaa, at Fondens Betegnelse fra og med Regnskabsaaret 1943/44 ændres til Kommunens Anlægs- og Dispositionsfond\". Saafremt denne Betegnelse indføres, vil Byraadet antagelig kunne træffe Beslutning om Midlernes Anvendelse uden at indhente Indenrigsministeriets Samtykke.\"
+Budgetudvalget tiltræder Økonomidirektørens Erklæring.
+I. C. Sørensen bemærkede, at Belysningsudvalget var et vældigt Udvalg, maaske undertiden lidt for vældigt. Men her burde vist Belysningsudvalgets Navn knyttes til Fondet, ligesom Udvalget burde have nogen Indflydelse paa, hvad Pengene bruges til, naar det var Værket, som fremskaffede Midlerne.
+Borgmesteren fandt det saa rigtigst, at Sagen gaar tilbage til Udvalget til fornyet Overvejelse.
+Sagen gik tilbage til Udvalget.
+"	1943	1	21
+"110"	1943-01-21	"open"	"19430121_217.pdf"	20	"838-1942"	"Andragende fra Brandmand
+H.Sørensen og Postbud K. Prins om Bevilling af fri Proces til Søgsmaal mod Kommunen om Erstatning for bortkommet Drengetøj i
+Samsøgades Skole.
+Fra Skoleudvalget forelaa følgende Erklæring:
+\"Tilbagesendes Byraadet med Bemærkning, at Udvalget ikke anser Kommunen for at være erstatningspligtig. Da Skoleelever ofte paa
+"	1943	1	21
+"111"	1943-01-21	"open"	"19430121_217.pdf"	21	"838-1942"	"Grund af Glemsomhed, Uorden o. l. tror at have mistet bortkomne Ejendele i Skolerne, mener man, at en Bevilling af fri Proces vil kunne faa uheldige Konsekvenser.\"
+Sigvald Nielsen gjorde opmærksom paa, at Børnene skulde hænge deres Tøj udenfor Klasseværelserne, og saa kunde man vel ikke sige, at de har Ansvar derfor, saa længe de opholder sig inde i Klassen. Taleren vilde derfor henstille til Skoleudvalget at overveje Spørgsmaalet om Erstatning en Gang endnu og samtidig overveje, om der kunde tænkes andre Maader at opbevare Tøjet paa eller eventuelt tegnes en Forsikring derfor.
+K. Mousten bemærkede, at Forslaget her drejede sig om et Andragende om fri Proces, og det skulde afgøres af Amtet. Taleren var bange for, at Kommunen kom ud i et Uføre, hvis saadant skulde erstattes, fordi en Mængde Tøj bortkom eller blev stjaalet, og f. Eks. Cykler kunde man jo ikke tage ind i Lokalerne.
+Hans Madsen mente, man burde tage denne Sag, som man plejede, og lade Amtet træffe Afgørelse. løvrigt kunde Taleren tiltræde Sigvald Nielsens Bemærkninger, men vilde dog samtidig gøre opmærksom paa, at der hang store Mængder Tøj i Skolerne, som ikke blev afhentet, og det burde henstilles til Forældrene at komme bort fra dette Forhold.
+I.C. Sørensen fandt, der var noget forkert i, at Byraadet skal erklære sig om fri Proces i Sager, som Kommunen selv er Part i.
+E. Rolander kunde ønske, at der ikke blev nogen Proces om dette Spørgsmaal, men at man affinder sig med Forældrene.
+"	1943	1	21
+"112"	1943-01-21	"open"	"19430121_217.pdf"	22	"838-1942"	"Borgmesteren forstod godt, at det var kedeligt for Forældrene, naar Børnene mistede deres Tøj paa Skolerne; men naar det oplystes, at en Mængde Tøj blev liggende paa Skolen og ikke blev afhentet, saa manede det ogsaa til Eftertanke. Det var svært at træffe Afgørelse i saadanne Sager, men man maatte vist her følge Indstillingen.
+Indstillingen tiltraadtes.
+"	1943	1	21
+"113"	1943-01-21	"open"	"19430121_217.pdf"	22	"3_43-1942 og 3_45-1942 og 3_44-1942 og 3_46-1942"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_43-1942). Kasseudvalget.
+b.(J. Nr. 3_45-1942). Skovene.
+c.(J. Nr. 3_44-1942). Observatoriet.
+d.(J. Nr. 3_46-1942). Mindeparken.
+2.Behandling.
+Efterbevilling meddeltes. .
+"	1943	1	21
+"114"	1943-01-21	"open"	"19430121_217.pdf"	22	"3_47-1942 og 3_48-1942 og 3_49-1942"	"Efterbevilling af Overskridelser i Regnskabet for:
+a.(J. Nr. 3_47-1942). De offentlige Lystanlæg.
+b.(J. Nr. 3_48-1942). Sundhedskommissionen.
+c.(J. Nr. 3_49-1942). Sygehusene (Finsensg. 10).
+Overgik til 2. Behandling.
+"	1943	1	21
+"115"	1943-01-21	"open"	"19430121_217.pdf"	22	"22_9-1942"	"Betinget Skøde med Handelsforeningen af 1887’s Stiftelse angaaende en Grund ved Kongsvangs Allé.
+Godkendtes.
+"	1943	1	21
+"116"	1943-01-21	"open"	"19430121_217.pdf"	22	"814-1942"	"Udkast til Skøde til Indenrigsministeriet angaaende Grunden til Amtsgaarden i Aarhus.
+Godkendtes.
+"	1943	1	21
+"117"	1943-01-21	"open"	"19430121_217.pdf"	22	"11_22-1942"	"Købekontrakt med
+Chr. M. Ditlefsen og S. Ditlefsen angaaende en Grund ved Nordvestpassagen.
+Godkendtes.
+"	1943	1	21

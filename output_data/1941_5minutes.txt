@@ -1,0 +1,1806 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1941-05-02	"closed"	"19410502B_31.pdf"	1	"no related record"	"Mødet den 2. Maj 1941.
+(For lukkede Døre).
+Fraværende: Kai Blicher, Vald. Kloster, Hans Madsen og Chr. Nielsen.
+"	1941	5	2
+"2"	1941-05-02	"closed"	"19410502B_31.pdf"	1	"121-1941"	"Andragender om Tilskud til Bygningsistandsættelser i Henhold til Lov af
+31.Oktober 1940.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Meddelelse:
+Bevilgede Andragender:
+Pensionist Anders Marius Sørensen, I. Huitfeldtsg. 10, samlet Udgift 871 Kr. - Tilskud 305 Kr.
+Arbmd. Erhardt Laursen, Tietgens. PI. 5, samlet Udgift 396 Kr. - Tilskud 140 Kr.
+Direktør Niels Qeertsen, &lt;font Sted&gt;Sct&lt;/font&gt;. Paulsplads 6, samlet Udgift 58 Kr. - Tilskud 20 Kr.
+Fabrikant E. Christensen, Kystvej 49, samlet Udgift 6025 Kr. - Tilskud 2110 Kr.
+Restauratør N. P. Jensen, Havneg. 44 46, samlet Udgift 222 Kr. - Tilskud 80 Kr.
+Læge Anker Aggebo, Ingersl. PI. 4, samlet Udgift 75 Kr. - Tilskud 25 Kr.
+"	1941	5	2
+"3"	1941-05-02	"closed"	"19410502B_31.pdf"	2	"121-1941"	"Værkm. J. Chr. Jensen, Nørre Allé 42 a, samlet Udgift 475 Kr. - Tilskud 165 Kr.
+Fru Anna I. M. Voigt, Sdr. Ringgade 7, samlet Udgift 1070 Kr. - Tilskud 375 Kr.
+Repr. Kai G. Nielsen, Hellerupvej 14, samlet Udgift 620 Kr. - Tilskud 215 Kr.
+Murerm. Marius N. Leth, Sdr. Ringg. 14, samlet Udgift 100 Kr. - Tilskud 35 Kr.
+Skotøjshdl. P. O. Bandholtz, Dr. Margrethes-vej 83, samlet Udgift 1395 Kr. - Tilskud 490 Kr.
+A/S Det kgl. octr. alm. Brandassurance-Comp., St. Torv 8, samlet Udgift 904 Kr. - Tilskud 315 Kr.
+Revisor J. Chr. Christensen, Viborgvej 8, samlet Udgift 102 Kr. - Tilskud 35 Kr.
+Grosserer Chr. Kampmann, Vestergade 69, samlet Udgift 4307 Kr. - Tilskud 1505 Kr.
+pens. Lokomotivf. Rasmus P. Grosen, Hans Brogesg. 6, samlet Udgift 145 Kr. - Tilskud 50 Kr.
+Fru Helga M. Jensen, Tordenskjoldsg. 84, samlet Udgift 349 Kr. - Tilskud 120 Kr.
+Musiker Aksel Christensen. Horsensgade 4, samlet 188 Kr. - Tilskud 65 Kr.
+Chauffør Svend Aage Frandsen, Thorshavnsgade 8, samlet Udgift 327 Kr. - Tilskud 115 Kr.
+Gartner Sofus S. Aa. Hansen, Tromsøg. 7, samlet Udgift 241 Kr. - Tilskud 85 Kr.
+A/S Thomas Ths. Sabroe &amp;amp; Co., Østboulevard 9-11, samlet Udgift 26180 Kr. - Tilskud 8160 Kr.
+Enke A. S. Theilgaard, Dr. Margrethesvej 77, samlet Udgift 594 Kr. - Tilskud 210 Kr.
+Enkefru Anna Bech, Otto Rudsgade 38, samlet Udgift 1852 Kr. - Tilskud 650 Kr.
+"	1941	5	2
+"4"	1941-05-02	"closed"	"19410502B_31.pdf"	3	"121-1941"	"Købmand A. M. Romø, Dr. Margrethesvej 71, samlet Udgift 808 Kr. - Tilskud 285 Kr.
+Fru M. K. Noring, Brammersgade 22, samlet Udgift 481 Kr. - Tilskud 170 Kr.
+Smed Martin Mikkelsen, Ørumsgade 20, samlet Udgift 326 Kr. - Tilskud 115 Kr.
+Købmand Hans A. Langballe, Strandvejen 106, samlet Udgift 1183 Kr. - Tilskud 415 Kr.
+Bogholder Børge H. Jensen, Dr. Margrethesvej 31, samlet Udgift 694 Kr. - Tilskud 245 Kr.
+Snedker Carl Jensen, Falstersg. 32, samlet Udgift 620 Kr. - Tilskud 215 Kr.
+Husejer N. P. Bærgaard, Hjelmensgade 12, samlet Udgift 342 Kr. - Tilskud 120 Kr.
+Pens. Arbmd, J. P. M. L. E. Sørensen, Ole Rømersgade 88, samlet Udgift 166 Kr. - Tilskud 60 Kr.
+Korrespondent Poul Nielsen, Herningvej 15, samlet Udgift 1675 Kr. - Tilskud 585 Kr.
+Enke Hanna Jensen, Jerichausgade 20, samlet Udgift 330 Kr. - Tilskud 115 Kr.
+Forvalter N. M. Rasmussen, Læssøesg. 15, samlet Udgift 793 Kr. - Tilskud 280 Kr.
+Prokurist Johann Kölln, Tordenskjoldsg. 81, samlet Udgift 1203 Kr. - Tilskud 420 Kr.
+Aarhus Kommune, Klostergade 55, samlet Udgift 875 Kr. - Tilskud 305 Kr.
+Samme, Mejlgade 5, samlet Udgift 1385 Kr. - Tilskud 485 Kr.
+Sækkehdl. J. P. Andersen, St Billes Torv 16, samlet Udgift 422 Kr. - Tiskud 150 Kr.
+Tømrerm. H. A. Aa. Olsen, Aldersrovej 50, samlet Udgift 622 Kr. - Tilskud 220 Kr.
+Rentier N. Munk Hermannsen, Aldersrovej 52, samlet Udgift 467 Kr. - Tilskud 165 Kr.
+"	1941	5	2
+"5"	1941-05-02	"closed"	"19410502B_31.pdf"	4	"121-1941"	"Tømrerm. N. C. Christiansen, Guldsmedg. 17-19, samlet Udgift 7299 Kr. - Tilskud 2555 Kr.
+Samme, Tordenskjoldsgade 29, samlet Udgift 2444 Kr. - Tilskud 855 Kr.
+Samme. Tordenskjoldsgade 31, samlet Udgift 2745 Kr. Tilskud 960 Kr.
+Grdr. Villads Villadsen, Tordenskjoldsg. 85, samlet Udgift 1108 Kr. - Tilskud 390 Kr.
+Tapetsererm. K. E. E. Sørensen, Aldersrovej 36, samlet Udgift 462 Kr. - Tilskud 160 Kr.
+Slagterm. Gunnar Skive, Otto Rudsg. 15, samlet Udgift 225 Kr. - Tilskud 80 Kr.
+Arbmd. Alfr. Jensen, Narviksg. 5, samlet Udgift 752 Kr. - Tilskud 265 Kr.
+Arbmd. L. E. S. Hansen, Arendalsvej 3, samlet Udgift 550 Kr. - Tilskud 195 Kr.
+Murerm. Valdemar Berg, Østboulevard 7, samlet Udgift 2448 Kr. - Tilskud 855 Kr.
+Restauratør Niels Post, Nørreport 21-23, samlet Udgift 1789 Kr. - Tilskud 625 Kr.
+Ingeniør A. Chr. Niepoort, Marselisvej 12, samlet Udgift 1684 Kr. - Tilskud 590 Kr.
+Skoledirektør H. Sejerholt, Holtevej 3, samlet Udgift 102 Kr. - Tilskud 35 Kr.
+Jens Edvard Sørensen, Jægergaardsg. 4-6, samlet Udgift 1161 Kr. - Tilskud 405 Kr.
+Læge H. M. Kramer-Petersen, Niels W. Gadesvej 12, samlet Udgift 3225 Kr. - Tilskud 1130 Kr.
+Tømrerm. L. P. Sørensen, Vesterbrogade 9, samlet Udgift 2172 Kr. - Tilskud 760 Kr.
+Kusk J. H. Selch, Helgenæsg. 8, samlet Udgift 995 Kr. - Tilskud 350 Kr.
+Murerm. J. P. Pedersen, Holtevej 15, samlet Udgift 715 Kr. - Tilskud 265 Kr.
+"	1941	5	2
+"6"	1941-05-02	"closed"	"19410502B_31.pdf"	5	"121-1941"	"Murerm. J. P. Pedersen, Spanien 15 a og b, samlet Udgift 1295 Kr. - Tilskud 455 Kr.
+Vinduespolerer N. V. N. Helt, Skovgaardsgade 10, samlet Udgift 302 Kr. - Tilskud 105 Kr.
+Fru Inger Christensen, Vesterbrogade 14, samlet Udgift 403 Kr. -- Tilskud 140 Kr.
+Gas- og Vandmester H. H. Svantemann, Brammersgade 9, samlet Udgift 166 Kr. - Tilskud 60 Kr.
+Snedkersv. Johs. M. Pedersen, Montanag.
+64,samlet Udgift 497 Kr. - Tilskud 175 Kr.
+Regnskabsfører C. T. J. Hansen, Hellerup vej 4, samlet Udgift 393 Kr. - Tilskud 140 Kr.
+Legetøjshdl. M. Jensen, Fr. Allé 119, samlet Udgift 557 Kr. - Tilskud 195 Kr.
+Husejer A. M. Nielsen, Saltholmsgade 29, samlet Udgift 148 Kr. - Tilskud 50 Kr.
+Købmand N. A. Jørgensen, Nørreallé 62, samlet Udgift 739 Kr. - Tilskud 260 Kr.
+Samme, Bechgaardsvej 6, samlet Udgift 1011 Kr. - Tilskud 355 Kr.
+Pensionist R. H. Damsgaard, Sejrøgade 2, samlet Udgift 599 Kr. - Tilskud 210 Kr.
+fhv. Lokomotivf. V. Hansen, Marselisborgallé
+29,samlet Udgift 555 Kr. Tilskud 195 Kr.
+Civiling. Hakon Wied, Rungstedvej 3, samlet Udgift 325 Kr. - Tilskud 115 Kr.
+Hans Christensen, Fr. Allé 140-42 - 44, samlet Udgift 856 Kr. - Tilskud 300 Kr.
+Tømrerm. Chr. F. Christensen, Niels Juelsg. 45, samlet Udgift 300 Kr. - Tilskud 105 Kr.
+Fru T. Ziegler Petersen, Norsgade 23-25. samlet Udgift 1436 Kr. - Tilskud 505 Kr.
+Gas- og Vandmester K. W. Laursen, 
+"	1941	5	2
+"7"	1941-05-02	"closed"	"19410502B_31.pdf"	6	"121-1941"	"Ole Rømersgade 65, samlet Udgift 564 Kr. - Tilskud 195 Kr.
+Murer E. S. Skov m. fl., Skernvej 4, samlet Udgift 800 Kr. Tilskud 280 Kr.
+Montør K. R. Jensen, F. G. E. Rostrupsvej 8 a, samlet Udgift 552 Kr. - Tilskud 195 Kr.
+Syerske K. Thomsen, Ole Rømersgade 102, samlet Udgift 175 Kr. - Tilskud 60 Kr.
+Fru Mariane Christensen, Montanag, 42, samlet Udgift 337 Kr. - Tilskud 120 Kr.
+Murerm. Rasmus Karl Rasmussen, Otto Rudsgade 17, samlet Udgift 831 Kr. - Tilskud 290 Kr.
+Murerm. S. Rasmussen m. fl., Gyldenløvesg.
+4.samlet Udgift 523 Kr. - Tilskud 185 Kr.
+Samme, Gyldenløvesg. 2, samlet Udgift 757 Kr. - Tilskud 265 Kr.
+Tømrerm. N. K. Nielsen, H. Guldbergsg. 141, samlet Udgift 381 Kr. - Tilskud 135 Kr.
+Rentier Kresten Knudsen, Dalgas Avenue 21, samlet Udgift 503 Kr. - Tilskud 175 Kr.
+Direktør N. Petersen Haahr, Ringkøbingvej
+30,samlet Udgift 1355 Kr. - Tilskud 475 Kr.
+Marie Clausen, Jyllandsallé 39, samlet Udgift 395 Kr. - Tilskud 140 Kr.
+pens. Pakmester Peder Christensen, I. Huit-feldsgade 28, samlet Udgift 140 Kr. - Tilskud 50 Kr.
+Overpolitibetjent A. Kristiansen, Tordenskjoldsgade 10, samlet Udgift 642 Kr. - Tilskud 225 Kr.
+Peter Sophus Petersen, Nørreallé 66, samlet Udgift 1100 Kr. - Tilskud 385 Kr.
+Fru Marie Pedersen, H. Guldbergsg. 107, samlet Udgift 919 Kr. - Tilskud 320 Kr.
+"	1941	5	2
+"8"	1941-05-02	"closed"	"19410502B_31.pdf"	7	"121-1941"	"Købmand P. Rasmussen, Nørreallé 87, samlet Udgift 484 Kr. - Tilskud 170 Kr.
+Kaffehdl. Marius Jensen, Bruunsgade 40, samlet Udgift 1725 Kr. - Tilskud 605 Kr.
+Enkefru Gerda F. Stigaard, Sønder Allé 23, samlet Udgift 195 Kr. - Tilskud 70 Kr.
+Lagerarb. A. Offersen, H. Guldbergsg. 87, samlet Udgift 886 Kr. - Tilskud 310 Kr.
+Murerm. M. Pedersen, Wærumsgade 5, samlet Udgift 784 Kr. - Tilskud 275 Kr.
+Detailist Axel Bech, Langelandsgade 110, samlet Udgift 515 Kr. - Tilskud 180 Kr.
+Samme, Sjællandsgade 101, samlet Udgift 1592 Kr. - Tilskud 555 Kr.
+Repr. N. K. Knudsen, Knud Rasmussens-vej 5, samlet Udgift 180 Kr. - Tilskud 65 Kr.
+Bryggeriarb. Mads Thomsen, Hjortensg 9, samlet Udgift 755 Kr. - Tilskud 265 Kr.
+Købmand A. Fomsgaard, Vestergade 82, samlet Udgift 595 Kr. - Tilskud 210 Kr.
+Andelsboligforeningen \"Centrum\", Chr. Købkesgade 3-25 og 4-16, Sonnesgade 8 og 10, Eckersbergsgade 29- 43, samlet Udgift 1795 Kr. - Tilskud 630 Kr.
+Bankbud S. S. Steffensen, H. Guldbergsg. 69 b. samlet Udgift 711 Kr. - Tilskud 250 Kr.
+Fru Edith Prange, Trøjborgvej 2 c, samlet Udgift 778 Kr. - Tilskud 270 Kr.
+Guldsmed O. Chr. Sørensen, Guldsmedg. 2, samlet Udgift 380 Kr. - Tilskud 135 Kr.
+Fru Petrine Møller, Tietgens PI. 10, samlet Udgift 265 Kr. - Tilskud 95 Kr.
+Hans Peter Thomsen, St. Blichersgade 10, samlet Udgift 610 Kr. - Tilskud 215 Kr.
+Lokomotivm. E. M. Christensen, Horsensg.
+6,samlet Udgift 748 Kr. - Tilskud 260 Kr.
+"	1941	5	2
+"9"	1941-05-02	"closed"	"19410502B_31.pdf"	8	"121-1941"	"Kulhdl. N. M. Rasmussen, Fredericiag. 37, samlet Udgift 603 Kr. - Tilskud 210 Kr.
+Thyge Haumüller, Holbergsgade 19, samlet Udgift 670 Kr. - Tilskud 235 Kr.
+Overass. J. Christensen, Marselis Boulv. 5, samlet Udgift 725 Kr. - Tilskud 255 Kr.
+Malerm. V. B. M. Riis, Nørregade 15, samlet Udgift 400 Kr. - Tilskud 140 Kr.
+S.Dalhoff Larsen, Pontoppidansgade 26, samlet Udgift 1399 Kr. - Tilskud 490 Kr.
+Montør Johs. K. Rasch, Lars Krusesg. 12, samlet Udgift 845 Kr. - Tilskud 295 Kr.
+Ark. A. Høeg Hansen, m. fl., Skolebakken
+7.samlet Udgift 2068 Kr. - Tilskud 725 Kr.
+Fru Maren Christensen, Samsøgade 56, samlet Udgift 330 Kr. - Tilskud 115 Kr.
+Broncestøber Erstad-Pedersen, Bruunsgade 32, samlet Udgift 554 Kr. - Tilskud 195 Kr.
+Farvehdl. Annie M. Petersen, Bruunsg. 37, samlet Udgift 1634 Kr - Tilskud 570 Kr.
+Aarhus Museum, Vester Allé 11, samlet Udgift 433 Kr. - Tilskud 150 Kr.
+Møbelhdl. H. Johansen Madsen, Jæger-gaardsgade 17- 19-21, samlet Udgift 1024 Kr. - Tilskud 360 Kr.
+fhv. Købmand R. P. V. Jensen, Museumsg.
+4.samlet Udgift 600 Kr. - Tilskud 210 Kr.
+Forretningsf. Anders Jensen, Ringkøbing-vej 22, samlet Udgift 340 Kr. - Tilskud 120 Kr.
+Tømrerm. Th. A Klostergaard, Nørre Allé 88-90, samlet Udgift 2459 Kr. - Tilskud 860 Kr.
+Arkitekt L. Chr. Mogensen, Mejlgade 58, samlet Udgift 550 Kr. - Tilskud 195 Kr.
+"	1941	5	2
+"10"	1941-05-02	"closed"	"19410502B_31.pdf"	9	"121-1941"	"Samme, Nørreport 3, samlet Udgift 470 Kr. - Tilskud 165 Kr.
+Skolebetjent Andr. Madsen, N. Juelsg. 81, samlet Udgift 1339 Kr. - Tilskud 470 Kr.
+Fru Ella Nielsen, Mindet 6, samlet Udgift 440 Kr. - Tilskud 155 Kr.
+Murerm. Mikkel Petersen, Mylius Eriksens-vej 14, samlet Udgift 370 Kr. - Tilskud 130 Kr.
+Tromlefører N. K. M. Jensen Skydt, Randersvej 29, samlet Udgift 489 Kr. - Tilskud 170 Kr.
+Murerm. Mikkel Pedersen, Niels Juelsg. 53, samlet Udgift 2836 Kr. - Tilskud 995 Kr.
+Blikkenslagerm. Sv. Ekensteen, Ny Munkeg.
+16,samlet Udgift 470 Kr. - Tilskud 165 Kr.
+Murer Aksel Fr. Mehl m. fl., Klosterg. 78, samlet Udgift 570 Kr. - Tilskud 200 Kr.
+Møllersv. S. M. Jensen, Faaborgg, 7 a og b, samlet Udgift 1134 Kr. - Tilskud 395 Kr.
+Fabr. Fru K. P. F. Gloggengieser, Fiskerg.
+3.samlet Udgift 1091 Kr. - Tilskud 380 Kr.
+Bagerm. M. Thomsen, Vesterg. 27, samlet Udgift 461 Kr. - Tilskud 160 Kr.
+Nattevagt L. L. M. Jacobsen, Tordenskjoldsgade 66, samlet Udgift 840 Kr. - Tilskud 295 Kr.
+Gravørmester Alfr. H. Thurm, Stadion Allé
+10,samlet Udgift 333 Kr. - Tilskud 115 Kr.
+Michael M. Stub Hansen, Valbyvej 6, samlet Udgift 194 Kr. - Tilskud 70 Kr.
+Enkefru Anine Johansen, Hedemannsg. 5, samlet Udgift 350 Kr. - Tilskud 125 Kr.
+Cigarhdl. A. V. Andersen, Nørre Allé 67, samlet Udgift 114 Kr. - Tilskud 40 Kr.
+"	1941	5	2
+"11"	1941-05-02	"closed"	"19410502B_31.pdf"	10	"121-1941"	"Murerm. Chr. Jensen Rasmussen, Skander-borgvej 1, samlet Udgift 984 Kr. - Tilskud 345 Kr.
+Samme, Aalborggade 19, samlet Udgift 2036 Kr. - Tilskud 715 Kr.
+Maskinarb. C. M. Sørensen, Tønderg. 4, samlet Udgift 477 Kr. - Tilskud 165 Kr.
+Købmand E V. Kloster, Thunøgade 16, samlet Udgift 1385 Kr. - Tilskud 485 Kr.
+Ass. Erik Bagner og Mikael Jensen, Sjællandsgade 98, samlet Udgift 220 Kr. - Tilskud 75 Kr.
+Malerm. N. Th. Guldby, Wærumsgade 29, samlet Udgift 563 Kr. - Tilskud 195 Kr.
+Fru Ingeborg Hanberg Sørensen, Harald Jensens PI. 15, samlet Udgift 740 Kr. - Tilskud 260 Kr.
+Murerm. Mikkel Pedersen, St. Billestorv 10, samlet Udgift 550 Kr. - Tilskud 195 Kr.
+Murerm. Mikkel Pedersen, St. Billesgade 2, samlet Udgift 420 Kr. - Tilskud 145 Kr.
+Frk. Ella M. Justesen, Rosenkrantzgade 4, samlet Udgift 552 Kr. - Tilskud 195 Kr.
+Jydsk Handels og Landbrugsbank, Bruuns-gade 57. samlet Udgift 2966 Kr. - Tilskud 1040 Kr.
+Hans Peter Ottosen, Otto Rudsgade 96, samlet Udgift 1343 Kr. - Tilskud 470 Kr.
+Bagerm. Søren Lykke-Møller, Harald Jensens Plads 17, samlet Udgift 960 Kr. - Tilskud 335 Kr.
+Pensionist R. C. Petersen, Schleppegrellsgade 3, samlet Udgift 352 Kr. - Tilskud 125 Kr.
+Bagerm. L. Petersen, Fr. Allé 85, samlet Udgift 687 Kr. - Tilskud 240 Kr.
+"	1941	5	2
+"12"	1941-05-02	"closed"	"19410502B_31.pdf"	11	"121-1941"	"Komm. Lærer C. M. Sørensen, Silkeborgvej 152, samlet Udgift 591 Kr. - Tilskud 205 Kr.
+A/S Fotorama, Bruunsgade 22-24, samlet Udgift 1054 Kr. - Tilskud 370 Kr.
+Samme, Søndergade 53, samlet Udgift 4903 Kr. - Tilskud 1715 Kr.
+A/S Wimmelmann &amp;amp; Høyer, Nørre Allé 32, samlet Udgift 645 Kr. - Tilskud 225 Kr.
+Tømrer H. A. Pedersen, Gertrud Rasksvej
+6,samlet Udgift 238 Kr. - Tilskud 85 Kr.
+Direktør V. Lindhardsen, Aalborggade 25, samlet Udgift 403 Kr. - Tilskud 140 Kr.
+Det Danske Petroleums Aktieselskab, Fredensgade 55, samlet Udgift 373 Kr. - Tilskud 130 Kr.
+Tømrer P. Johs. Rasmussen, Roald Amund-sensvej 25, samlet Udgift 170 Kr. - Tilskud 60 Kr.
+Købmand Janus A. Lind, Fredensgade 54, samlet Udgift 803 Kr. - Tilskud 280 Kr.
+Enke Kirstine Jensen, Molsgade 9, samlet Udgift 500 Kr. - Tilskud 175 Kr.
+Niels Chr. Christensen, de Mezasvej 6, samlet Udgift 684 Kr. - Tilskud 240 Kr.
+Enke G. K. Hinge, Herluf Trollesgade 44-46, samlet Udgift 458 Kr. - Tilskud 160 Kr.
+Købmand Carl Alfr. Jørgensen, Birkegade 1, samlet Udgift 746 Kr. - Tilskud 260 Kr.
+Pensionist M. R. Madsen, Morten Borups-gade 18, samlet Udgift 627 Kr. - Tilskud 220 Kr.
+Bagerm. A. M. Nielsen, Grønningen 1, samlet Udgift 799 Kr. - Tilskud 280 Kr.
+Hans Peter Ottosen, Willemoesgade 52, samlet Udgift 859 Kr. - Tilskud 300 Kr.
+"	1941	5	2
+"13"	1941-05-02	"closed"	"19410502B_31.pdf"	12	"121-1941"	"Isenkræmmer V. Sørensen, Dr. Margrethes-vej 63, samlet Udgift 500 Kr. Tilskud 175 Kr.
+Malerm. Chr. Mikkelsen, Kriegersvej 15, samlet Udgift 1007 Kr. - Tilskud 350 Kr.
+Husejerske Astrid Smed, Willemoesgade 24, samlet Udgift 1972 Kr. - Tilskud 690 Kr.
+Murerm. E. M. R. Nøhr, Silkeborgvej 102, samlet Udgift 458 Kr. - Tilskud 160 Kr.
+Enkefru Mette Jensen, Frederiksgade 78, samlet Udgift 2615 Kr. - Tilskud 915 Kr.
+Tømrerm. Søren Grosen, Trepkasgade 27, samlet Udgift 786 Kr. - Tilskud 275 Kr.
+Skræderm. Th. Klostergaard, Nørre Allé 73, samlet Udgift 570 Kr. - Tilskud 200 Kr.
+Overass. Jens Møller, Nygade 26, samlet Udgift 1630 Kr. - Tilskud 570 Kr.
+Skræderm. J. J. Skorup, Hallssti 1-3, samlet Udgift 706 Kr. - Tilskud 245 Kr.
+Bagerm. A. Jørgensen, Østergade 5, samlet Udgift 4603 Kr. - Tilskud 1610 Kr.
+Tømrerm. Th. Pedersen, Sønderallé 5, samlet Udgift 5845 Kr. - Tilskud 2045 Kr.
+Samme, Søndergade 76, samlet Udgift 5980 Kr. - Tilskud 2095 Kr.
+Samme, J. Bechgaardsvej 7, samlet Udgift 1575 Kr. - Tilskud 550 Kr.
+Samme, Sønderallé 3, samlet Udgift 5040 Kr. - Tilskud 1765 Kr.
+Samme, Parkallé 9, samlet Udgift 5430 Kr. - Tilskud 1900 Kr.
+Chauffør A. P. Andersen, Tordenskjoldsgade 64, samlet Udgift 385 Kr. - Tilskud 135 Kr.
+Syerske Alma J. Nielsen, Brammersgade
+27,samlet Udgift 350 Kr. - Tilskud 125 Kr.
+"	1941	5	2
+"14"	1941-05-02	"closed"	"19410502B_31.pdf"	13	"121-1941"	"Sygeplejerske E. Petersen, P. Skramsgade 52 b, samlet Udgift 488 Kr. - Tilskud 170 Kr.
+Blomsterhdl. Sophus G. Andersen, Tordenskjoldsgade 4, samlet Udgift 398 Kr. Tilskud 140 Kr.
+Samme, Ivar Huitfeldsgade 27, samlet Udgift 649 Kr. - Tilskud 225 Kr.
+Samme, Otto Rudsgade 14, samlet Udgift 322 Kr. - Tilskud 115 Kr.
+Fabrikant A. Kaufmann, Skovbrynet 8, samlet Udgift 1979 Kr. - Tilskud 695 Kr.
+A/S 17. Juli 1936, Viborgvej 21-23, samlet Udgift 142 Kr. Tilskud 50 Kr.
+Ing. Chr. Enevold Hansen, Møensgade 18-20, samlet Udgift 1330 Kr. - Tilskud 465 Kr.
+Prokurist Frode Sørensen, Sdr. Ringgade
+21,samlet Udgift 1971 Kr. Tilskud 690 Kr.
+Enkefru Marie Poulsen, Eckersbergsgade 23, samlet Udgift 937 Kr. - Tilskud 330 Kr.
+Murerm. Ejner Mikkelsen, Taarbækvej 4, samlet Udgift 2350 Kr. - Tilskud 825 Kr.
+Grosserer J. E. F. Petersen, Klostergade 68, samlet Udgift 1200 Kr. - Tilskud 420 Kr.
+Tømrerm. P. Brauner m. fl-, Kongsvangs-allé 2, samlet Udgift 580 Kr. - Tilskud 205 Kr.
+Slagterm. C. P. Zwiebler, Banegaardsgade
+3,samlet Udgift 1133 Kr. - Tilskud 395 Kr.
+Kurvemagerm. Niels Hansen, Jægergaards-gade 46, samlet Udgift 475 Kr. - Tilskud 165 Kr.
+Kemp &amp;amp; Lauritzen, Nørregade 38, samlet Udgift 5186 Kr. - Tilskud 1815 Kr.
+Fhv. Glasmager S. E. Eriksen, Steinmanns-gade 8, samlet Udgift 671 Kr. - Tilskud 235 Kr.
+"	1941	5	2
+"15"	1941-05-02	"closed"	"19410502B_31.pdf"	14	"121-1941"	"Set. Josephs Hospital, Bulovsgade 68, samlet Udgift 7127 Kr. - Tilskud 2495 Kr.
+Tandlæge Børge V. J. Elmer, Knud Rasmussens Vej 10, samlet Udgift 405 Kr. - Tilskud 140 Kr.
+Havnearb. H. E. Jørgensen, Sct. Annagade
+31,samlet Udgift 344 Kr. - Tilskud 120 Kr.
+Maskinm. Chr. W, Jessen, Aldersrovej 32, samlet Udgift 322 Kr. - Tilskud 115 Kr.
+Belysningsdirektør S. Jonasson, Hellerup-vej 16, samlet Udgift 919 Kr. - Tilskud 320 Kr.
+Pensionist Niels R. Sørensen, St. Blichersgade 23, samlet Udgift 301 Kr. - Tilskud 105 Kr.
+Murerm. A. P. Andersen, Ny Banegaards-gade 45, samlet Udgift 938 Kr. - Tilskud 330 Kr.
+Maskinarb. J. E. Jacobsen, Sjællandsgade 49, samlet Udgift 411 Kr. - Tilskud 145 Kr.
+Husejer Andrea Jensen, Sct. Paulsgade 26, samlet Udgift 677 Kr. - Tilskud 235 Kr.
+Tømrer M. I. Rasmussen, Kaløgade 4, samlet Udgift 565 Kr. - Tilskud 200 Kr.
+Klinikass. V. Pløger og Asta Pløger, Niels Juelsgade 55, samlet Udgift 805 Kr. - Tilskud 280 Kr.
+Valdemar Svenstrup, Tietgens Plads 1, samlet Udgift 662 Kr. - Tilskud 230 Kr.
+Pens. Brandmand Ole Olsen, Langelandsgade 11, samlet Udgift 824 Kr. - Tilskud 290 Kr.
+Slagter Martin Møller, Borupsgade 6, samlet Udgift 480 Kr. - Tilskud 170 Kr.
+Kaptajn Andreas Frederik Beyer, 
+"	1941	5	2
+"16"	1941-05-02	"closed"	"19410502B_31.pdf"	15	"121-1941"	"Carl Blochsgade 33, samlet Udgift 2250 Kr. - Tilskud 790 Kr.
+Husejer Mariane S. Steen, Lollandsgade 3, samlet Udgift 420 Kr. - Tilskud 145 Kr.
+Anton Jensen og Kay Schmidt, Sct. Pauls Kirkeplads 7, samlet Udgift 572 Kr. - Tilskud 200 Kr.
+Snedkerm. Anton Jensen, Bruunsgade 62, samlet Udgift 890 Kr. - Tilskud 310 Kr.
+Repr. S. M. S. Madsen, Heibergsgade 1 c, samlet Udgift 334 Kr. - Tilskud 115 Kr.
+Fru Merry Breinholm m. fl., Ørumsgade 6, samlet Udgift 950 Kr. - Tilskud 335 Kr.
+Samme, Sdr. Ringgade 1, samlet Udgift 783 Kr. - Tilskud 275 Kr.
+Stempelfabr. A. R. N. Hammerschmidt, Guldsmedgade 38, samlet Udgift 1750 Kr. - Tilskud 615 Kr.
+Murerm. Chresten Jensen Rasmussen, Lucas Kirkeplads 8, samlet Udgift 209 Kr. - Tilskud 75 Kr.
+Salgsinsp. Johan H. G. Jürgensen, Samsøgade 37, samlet Udgift 225 Kr. - Tilskud 80 Kr.
+Firma Nielsen &amp;amp; Laursen Brandt, Rosensgade 14-20, samlet Udgift 1000 Kr. - Tilskud 350 Kr.
+Samme, Mindebrogade 4-6, samlet Udgift 1357 Kr. - Tilskud 475 Kr.
+Tømrersv. Evald Klausen, Herluf Trollesgade 28, samlet Udgift 719 Kr. Tilskud 250 Kr.
+Overlæge Ejnar Lange, Silkeborgvej 114, samlet Udgift 368 Kr. - Tilskud 130 Kr.
+Samme, Silkeborgvej 112, samlet Udgift
+394Kr. - Tilskud 140 Kr.
+"	1941	5	2
+"17"	1941-05-02	"closed"	"19410502B_31.pdf"	16	"121-1941"	"Dekoratør Søren Nielsen, Frederiksallé 60, samlet Udgift 340 Kr. - Tilskud 120 Kr.
+Enkefru M. K. Eshøj, Skovgaardsgade 2 b, samlet Udgift 486 Kr. Tilskud 170 Kr.
+Generalkonsul O. H. Svenné og Hustrus Mindelegat, Ny Munkegade 74, samlet Udgift 2282 Kr. - Tilskud 800 Kr.
+A/S Dansk Shell, Silkeborgvej 20, samlet Udgift 315 Kr. Tilskud 110 Kr.
+Fru Carla Westergaard, Dr. Margrethesvej
+23,samlet Udgift 955 Kr. - Tilskud 335 Kr.
+Sadelmagerm. A. Daniel Nielsen, Odensegade 16-18, samlet Udgift 1918 Kr. - Tilskud 670 Kr.
+Grosserer Carl S. Mortensen, Marselisvej 4, samlet Udgift 1013 Kr. - Tilskud 355 Kr.
+Det Danske Petroleums Aktieselskab, Amtmandstoften, samlet Udgift 1150 Kr. - Tilskud 405 Kr.
+Ing. Ferdinand H. R. Reichelt, Dr. Margrethesvej 10, samlet Udgift 1410 Kr. - Tilskud 495 Kr.
+Samme, Ndr. Ringgade 112, samlet Udgift 695 Kr. - Tilskud 245 Kr.
+Partikulier Erik N. Larsen, Vesterallé 23, samlet Udgift 520 Kr. - Tilskud 180 Kr.
+Mekaniker Karl J. P. Paulsen, Hellerupvej
+12,samlet Udgift 1255 Kr. - Tilskud 440 Kr.
+Entreprenør F. Chr. Rasmussen, Knud Ras-mussensvej 8, samlet Udgift 478 Kr. - Tilskud 165 Kr.
+Enke Mette M. Andersen, St. Blichersgade
+28,samlet Udgift 470 Kr. - Tilskud 165 Kr.
+Enkefru Anna Ring, Jægergaardsgade 144, samlet Udgift 782 Kr. - Tilskud 275 Kr.
+"	1941	5	2
+"18"	1941-05-02	"closed"	"19410502B_31.pdf"	17	"121-1941"	"Skræderm. Søren Petersen, Teglværksgade
+22,samlet Udgift 496 Kr. - Tilskud 175 Kr.
+Lærer Aksel Th. Basland-Rasmussen, Wille-moesgade 48, samlet Udgift 396 Kr. -- Tilskud 140 Kr.
+Aarhus Kalkværk, Spanien 63, samlet Udgift 367 Kr. - Tilskud 130 Kr.
+Fru Edel M. Jensen, Ivar Huitfeldsgade 42, samlet Udgift 413 Kr. - Tilskud 145 Kr.
+Slagterm. N. M. Petersen, Lyngbyvej 4, samlet Udgift 430 Kr. - Tilskud 150 Kr.
+Arkitekt N. Chr. Skjøth, Pontoppidansgade
+32,samlet Udgift 860 Kr. - Tilskud 300 Kr.
+Togfører V. J. Pedersen, Hallssti 49, samlet Udgift 446 Kr. - Tilskud 155 Kr.
+Aarhus Havnevæsen, Skovvej 12-14, samlet Udgift 2450 Kr. - Tilskud 860 Kr.
+Smed Niels H. Thomsen, Aarestrupsvej 6, samlet Udgift 280 Kr. - Tilskud 100 Kr.
+Forstanderinde Ingeborg Kjær, Mørksgade
+18,samlet Udgift 576 Kr. - Tilskud 200 Kr.
+Hakon Bernhard Jensen, Hjortensgade 21, samlet Udgift 343 Kr. - Tilskud 120 Kr.
+Fru T. V. Basch, Christiansgade 27, samlet Udgift 700 Kr. - Tilskud 245 Kr.
+Vognmand Chr. E. Jørgensen, Fr. Allé 110, samlet Udgift 588 Kr. - Tilskud 205 Kr.
+Samme, Vilstersgade 25, samlet Udgift 196 Kr. - Tilskud 70 Kr.
+Lærer Martin Husby, Stadionallé 41, samlet Udgift 238 Kr. - Tilskud 85 Kr.
+Menighedsraadet for Set. Pauls Sogn, Dalgas Avenue 48, samlet Udgift 953 Kr. - Tilskud 335 Kr.
+Husejer Mariane S. Steen, Nørreallé 78, samlet Udgift 551 Kr. - Tilskud 195 Kr.
+"	1941	5	2
+"19"	1941-05-02	"closed"	"19410502B_31.pdf"	18	"121-1941"	"Bagerm. Anton Jensen, Niels Juelsgade 83 samlet Udgift 315 Kr. - Tilskud 110 Kr.
+Bibliotekar J. P. Kirkegaard, Dr. Margre-thesvej 5, samlet Udgift 394 Kr. - Tilskud 140 Kr.
+Auktionsholder Niels Nielsen, Bissensgade 1-3, samlet Udgift 2645 Kr. - Tilskud 925 Kr.
+Samme, Bissensgade 9, samlet Udgift 1418 Kr. - Tilskud 495 Kr.
+Gaardejer Kristen Nielsen, Peder Skrams-gade 17, samlet Udgift 975 Kr. - Tilskud 340 Kr.
+Arbmd. Frands Petersen, Ivar Huitfeldsgade 59 a og 59 b, samlet Udgift 2008 Kr. - Tilskud 705 Kr.
+Ing. F. H. R. Reichelt, St. Billesgade 13, samlet Udgift 723 Kr. - Tilskud 255 Kr.
+Maskinm. S. Aa. M. Saabøll, Wærumsgade 21, satnlet Udgift 594 Kr. - Tilskud 210 Kr.
+Samme, Wærumsgade 23, samlet Udgift 423 Kr. - Tilskud 150 Kr.
+Chauffør Børge Riber, Stadionallé 20, samlet Udgift 548 Kr. - Tilskud 190 Kr.
+Pens. Lærer Anders M. Glavind, Dr. Mar-grethesvej 65, samlet Udgift 277 Kr. - Tilskud 95 Kr.
+Ing. Hans Rasmussen, Holtevej 14, samlet Udgift 750 Kr. - Tilskud 265 Kr.
+A. W. Kirkebye A/S, Gebauersgade 6, samlet Udgift 379 Kr. - Tilskud 135 Kr.
+Pakmester C. T. N. Kragh, Bruunsgade 55, samlet Udgift 843 Kr. - Tilskud 295 Kr.
+Fabr. Hans J. Larsen, Bergensgade 18, samlet Udgift 288 Kr. - Tilskud 100 Kr.
+Grosserer Johs Nielsen, Stadionallé 39, samlet Udgift 146 Kr. - Tilskud 50 Kr.
+"	1941	5	2
+"20"	1941-05-02	"closed"	"19410502B_31.pdf"	19	"121-1941"	"Niels Nielsen, Tordenskjoldsgade 25, samlet Udgift 455 Kr. - Tilskud 160 Kr.
+Niels Nielsen, Skolegade 7, samlet Udgift 606 Kr. - Tilskud 210 Kr.
+Korrespondent Poul Nielsen, Ny Munkegade 96, samlet Udgift 449 Kr. - Tilskud 155 Kr.
+Fru M. Nielsen, Marselisborgallé, 4 A og 4 B, samlet Udgift 1592 Kr. - Tilskud 555 Kr.
+Landsretssagf. E. Karstens, Lundingsgade 13-15, samlet Udgift 1847 Kr. - Tilskud 645 Kr.
+Maler Horneberg, Skolegade 30, samlet Udgift 575 Kr. - Tilskud 165 Kr.
+Ørelæge H. Bagger, Otto Rudsgade 92, samlet Udgift 673 Kr. - 235 Kr.
+Ark. Johs. Frederiksen, Herluf Trollesg. 37, samlet Udgift 660 Kr. - Tilskud 230 Kr.
+Fru Magdalene Nielsen, Falstersgade 14, samlet Udgift 540 Kr. - Tilskud 190 Kr.
+Salgschauffør E. E. Vagnsø, Dr. Margre-thesvej 59 b, samlet Udgift 1171 Kr. - Tilskud 410 Kr.
+Skolebest. Jens F. J. Bundgaard, Nørreg. 14, samlet Udgift 763 Kr. - Tilskud 265 Kr.
+Tømrer A. M. Christensen, Ny Munkeg. 90, samlet Udgift 461 Kr. - Tilskud 160 Kr.
+Snedkerm. Andersen og Nielsen, Fr. Allé 62, samlet Udgift 973 Kr. - Tilskud 340 Kr.
+Murerm. Anker Jakobsen, Kildegaarden 12-14-15, samlet Udgift 41945 Kr. - Tilskud 14680 Kr.
+Murerm. Rasmus Rasmussen, Sct. Paulsg. 42a, samlet Udgift 1400 Kr. - Tilskud 490 Kr.
+Arbmd. A. J. Jacobsen, Brendstrupvej 50, samlet Udgift 280 Kr. - Tilskud 100 Kr.
+"	1941	5	2
+"21"	1941-05-02	"closed"	"19410502B_31.pdf"	20	"121-1941"	"Cementstøber B. Chr. Nielsen. Otto Rudsg.
+44,samlet Udgift 630 Kr. - Tilskud 220 Kr.
+Snedkerm. Chr. Schau, Ørumsgade 34, samlet Udgift 767 Kr. - Tilskud 270 Kr.
+Tømrer Sophus Th. Reng, Heibergsg. 16, samlet Udgift 319 Kr. - Tilskud 110 Kr.
+Samme, Heibergsgade 22, samlet Udgift 457 Kr. - Tilskud 160 Kr.
+Samme, Marselisborgallé 19, samlet Udgift 253 Kr. - Tilskud 90 Kr.
+Kreditforeningsdirektør N. M. Bak, Havnegade 24-26, samlet Udgift 3327 Kr. - Tilskud 1165 Kr.
+Samme, Østergade 44, samlet Udgift 7261 Kr. - Tilskud 2540 Kr.
+Bogholder S. S. Knudsen, Hans Brogesgade
+5,samlet Udgift 50 Kr. - Tilskud 20 Kr.
+Tømrerm. Søren A. Madsen, Marselisborgallé 3 b, samlet Udgift 1560 Kr. - Tilskud 545 Kr.
+Fiskehdl. Svend Pedersen, Tordenskjoldsg. 81, samlet Udgift 85 Kr. - Tilskud 30 Kr.
+Barber S. K. J. Hansen, Chr. Købkesg. 14, samlet Udgift 400 Kr. - Tilskud 140 Kr.
+Møbelhandler T. A. P. Petersen, Mejlgade 36, samlet Udgift 1305 Kr. - Tilskud 455 Kr.
+Boghandler K. F. Møller, St. Torv 5, samlet Udgift 6350 Kr. - Tilskud 1770 Kr.
+Overportør N. K. Nielsen, Chr. Købkesg.
+10,samlet Udgift 120 Kr. - Tilskud 40 Kr.
+Maskinsnedker Th. Madsen, Chr. Købkesg. 14, samlet Udgift 115 Kr. - Tilskud 40 Kr.
+Kunstmaler E. Hansen, Eckersbergsg. 29, samlet Udgift 336 Kr. - Tilskud 120 Kr.
+Maskinpasser E. V. I. Hellemann, 
+"	1941	5	2
+"22"	1941-05-02	"closed"	"19410502B_31.pdf"	21	"121-1941"	"Eckersbergsgade 29, samlet Udgift 714 Kr. - Tilskud 195 Kr.
+Købmand S. J. Skov, Eckersbergsgade 31, samlet Udgift 119 Kr. - Tilskud 40 Kr.
+Restauratør S. L. Nielsen, Guldsmedg. 22, samlet Udgift 990 Kr. - Tilskud 345 Kr.
+Købmand S. W. Thomsen, Thorvaldsensg.
+13,samlet Udgift 738 Kr. - Tilskud 215 Kr.
+Restauratør J. Jensen, Sønderallé 3, samlet Udgift 1007 Kr. - Tilskud 350 Kr.
+Restauratør A. Steengaard, Skolegade 2, samlet Udgift 600 Kr. - Tilskud 210 Kr.
+Maskinarb. A. Karlsen, Roald Amundsensvej 9, samlet Udgift 150 Kr. - Tilskud 55 Kr.
+Isenkræmmer V. E. Adelørn, Norsgade 1, samlet Udgift 252 Kr. - Tilskud 90 Kr.
+Remissearb. G. P. Petersen, Grønneg. 85, samlet Udgift 128 Kr. - Tilskud 45 Kr.
+Frugthdl. N. Nielsen, Nørregade 34, samlet Udgift 11207 Kr. - Tilskud 3640 Kr.
+Ark. Chr. Frühstück-Nielsen, Klosterg. 10, samlet Udgift 6575 Kr. - Tilskud 2300 Kr. - Laan 2300 Kr.
+Samme, Klostergade 10, samlet Udgift 2000 Kr. - Tilskud 700 Kr. - Laan 700 Kr.
+Filialbest. K. Andersen, Strandvejen 134, samlet Udgift 2303 Kr. - Tilskud 770 Kr.
+Fru Johanne Sørensen, I. Huitfeldtsg. 29, samlet Udgift 627 Kr. - Tilskud 220 Kr.
+Trikotagehdl. Carl Nielsen, Aaboulev. 61, samlet Udgift 723 Kr. - Tilskud 255 Kr.
+Værkfører Carl Schou, Blegdammen 9, samlet Udgift 2508 Kr. - Tilskud 880 Kr.
+Hotelejer N. Margrethe Bloch, Frederiksg. 84-86, samlet Udgift 1508 Kr. - Tilskud 530 Kr.
+"	1941	5	2
+"23"	1941-05-02	"closed"	"19410502B_31.pdf"	22	"121-1941"	"Ejendomsaktieselskabet Bruunsbroen, Bygningerne ved Bruunsbroen, samlet Udgift 10223 Kr. - Tilskud 3580 Kr.
+Gartner C. C. V. Stoltze, Østbanetorv 7, samlet Udgift 3507 Kr. - Tilskud 1225 Kr.
+Aarhus Kommune, \"Louisenlund\", samlet Udgift 1050 Kr. - Tilskud 370 Kr.
+Samme, \"Morvadshuset\", Thorsskov, samlet Udgift 1450 Kr. - Tilskud 510 Kr.
+Overass. J. D. H. Praem, Oddervej 17, samlet Udgift 1292 Kr. - Tilskud 450 Kr. - Laan 350 Kr.
+Snedkerm. J. Andersen m. fl., Østboulevard
+5,samlet Udgift 6437 Kr. - Tilskud 2255 Kr. - Laan 2050 Kr.
+Vor Frue Sogns Menighedsraad, Nørreallé 42 b, samlet Udgift 7400 Kr. - Tilskud 2590 Kr.
+fhv. Gaardejer F. C. Adamsen, Skolegade 28, samlet Udgift 515 Kr. - Tilskud 180 Kr.
+Fru Marie Sørensen, Studsgade 6, samlet Udgift 1045 Kr. - Tilskud 365 Kr.
+Æskefabr. H. E. Jensen, Anholtsgade 2-4 samlet Udgift 2595 Kr. - Tilskud 910 Kr.
+Købmand Th. Haslund, Willemoesgade 2, samlet Udgift 969 Kr. - Tilskud 340 Kr.
+H.Hansen Holck, Skovvejen 30, samlet Udgift 219 Kr. - Tilskud 75 Kr.
+Pensionist N. P. Nielsen, Sjællandsgade 117, samlet Udgift 250 Kr. - Tilskud 90 Kr.
+fhv. Smedem. M. Johansen, GI. Munkegade
+8,samlet Udgift 495 Kr. - Tilskud 175 Kr.
+Arbmd. Christiansson, Ole Rømersgade 76, samlet Udgift 1208 Kr. - Tilskud 425 Kr. - Laan 600 Kr.
+A/S Aarhus Dampvaskeri, Læssøesgade 22, samlet Udgift 7900 Kr. - Tilskud 2765 Kr.
+"	1941	5	2
+"24"	1941-05-02	"closed"	"19410502B_31.pdf"	23	"121-1941"	"Murerm. A. M. Knudsen, Sdr. Ringgade 75, samlet Udgift 410 Kr. - Tilskud 145 Kr.
+Samme, Sdr. Ringgade 6, samlet Udgift 412 Kr. - Tilskud 145 Kr.
+Bogholder Q. H. Petersen, Chr. Richardts-vej 3, samlet Udgift 779 Kr. - Tilskud 275 Kr.
+Smedem. H. Marcussen, Graven 5-7, samlet Udgift 1297 Kr. - Tilskud 455 Kr.
+Slagterm. Johan Jensen, Helgenæsgade 1, samlet Udgift 702 Kr. - Tilskud 245 Kr.
+Skræderm. E. Eriksen, Guldsmedgade 22, samlet Udgift 7641 Kr. - Tilskud 2675 Kr.
+A/S 23. August 1934, Grønnegade 42-44, samlet Udgift 2112 Kr. - Tilskud 740 Kr.
+Fru Marie Sørensen, Studsgade 6, samlet Udgift 900 Kr. - Tilskud 315 Kr.
+Hotelejer S. Overgaard, Frederiksgade 79, samlet Udgift 742 Kr. - Tilskud 260 Kr.
+Tømrerm. J. Due Pedersen, Viborgvej 70, aamlet Udgift 9800 Kr. - Tilskud 1380 Kr.
+Murerm. Chr. Jensen Rasmussen, Ørums-gade 44, samlet Udgift 1513 Kr. - Tilskud
+530Kr.
+Kobbersmedem. J. R. Jørgensen, Studsgade
+9-11, samlet Udgift 1324 Kr. - Tilskud 465 Kr.
+Fru Karen Laursen, Orla Lehmannsallé 10, samlet Udgift 1518 Kr. - Tilskud 530 Kr.
+Maskinsnedker M. J. Mosegaard, Møllevangsallé 14, samlet Udgift 625 Kr. - Tilskud 220 Kr.
+Købmand A. Jørgensen, Skolegade 20, samlet Udgift 470 Kr. - Tilskud 165 Kr.
+A/S Aarhuus Privatbank, Fr. Allé 178-180, samlet Udgift 3631 Kr. - Tilskud 1270 Kr.
+Fru Anna Hvilsted, Graven 22, samlet Udgift 347 Kr. - Tilskud 120 Kr.
+"	1941	5	2
+"25"	1941-05-02	"closed"	"19410502B_31.pdf"	24	"121-1941"	"Set. Knuds Stiftelse, Ryesgade 22-30, samlet Udgift 22949 Kr. - Tilskud 8030 Kr.
+Papdækker H. P. Ottosen, Otto Rudsgade 94, samlet Udgift 1715 Kr. - Tilskud 600 Kr.
+Snedker I. P. Johansen, Samsøgade 24, samlet Udgift 713 Kr. - Tilskud 250 Kr.
+Bundtmager E. M. Nielsen, Søndergade 1 a, samlet Udgift 1066 Kr. - Tilskud 375 Kr.
+Tømrerm. Th. Pedersen, Rosensgade 32, samlet Udgift 2835 Kr. - Tilskud 990 Kr.
+Ark. Johs. Sørensen, Brendstrupvej 11, samlet Udgift 970 Kr. - Tilskud 340 Kr.
+Cigarhdl. Andersen, Paradisgade 1, samlet Udgift 945 Kr. - Tilskud 330 Kr.
+Trikotagehdl. A. Herman Pedersen, P. Skramsgade 9, samlet Udgift 2389 Kr. - Tilskud 835 Kr. - Laan 825 Kr.
+Direktør Chr. Ruge, Marselisvej 14, samlet Udgift 7206 Kr. - Tilskud 2520 Kr.
+Smedem. Marius Hansen, Jægergaardsgade
+29,samlet Udgift 1335 Kr. - Tilskud 465 Kr.
+Aarhus Kommune, Mejlgade 59, samlet Udgift 3975 Kr. - Tilskud 1390 Kr.
+Maskinarb. W. Buhmann, Faaborggade 19 b, samlet Udgift 3650 Kr. - Tilskud 1280 Kr. - Laan 1225 Kr.
+Havnearb. P. Thomsen, Randersvej 160, samlet Udgift 690 Kr. - Tilskud 240 Kr.
+Tømrerm. Aage Olsen, Frederiksgade 18 b, samlet Udgift 1133 Kr. - Tilskud 395 Kr.
+Fru M. C. Christensen, Badstugade 16, samlet Udgift 540 Kr. - Tilskud 190 Kr.
+Cyklehdl. Lauritzen, Volden 22, samlet Udgift 801 Kr. - Tilskud 280 Kr.
+Fabr. Jes Langvardt, Guldsmedgade 20, samlet Udgift 3065 Kr. - Tilskud 1075 Kr.
+"	1941	5	2
+"26"	1941-05-02	"closed"	"19410502B_31.pdf"	25	"121-1941"	"Murerm. C. Bernhardt, Silkeborgvej 92, samlet Udgift 2349 Kr. - Tilskud 820 Kr.
+Kaptajn F. H. E. Boysen, Tordenskjoldsgade 87, samlet Udgift 1680 Kr. - Tilskud 590 Kr. - Laan 575 Kr.
+Husejer Søgaard, Sjællandsgade 38, samlet Udgift 1691 Kr. -- Tilskud 590 Kr.
+Kong Chr. den X. og Dronning Alexandrines Alderdomshjem, Møllestien 53, samlet Udgift 2113 Kr. Tilskud 740 Kr.
+Købmand A. Hermann Pedersen, Munkegade 5, samlet Udgift 2298 Kr. Tilskud 805 Kr. - Laan 1075 Kr.
+Aarhus Kommune, Kaasinghus, Skaade Skov. samlet Udgift 3000 Kr. - Tilskud 1050 Kr.
+Samme,\"Vorregaard\", samlet Udgift 1150 Kr. - Tilskud 405 Kr.
+Ing. S. Thuesen, Møllegade 30, samlet Udgift 1429 Kr. - Tilskud 500 Kr.
+Landsretssagf. E. Karstens, Søndergade 2. samlet Udgift 391 Kr, - Tilskud 135 Kr.
+Skræderm. Madsen, Ny Munkegade 67, samlet Udgift 2775 Kr. - Tilskud 970 Kr.
+Skomager L. A. Christensen, Samsøgade 92, samlet Udgift 1195 Kr. - Tilskud 420 Kr. - Laan 525 Kr.
+Skotøjshdl. Hedegaard. Aaboulevarden 66, samlet Udgift 774 Kr. - Tilskud 270 Kr.
+Spiritistisk Menighed \"Mod Lyset\", Fiskergade 48-50, samlet Udgift 1550 Kr. - Tilskud 545 Kr.
+Købmand Chr. Christensen, Falstersg. 33 c samlet Udgift 2439 Kr. -Tilskud 855 Kr.
+Fru Anna Thinggaard, Lollandsgade 10, samlet Udgift 1750 Kr. - Tilskud 615 Kr. - Laan 875 Kr.
+"	1941	5	2
+"27"	1941-05-02	"closed"	"19410502B_31.pdf"	26	"121-1941"	"Sproglærer L. Pedersen, Trøjborgvej 50, samlet Udgift 884 Kr. - Tilskud 310 Kr.
+Lektor Otto Larsen, Skolebakken 11, samlet Udgift 1899 Kr. - Tilskud 665 Kr.
+Pensionist F. R. Christiansen, Montanagade
+34,samlet Udgift 985 Kr. - Tilskud 345 Kr.
+Damefrisørinde Fru Mariane Rasmussen, Horsensgade 11, samlet Udgift 558 Kr. - Tilskud 195 Kr.
+Fhv. Bagerm. P. J. Pedersen, Frbj. Torv 3, samlet Udgift 330 Kr. - Tilskud 115 Kr.
+Det forenede danske Livsforsikrings-A/S Hafnia, Clemenstorv 8, samlet Udgift 7176 Kr. - Tilskud 2510 Kr.
+Slagter Andreas Nielsen, Frederiks Allé 151, samlet Udgift 1992 Kr. - Tilskud 695 Kr.
+Døvstummepræst P. F. Hansen, Ærøgade 7, samlet Udgift 362 Kr. - Tilskud 125 Kr.
+Repr. M. A. Nitszche Jørgensen, Borggade 9, samlet Udgift 2035 Kr. - Tilskud 710 Kr.
+Vinhdl. Chr. I. M. Meier, Odensegade 26, samlet Udgift 362 Kr. - Tilskud 125 Kr.
+Rangerformd. Niels Jørgensen, Ewaldsgade 9, samlet Udgift 128 Kr. - Tilskud 45 Kr.
+Snedker Anders Jensen, Stadion Allé 12, samlet Udgift 1257 Kr. - Tilskud 440 Kr.
+Repr. P. Paulsen, Barthsgade 22, samlet Udgift 351 Kr. - Tilskud 125 Kr.
+Købmand E. V. Kloster, Søndergade 1 b, samlet Udgift 4439 Kr. - Tilskud 1555 Kr.
+Bruun &amp;amp; Sørensen A/S, Kannikegade 18, samlet Udgift 5332 Kr. - Tilskud 1865 Kr.
+Redaktør H. E. Eriksen, Falstersgade 21, samlet Udgift 1135 Kr. - Tilskud 395 Kr.
+Fru E. Stampe, Marselis Boulevard 39, samlet Udgift 450 Kr. - Tilskud 160 Kr.
+"	1941	5	2
+"28"	1941-05-02	"closed"	"19410502B_31.pdf"	27	"121-1941"	"Støberiarb. L .0. Larsen, Møllevangsallé 12, samlet Udgift 144 Kr. - Tilskud 50 Kr.
+Smed O. R. J. Pedersen, Laurvigsgade 23, samlet Udgift 247 Kr. - Tilskud 85 Kr.
+Knud Vilh. Petersen, Brendstrupvej 28, samlet Udgift 952 Kr. - Tilskud 335 Kr.
+Tømrer S. K. S. Skoubo, Falstersgade 16, samlet Udgift 642 Kr. - Tilskud 225 Kr.
+Tømrer M. Nielsen, Dr. Margrethesvej 29, samlet Udgift 495 Kr. - Tilskud 175 Kr.
+Politibetjent J. H. Boutrup, Samsøgade 52, samlet Udgift 304 Kr. - Tilskud 105 Kr.
+Apoteker C. F. Møller, Hellerupvej 8, samlet Udgift 370 Kr. - Tilskud 130 Kr.
+Væver R. Petersen, Møllevangsallé 11, samlet Udgift 259 Kr. - Tilskud 90 Kr.
+Murerm. Anders Mortensen, Lauge Kochs-vej 3, samlet Udgift 825 Kr. - - Tilskud 290 Kr.
+Sadelmager A. R. Jensen, Sct Pauls Plads
+6,samlet Udgift 1448 Kr. - Tilskud 505 Kr.
+Syerske Maren Nielsen, Fyensgade 15, samlet Udgift 323 Kr. - Tilskud 115 Kr.
+Arbmd. Anders Sørensen, Kastaniegade 1 a, samlet Udgift 271 Kr. - Tilskud 95 Kr.
+Tømrerm. Chr. F. Sørensen, Langelandsgade 217, samlet Udgift 1150 Kr. - Tilskud 405 Kr.
+Arbmd. Th. H. Jensen, Kongsberggade 5, samlet Udgift 265 Kr. - Tilskud 95 Kr.
+Sølvsmed R. M. N. Iversen, Falstersgade
+45,samlet Udgift 730 Kr. - Tilskud 255 Kr.
+Fru G. Bachmann, Ndr. Ringgade 70, samlet Udgift 770 Kr. ... Tilskud 270 Kr.
+Det Danske Petroleums A/S, Thorvaldsens-gade samlet Udgift 2152 Kr. - Tilskud 755 Kr.
+"	1941	5	2
+"29"	1941-05-02	"closed"	"19410502B_31.pdf"	28	"121-1941"	"Det Danske Petroleums A/S, Thorvaldsens-gade, samlet Udgift 2723 Kr. - Tilskud 955 Kr.
+Samme, Østre Mole, samlet Udgift 1310 Kr. - Tilskud 460 Kr.
+Bagerm. J. P. Jacobsen, Kaserneboulevard 21, samlet Udgift 528 Kr. - Tilskud 185 Kr.
+Murerm. P. Kudahl Jensen, Fuglesangsallé 53, samlet Udgift 224 Kr. - Tilskud 80 Kr.
+Lærer F. A. Møller, Kirkegaardsvej 12, samlet Udgift 220 Kr. - Tilskud 75 Kr.
+Fabr. J. C. Hansen, Mejlgade 25, samlet Udgift 1222 Kr. - Tilskud 430 Kr.
+A/S Dansk Folkeforsikringsanstalt, Bane-gaardsplads 4, samlet Udgift 776 Kr. - Tilskud 270 Kr.
+Samme, Banegaardsplads 2, samlet Udgift 1239 Kr. - Tilskud 435 Kr.
+Samme, Ryesgade 33, samlet Udgift 2032 Kr. - Tilskud 710 Kr.
+Isenkræmmer H. Hansen, Knudrisgade 16, samlet Udgift 1090 Kr. - Tilskud 380 Kr.
+Johannes F. V. S. Hamann, Rostrupsvej 18, samlet Udgift 490 Kr. - Tilskud 170 Kr.
+A/S Dansk Shell, Hj. af Skolevej og Midter-molevej, samlet Udgift 540 Kr. - Tilskud 190 Kr.
+Samme, Strandvejen, samlet Udgift 1500 Kr. - Tilskud 525 Kr.
+K. F. U. K.’s Hovedforening, Christiansgade
+30,samlet Udgift 2575 Kr. - Tilskud 900 Kr.
+Ingeniør P. V. Agger, Fuglesangsallé 33, samlet Udgift 825 Kr. - Tilskud 290 Kr.
+Aarhus Havnevæsen, Vagthusvej, Kaj 16, samlet Udgift 540 Kr. - Tilskud 190 Kr.
+Samme, Mindet 26, samlet Udgift 2600 Kr. - Tilskud 910 Kr.
+"	1941	5	2
+"30"	1941-05-02	"closed"	"19410502B_31.pdf"	29	"121-1941"	"Samme, Østre Slipkaj, samlet Udgift 1150 Kr. - Tilskud 405 Kr.
+Samme, Mindet 18-20, samlet Udgift 1500 Kr. - Tilskud 525 Kr.
+Samme, Havnegade 36, samlet Udgift 5193 Kr. - Tilskud 1820 Kr.
+Dir. Richard Mortensen, Rosenkrantzgade 21, samlet Udgift 3750 Kr. - Tilskud 1315 Kr.
+Købmand Arnold M. C. Andersen, Skolebakken 5, samlet Udgift 1862 Kr. - Tilskud 650 Kr.
+Bagersv. N. J. Svejstrup, Cort Adelersgade 9, samlet Udgift 507 Kr. - Tilskud 175 Kr.
+Farverm. N. P. Møller, Viborgvej 25. samlet Udgift 254 Kr. - Tilskud 90 Kr.
+Husejer Jens Dalbøge, Mejlgade 44, samlet Udgift 265 Kr. - Tilskud 95 Kr.
+Lærer J. V. H. Nielsen, Ærøgade 6, samlet Udgift 196 Kr. - Tilskud 70 Kr.
+Proprietær S. A. S. Hedelund, I. Huitfelds-gade 23-25, samlet Udgift 1490 Kr. - Tilskud 520 Kr.
+Skræderm. J. Johansen, Bruunsgade 43, samlet Udgift 1020 Kr. - Tilskud 355 Kr.
+Overretssagf. S. Ollendorff, St. Billesgade
+8,samlet Udgift 328 Kr. - Tilskud 115 Kr.
+Samme for Grosserer Chr. Hansen, St. Billesgade 6, samlet Udgift 328 Kr. - Tilskud 115 Kr.
+Manufakturhdl. A. V. R. Byberg, Immervad 1, samlet Udgift 714 Kr. - Tilskud 250 Kr.
+Modehandlerinde M. E. K. Rasmussen, Søndergade 7, samlet Udgift 3351 Kr. - Tilskud 1175 Kr.
+Enkefru Dagmar Guss, Sct. Paulsgade 64, samlet Udgift 1034 Kr. - Tilskud 360 Kr.
+"	1941	5	2
+"31"	1941-05-02	"closed"	"19410502B_31.pdf"	30	"121-1941"	"Enkefru Petrea Fisker, Fredensgade 18, samlet Udgift 785 Kr. - Tilskud 275 Kr.
+Bogholder S. S. J. Knudsen, Lundingsgade 35, samlet Udgift 495 Kr. - Tilskud 175 Kr-
+Kreditforeningsdirektør N. M. Bak, Heibergs-gade 28, samlet Udgift 2806 Kr. - Tilskud 980 Kr.
+Samme, Heibergsgade 30, samlet Udgift 366 Kr. - Tilskud 130 Kr.
+Samme, Heibergsgade 32, samlet Udgift
+531Kr. - Tilskud 185 Kr.
+Samme, Heibergsgade 34, samlet Udgift
+534Kr. - Tilskud 185 Kr.
+Samme, Heibergsgade 36, samlet Udgift 1258 Kr. - Tilskud 440 Kr.
+Samme, Marselisborgallé 35, samlet Udgift 1478 Kr. - Tilskud 515 Kr.
+Odd Fellow Ordenen i Aarhus, Christians-gade 24, samlet Udgift 1526 Kr. - Tilskud
+535Kr.
+Murerm. R. P. Bendixen, Taasingegade 14, samlet Udgift 565 Kr. - Tilskud 200 Kr.
+Tømrersv. A. M. Jensen, Marselisborgallé 27, samlet Udgift 421 Kr. - Tilskud 145 Kr.
+Ing. N. J. H. Svenningsen, Dr. Margrethes-vej 61, samlet Udgift 754 Kr.- Tilskud 265 Kr.
+Kaptajn A. G. Larsen, Heibergsgade 25, samlet Udgift 2293 Kr. - Tilskud 805 Kr.
+Repr. Sv. Aa. A. Rasmussen, Trøjborgvej 8c, samlet Udgift 406 Kr. - Tilskud 140 Kr.
+Enkefru Marie Ane Møller, Odensegade 29, samlet Udgift 675 Kr. - Tilskud 235 Kr.
+Kasserer Ejner M. G. Rolander. Godthaabs-gade 30, samlet Udgift 443 Kr. - Tilskud 155 Kr.
+Arbmd. Ole Nyborg Therkildsen, I. Huit-feldsgade 60, samlet Udgift 126 Kr. - Tilskud 45 Kr.
+"	1941	5	2
+"32"	1941-05-02	"closed"	"19410502B_31.pdf"	31	"121-1941"	"Lærerinder F. C. M. Andersen, og N. Andersen, Aarestrupsvej 9, samlet Udgift 515 Kr. - Tilskud 180 Kr.
+Bogbinder A. S. Christoffersen, Lollands-gade 50, samlet Udgift 329 Kr. - Tilskud 115 Kr.
+Læge Niels Chr. Gerdes, Trepkasgade 33, samlet Udgift 1199 Kr. - Tilskud 420 Kr.
+Overbetjent R.P. Kold, St. Billes Torv 1-3,
+samlet Udgift 485Kr.-Tilskud170 Kr.
+Expedient S.G.S.Møller,Fr. Allé91.
+samlet Udgift 420Kr.-Tilskud145 Kr.
+Møbelfabr. N. Simonsen, Fyensgade 6, samlet Udgift 447 Kr. - Tilskud 155 Kr.
+Malerm. V. E. A. Bøtcher, H. Trollesgade
+8,samlet Udgift 1091 Kr. - Tilskud 380 Kr.
+Bagerm. W. Pedersen, Guldsmedgade 32, samlet Udgift 2903 Kr. - Tilskud 1015 Kr.
+Restauratør R. I. Smidt, H. Trollesgade 22-24, samlet Udgift 920 Kr. - Tilskud 320 Kr.
+Wilhelm Cortsen, Ryesgade 8, samlet Udgift 4454 Kr. - Tilskud 1560 Kr.
+Enkefru Karen Mikkelsen, Godthaabsgade 14, samlet Udgift 1000 Kr. - Tilskud 350 Kr.
+Fabr. J. A. Jørgensen, Guldsmedgade 36, samlet Udgift 1596 Kr. - Tilskud 560 Kr.
+A/S 23. August 1934, Tordenskjoldsgade
+32.samlet Udgift 557 Kr. - Tilskud 195 Kr.
+Fabr. Laue Julius Kyster, Silkeborgvej 122, samlet Udgift 378 Kr. - Tilskud 130 Kr.
+Fru Dagmar Krogh, Skovvej 7, samlet Udgift      338 Kr. -Tilskud 120 Kr.
+Murerm. Anders Mortensen, Tøndergade 6,
+ samlet Udgift 443 Kr. - Tilskud 155 Kr.
+Sekr. Emil Jensen, Skovvangsvej 242, samlet Udgift 203 Kr., - Tilskud 70 Kr
+"	1941	5	2
+"33"	1941-05-02	"closed"	"19410502B_31.pdf"	32	"121-1941"	"Gartner Hans Peter Pedersen, H. Guldbergs-gade 129, samlet Udgift 2835 Kr. - Tilskud 990 Kr.
+Husejerske Elna Waltoft, Samsøgade 12, samlet Udgift 490 Kr. - Tilskud 170 Kr.
+Tømrerm. Søren Møller, Marselisborgallé 12, samlet Udgift 2250 Kr. - Tilskud 790 Kr.
+Samme, Marselisborgallé 12, samlet Udgift 990 Kr. - Tilskud 345 Kr.
+D.K. A. Aarhus Afdeling, Sdr. Ringgade 65, samlet Udgift 592 Kr. - Tilskud 205 Kr.
+Postbud H. R. Andersen, Bülowsgade 21, samlet Udgift 651 Kr. - Tilskud 230 Kr.
+Bankass. Kai Houlberg, Falstersgade 18, samlet Udgift 377 Kr. - Tilskud 130 Kr.
+Havnearb. Boligf., Munkegade 97-99. samlet Udgift 2071 Kr. - Tilskud 725 Kr.
+Bagerm. V. H. C. Johansen, Vesterbrogade
+1,samlet Udgift 3038 Kr. - Tilskud 1005 Kr.
+Kedelpasser H. T. Staal, Sølystgade 50, samlet Udgift 311 Kr. - Tilskud 110 Kr.
+Samme, Sjællandsgade 108, samlet Udgift 420 Kr. - Tilskud 145 Kr.
+H.Bjerregaard Jensen og P. Buch, Fyensgade 17, samlet Udgift 469 Kr. - Tilskud 165 Kr.
+Enkefru C. D. Pedersen, Dr Margrethes-vej 12, samlet Udgift 400 Kr. - Tilskud 140 Kr.
+Maskinarb. A. Dabelstein, Hjortensgade 22, samlet Udgift 213 Kr. - Tilskud 75 Kr.
+Maskinarb. A. E. F. Dabelstein, Jægergaardsgade 136, samlet Udgift 406 Kr. - Tilskud 140 Kr.
+Husejerske P. M. E. Rasmussen, Skovvej
+28,samlet Udgift 299 Kr. - Tilskud 105 Kr.
+"	1941	5	2
+"34"	1941-05-02	"closed"	"19410502B_31.pdf"	33	"121-1941"	"Enke Anna Hertel Rasmussen, Hans Broges-gade 33, samlet Udgift 443 Kr. - Tilskud 155 Kr.
+Tømrer Mogens Jensen, Set. Pauls Kirkepi.
+4,samlet Udgift 615 Kr. - Tilskud 215 Kr.
+Forsikrings-A/S \"Normania\", Aaboulevard 55, samlet Udgift 438 Kr. - Tilskud 155 Kr.
+Husejer Esther Thora Hansen, Tietgens PI.
+11,samlet Udgift 368 Kr. - Tilskud 130 Kr.
+Redaktør J. C. E. Boldreel, Horsensgade 2, samlet Udgift 1037 Kr. - Tilskud 365 Kr.
+Orgelbygger A. C. Zachariasen, H. Trollesgade 36-38, samlet Udgift 1128 Kr. - Tilskud 395 Kr.
+Manufakturhdl. H. E. Gertz, Gentoftevej 9, samlet Udgift 372 Kr. - Tilskud 130 Kr.
+Herrekoret \"Arion\"s Byggefond, Langelandsgade 216, samlet Udgift 300 Kr. - Tilskud 105 Kr.
+Bogholder O. Sølvsten, Hans Brogesgade 35, samlet Udgift 870 Kr. - Tilskud 305 Kr.
+Husejer Anna Petrea Larsen, Søndergade 51, samlet Udgift 568 Kr. - Tilskud 200 Kr.
+Enkefru Agnes H. Christiansen, F. G. E. Rostrupsvej 2, samlet Udgift 375 Kr. - Tilskud 130 Kr.
+Prokurist Emil Gade, Herluf Trollesgade 3, samlet Udgift 652 Kr. - Tilskud 230 Kr.
+Jydsk Handels- og Landbrugsbank, Fr. Allé 93, samlet Udgift 3207 Kr. - Tilskud 1120 Kr.
+Købmand Chr. E. Petersen, Sct. Clemens-torv 9, samlet Udgift 5269 Kr. - Tilskud 1845 Kr.
+Murersv. Laurs Pedersen, Sjællandsgade 50, samlet Udgift 860 Kr. - Tilskud 300 Kr.
+"	1941	5	2
+"35"	1941-05-02	"closed"	"19410502B_31.pdf"	34	"121-1941"	"Kontorass. Jenny J. Jørgensen, De Mezas-vej 4, samlet Udgift 702 Kr. - Tilskud 245 Kr.
+Fabr. C. Hammerschmidt, Strandvejen 86t samlet Udgift 1115 Kr. - Tilskud 390 Kr.
+Bankdirektør Chr. D. A. Andersen, N. W. Gadesvej 17, samlet Udgift 2275 Kr. - Tilskud 795 Kr.
+Ejendomsmægler H. P. Braarup Hansen, Mejlgade 14, samlet Udgift 1756 Kr. -- Tilskud 615 Kr.
+Pens. Maskinarb. A. Barlyng, Dalgas Avenue 9, samlet Udgift 1398 Kr. - Tilskud 490 Kr.
+Snedkersv. Th. M. Mikkelsen, Lollandsgade 19, samlet Udgift 650 Kr. - Tilskud 230 Kr.
+Husejer Mariane Leth, Bogensegade 5, samlet Udgift 1147 Kr. - Tilskud 400 Kr.
+Vognmand L. C. Christensen, Rosenkrantzgade 10, samlet Udgift 985 Kr. - Tilskud 345 Kr.
+Murersv. Vagn Jacobsen, Ny Munkegade
+92,samlet Udgift 750 Kr. - Tilskud 265 Kr.
+Proprietær Søren Nørgaard Valdemar Pedersen, Stadionallé 19, samlet Udgift 1680 Kr. - Tilskud 590 Kr.
+Tømrerm. L. P. Sørensen, Parkallé 5, samlet Udgift 2036 Kr. - Tilskud 715 Kr.
+A/S Aarhus Privatbank, Kannikegade 4-6, samlet Udgift 1378 Kr. - Tilskud 480 Kr.
+Stadsark. Fr. M. R. Draiby, Heibergsgade
+27,samlet Udgift 11800 Kr. - Tilskud 4130 Kr.
+Arbejdernes Andels-Boligforening, Sdr. Ringgade 39-45, Tøndergade 3-7, Skanderborgvej 4-
+16,samlet Udgift 2148 Kr. - Tilskud 750 Kr.
+"	1941	5	2
+"36"	1941-05-02	"closed"	"19410502B_31.pdf"	35	"121-1941"	"Samme, Vestergaardsgade 6-12 og Aalborg-gade 4, samlet Udgift 500 Kr. - Tilskud 175 Kr.
+Samme, Ringkøbingvej 5-35, Viborgvej 33-
+35,samlet Udgift 1083 Kr. - Tilskud 380 Kr.
+Samme, Ing. Boulevard 7-9, Vestergaardsgade 2-4, samlet Udgift 1130 Kr. - Tilskud
+395Kr.
+Samme, Stadionallé 9-11, Aalborggade 6-8, samlet Udgift 380 Kr. - Tilskud 135 Kr.
+Samme, Langelandsgade 12-20, Sejrøgade 17-19, samlet Udgift 844 Kr. - Tilskud 295 Kr
+Samme, Tordenskjoldsgade 26-28-30, samlet Udgift 770 Kr. - Tilskud 270 Kr.
+Samme, Skovvangsvej 217, samlet Udgift 720 Kr. - Tilskud 250 Kr.
+Samme, Marielundsallé 10, samlet Udgift 150 Kr. - Tilskud 55 Kr.
+Samme, Marielundsallé 12-14, samlet Udgift 355 Kr. - Tilskud 125 Kr.
+Samme, Dr. Margrethesvej 109, samlet Udgift 200 Kr. - Tilskud 70 Kr.
+Samme, Rugbakkevej 18, samlet Udgift 200 Kr. - Tilskud 70 Kr.
+Samme, Marielundsallé 15-17, samlet Udgift 1510 Kr. - Tilskud 530 Kr.
+Samme, Skovvangsvej 225, samlet Udgift 995 Kr. - Tilskud 350 Kr.
+Maskinm. A. 0. H. Rasmussen, Dr. Margrethesvej 103, samlet Udgift 471 Kr. - Tilskud 165 Kr.
+Plejer Hans Fr. D. Hansen, Skovvangsvej 229, samlet Udgift 234 Kr. - Tilskud 80 Kr.
+Gartner C. M. Andersen, Godthaabsgade17,samlet Udgift 608 Kr. - Tilskud 215 Kr.
+"	1941	5	2
+"37"	1941-05-02	"closed"	"19410502B_31.pdf"	36	"121-1941"	"Husejerske Frk. Mary Jørgensen, Samsøgade 58, samlet Udgift 572 Kr. - Tilskud 200 Kr.
+Ellen Hansen og Carla Østenfield, Skovvej 41, samlet Udgift 453 Kr. - Tilskud 160 Kr.
+Fhv. Gaardejer A. D. Andreasen, Stadionallé 27, samlet Udgift 536 Kr. - Tilskud 190 Kr.
+Johanne Kirstine Pedersen, I. Huitfelds-gade 8, samlet Udgift 1588 Kr. - Tilskud 555 Kr.
+Murerm. Chr. A. Nielsen, Paradisgade 17, samlet Udgift 602 Kr. - Tilskud 210 Kr.
+Rentier E. Eskildsen, Sjællandsgade 104, samlet Udgift 442 Kr. - Tilskud 155 Kr.
+Enke Johanne Larsen, Sct. Annagade 19, samlet Udgift 385 Kr. - Tilskud 135 Kr.
+Pens. Lokomotivf. H. N. Pallesen, Willemoesgade 14, samlet Udgift 485 Kr. - Tilskud 170 Kr.
+Hotelejer F. L. Viltoft, Rosensgade 28, samlet Udgift 1937 Kr. - Tilskud 680 Kr.
+Amalie K. Taul, Lundbyesgade 21, samlet Udgift 727 Kr. - Tilskud 255 Kr.
+Aarhus Amtstidende, Ryesgade 20, samlet Udgift 3776 Kr. - Tilskud 1320 Kr.
+Enkefru A. M. Paulsen. Samsøgade 3, samlet Udgift 315 Kr. - Tilskud 110 Kr.
+Arbmd. S. M. Thomsen, Mejlgade 88, samlet Udgift 1124 Kr. - Tilskud 395 Kr.
+Husejerske R. O. Ulrich, Jægergaardsgade 23-25, samlet Udgift 380 Kr. - Tilskud 135 Kr.
+Overbetjent E. E. P. Svinkløv, Fasanvej 15, samlet Udgift 470 Kr. - Tilskud 165 Kr.
+"	1941	5	2
+"38"	1941-05-02	"closed"	"19410502B_31.pdf"	37	"121-1941"	"Dyrlæge M. H. Larsen, C. Bertelsensgade 4-6-8-10, samlet Udgift 1519 Kr. - Tilskud 530 Kr.
+Pakhusarb. Holger Ringgaard, Vagtelvej 3, samlet Udgift 123 Kr. - Tilskud 45 Kr.
+Overass. C. E. Jensen, I. Huitfeldsgade 24, samlet Udgift 320 Kr. - Tilskud 110 Kr.
+Ekstraarb. Th. K. M. Thomasen, Knudrisgade 21, samlet Udgift 206 Kr. - Tilskud 70 Kr.
+Købmand W. W. Nielsen, Guldsmedgade
+10-12, samlet Udgift 220 Kr. - Tilskud 75 Kr.
+Metalformer E. A. Rasmussen, Hans Egedes-vej 46-48, samlet Udgift 312 Kr. - Tilskud 110 Kr.
+Fru Marie Kelstrup, Møllegade 8, samlet Udgift 1598 Kr. - Tilskud 560 Kr.
+Fhv. Sukkervarefabr. Niels Andersen, Møllestien 57, samlet Udgift 140 Kr. - Tilskud 50 Kr.
+Fhv. Banksekretær O. C. Petersen, Mejlgade 43, samlet Udgift 890 Kr. - Tilskud 310 Kr.
+Enkefru Dina Kristiansen, Falstersgade 36, samlet Udgift 988 Kr. - Tilskud 345 Kr.
+fhv. Bagerm. Marius Ingerdahl, Studsgade 40, samlet Udgift 2044 Kr. - Tilskud 715 Kr.
+Fru M. Ravnsø, Fredensgade 52, samlet Udgift 2202 Kr. - Tilskud 770 Kr.
+Pensionist Johanne Nielsen, Skovvejen 109, samlet Udgift 1161 Kr. - Tilskud 405 Kr.
+Bager C. C, Th. S. Voss, Niels Juelsgade 7, samlet Udgift 389 Kr. - Tilskud 135 Kr.
+Gørtlerm. Johs. Olesen, Bøgegade 3, samlet Udgift 2430 Kr. - Tilskud 850 Kr.
+Pensionist Anders Egholm, Paludan Müllersvej 7, samlet Udgift 143 Kr. - Tilskud 50 Kr.
+"	1941	5	2
+"39"	1941-05-02	"closed"	"19410502B_31.pdf"	38	"121-1941"	"Kontorass. Ellen M. Christensen, Skov-gaardsgade 12, samlet Udgift 1007 Kr. - Tilskud 350 Kr.
+pens. Brandm. Niels Chr. Jacobsen, Fyensgade 24, samlet Udgift 300 Kr. - Tilskud 105 Kr.
+A/S Aarhus Stevdoreklub, Havnegade 38, samlet Udgift 1062 Kr. - Tilskud 370 Kr.
+Snedker J. L. Jensen, Gyldenløvesgade 5, samlet Udgift 897 Kr. - Tilskud 315 Kr.
+Købmand Johs. Olsen Damkjær, Chr. Wærumsgade 11 a, samlet Udgift 408 Kr. - Tilskud 145 Kr.
+Gas- og Vandmester Th. Jørgensen, Sølystgade 29, samlet Udgift 560 Kr. - Tilskud 195 Kr.
+Samme, Ny Munkegade 72, samlet Udgift 439 Kr. - Tilskud 155 Kr.
+Samme, Silkeborgvej 106, samlet Udgift 707 Kr. - Tilskud 245 Kr.
+Gaardejer J. B. Jepsen, Mejlgade 49, samlet Udgift 2020 Kr. - Tilskud 705 Kr.
+Installatør F. J. Ehrenreich-Petersen, Skovvej 26, samlet Udgift 436 Kr. - Tilskud 155 Kr.
+Samme, Aldersrovej 34, samlet Udgift 634 Kr. - Tilskud 220 Kr.
+Murerm. Gotfred Jakobsen, Harald Jensens Plads 1, samlet Udgift 262 Kr. - Tilskud 90 Kr.
+Apoteker C. F. Møller, Hellerupvej 8, samlet Udgift 330 Kr. - Tilskud 115 Kr.
+Fabr. J. Chr. Christensen, Thunøgade 1, samlet Udgift 1008 Kr. - Tilskud 355 Kr.
+Fru Thea Rasmussen, Ingerslevs Boulevard 15-17, samlet Udgift 1063 Kr. - Tilskud 370 Kr.
+Danselærer P. Bjerregaard, H. Pontoppidansgade 2, samlet Udgift 570 Kr. - Tilskud 200 Kr.
+"	1941	5	2
+"40"	1941-05-02	"closed"	"19410502B_31.pdf"	39	"121-1941"	"Fru Alma Mouritsen, Rudolf Wulffsgade 6, samlet Udgift 522 Kr. - Tilskud 185 Kr.
+Murerm. J. Mouritsen, Stadion Allé 24, samlet Udgift 626 Kr. - Tilskud 220 Kr.
+Aarhus Kommune, Skovvangsvej 131-171, Bethesdavej 1-5, samlet Udgift 5300 Kr. - Tilskud 1855 Kr.
+Snedker M. Chr. Nielsen, Steinmannsgade 4,samlet Udgift 432 Kr. - Tilskud 150 Kr.
+Husejer Anna Kjærtinge, Pontoppidansgade 24,samlet Udgift 544 Kr. - Tilskud 190 Kr.
+Overportør Th. Nielsen, Skovvejen 101, samlet Udgift 650 Kr. - Tilskud 230 Kr.
+Bagerm. Gudme Wadt, Dr. Margrethesvej 7,samlet Udgift 321 Kr. - Tilskud 110 Kr.
+Arbmd. P. M. Pedersen, Schleppegrelsgade 19, samlet Udgift 718 Kr. - Tilskud 250 Kr-
+V. E. Gelstorp og A. Scheel-Thomsen, Vester-allé 6, samlet Udgift 1000 Kr. - Tilskud 350 Kr.
+Emma Emmery, Klostergade 20-22, samlet Udgift 1700 Kr. - Tilskud 595 Kr.
+Husejer M. Bothager, Sjællandsgade 84, samlet Udgift 414 Kr. - Tilskud 145 Kr.
+Bagerm. Otto Holle, Vestergade 15-17, samlet Udgift 450 Kr. - Tilskud 160 Kr.
+Fru A. K. Nissen, Falstersgade 6, samlet Udgift 410 Kr. - Tilskud 145 Kr.
+Forretningsf. L. H. Jugel, Strandvejen 100, samlet Udgift 550 Kr. - Tilskud 195 Kr.
+Blikkensl. O. H. Michaelsen, Sjællandsgade 128, samlet Udgift 680 Kr. - Tilskud 240 Kr.
+Tømrerm. K. Jørgensen og Murerm. Chr. Hansen, Jordbrovej 6, samlet Udgift 641 Kr. - Tilskud 225 Kr.
+"	1941	5	2
+"41"	1941-05-02	"closed"	"19410502B_31.pdf"	40	"121-1941"	"Enke I. K. Eefsen, Nørreport 30, samlet Udgift 605 Kr. - Tilskud 210 Kr.
+Skovtoftehjemmene, Bethesdavej, samlet Udgift 2291 Kr. - Tilskud 800 Kr.
+Maskinarb. Chr. J. Jørgensen, Langelandsgade 207, samlet Udgift 460 Kr. - Tilskud 160 Kr.
+Snedkerm. Chresten C. Christensen, Sct. Paulsgade 43, samlet Udgift 543 Kr. - Tilskud 190 Kr.
+fhv. Gaardejer Anders Sørensen, Cort Adelersgade 15, samlet Udgift 279 Kr. - Tilskud 100 Kr.
+Prokurist C. J. Clausen, Frederikshaldsgade 7,samlet Udgift 150 Kr. - Tilskud 55 Kr.
+Tømrer A.N.Woldstedlund, J. Brønlundsvej 6,samlet Udgift 385 Kr. - Tilskud 135 Kr.
+Best. for Bankdirektør Skovbys Stiftelse, Fredensgade 44, samlet Udgift 2251 Kr. - Tilskud 790 Kr.
+Best. for P. Villadsen og Hustrus Stiftelse, Graven 15 og 17, samlet Udgift 2320 Kr. - Tilskud 810 Kr.
+Tømrer J. V. Jensen, Carl Blochsgade 29, samlet Udgift 500 Kr. - Tilskud 175 Kr.
+Anders Andersen, Langelandsgade 135, samlet Udgift 2264 Kr. -- Tilskud 790 Kr.
+Karetmager J. S. Jensen, H. Trollesgade 29,samlet Udgift 345 Kr. - Tilskud 120 Kr.
+Partikulier Emil Nielsen, Strandvejen 8 b, samlet Udgift 790 Kr. - Tilskud 275 Kr.
+Hotelejer Chr. J. Sørensen, Banegaardspl.14,samlet Udgift 1909 Kr. - Tilskud 670 Kr.
+Vognmand H. E. Riisberg, Sølystgade 46, samlet Udgift 5961 Kr. - Tilskud 2085 Kr.
+"	1941	5	2
+"42"	1941-05-02	"closed"	"19410502B_31.pdf"	41	"121-1941"	"Tømrer Emil J. Nedergaard, Fuglesangsallé 5, samlet Udgift 139 Kr. - Tilskud 50 Kr.
+Murer K. Chr. Sørensen, Høeg Hagensvej 1,samlet Udgift 1267 Kr. - Tilskud 445 Kr.
+Samme, I. Huitfeldsgade 58, samlet Udgift 573 Kr. - Tilskud 200 Kr.
+Fhv. Cigarhdl. Chr. Schmidt Nielsen, I. Huitfeldsgade 14, samlet Udgift 650 Kr. - Tilskud 230 Kr.
+Enkefru C. Kaae, Skovvejen 89, samlet Udgift 973 Kr. - Tilskud 340 Kr.
+Forstander H. P. Rosenvinge, Mørksgade 3, samlet Udgift 435 Kr. - Tilskud 150 Kr.
+Frk. Ingeborg J. Lorentzen, Odensegade 30, samlet Udgift 340 Kr. - Tilskud 120 Kr.
+Portør Th. Hoberg, Stadion Allé 6, samlet Udgift 2226 Kr. - Tilskud 780 Kr.
+K. Hvid og K. Hansen, Dalgas Avenue 15, samlet Udgift 446 Kr. - Tilskud 155 Kr.
+Murersv. J. P. Jensen, Tordenskjoldsgade 65,samlet Udgift 446 Kr. - Tilskud 155 Kr.
+Komm. Lærer A. L. Jepsen, Pontoppidansgade 12, samlet Udgift 1291 Kr. - Tilskud 450 Kr.
+Slagterm. M. Th. Nielsen, Sjællandsgade 93,samlet Udgift 375 Kr. - Tilskud 130 Kr.
+Arbmd. C. Q. Andersen, Brammersgade 54, samlet Udgift 297 Kr. - Tilskud 105 Kr.
+Revisor O. Kristensen, Grønnegade 68, samlet Udgitt 658 Kr. - Tilskud 230 Kr.
+Tømrerm. Chr. Nielsen Withen, Aaboulevarden 9, samlet Udgift 2701 Kr. - Tilskud 945 Kr.
+Samme, Mindegade 3, samlet Udgift 1735 Kr. - Tilskud 605 Kr.
+"	1941	5	2
+"43"	1941-05-02	"closed"	"19410502B_31.pdf"	42	"121-1941"	"Bagerm. Marius Stockler, Fr. Allé 148, samlet Udgift 274 Kr. - Tilskud 95 Kr.
+Snedker Rasmus Thomasen, Samsøgade 52, samlet Udgift 176 Kr. - Tilskud 60 Kr.
+Købmand P. O. Q. Chr. Sørensen, Marselisborgallé 24, samlet Udgift 125 Kr. - Tilskud 45 Kr.
+Købmand Frederik Leo Sørensen, Thor-valdsensgade 19, samlet Udgift 222 Kr. - Tilskud 80 Kr.
+Viktualiahdl. Carl Christensen, Bruunsgade 21, samlet Udgift 452 Kr. - Tilskud 160 Kr.
+Maskinarb. A. Pedersen, Lundbyesgade 10, samlet Udgift 120 Kr. - Tilskud 40 Kr.
+Kioskejer J. Aa. Nielsen,  Dalgas Avenue 9,samlet Udgift 550 Kr. - Tilskud 175 Kr.
+Maskinarb. E. Jensen, Lundbyesgade 6, samlet Udgift 125 Kr. - Tilskud 45 Kr.
+Fogedass. S. M. Jensen, Stadion Allé 1, samlet Udgift 202 Kr. - Tilskud 70 Kr.
+Enke Ane K. Olesen, Stadion Allé 5, samlet Udgift 92 Kr. - Tilskud 30 Kr.
+Maskinarb. C. Sørensen. Stadion Allé 5, samlet Udgift 90 Kr. - Tilskud 30 Kr.
+Maskinarb. Aa. K. Thorsen, Stadion Allé 5, samlet Udgift 85 Kr. - Tilskud 30 Kr.
+Havnebud Fr. Jensen, Sejrøgade 7, samlet Udgift 275 Kr. - Tilskud 95 Kr.
+Tømrersv. Th. Christensen, Sejrøgade 7, samlet Udgift 190 Kr. - Tilskud 65 Kr.
+Fiskehdl. Anton Axelsen, Sejrøgade 7, samlet Udgift 159 Kr. - Tilskud 55 Kr.
+Arbmd. A. Th. M. Elmose, Sejrøgade 11, samlet Udgift 80 Kr. - samlet Udgift 30 Kr.
+Ekspedient O. J. Nielsen, Sejrøgade 1 samlet Udgift 122 Kr. - Tilskud 45 Kr.
+"	1941	5	2
+"44"	1941-05-02	"closed"	"19410502B_31.pdf"	43	"121-1941"	"Enkefru P. A. Lauritsen, Teglværksgade 19,samlet Udgift 100 Kr. - Tilskud 35 Kr.
+Arbmd. R. C. Rasmussen, Teglværksgade 17,samlet Udgift 100 Kr. - Tilskud 35 Kr.
+Telefonmontør A. P. Asmussen, Teglværksgade 15, samlet Udgift 135 Kr. - Tilskud 45 Kr.
+Arbmd. S. L. Holst, Sejrøgade 3, samlet Udgift 105 Kr. - Tilskud 35 Kr.
+Arrestbetj. P. S. Winding, Sejrøgade 1, samlet Udgift 120 Kr. - Tilskud 40 Kr.
+Arbmd. N. P. B. Nielsen, Teglværksgade  15,samlet Udgift 131 Kr. - Tilskud 45 Kr.
+Fiskehdl, Max Otto Jonas, Teglværksgade 11,samlet Udgift 200 Kr. - Tilskud 70 Kr.
+Pens. Arbmd. Rasmus Rasmussen, Teglværksgade 1, samlet Udgift 930 Kr. - Tilskud 300 Kr.
+Kontorist J. P. J. Spelling, Teglværksgade 7,samlet Udgift 87 Kr. - Tilskud 30 Kr.
+Konstruktør J. Chr. Sørensen Kjær, Langelandsgade 4, samlet Udgift 100 Kr. - Tilskud 35 Kr.
+Skræder S. Ingemann Jensen, Teglværksgade 3, samlet 190 Kr. - Tilskud 65 Kr.
+Maskinarb. N. P. M. Jensen, Langelandsgade 10, samlet Udgift 135 Kr. -- Tilskud 45 Kr.
+Arbmd. V. Poulsen, Skovvangsvej 232, samlet Udgift 232 Kr. - Tilskud 80 Kr.
+Chr. J. Jochumsen, Skovvangsvej 234 samlet Udgift 174 Kr. - Tilskud 60 Kr.
+Arbmd. S. M. Olsen, Skovvangsvej 224, samlet Udgift 160 Kr. - Tilskud 55 Kr.
+Chauffør R. Pedersen, Tordenskjoldsgade 110, samlet Udgift 155 Kr. - Tilskud 55 Kr.
+"	1941	5	2
+"45"	1941-05-02	"closed"	"19410502B_31.pdf"	44	"121-1941"	"Søren Panum, Rugbakkevej 10, samlet Udgift 450 Kr. - Tilskud 160 Kr.
+Kornkontrollør H. P. O. Olesen, Skovfaldet 9,samlet Udgift 433 Kr. - Tilskud 150 Kr.
+Snedker E. M. Sand, Dr. Margrethesvej 91, samlet Udgift 359 Kr. - Tilskud 125 Kr.
+Maskinarb. Hj. Holtzmann, Marienlundsallé 4-6, samlet Udgift 116 Kr. - Tilskud 40 Kr.
+Maskinarb. R. A. W. de Paoli, Dr. Margrethesvej 105, samlet Udgift 208 Kr. - Tilskud 75 Kr.
+Jernbanepakm. K. A. M. P. Bruun, Marienlundsallé 8, samlet Udgift 121 Kr. - Tilskud 40 Kr.
+Tømrer Jens Perregaard, Dr. Margrethesvej 95, samlet Udgift 455 Kr. - Tilskud 160 Kr.
+Skræder J. M. Pedersen, Ringkøbingvej 9, samlet Udgift 102 Kr. - Tilskud 35 Kr.
+Kontorist V. P. Pedersen, Viborgvej 33, samlet Udgift 90 Kr. - Tilskud 30 Kr.
+Fhv. Møller S. C. Sørensen, Ringkøbingvej 5. samlet Udgift 130 Kr. - Tilskud 45 Kr.
+Snedkerm. N. J. Nielsen, Viborgvej 33, samlet Udgift 94 Kr. - Tiilskud 35 Kr.
+Blikkensl. R. P. Anesen, Ringkøbingvej 35, samlet Udgift 98 Kr. - Tilskud 35 Kr.
+Elektriker K. L. Nielsen, Vestergaardsgade 12, samlet Udgift 82 Kr. - Tilskud 30 Kr.
+K. L. Nielsen, Vestergaardsgade 12, samlet Udgift 570 Kr. - Tilskud 200 Kr.
+Installationsass. F. H. Hess, Vestergaardsgade 12, samlet Udgift 121 Kr. - Tilskud 40 Kr.
+Kasserer H. Madsen, Vestergaardsgade 12, samlet Udgift 80 Kr. - Tilskud 30 Kr.
+"	1941	5	2
+"46"	1941-05-02	"closed"	"19410502B_31.pdf"	45	"121-1941"	"Chauffør R. Bøtkjær, Vestergaardsgade 8, samlet Udgift 85 Kr. - Tilskud 30 Kr.
+Renser K. O. B. Hein, Vestergaardsgade 8,samlet Udgift 84 Kr. - Tilskud 30 Kr.
+Depotarb. E. Gustafsen, Ingersl. Boulevard 9,samlet Udgift 108 Kr. - Tilskud 40 Kr.
+Snedkersv. H. K. Pedersen, Ingersl Boulevard 7, samlet Udgift 133 Kr. - Tilskud 45 Kr.
+Værkstedsarb' A. Hansen, Stadion Allé 9, samlet Udgift 100 Kr. - Tilskud 35 Kr.
+Pensionist J. P. Ahlgreen, Stadion Allé 9, samlet Udgift 100 Kr. - Tilskud 35 Kr.
+Pens. Arbmd. A. Jacobsen, Stadion Allé 9, samlet Udgift 239 Kr. - Tilskud 85 Kr,
+Sadelmagersv. L. M. Rasmussen, Langelandsgade 18, samlet Udgift 109 Kr. - Tilskud 40 Kr.
+Tømrer J. A. Bedi, Langelandsgade 12, samlet Udgift 89 Kr. - Tilskud 30 Kr.
+Kleinsmed A. Sørensen, Langelandsgade 12,samlet Udgift 166 Kr. - Tilskud 60 Kr.
+Maskinarb. S. A. P. Christensen, Langelandsgade 12, samlet Udgift 95 Kr, - Tilskud 35 Kr.
+Murer Georg M. Asklum, Langelandsgade 16,samlet Udgift 131 Kr. - Tilskud 45 Kr.
+Brandmand A. V. Bentson, Sejrøgade 19, samlet Udgift 169 Kr. - Tilskud 60 Kr
+Vognmand N. P. Bøsgaard, Tordenskjoldsgade 26, samlet Udgift 194 Kr. -- Tilskud 70 Kr.
+Arbmd. Marius Sørensen, Tordenskjoldsgade 26, samlet Udgift 115 K. - Tilskud 40 Kr.
+"	1941	5	2
+"47"	1941-05-02	"closed"	"19410502B_31.pdf"	46	"121-1941"	"Smed H. F. Sørensen, Tordenskjoldsgade 28,samlet Udgift 210 Kr. - Tilskud 75 Kr.
+Sækkeleje-Kompagniet A/S, Mindegade 8, samlet Udgift 379 Kr. - Tilskud 135 Kr.
+Incassator Hans Chr. Mosegaard, Willemoesgade 14, samlet Udgift 266 Kr. - Tilskud 95 Kr.
+Direktør S. M. Mikkelsen, Østergade 12, samlet Udgift 4807 Kr. - Tilskud 1680 Kr.
+Vognmand Anders H. Frederiksen Tordenskjoldsgade 83, samlet Udgift 132 Kr. -- Tilskud 45 Kr.
+Kalkværksejer C. M. Christiansen, Kystvej 51, samlet Udgift 528 Kr. - Tilskud 185 Kr.
+Enkefru A. F. Jensen, Kristianiagade 24, samlet Udgift 3989 Kr. - Tilskud 1395 Kr. - Laan 1975 Kr.
+Chr. Kirks Telefonfabr. A/S, Kystvej 63, samlet Udgift 5699 Kr. - Tilskud 1995 Kr.
+Slagterm. A. S. Andersen, Skolegade 11, samlet Udgift 813 Kr. - Tilskud 285 Kr.
+Tømrer Carl Christensen, Fasanvej 17, samlet Udgift 8000 Kr. - Tilskud 480 Kr. - Laan 675 Kr.
+Boghdl. J. C. Gustafsson, Aldersrovej 8, samlet Udgift 2556 Kr. - Tilskud 895 Kr. - Laan 800 Kr.
+Arbmd. Jens Hemdorff, Kathrinebjergvej 90, samlet Udgift 2081 Kr. - Tilskud 730 Kr. - Laan 750 Kr.
+Maskinarb. P. B. Sørensen, Bulovsgade 25, samlet Udgift 1060 Kr. - Tilskud 370 Kr. - Laan 475 Kr.
+Ark. Chr. Mogensen, Mejlgade 76, samlet Udgift 1380 Kr. - Tilskud 485 Kr. - Laan 400 Kr.
+"	1941	5	2
+"48"	1941-05-02	"closed"	"19410502B_31.pdf"	47	"121-1941"	"Smedem. A. R. J. Bruun, Sønderallé 48-50, samlet Udgift 3634 Kr. - Tilskud 1270 Kr. - Laan 350 Kr.
+Assurandør Børge Buch, Ordrupvej 31, samlet Udgift 1478 Kr. - Tilskud 515 Kr. - Laan 350 Kr.
+Adventistsamfundet, Nørreallé 30, samlet Udgift 21717 Kr. - Tilskud 7600 Kr. - Laan 5300 Kr.
+Gross. H. C. Broge, Mindegade 8, samlet Udgift 3919 Kr. - Tilskud 1370 Kr.
+I.O. O. F., Christiansgade 24, samlet Udgift 5000 Kr. - Tilskud 1750 Kr.
+Købmand E. Engelbredt, Søndergade 17, samlet Udgift 7662 Kr. - Tilskud 2680 Kr.
+Boleslaw Dudzinski, Birkegade 7, samlet Udgift 2273 Kr. - Tilskud 795 Kr. - Laan 800 Kr.
+Havnebogh. O. E. Jørgensen m. fl., Stadionallé 31 og 31 a, samlet Udgift 1700 Kr. - Tilskud 595 Kr. - Laan 250 Kr.
+Købmand Chr. Andersen, Kystvej 31 og 33, samlet Udgift 9000 Kr. - Tilskud 3150 Kr.
+Andelsanstalten Tryg, Banegaardspl. 16, samlet Udgift 2849 Kr. - Tilskud 995 Kr.
+Fru Nanna Larsen, Saltholmsgade 24, samlet Udgift 1009 Kr. - Tilskud 355 Kr. - Laan 350 Kr.
+Maskinarb. W. Buhmann, Bruunsgade 35, samlet Udgift 1111 Kr. - Tilskud 390 Kr. - Laan 375 Kr.
+Andelsboligforen. Fremtiden, Marstrandsgade 9-11, samlet Udgift 4500 Kr. - Tilskud 1575 Kr. - Laan 1150 Kr.
+Vand- og Gasmester H. V. Jensen, Tordenskjoldsgade 23 a, samlet Udgift 200 Kr. - Tilskud 70 Kr.
+"	1941	5	2
+"49"	1941-05-02	"closed"	"19410502B_31.pdf"	48	"121-1941"	"Tjenernes Byggefond i Aarhus, Jægergaardsgade 42-44, samlet Udgift 6237 Kr. - Tilskud 2185 Kr.
+Magasin du Nord A/S, Immervad 6-8, samlet Udgift 29200 Kr. - Tilskud 10220 Kr.
+Tobakshdl. F. Petersen, Sct. Paulsgade 36, samlet Udgift 1861 Kr. - Tilskud 650 Kr. -Laan 500 Kr.
+Fabr. K. Andersen, Volden 18-20, samlet Udgift 1671 Kr. - Tilskud 585 Kr.
+Redaktør J. C. E. Boldreel, Otto Rudsgade 9,samlet Udgift 755 Kr. - Tilskud 265 Kr.
+Bødkerm. C. F. Christensen, Frederiksgade 48, samlet Udgift 988 Kr. - Tilskud 345 Kr.
+Snedker E. Aastrup, Wilstersgade 12 a, samlet Udgift 2045 Kr. - Tilskud 715 Kr.
+Glarmester Skau, Mejlgade 65, samlet Udgift 688 Kr. - Tilskud 240 Kr.
+Landinsp. Sv. Nielsen, Gentoftevej 17, samlet Udgift 17, samlet Udgift 3300 Kr. - Tilskud 1155 Kr.
+Elektriker K. L. Nielsen, Vestergaardsgade 12,samlet Udgift 570 Kr. - Tilskud 200 Kr.
+Murersv. Fr. Nielsen, Hedemannsgade 3, samlet Udgift 1100 Kr. - Tilskud 385 Kr. - Laan 375 Kr.
+Bundtmager O. Jentzsch, Søndergade 56, samlet Udgift 1417 Kr. - Tilskud 495 Kr.
+Arbmd. A. K. Jensen, Holbergsgade 3, samlet Udgift 1310 Kr. - Tilskud 460 Kr. Laan 550 Kr.
+Protokolfabr. N. M. Petersen, Fredensgade 30,samlet Udgift 1985 Kr. - Tilskud 695 Kr.
+Købmand Emanuel Jensen, Mindegade 11, samlet Udgift 2199 Kr. - Tilskud 770 Kr.
+Væver S. Aa. Petersen, Nordøgade 21, samlet Udgift 398 Kr. Tilskud 140 Kr.
+"	1941	5	2
+"50"	1941-05-02	"closed"	"19410502B_31.pdf"	49	"121-1941"	"Niels Christensen, Guldsmedgade 23, samlet Udgift 8420 Kr. -Tilskud 2945 Kr. - Laan 2700 Kr.
+Boghdl. Aage E. Holst, Søndergade 32, samlet Udgift 723 Kr. - Tilskud 255 Kr.
+Tømrer E. A. Windtberg, P. Skramsgade 11,samlet Udgift 648 Kr. - Tilskud 225 Kr. - Laan 275 Kr.
+Fru M. Eriksen, Randersvej 48, samlet Udgift 1100 Kr. - Tilskud 385 Kr.
+Fabr. K. T. Damgaard-Jensen, Rosenkrantz-gade 12, samlet Udgift 11275 Kr. - Tilskud 3945 Kr. - Laan 2650 Kr.
+Pens. Overtoldbetj. Jørgen Chr. Nielsen, Skovvej 8, samlet Udgift 364 Kr. - Tilskud 125 Kr.
+Lærer P. Schulz, H. Guldbergsgade 69 a, samlet Udgift 4399 Kr. - Tilskud 1540 Kr. - Laan 975 Kr.
+Restauratrice Fru Wilson, Banegaardsgade 6-8, samlet Udgift 4826 Kr. - Tilskud 1690 Kr. - Laan 1400 Kr.
+Forsikrings-A/S Danske Lloyd, Park Allé 3, samlet Udgift 5183 Kr. - Tilskud 1815 Kr.
+Lærer H. Brathlund, Langelandsgade 121, samlet Udgift 600 Kr. - Tilskud 210 Kr.
+Anthon Christensen A/S, Søndergade 4-6, samlet Udgift 6600 Kr. - Tilskud 2310 Kr.
+Skovarb. I. C. Mikkelsen, Brendstrupvej 97, samlet Udgift 920 Kr. - Tilskud 320 Kr. - 300 Kr.
+Maskinm. S. P. Jensen, Dr. Margrethesvej 8,samlet Udgift 2319 Kr. - Tilskud 810 Kr. - Laan 375 Kr.
+Politibetj. Verner Z. Jacobsen, Vardøgade 3,samlet Udgift 3749 Kr. - Tilskud 1310 Kr. - Laan 1800 Kr.
+"	1941	5	2
+"51"	1941-05-02	"closed"	"19410502B_31.pdf"	50	"121-1941"	"Kontorchef Ryø, Rungstedvej 18, samlet Udgift 4524 Kr. - Tilskud 1585 Kr.
+Afslaaede Andragender.
+Grosserer E. Knuth-Nielsen, Rosensgade 26,
+A/S Aarhus Dampvaskeri, Læssøesgade 22,
+Danske Købmænds Handelsaktieselskab, Aarhus Afd., Fredenstorv 8.
+Bagermester Viggo Pedersen, Bethesdavej 12.
+Fabrikant M. G. Meier-Jæger, Kirkegaards-vej 10 a.
+Bagermester Otto Hansen, Viborgvej 25.
+Købmand P. Ehrenreich, Bruunsgade 34.
+Købmand Tage Hansen, Lauge Kochsvej 11.
+Modehandler J. Petersen, Frederiksallé 64.
+Direktør L. Chr. Boisen, Vestergade 49.
+Maskinarbejder W. Buhmann, Clausens-gade 8.
+Konditor H. K. Raun, Søndergade 11.
+Vaskeriejer G. Apel, Peder Skramsgade 42,
+Enkefru A. M. Poulsen, Samsøgade 3.
+Købmand V. Bast Jensen, Nørreallé 28.
+Borgmesteren oplyste, at der var ca. 600 Ansøgninger i denne Omgang, og der var endnu en Rest tilbage, saa det blev maaske nødvendigt at søge om en yderlige Bevilling fra Statens Side. Nu drejede det sig om, hvorvidt Ansøgerne kan skaffe de 65 % af Udgiften, som de selv skal betale.
+Toges til Efterretning.
+"	1941	5	2
+"52"	1941-05-02	"closed"	"19410502B_31.pdf"	50	"150-1941"	"Landbrugsministeriets Afgørelse af Spørgsmaalet om Godkendelse af Stadsdyrlæge
+S.O. Koch som kontrollerende Dyrlæge ved Slagtehuset.
+Borgmesteren bemærkede, at det i Realiteten var et Afslag idet Ministeriet krævede, at
+"	1941	5	2
+"53"	1941-05-02	"closed"	"19410502B_31.pdf"	51	"150-1941"	"der skal ansættes en særlig kontrollerende Dyrlæge ved Slagtehuset. Taleren havde drøftet Sagen med Udvalget og man enedes om at anmode Ministeriet om en Forhandling angaaende Spørgsmaalet.
+Toges til Efterretning.
+"	1941	5	2
+"54"	1941-05-02	"closed"	"19410502B_31.pdf"	51	"109-1941"	"Indstilling fra Sygehusudvalget om, at det næstlaveste Tilbud paa de elektriske Anlæg til Nervehospitalet accepteres i Stedet for det laveste.
+Borgmesteren oplyste, at den lavest bydende, Holst Svenningsen, ikke vilde frafalde de tagne Forbehold, hvorfor Udvalget foreslog at overdrage Arbejdet til Firmaet \"Eifa\", Aarhus. Det blev 1705 Kr. dyrere, og det var tiltraadt af Ministeriet.
+I.C. Sørensen anmodede om at faa Sagen udsat til Behandling i Budgetudvalget.
+Borgmesteren svarede, at det var paa høje Tid at faa en Afgørelse for at faa Arbejdet i Gang. Det maatte saa tages saaledes, at hvis Budgetudvalget var enigt, afgør det Sagen uden yderligere Forhandling.
+Henvistes til Budgetudvalgets Afgørelse.
+"	1941	5	2
+"55"	1941-05-02	"closed"	"19410502B_31.pdf"	51	"228-1941"	"Indstilling fra Budgetudvalget angaaende Tilbud paa Transportanlæg til Folkeregistrets Kontorer i det ny Raadhus.
+Udvalget indstiller at overdrage Leverancen til A/S Frichs for 8100 Kr.
+Indstillingen vedtoges.
+"	1941	5	2
+"56"	1941-05-02	"closed"	"19410502B_31.pdf"	51	"227-1941"	"Indstilling fra Budgetudvalget angaaende Tilbud paa Lægning af Parketgulve i Raadhushallen.
+Udvalget indstiller at overdrage Arbejdet til Hustømrernes A/S for 24210 Kr.
+Indstillingen vedtoges.
+"	1941	5	2
+"57"	1941-05-02	"closed"	"19410502B_31.pdf"	52	"133-1941"	"Indstilling fra Budgetudvalget angaaende Tapetsererarbejdet til Stole i Raad-hushallen.
+Udvalget indstiller, at Arbejdet overdrages til Tapetserer Sølvsten for 10000 Kr., da Firmaet Jeppesen &amp;amp; Carlsen ikke kan skaffe de fornødne Materialer.
+E.Winterberg spurgte, om man kunde give Arbejdet til en Mand, som ikke var blandt de Bydende ved den oprindelige Licitation.
+Borgmesteren svarede, at Forslaget var kommet fra Raadhusarkitekten, som antagelig havde søgt en Mand, der kunde levere Varerne. Men man kunde jo udsætte Sagen og undersøge dette Forhold og maaske overlade til Udvalget at træffe Afgørelse, hvis der var Enighed derom.
+Henvistes til Budgetudvalgets Afgørelse.
+"	1941	5	2
+"58"	1941-05-02	"closed"	"19410502B_31.pdf"	52	"100-1941"	"Indstilling fra Budgetudvalget angaaende Støtte fra Kommunen til eventuel Opførelse af en Amtmandsbolig i Aarhus.
+Følgende Indstilling forelaa:
+\"I Anledning af, at man fra Indenrigsministeriet ved Stiftamtmand Hvidt, Skanderborg, har modtaget Henvendelse angaaende Støtte fra Aarhus Kommune til Opførelsen af en Amtmandsbolig i Aarhus i Tilfælde af Deling af det nuværende Aarhus Amt, skal man, da det efter Udvalgets Formening vil have Betydning at faa Amtmandsbolig med dertil hørende Kontorer knyttet til Aarhus, og Aarhus Amts-raad har givet Tilsagn om et Tilskud paa 75000 Kr. til Opførelse af Boligen, indstille, at Aarhus Kommune tilbyder at stille en passende Grund efter nærmere Forhandling med Hensyn til Grundens Beliggenhed, Størrelse m. v. til Disposition uden Betaling for det omhandlede
+"	1941	5	2
+"59"	1941-05-02	"closed"	"19410502B_31.pdf"	53	"100-1941"	"Formaal samt yder et Tilskud paa 100000 Kr. til Opførelse af Bygningen, alt under Forudsætning af, at Opførelsen paabegyndes senest den 1. Oktober d. A., og at Aarhus Amtsraad yder det ovenanførte Tilskud paa 75000 Kr. hertil.
+Man skal derhos indstille, at der gives Budgetudvalget Bemyndigelse til paa Kommunens Vegne at føre de videre Forhandlinger om Sagen med Indenrigsministeriet og Amtet.\"
+Borgmesteren oplyste, at Ministeriet muligvis ,vilde gaa med til en Deling af Amtet, og der skulde saa bygges en Amtmandsbolig i Aarhus, hvorfor Amtmanden havde været her og set paa forskellige Grunde. Det vilde være en stor Fordel for de Mennesker, der herfra skulde søge Amtet.
+J. R. Fanger fandt det rimeligt, at Kommunen skænker en Grund hertil, men det var noget udover det almindelige, at Kommunen giver et saa stort Tilskud til Staten. Naar man var gaaet med dertil, skyldtes det Ønsket om at skaffe Arbejde, idet Bygningen vilde koste 400000 Kr. foruden Grunden.
+Indstillingen vedtoges.
+"	1941	5	2
+"60"	1941-05-02	"closed"	"19410502B_31.pdf"	53	"415-1941"	"Indstilling fra Budgetudvalget om Bemyndigelse til at træffe fornødne Arrangementer i Anledning af Byjubilæet samt Indstilling om Godkendelse af allerede trufne Arrangementer.
+Følgende Indstilling forelaa:
+\"Man skal herved indstille, at der gives Budgetudvalget Bemyndigelse til at træffe alle fornødne Arrangementer til Festligholdelse og Markering af Byjubilæet. I denne Forbindelse skal man foreløbig indstille følgende allerede foreliggende Forslag:
+"	1941	5	2
+"61"	1941-05-02	"closed"	"19410502B_31.pdf"	54	"415-1941"	"1)Det foreslaas, at der engageres et 20 Mands Hornorkester i rødhvide Dragter til en daglig Marsch fra Kl. 15-17 i Tiden fra den 1.-10. Juli d. A. Bekostningen herved vil andrage 4300 Kr.
+2)Det indstilles, at der bevilges den gamle By et Beløb af 2174 Kr. tii en speciel byhistorisk Udstilling i Møllesalen i den gamle By.
+3)Det indstilles, at Kommunen garanterer for det eventuelle Underskud ved en Friluftsforestilling, som Turistforeningen agter at arrangere med Skuespiller Miskow Makwarth som kunstnerisk Leder, paa Bispetorvet i Dagene den 4., 5. og
+6.Juli d. A. Stykket, der agtes opført, er Kaj Munks Skuespil \"Pilatus*-. Ifølge Turistforeningens Kalkulation vil Udgifterne andrage 15000 Kr. og Indtægterne 20000 Kr. I Tilfælde af ugunstigt Vejr regner man med at kunne faa Aarhus Teater som Reserve, men Indtægterne vil saa blive betydeligt mindre. Et mindre Underskud kan dækkes af Aarhus Reklamens Midler, men da disse efter Averteringsplanerne praktisk talt forventes opbrugt, er det nødvendigt, at Kommunen træder til med sin Garanti.\"
+Borgmesteren anbefalede Indstillingen.
+J. R. Fanger erindrede om, at Byraadet tidligere havde vedtaget en Blomsterudsmykning af Byen, og til Indvielsen havde man sørget for en Kantate. Ligeledes var der vedtaget at yde Garanti for en eventuel Udstilling. Taleren vilde ogsaa anbefale at give Udvalget denne Bemyndigelse, for det var vanskeligt at faa alle disse Ting afgjort straks i Byraadet.
+Indstillingen vedtoges.
+"	1941	5	2
+"62"	1941-05-02	"closed"	"19410502B_31.pdf"	54	"237-1941"	"Indstilling fra Budgetudvalget om Bevilling af et Beløb til Naturhistorisk Museums Indvielse.
+"	1941	5	2
+"63"	1941-05-02	"closed"	"19410502B_31.pdf"	55	"237-1941"	"Borgmesteren erindrede om, at denne Institution var blevet til ved, at man gennem en Aarrække havde opført et Beløb dertil paa de aarlige Budgetter, til man havde 300000 Kr., hvorpaa man gik i Gang med Byggeriet. Nu var Museet saa godt som færdigt, og Bestyrelsen ønskede et Beløb til Indvielsen til et Glas Vin samt en beskeden Middag for Byraadet, Bestyrelsen og enkelte Museumsfolk.
+Indstillingen vedtoges.
+"	1941	5	2
+"64"	1941-05-02	"closed"	"19410502B_31.pdf"	55	"67-1941"	"Andragende fra Skuespiller Helge Dahl om Teaterbevilling i Vennelyst.
+Anbefalet af Parkudvalget.
+Anbefaledes.
+"	1941	5	2
+"65"	1941-05-02	"closed"	"19410502B_31.pdf"	55	"43_1-1941"	"Indstilling fra Lønudvalget angaaende Aflønning af Raadhusforvalteren.
+Udvalget indstiller, at Raadhusforvalteren ansættes i 3. Lønklasse med Lønanciennitet fra 1. April 1936.
+Tiltraadtes.
+"	1941	5	2
+"66"	1941-05-02	"closed"	"19410502B_31.pdf"	55	"126_23-1941"	"Andragende fra Chauffør J. H. A. Didriksen om Garanti for Boligindskud
+i \"Ringgaarden\". - 2. Behandling.
+Vedtoges.
+"	1941	5	2
+"67"	1941-05-02	"closed"	"19410502B_31.pdf"	55	"126_25-1941"	"Andragende fra Jord- og Betonarbejder A. Biilow Sørensen om Garanti for Boligindskud i \"Ringgaarden\".
+Udvalget kan ikke anbefale Andragendet.
+Kunde ikke bevilges.
+"	1941	5	2
+"68"	1941-05-02	"closed"	"19410502B_31.pdf"	55	"25_1-1941"	"Andragende fra J. Hamborg om Beværterbevilling til Centralhotellet.
+Anbefalet af Bevillingsnævnet saaledes, at Bevillingen stedbegrænses til Ejendommen Ryes-gade 27.
+Tiltraadtes.
+"	1941	5	2
+"69"	1941-05-02	"closed"	"19410502B_31.pdf"	56	"25_2-1941"	"Andragende om Fornyelse af Beværterbevilling i Hotel Royal.
+Anbefalet af Bevillingsnævnet.
+Tiltraadtes.
+"	1941	5	2
+"70"	1941-05-02	"closed"	"19410502B_31.pdf"	56	"25_3-1941"	"Andragende om Fornyelse af Beværterbevilling for Hotel Regina.
+Anbefalet af Bevillingsnævnet.
+Tiltraadtes.
+"	1941	5	2
+"71"	1941-05-02	"closed"	"19410502B_31.pdf"	56	"8_1-1941"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat paa Grund af urigtig Selvangivelse.
+Kommissionen foreslaar følgende Efterbetalinger:
+Husbest. Frk. A. D. J. Buhr,
+Skolebakken 7................79Kr.100.
+Rentrice Frk. J. C. Simonsen,
+Nørreport 17................79\"10\"
+Bogholderske Frk. E.S.T. Løvschall,
+ Borggade 12, .......45\"20\"
+Frisørsv. C. B. Christensen,
+Munkegade 21................62\"15\"
+Stabsofficiant A. K. Nielsen,
+Kasernen, H. Guldbergsgade101\"90\"
+Kontorass. C. E. Andersen, Hjelmensgade 11 B.................67\"80\"
+Direktrice Frk. H. K. Rasmussen, Sjællandsgade 61.....33\"90\"
+Ekspeditrice Frk. D. F. M. Forsberg, Ny Munkegade6... .135\"60\"
+Ekspeditrice Frk. E. K. J. Horn,
+Ny Munkegade 60.............113\"00\"
+Politibetj. O. H. Ebbesen, Lol-
+landsgade 64................33\"90\"
+Tømrersv. S. M. Nielsen, Samsøgade 80 .........................56\"50\"
+"	1941	5	2
+"72"	1941-05-02	"closed"	"19410502B_31.pdf"	57	"8_1-1941"	"Mekaniker H. T. Hansen, Fal-
+stersgade 15 B.................101Kr.700.
+Salgschef og Forretningsfører M. Jensen, Grønnegade61,158\"20\"
+Museumsinspektør Dr. phil. H.
+T. Søgaard, Grønningen4,.67\"20\"
+Bogbinder V. V. C. Albrechtsen,
+Sejrøgade 16...................45\"20\"
+Detaillist Frk. M. Hansen, Sejrøgade 18.........................56\"50\"
+Bødkersvend J. C Jensen, Teglværksgade 5. .. . ..............118\"65\"
+Lærer S. S. Jensen, Museumsgade 8..........................33\"90\"
+Baadejer H. R. Hansen, Museumsgade 24 ......................158\"20\"
+Malersv. J. C. Christensen,
+Fuglesangsallé 13..............33\"90\"
+Elektromek. J. Petersen, Fasanvej 8..........................90\"40\"
+Bogholderske Frk. S. E. Christensen, Ørnevej 7.............67\"80\"
+Kontorist Frk. L. J. A. Smidt,
+Østboulevard 19, St............67\"80\"
+Togbetjent L. A. V. S. Krogh,
+Møllevangsallé 6...............146\"90\"
+Husbest. Frk. M. C. J. Bøgeskov, O. Rudsgade 59 . . .67\"80\"
+Elektriker H. Binderup, St. Billes Torv 14....................56\"50\"
+Medhj. Frk. J. Bruun, Østergade 1.........................79\"10\"
+Arbmd. O. C. J. Bro, Banegaards-
+gade 7.........................56\"50\"
+Garversv. C. Andersen, Hej-bergsgade 14...................56\"50\"
+"	1941	5	2
+"73"	1941-05-02	"closed"	"19410502B_31.pdf"	58	"8_1-1941"	"Typograf V. J. Nielsen, St.
+Blichersgade 5...............124Kr.300.
+Murersv. A. Hansen, Clausens-
+gade 20....................124\"30\"
+Prokurist A. M. L. Eiling, Chri-
+stiansgade 25................113\"00\"
+Ingeniør A. Tang, Aaboulevar-
+den 11 B.....................79\"10\"
+Enkefru V. M. E. Loft, Frederiks Allé 102...................33\"90\"
+Sygepl. Frk. M. C. Søgaard,
+Helgolandsgade15........45\"20\"
+Husass. Frk. Erna Agnethe Henriette Danielsen, Dybbølgade
+16...........................67\"80\"
+Tømrer L. E. Møller, Montana-
+gade 44 .....................135\"60\"
+Kontorist Frk. A. R. Jensen,
+Bulovsgade 38 ...............67\"80\"
+Arbmd. P. R. Larsen, Bulovsgade 35.........................67\"80\"
+Tømrer N. P. W. Johansen,
+Biilovsgade 59 ..............56\"80\"
+Syerske Frk. M. E. Madsen,
+Sct. Paulsgade18........79\"10\"
+Sømand K. T. Thomsen, Sct.
+Paulsgade 28 ................203\"40\"
+Fuldmægtig G P. Balund, Sct.
+Pauls PI. 2 .................124\"30\"
+Enkefru A. K. Rørbeck, Sct.
+Pauls PI. 12.................50\"85\"
+Lærerinde Fru E. Røss-Petersen, Pontoppidansgade 24 .90\"40\"
+Assistent H. O. Rasmussen, H.
+Brogesgade 47................124\"30\"
+"	1941	5	2
+"74"	1941-05-02	"closed"	"19410502B_31.pdf"	59	"8_1-1941"	"Husbest. Frk. G. M. Christensen,
+Faaborggade 8.................135Kr.600.
+Arbmd. T. Rasmussen, Faaborggade 21.....................79\"10\"
+Jernbanepakm. J. P. A. Mikkelsen, Michaelsensgade 6....113\"00\"
+Sadelmagersv. T. V. C. Jensen
+Schleppegrellsgade 27.........79\"10\"
+Maskinsn. A. C. Nielsen, Tøndergade 3.......................135\"60\"
+Vejerass. S. J. Scheel, Horsens-
+gade 11.......................101\"70\"
+Togfører V. Nielsen, Sdr. Ringgade 79.........................67\"80\"
+Kontorass. Frk. S. Andersen,
+H. Schourupsgade 10...........90\"40\"
+Tømrer O. J. Nielsen, Skander-
+borgvej 33...............33\"90\"
+Pens. Maskinarb. T. A. Thomsen, Odensegade 24..............56\"50\"
+Arbejderske, Enkefru D. Friis,
+Odensegade 28 ................84\"75\"
+Maskinarb. E. J. Christensen,
+L. Krusesgade 4...............124\"30\"
+Fhv. Værkfører O. A. Ostberg,
+L. Krusesgade 10..............90\"40\"
+Gartner P. L. Laursen, Ing.
+Boulevard 19..................113\"00\"
+Kommis K. E. Petersen, Ørums-
+gade 30 ......................90\"40\"
+Ingeniør P. Frederiksen, Jyl-
+landsallé 14..................101\"70\"
+Maskinarb. N. J. Jensen, Jyl-
+landsallé 22..................101\"70\"
+Ekspedient C. R. Odgaard, Jyllandsallé 5.....................180\"80\"
+"	1941	5	2
+"75"	1941-05-02	"closed"	"19410502B_31.pdf"	60	"8_1-1941"	"Elektriker S. H. Christensen,
+Chr. Wærumsgade 7............113 Kr. 00 0.
+Kontorass. V. Frydendahl, Stadionallé 24 ...................56\"50\"
+Tømrer H. Hald, Vestergaardsgade 10........................124\"30\"
+Delikatessehdl. Frk. B. M. Bendixen, Vestergaardsgade22124\"30\"
+Delikatessehdl. Frk. K. E. Bendixen, Vestergaardsgade22124\"30\"
+Fuldmægtig P. D. T. Stoltze,
+Mars. Boulevard 76.............192\"10\"
+Pens. Toldass. M. Gregersen,
+Mars. Boulevard 71.............135\"60\"
+Enkefru L. Rasmussen, Mars.
+Boulevard 87 .... . ...........79\"10\"
+Rektor B. Fick, Marselisborg
+Skole..........................271\"20\"
+Skolebetj. J. P. Scheiby, Assens-
+gade 34........................79\"10\"
+Pens. Lærerinde Frk. B. M. Petersen, Ordrupvej 15...........146\"90\"
+lait.. .7085Kr.000.
+Tiltraadtes.
+"	1941	5	2
+"76"	1941-05-02	"closed"	"19410502B_31.pdf"	60	"12_1-1941"	"Indstilling fra Socialudvalget om Bevilling af Huslejetilskud til Aldersrentenydere.
+Indstillingen vedtoges.
+"	1941	5	2
+"77"	1941-05-02	"closed"	"19410502B_31.pdf"	60	"12_2-1941"	"Indstilling fra Socialudvalget om Bevilling af personligt Tillæg til Alders- og Invaliderentenydere.
+Indstilling vedtoges.
+"	1941	5	2
+"78"	1941-05-02	"closed"	"19410502B_31.pdf"	60	"16_2-1941"	"Indstilling fra Socialudvalget om Bevilling af Tillægshjælp efter Forsorgslovens § 293, Stk. 2.
+Indstillingen vedtoges.
+"	1941	5	2
+"79"	1941-05-02	"closed"	"19410502B_31.pdf"	61	"16_1-1941"	"Indstilling fra Socialudvalget om Bevilling af Kommunehjælp udover den i Forsorgslovens § 297, Stk. 1, fastsatte Grænse. Indstillingen vedtoges.
+"	1941	5	2
+"80"	1941-05-02	"open"	"19410502_31.pdf"	1	"no related record"	"Mødet den 2. Maj 1941.
+Fraværende: Kai Blicher, Vald. Kloster, Hans Madsen og Sigvald Nielsen.
+"	1941	5	2
+"81"	1941-05-02	"open"	"19410502_31.pdf"	1	"200-1941"	"Skrivelse fra Socialministeriet angaaende Godkendelse af Kystsikringsanlæg ved Varna som Beskæftigelsesarbejde.
+Toges til Efterretning.
+"	1941	5	2
+"82"	1941-05-02	"open"	"19410502_31.pdf"	1	"205-1941"	"Meddelelse fra Undervisningsministeriet om Statstilskud til Ole Rømer Observatoriet.
+Toges til Efterretning.
+"	1941	5	2
+"83"	1941-05-02	"open"	"19410502_31.pdf"	1	"50-1941"	"Indenrigsministeriets Godkendelse af, at Kommunen erhverver Ejendommen Nygade 9 paa Tvangsauktion.
+Toges til Efterretning.
+"	1941	5	2
+"84"	1941-05-02	"open"	"19410502_31.pdf"	1	"137-1941"	"Meddelelse fra Stiftamtet om, at der er meddelt Apoteker H. J. T. Errboe, Kibæk, Bevilling til Jernbaneapoteket i Aarhus.
+Toges til Efterretning.
+"	1941	5	2
+"85"	1941-05-02	"open"	"19410502_31.pdf"	1	"49-1941"	"Meddelelse fra Landsretssagfører Arthur Christensen om, at Kommunen paa Tvangsauktion har erhvervet Ejendommen Frederiksgade 9.
+Toges til Efterretning.
+"	1941	5	2
+"86"	1941-05-02	"open"	"19410502_31.pdf"	2	"193-1941"	"Regnskab for Aarhus Amtskreds af Nationalforeningen til Tuberkulosens Bekæmpelse.
+Toges ti! Efterretning.
+"	1941	5	2
+"87"	1941-05-02	"open"	"19410502_31.pdf"	2	"218-1941"	"Regnskab for Winerbørnenes Studielegat i 1940-41,
+Toges til Efterretning.
+"	1941	5	2
+"88"	1941-05-02	"open"	"19410502_31.pdf"	2	"1249-1940"	"Regnskab for Grosserer Filtenborgs, Købmand Jul Phillipsons og Købmand Chr. Wæruins Legater i 1940.
+Toges til Efterretning.
+"	1941	5	2
+"89"	1941-05-02	"open"	"19410502_31.pdf"	2	"68-1941"	"Regnskab for Aarhus Murermesterforenings Legat og Stiftelse i 1940.
+Toges til Efterretning.
+"	1941	5	2
+"90"	1941-05-02	"open"	"19410502_31.pdf"	2	"136-1941"	"Regnskab for Gartner Sjelles Fribolig og Legat i 1940-41.
+Toges til Efterretning.
+"	1941	5	2
+"91"	1941-05-02	"open"	"19410502_31.pdf"	2	"58-1941"	"Skrivelse fra Handelsministeriet med Bemyndigelse for Byraadet til at bestemme, at Handel med og Fordeling af Mælk m. v. i Aarhus Kommune er betinget af Byraadets Tilladelse.
+Toges til Efterretning.
+"	1941	5	2
+"92"	1941-05-02	"open"	"19410502_31.pdf"	2	"58-1941"	"Sagen angaaende Kommunens Garanti for Laan til Mejerierne til Betaling af Erstatninger i Anledning af Mælkeordningen. - 2. Behandling.
+Vedtoges.
+"	1941	5	2
+"93"	1941-05-02	"open"	"19410502_31.pdf"	2	"177-1941"	"Andragende fra Arbejdernes Oplysningsudvalg om Udbetaling af Tilskud til Kursus.
+J. R. Fanger bemærkede, at denne Sag var kommet saa sent, at man ikke naaede at behandle den i Budgetudvalget. Taleren vilde derfor spørge, hvor stort et Beløb der var budgetteret hertil, og hvorfor der blev foreslaaet 80 Øre pr. Time, naar det ellers var 50 Øre.
+"	1941	5	2
+"94"	1941-05-02	"open"	"19410502_31.pdf"	3	"177-1941"	"Stecher Christensen svarede, at der kun var 1000 Kr. paa Budgettet. Efter Loven kunde der ydes 50 Øre pr. Time samt Tilskud til Lokale, og det blev ogsaa bevilget sidste Aar.
+Der bevilgedes et Tilskud paa 2024 Kr.
+"	1941	5	2
+"95"	1941-05-02	"open"	"19410502_31.pdf"	3	"197-1941"	"Andragende fra Aarhus Teater om Udbetaling af Tilskud.
+Det paa Konto 25 opførte Beløb paa 20000 Kr. bevilgedes ti! ratevis Udbetaling 2 Gange maanedlig.
+"	1941	5	2
+"96"	1941-05-02	"open"	"19410502_31.pdf"	3	"148_2-1941"	"Andragende fra Aarhus Universitet om Udbetaling af Tilskud.
+Af det paa Konto 25 opførte Beløb bevilgedes 40000 Kr. til Udbetaling.
+"	1941	5	2
+"97"	1941-05-02	"open"	"19410502_31.pdf"	3	"148_1-1941"	"Andragende fra Universitetssamvirket om Udbetaling af Tilskud.
+Det paa Konto 25 opførte Beløb paa 3000 Kr. bevilgedes.
+"	1941	5	2
+"98"	1941-05-02	"open"	"19410502_31.pdf"	3	"188-1941"	"Indstilling fra Skoleudvalget om, at det Lektorat ved Marselisborg Skole, der bliver ledigt ved Lektor Poul Jørgensens Afsked, opslaas med Tysk i hele Skolen.
+Tiltraadtes.
+"	1941	5	2
+"99"	1941-05-02	"open"	"19410502_31.pdf"	3	"220-1941"	"Udkast til Fundats for Købmand Marius Hansen og Hustrus Legat til Fordel for værdige fattige Mænd og Kvinder i Aarhus.
+Legatudvalget finder intet mod Fundatsen at erindre.
+Tiltraadtes.
+"	1941	5	2
+"100"	1941-05-02	"open"	"19410502_31.pdf"	3	"219-1941"	"Udkast til Fundats for Købmand F. R. Langermans Legat til Fordel for Rekonvalesenter, samt Andragende om, at Kommunen fører Tilsyn med Legatet.
+Legatudvalget finder intet mod Fundatsen at
+"	1941	5	2
+"101"	1941-05-02	"open"	"19410502_31.pdf"	4	"219-1941"	"erindre, og Sygehusudvalget er villigt til at føre Tilsyn dermed.
+Tiltraadtes.
+"	1941	5	2
+"102"	1941-05-02	"open"	"19410502_31.pdf"	4	"96-1941"	"Udkast ti! Fundats for Købmand F. R. Langermans Legat til Fordel for Teknisk Skole i Aarhus samt Andragende om, at Kommunen fører Tilsyn med Legatet.
+Anbefalet af Legatudvalget.
+Tiltraadtes.
+"	1941	5	2
+"103"	1941-05-02	"open"	"19410502_31.pdf"	4	"21_1-1941"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse angaaende Fastsættelse af Gadelinien for Skovgaardsgades Forlængelse.
+Fra Stadsingeniøren forelaa forskellige Planer angaaende Skovgaardsgades Forlængelse til Parkallé og Gennembrydning af Banegaardsgade udfor Orla Lehrnannsallé.
+Udvalget indstiller, at Gadelinien for Skovgaardsgades Forlængelse fastsættes i Overensstemmelse med Stadsingeniørens Plan B, hvorefter Skovgaardsgades Forlængelse trækkes saa meget mod Syd som forsvarligt, men finder ikke Anledning til paa nuværende Tidspunkt at tage Stilling til de øvrige Spørgsmaal.
+Indstillingen vedtoges.
+"	1941	5	2
+"104"	1941-05-02	"open"	"19410502_31.pdf"	4	"234-1941"	"Indstilling fra Lønudvalget angaaende Ferieregler for Kommunens Sygeplejersker.
+Følgende Forslag forelaa:
+Ferieregler
+for
+Sygeplejersker og Sygeplejeelever
+ved Aarhus Kommunes Hospitaler,
+De gamles Hjem og Arbejdsanstaltens Sygeafdeling.
+Fast ansatte Sygeplejersker af
+alle Grader har Ret til 4 Ugers Ferie.
+"	1941	5	2
+"105"	1941-05-02	"open"	"19410502_31.pdf"	5	"234-1941"	"For alle andre ved ovennævnte
+Institutioner beskæftigede Sygeplejersker og Elever bereregnes Ferien efter følgende Regler:
+Ved Feriens Beregning lægges den paagældendes Ansættelsesforhold i det foregaaende Aar fra 1. April til 31. Marts til Grund, og der gives 1 ½ Dags Ferie for hver Maaneds Beskæftigelse ved Kommunen. Elever har dog altid Ret til mindst 12 Dages Ferie.
+Saafremt der ved Udregningen af Feriens Længde fremkommer Brøkdele af Dage, der er mindre end ½, medregnes disse ikke, medens større Brøkdele forhøjes til 1/1, og for hver opnaaede 6 Feriedage tillægges 1 Fridag.
+Personale, som er i Besiddelse af en Feriebog (-kort), der giver Ret til Ferie paa Grundlag af Beskæftigelse inden Ansættelsen ved Kommunen, faar Ferien suppleret med det Antal Dage, som Feriebogen (-kortet) giver Ret til. I disse Dage ydes ingen Lønning, og Fradraget sker ved første Lønningsudbetaling efter Feriens Begyndelse.
+Ferien gives i Sammenhæng i Tiden mellem
+2.Maj og 30. September.
+Naar en Sygeplejerske afgaar med Pension, ydes der hende inden Afgangen den hende for Beskæftigelse i det foregaaende Regnskabsaar tilkommende Ferie. Der ydes hende herefter ikke yderligere Ferie eller Feriegodtgørelse.
+Saafremt en Sygeplejerske afgaar uden Pension, udleveres der ved Afgangen den paagældende Feriemærker svarende til 4% af den oppebaarne Løn i det Tidsrum, Ferieretten er erhvervet. For Sygeplejeelever beregnes
+"	1941	5	2
+"106"	1941-05-02	"open"	"19410502_31.pdf"	6	"234-1941"	"Værdien af Kost og Logi herunder til de af Socialministeren i Henhold til § 44, Stk. 2, i Lov Nr. 183 af 20. Maj 1933 om Forsikring mod Følger af Ulykkestilfælde fastsatte Beløb.
+Videregaaende Ferieret efter de hidtil gældende Regler bevares ved Beregning af Ferie i 1941.
+Fra Udvalget forelaa Meddelelse om, at Forslaget var tiltraadt af Sygehusudvalget og Dansk Sygeplejeraad, samt at Ordningen ikke vilde medføre forøget Udgift for Kommunen.
+Indstillingen vedtoges.
+"	1941	5	2
+"107"	1941-05-02	"open"	"19410502_31.pdf"	6	"22_1-1941"	"Købekontrakt med Murer Chr. Iversen angaaende en Byggegrund ved Hestehavevej.
+Godkendtes.
+"	1941	5	2
+"108"	1941-05-15	"closed"	"19410515B_91.pdf"	1	"no related record"	"iMødet den 15. Maj 1941.
+(For lukkede Døre).
+Fraværende: Esther Aggebo, Kai Blicher, Vald. Kloster, Hans Madsen, Sigvald Nielsen og I. C. Sørensen.
+"	1941	5	15
+"109"	1941-05-15	"closed"	"19410515B_91.pdf"	1	"121-1941"	"Andragende om Tilskud og Laan til Bygningsforbedringer i Henhold til Bekendtgørelse af 17/2 1941.
+Fra Udvalget for Byens Udvidelse og Bebyggelse forelaa følgende Meddelelse:
+Bevilgede Andragender.
+Købmand Chr. Vangkilde, St. Billestorv 12, samlet Udgift 1626 Kr. - Tilskud 570 Kr.
+Kommuneskolelærer Axel Bang, Langelandsgade 127, samlet Udgift 800 Kr. - Tilskud 280 Kr.
+Gross. Hans Broge, Strandvejen 36, samlet Udgift 15608 Kr. - Tilskud 5465 Kr.
+Ejendomsselskabet af 2/12 1940 A/S, Banegaardsgade 32, samlet Udgift 7857 Kr. - Tilskud 1500 Kr.
+Samme, Banegaardsgade 30, samlet Udgift 8619 Kr. - Tilskud 1500 Kr.
+Samme, Banegaardsgade 28, samlet Udgift 8887 Kr. - Tilskud 1500 Kr.
+"	1941	5	15
+"110"	1941-05-15	"closed"	"19410515B_91.pdf"	2	"121-1941"	"Samme, Banegaardsgade 24-26, samlet Udgift 15111 Kr. - Tilskud 3600 Kr.
+Forretningsf. V. Thomsen, Samsøgade 82, samlet Udgift 1830 Kr. - Tilskud 640 Kr.
+Jydsk Andels-Foderstofforretning, 3 Pakhuse, Aarhus Sydhavn, samlet Udgift 18000 Kr. - Tilskud 6300 Kr.
+Husejer Ingeborg Christensen, Nørrebrogade 10, samlet Udgift 315 Kr. - Tilskud 110 Kr.
+Maskinarb. N. Møller Henriksen, Randersvej 47, samlet Udgift 372 Kr. - Tilskud 130 Kr.
+Maskinarb. Hans Jensen, Viborgvej 29, samlet Udgift 811 Kr. - Tilskud 285 Kr.
+Snedkerm. M. P. Madsen, H. Guldbergsgade 73, samlet Udgift 1579 Kr. - Tilskud 555 Kr.
+Fhv. Købmand Poul Poulsen, Lyøgade 7, samlet Udgift 338 Kr. - Tilskud 120 Kr.
+Samme, Lyøgade 5, samlet Udgift 334 Kr. - Tilskud 115 Kr.
+Hotelejer N. P. Ejlersen, Sct. Clemens Torv
+6,samlet Udgift 1633 Kr. - Tilskud 570 Kr.
+Vand- og Gasm. Peter Nielsen, Sct. Paulsgade 38, samlet Udgift 521 Kr. - Tilskud 180 Kr.
+Slagterm. Herman Bendt, Borggade 11, samlet Udgift 2075 Kr. - Tilskud 725 Kr.
+Slagterm. Otto Christensen, Bogensegade
+4,samlet Udgift 311 Kr. - Tilskud 110 Kr.
+Harald W. Schrøn, Adolph Meyersvej 6, samlet Udgift 1515 Kr. - - Tilskud 530 Kr.
+Gross. Kristian Peter Andersen, Skovbrynet 16, samlet Udgift 1176 Kr. - Tilskud 410 Kr.
+"	1941	5	15
+"111"	1941-05-15	"closed"	"19410515B_91.pdf"	3	"121-1941"	"Tømrerm. K. Jafner, Frederiksgade 40, samlet Udgift 1500 Kr. - Tilskud 525 Kr.
+Samme, Christiansgade 32, samlet Udgift 870 Kr. - Tilskud 305 Kr.
+Tømrerm. Chr. N. Withen, Mindegade 6, samlet Udgift 9579 Kr. - Tilskud 3355 Kr.
+Samme, Fiskergade 80, samlet Udgift 1160 Kr. - Tilskud 405 Kr.
+Samme, Fiskergade 100, samlet Udgift 1975 Kr. - Tilskud 690 Kr.
+Bankbud A. F. V. Gunvad, Skovvejen 61, samlet Udgift 216 Kr. - Tilskud 75 Kr.
+Murer Peter Thomsen, Falstersgade 57, samlet Udgift 700 Kr. - 245 Kr.
+Købmand E. S. Strunge, Sdr. Ringgade 47, samlet Udgift 2760 Kr. - Tilskud 965 Kr.
+Skrædersvend Vilh. C. M. Kristensen, Paludan Müllersvej 9, samlet Udgift 783 Kr. - Tilskud 275 Kr.
+Serapions Ordenen, Kystvejen 7, samlet Udgift 2027 Kr. - Tilskud 710 Kr.
+Enkefru Maren Jensen, Michaelsensgade 4, samlet Udgift 350 Kr. - Tilskud 125 Kr.
+Prisiding bishop Courps, Martin Børupsvej
+12,samlet Udgift 861 Kr. Tilskud 300 Kr.
+Skomager K. B. Jensen, St. Billesgade 10, samlet Udgift 451 Kr. - Tilskud 160 Kr.
+Skomager K. B Jensen, St. Billesgade 12, samlet Udgift 512 Kr. - Tilskud 180 Kr.
+Aarhus Dampvaskeri A/S, Vesterbro Torv 8, samlet Udgift 510 Kr. - Tilskud 180 Kr.
+Snedker Ferdinand Andersen, Absalonsgade 16, samlet Udgift 695 Kr. - Tilskud 245 Kr.
+Købmand Ludvig Paulsen, Bruunsgade 29, samlet Udgift 569 Kr. - Tilskud 200 Kr.
+"	1941	5	15
+"112"	1941-05-15	"closed"	"19410515B_91.pdf"	4	"121-1941"	"Fhv. Skotøjsfabr. Jens Jensen, Aarestrupvej 5, samlet Udgift 516 Kr. - Tilskud 180 Kr.
+Landsretssagf. H. Harden, Hans Brogesgade 21, samlet Udgift 693 Kr. - Tilskud 245 Kr.
+Varmem. Andreas Petersen, Kaserneboulev.
+31,samlet Udgift 380 Kr. - Tilskud 135 Kr.
+Gartner Laurits Klarskov Larsen, Solsortevej 6, samlet Udgift 474 Kr. - Tilskud 165 Kr.
+Arbmd. A. P. Nielsen, Lollandsgade 57, samlet Udgift 350 Kr. - Tilskud 125 Kr.
+Arbmd. Martin J. Frier, Aarestrupvej 2, samlet Udgift 200 Kr. - Tilskud 70 Kr.
+Tømrerm. Otto Ottosen, C. Blochsgade 11, samlet Udgift 1027 Kr. - Tilskud 360 Kr.
+Metodistmenigheden i Aarhus, Thunøgade 46, samlet Udgift 354 Kr. - Tilskud 125 Kr.
+Kommunelærer Axel Sørensen, Barthsgade
+18,samlet Udgift 493 Kr. - Tilskud 175 Kr.
+Bryggeriarb. N. P. Hoberg, Lollandsgade 63, samlet Udgift 924 Kr. - Tilskud 325 Kr.
+Remissearb. N. P. Kjær, Bogensegade 6, samlet Udgift 621 Kr. - Tilskud 215 Kr.
+Gerda M. K. Printz, Peder Skramsgade 12, samlet Udgift 320 Kr. - Tilskud 110 Kr.
+Samme, Peder Skramsgade 14, samlet Udgift 162 Kr. - Tilskud 55 Kr.
+Skotøjshdl. H. E. Hector, Søndergade 23-25, samlet Udgift 2633 Kr. - Tilskud 920 Kr.
+Kontorbud Jens Chr. Jensen, de Mezasvej
+8,samlet Udgift 1585 Kr. - Tilskud 555 Kr.
+Enkefru K. Møller, Hedemannsgade 11, samlet Udgift 2344 Kr. - Tilskud 820 Kr.
+Ekspedient Børge Hansen, P. Skramsgade 39, samlet Udgift 834 Kr. - Tilskud 290 Kr.
+"	1941	5	15
+"113"	1941-05-15	"closed"	"19410515B_91.pdf"	5	"121-1941"	"Frk. Dagmar Nielsen, Knudrisgade 14, samlet Udgift 380 Kr. - Tilskud 135 Kr.
+Ing. Sven Spelling, Bülowsgade 34, samlet Udgift 430 Kr. - Tilskud 150 Kr.
+Jydsk Hypothekforening, Borgporten, samlet Udgift 1875 Kr. - Tilskud 655 Kr.
+Det gjensidige Forsikringsselskab \"Danmark\", St. Torv 7, samlet Udgift 1496 Kr. - Tilskud 525 Kr.
+Pens. Togfører L. E. Jensen, Bogensegade
+3,samlet Udgift 928 Kr. - Tilskud 325 Kr.
+Rentier Erhard Madsen, Langelandsgade 120, samlet Udgift 385 Kr. - Tilskud 135 Kr.
+Boghdl. John Gustafsson, Aldersrovej 8, samlet Udgift 210 Kr. - Tilskud 75 Kr.
+Fhv. Købmand S. P. Simonsen, Trøjborgvej 2 b, samlet Udgift 500 Kr. - Tilskud 175 Kr.
+Tømrerm. Aa. Broundal, Sdr. Ringgade 69, samlet Udgift 845 Kr. - Tilskud 295 Kr.
+Bagerm. Birtinus Nielsen, Munkegade 86, samlet Udgift 572 Kr. - Tilskud 200 Kr.
+Samme, Jægergaardsgade 81, samlet Udgift 124 Kr. - Tilskud 45 Kr.
+Tømrerformand Alb. Olsen, Carl Blochsgade 15, samlet Udgift 600 Kr. - Tilskud 210 Kr.
+Fru Nicoline Simonsen, Pontoppidansgade
+4,samlet Udgift 678 Kr. - Tilskud 235 Kr.
+Samme, Tietgens PI. 7, samlet Udgift 1406, Kr. - Tilskud 490 Kr.
+Tømrerm. Chr. F. Christensen, Grønnegade 24, samlet Udgift 400 Kr. - Tilskud 140 Kr.
+Tømrer Ove Hansen, Sdr. Ringgade 61, samlet Udgift 1039 Kr. - Tilskud 365 Kr.
+Arbmd. S. P. Nielsen, Vaagøgade 13-15, samlet Udgift 784 Kr. - Tilskud 275 Kr.
+"	1941	5	15
+"114"	1941-05-15	"closed"	"19410515B_91.pdf"	6	"121-1941"	"Slagter Chr. Iversen, Frederiksallé 125, samlet Udgift 595 Kr. - Tilskud 210 Kr.
+Arbejdsmand Søren Nielsen Bengtsen, Montanagade 58, samlet Udgift 1282 Kr. - Tilskud 450 Kr.
+Ejendomsmægler I. Sauer m. fl., Kystvejen 55, samlet Udgift 2878 Kr. - Tilskud 1005 Kr.
+Tømrerm. Rich. Hansen, Stadionallé 18, samlet Udgift 979 Kr. - Tilskud 345 Kr.
+Læge Johs. Hoff, Marselis Boulevard 1, samlet Udgift 588 Kr. - Tilskud 205 Kr.
+Skomager Johan Svendsen, Marienlundsallé 19, samlet Udgift 1102 Kr. - Tilskud 385 Kr.
+Murerm. Chr. Nielsen, Læssøesgade 57, samlet Udgift 1137 Kr. - Tilskud 400 Kr.
+Murerm. Chr. Nielsen, Hedemannsgade 17, samlet Udgift 920 Kr. - Tilskud 320 Kr.
+Enkefru E. Berg, Skovvejen 71, samlet Udgift 369 Kr. - Tilskud 130 Kr.
+Tømrerm A. J. Wraa, Christianiagade 20, samlet Udgift 6777 Kr. - Tilskud 2370 Kr.
+Tømrerm. Chr. Berthelsen, Randervej 15, samlet Udgift 370 Kr. - Tilskud 130 Kr.
+Samme, Randersvej 23, samlet Udgift 350 Kr. - Tilskud 125 Kr.
+Gaardejer Niels Kjær, Mejlgade 80, samlet Udgift 80 Kr. - Tilskud 30 Kr.
+Søren Nørgaard, Stadion Allé 19, samlet Udgift 1150 Kr. - Tilskud 405 Kr.
+Kedelpasser A. Chr. Andersen, Thunøgade 37, samlet Udgift 150 Kr. - Tilskud 55 Kr.
+A/S Aarhus-Hallen, Sct. Knudsgade 3-5, samlet Udgift 3940 Kr. - Tilskud 1380 Kr.
+J. C. Filtenborg A/S, Parkallé 11, samlet Udgift 2503 Kr. - Tilskud 875 Kr.
+"	1941	5	15
+"115"	1941-05-15	"closed"	"19410515B_91.pdf"	7	"121-1941"	"Fru M. C. H. Jørgensen, H. Trollesgade 5, samlet Udgift 523 Kr. - Tilskud 185 Kr.
+Fabr. Valdemar Jensen, Strandvejen 118 a, samlet Udgift 989 Kr. - Tilskud 345 Kr.
+Samme, Marselis Boulevard 16, samlet Udgift 975 Kr. - Tilskud 340 Kr.
+Samme, Marselis Boulevard 76, samlet Udgift 752 Kr. - Tilskud 265 Kr.
+Murernes coop. Forretning, H. Jensens PI.
+19,samlet Udgift 700 Kr. - Tilskud 245 Kr.
+Samme, Skanderborgvej 5, samlet Udgift 700 Kr. - Tilskud 245 Kr.
+Snedkerm. Anton Jensen, Sct. Pauls Kirkeplads 7, samlet Udgift 765 Kr. - Tilskud 270 Kr.
+Murerm. Valdemar B. Olesen, Randersvej 11, samlet Udgift 320 Kr. - Tilskud 110 Kr.
+Enkefru Dorothea Petersens Arvinger, Langelandsgade 1, samlet Udgift 3600 Kr. - Tilskud 1260 Kr.
+Overportør Jens Peter Madsen, Willemoesgade 23, samlet Udgift 2083 Kr. - Tilskud 730 Kr.
+Rentier J. M. Olsen, Grønningen 3, samlet Udgift 900 Kr. - Tilskud 315 Kr.
+Enke Asta Engberg Busck, Stavangergade
+9,samlet Udgitt 435 Kr. - Tilskud 150 Kr.
+Snedkerm. Carl Andersen, Marstrandsgade 21, samlet 1615 Kr. - Tilskud 565 Kr.
+Vognmand Søren Pedersen, Toldbodgade 4-6, samlet Udgift 1880 Kr. - Tilskud 660 Kr.
+Agnes Marie Iversen, Chr. Wærumsgade
+8,samlet Udgift 763 Kr. - Tilskud 265 Kr.
+Snedkerm. Oscar Thorsen, Strandvej 128, samlet Udgift 3745 Kr. - Tilskud 1310 Kr.
+Tømrersv. Th. Molberg, Carl Blochsgade 17, samlet Udgift 730 Kr. - Tilskud 255 Kr.
+"	1941	5	15
+"116"	1941-05-15	"closed"	"19410515B_91.pdf"	8	"121-1941"	"Grosserer Viggo Meyn, Schleppegrellsgade 18 a og b, samlet Udgift 4334 Kr. - Tilskud 1515 Kr.
+Samme, Ny Banegaardsgade 47, samlet Udgift 3270 Kr. - Tilskud 1145 Kr.
+Samme, Ndr. Ringgade 86, samlet Udgift 5211 Kr. - Tilskud 1825 Kr.
+Samme, Otto Rudsgade 39, samlet Udgift 1899 Kr. - Tilskud 665 Kr.
+Samme, Otto Rudsgade 37, samlet Udgift 2016 Kr. - Tilskud 705 Kr.
+Samme, Ny Banegaardsgade 49 og 51, samlet Udgift 4780 Kr. - Tilskud 1675 Kr.
+Samme, Otto Rudsgade 31, samlet Udgift 2291 Kr. - Tilskud 800 Kr.
+Samme,Jerichausgade 9,samletUdgift
+2625 Kr. - Tilskud 920 Kr.
+Samme, Jerichausgade 11, samlet Udgift 2900 Kr. - Tilskud 1015 Kr.
+Samme,Aalborggade22,samletUdgift
+1655 Kr. - Tilskud 580 Kr.
+Samme, Nørreport 33, samlet Udgift 1046 Kr. - Tilskud 365 Kr.
+Samme, Vestergaardsgade 18, samlet Udgift 1439 Kr. - Tilskud 505 Kr.
+Samme,Faaborggade20,samletUdgift
+1792 Kr. - Tilskud 630 Kr.
+Samme,Faaborggade18,samletUdgift
+2737 Kr. - Tilskud 960 Kr.
+Samme, Otto Rudsgade 33, samlet Udgift 2069 Kr. - Tilskud 725 Kr.
+Samme, Otto Rudsgade 35, samlet Udgift 1868 Kr. - Tilskud 655 Kr.
+Arbmd. Lars Pedersen, Paulsgade 66, samlet Udgift 1145 Kr. - Tilskud 400 Kr.
+"	1941	5	15
+"117"	1941-05-15	"closed"	"19410515B_91.pdf"	9	"121-1941"	"Sørense Thomasen, Herningvej 11, samlet Udgift 981 Kr. - Tilskud 345 Kr.
+Samme, Herningvej 13, samlet Udgift 575 Kr. - Tilskud 200 Kr.
+Herreekviperingshdl. Jørgen Christensen, Fr. Allé 50-54, samlet Udgift 579 Kr. - Tilskud 205 Kr.
+Glarm. Alfred Petersen, Bruunsgade 52, samlet Udgift 950 Kr. - Tilskud 335 Kr.
+Snedker Rasmus Emil Hvid, Jerichausgade
+3,samlet Udgift 509 Kr. -- Tilskud 180 Kr.
+Fabr. Audun Pedersen, Strandvejen 118 b, samlet Udgift 764 Kr. - Tilskud 270 Kr.
+Samme, Marselis Boulevard 74, samlet Udgift 1779 Kr. - Tilskud 625 Kr.
+Repr. Paul Alfred Eriksen, Strandvejen 16, samlet Udgift 1800 Kr. - Tilskud 630 Kr.
+Maler Johs. Steffens, Dannebrogsgade 29, samlet Udgift 391 Kr - Tilskud 135 Kr.
+Købmand Sophus Nielsen, Fr. Allé 117, samlet Udgift 462 Kr. - Tilskud 160 Kr.
+Tømrerm. H. Nielsen, Marstrandsgade 32, samlet Udgift 440 Kr. - Tilskud 155 Kr.
+Arbmd. Anders Jensen, Absalonsgade 17a, samlet Udgift 300 Kr. - Tilskud 105 Kr.
+Murerm. R. B. Broman, Sdr. Ringgade 29, samlet Udgift 867 Kr. - Tilskud 305 Kr.
+Banehndv. Marinus Jørgensen, Sct. Annagade
+15,samlet Udgift 800 Kr. - Tilskud 280 Kr.
+Murerm. R. B. Broman, Ørumsgade 42, samlet Udgift 1011 Kr. - Tilskud 355 Kr.
+Lektor Otto H. Larsen, Skolebakken 11, samlet Udgift 450 Kr. - Tilskud 160 Kr.
+Murerm. R. B. Broman, Harald Jensens PI. 21, samlet Udgift 1228 Kr. - Tilskud 430 Kr.
+"	1941	5	15
+"118"	1941-05-15	"closed"	"19410515B_91.pdf"	10	"121-1941"	"Inspektør J. H. Sørensen, Niels Juelsgade 87, samlet Udgift 1247 Kr. - Tilskud 435 Kr.
+Adjunkt Johan Ramm, Kystvej 57, samlet Udgift 180 Kr. - Tilskud 65 Kr.
+Ekspedient Th. Pedersen, Herluf Trollesgade 53, samlet Udgift 760 Kr. - Tilskud 265 Kr.
+Slagterm. Herman Bendt, Borggade 11, samlet Udgift 496 Kr - Tilskud 175 Kr.
+Købmand Christen Schaltz, Brammersgade 2 a, samlet Udgift 300 Kr. - Tilskud 105 Kr.
+Stenhuggerm. V. Kofoed, Østboulevard 11, samlet Udgift 873 Kr. - Tilskud 305 Kr.
+Købmand S. A. J. Jensen, Jægergaardsgade 32, samlet Udgift 1091 Kr. - Tilskud 380 Kr.
+Kreditforeningsdirektør N. M. Bak, N. W. Gadesvej 5, samlet Udgift 840 Kr. - Tilskud 295 Kr.
+Samme, Marselisborgallé 35, samlet Udgift 2025 Kr. - Tilskud 710 Kr.
+Bagerm. J. Hoberg Jørgensen, Aarestrupsvej 13, samlet Udgift 859 Kr. - Tilskud 300 Kr.
+Slagtersv. Jens Nielsen, Montanagade 30, samlet Udgift 128 Kr. - Tilskud 45 Kr.
+Installationsm. Julius Andersen, Sdr Ringgade 8, samlet Udgift 1364 Kr. - Tilskud 475 Kr.
+Dir. Aug. Clausen, Odensegade 5, samlet Udgift 435 Kr. - Tilskud 150 Kr.
+Organist Robert Jørgensen, Banegaardsgade 10, samlet Udgift 1443 Kr. - Tilskud 505 Kr.
+Uddeler Bernh. E. Jensen, Vestergade 78, samlet Udgift 480 Kr. - Tilskud 170 Kr.
+"	1941	5	15
+"119"	1941-05-15	"closed"	"19410515B_91.pdf"	11	"121-1941"	"fhv. Smedem. Marius Rasmussen, Nørreallé 23 a, samlet Udgift 1320 Kr. - Tilskud 460 Kr.
+Montør Erik Rasmussen, Ørumsgade 8, samlet Udgift 491 Kr. - Tilskud 170 Kr.
+Fru Ane S. Christensen, Vestergade 75, samlet Udgift 1159 Kr. - Tilskud 405 Kr.
+Adm. Direktør Peter L. Würtsen, Stadionallé 49, samlet Udgift 605 Kr. - Tilskud 210 Kr.
+Landsretssagf. E. H. Isager, Banegaardsgade 20, samlet Udgift 321 Kr. - Tilskud 110 Kr.
+Automobilforhdl. J. O. Petersen, Mejlgade 46, samlet Udgift 2365 Kr. - Tilskud 830 Kr.
+Mælkehdl. Carl Sørensen, Bergensgade 12, samlet Udgift 697 Kr. - Tilskud 245 Kr.
+Vognmand Andreas Rasmussen, Østboulevard 31, samlet Udgift 520 Kr. - Tilskud 180 Kr.
+Malerm. Mikkel Mikkelsen, Museumsgade
+2,samlet Udgift 1766 Kr. - Tilskud 620 Kr.
+Snedker Alfred Willemoes, Thunøgade 53, samlet Udgift 425 Kr. - Tilskud 150 Kr.
+Kulhandler O. P. Nitschke, Sct. Paulsgade 42, samlet Udgift 523 Kr. - Tilskud 185 Kr
+Vognmand Peter Winther, Samsøgade 31, samlet Udgift 327 Kr. - Tilskud 115 Kr.
+Andelsselskabet De forenede Mejerier, Vestergade 25, samlet Udgift 755 Kr. - Tilskud 265 Kr.
+Samme, Fr. Allé 62, samlet Udgift 320 Kr. - Tilskud 110 Kr.
+Samme, Sjællandsgade 84, samlet Udgift 635 Kr. - Tilskud 220 Kr.
+Arbmd. Anker Nielsen, Lundbyesgade 16, samlet Udgift 160 Kr. - Tilskud 55 Kr.
+"	1941	5	15
+"120"	1941-05-15	"closed"	"19410515B_91.pdf"	12	"121-1941"	"Slagterm. Herman Bendt, Guldsmedgade 23, samlet Udgift 265 Kr. -- Tilskud 95 Kr.
+Anton Nielsen, Eckersbergsgade 43, samlet Udgift 207 Kr. - Tilskud 70 Kr.
+Assistent Olaf Christensen, Hellerupvej 9, samlet Udgift 189 Kr. - Tilskud 65 Kr.
+fhv. Gaardejer Alex Damg. Andersen, I. Huitfeldsgade 19, samlet Udgift 3236 Kr. - Tilskud 1135 Kr. -- Laan 950 Kr.
+Lagerforv. J. L. Carlsen, H. V. Kaalundsvej 11, samlet Udgift 760 Kr. - Tilskud 266 Kr. - Laan 250 Kr.
+Overinsp. Carl Emil Ruge, Niels Juelsgade
+16,samlet Udgift 2250 Kr. -Tilskud 790 Kr.- Laan 275 Kr.
+Telefonarb. Willy B. Hansen, Nordøgade 17, samlet Udgift 500 Hr. - Tilskud 175 Kr. - Laan 200 Kr.
+Kulhdl. Hans Nielsen, Skovvangsvej 56, samlet Udgift 450 Kr. - Tilskud 160 Kr. -Laan 225 Kr.
+Materialforv. Johs. Petersen, E. Warmingsvej 15, samlet Udgift 2418 Kr. - Tilskud 845 Kr. La an 1200 Kr.
+Metaldrejer C. F. F. Agerskov, Ny Tjørnegade 5, samlet Udgift 1352 Kr. - Tilskud 475 Kr. - 400 Kr.
+S. Rosenberg, Falstersgade 47, Tilskud tidligere bevilget. -- Laan 325 Kr.
+Tømrer E. A. Windtberg, P. Skramsgade 11, Tilskud tidligere bevilget. - Laan efter Lovens Maksimum.
+Fabr. K. V. Holm, Fredensgade 25, samlet Udgift 2279 Kr. - Tilskud 800 Kr.
+S.Bjørnaa, Vesterallé 18, Tilskud forhøjet til 1510 Kr. og Laan til 500 Kr.
+"	1941	5	15
+"121"	1941-05-15	"closed"	"19410515B_91.pdf"	13	"121-1941"	"Restauratrice Ebba V. Hansen, Skolegade
+32,samlet Udgift 2631 Kr. - Tilskud 920 Kr.
+Frkn. Hilda og Eva Sloth, Aaboulev. 28, samlet Udgift 26904 Kr. - Tilskud 5940 Kr. - Laan 3325 Kr.
+Fru Merry Breinholm, Ørumsgade 16, samlet Udgift 3529 Kr. - Tilskud 1235 Kr.
+Slagterm. K. W. Oschätzchen, Annagade 3, samlet Udgift 5000 Kr. - Tilskud 720 Kr.
+Restauratrice Fru D. M. Økjær, Rosenkrantzgade 2, samlet Udgift 7199 Kr. - Tilskud 2520 Kr. Laan 1125 Kr.
+Universitetssamvirket, Studentergaarden, samlet Udgift 36107 Kr. - Tilskud 9600 Kr.
+Ejendomsmægler H. Braarup-Hansen, Nørregade 43, samlet Udgift 2235 Kr. - Tilskud 780 Kr.
+Direktør Richard Mortensen, Kasino, samlet Udgift 22963 Kr. - Tilskud 8035 Kr.
+Fru Julie Pinholt, H. Trollesgade 6, samlet Udgift 3971 Kr. - Tilskud 1390 Kr. -- Laan 1375 Kr.
+Dansk Kvindesamfund, Vestergade 24, samlet Udgift 3952 Kr. - Tilskud 1385 Kr.
+Fru Anna J. Eriksen, Mejlgade 82 b, samlet Udgift 9183 Kr. - Tilskud 3215 Kr. - Laan 3000 Kr.
+I.A. Alstrups Arvinger, Frederiksgade 58, samlet Udgift 205 Kr. - Tilskud 70 Kr.
+Samme, Badstuegade 9, samlet Udgift 630 Kr. - Tilskud 220 Kr.
+Samme, Frederiksgade 50-52, samlet Udgift 1745 Kr. - Tilskud 610 Kr.
+Samme, Frederiksgade 54-56, samlet Udgift 241 Kr. - Tilskud 85 Kr.
+"	1941	5	15
+"122"	1941-05-15	"closed"	"19410515B_91.pdf"	14	"121-1941"	"Tømrerm. Chr. N. Withen, Mindegade 12, samlet Udgift 1063 Kr. - Tilskud 370 Kr.
+Samme, Fiskergade 63, samlet Udgift 210 Kr. - Tilskud 75 Kr.
+Samme, Fiskergade 65, samlet Udgift 210 Kr. - Tilskud 75 Kr.
+Samme, Fiskergade 77, samlet Udgift 245 Kr. - Tilskud 85 Kr.
+Walter og Palle Withen, Fiskergade 71, samlet Udgift 180 Kr. - Tilskud 65 Kr.
+Købmand N. A. Jørgensen, J. Bechgaardsvej 6, samlet Udgift 2300 Kr. - Tilskud 805 Kr.
+Musiker Charles Jensen, Vesterbrogade 24, samlet Udgift 17442 Kr. - Tilskud 4320 Kr. - La an 4300 Kr.
+Restauratør S. Sørensen, Mindegade 21, samlet Udgift 540 Kr. - Tilskud 190 Kr.
+Havnearb. Svend Nielsen, Lollandsgade 55, samlet Udgift 1810 Kr. - Tilskud 635 Kr.
+Civiling. N. V. Steenstrup, Lyngbyvej 3, samlet Udgift 1670 Kr. - Tilskud 585 Kr. -Laan 550 Kr.
+Murerm. N. A. Jensen, Mejlgade 20, samlet Udgift 1614 Kr. - Tilskud 565 Kr.
+Malerm. L. Kruse, Mejlgade 16, samlet Udgift 490 Kr. - Tilskud 170 Kr.
+Købmand E. Westphall, Gentoftevej 3, samlet Udgift 2970 Kr. - Tilskud 1040 Kr.
+Fabr. H. Chr. Hansen, Vestergade 30, samlet Udgift 962 Kr. - Tilskud 335 Kr.
+Snedkerm. R. P. Pedersen, Frederiksgade 27, samlet Udgift 760 Kr. - Tilskud 265 Kr.
+Kommunelærer Thor Dahl, Nørreallé 51, samlet Udgift 2490 Kr. - Tilskud 870 Kr.
+"	1941	5	15
+"123"	1941-05-15	"closed"	"19410515B_91.pdf"	15	"121-1941"	"Barberm. N. Pedersen, Frederiksgade 49-51, samlet Udgift 940 Kr. - Tilskud 330 Kr.
+Møbelhdl. Akton E. Pedersen, Studsgade 24-26, samlet Udgift 2298 Kr. - Tilskud 805 Kr.
+Fru Alma Hansen, Randersvej 80, samlet Udgift 1000 Kr. - Tilskud 350 Kr.
+Slagterm. Magnus Nielsen, Frederiksgade 70, samlet Udgift 9760 Kr. - Tilskud 3415 Kr. - Laan 3400 Kr.
+Apoteker M. Reimers, St. Torv 5, samlet Udgift 11542 Kr. - Tilskud 4040 Kr.
+Gross. Viggo Meyn, Nørreport 22, samlet Udgift 5619 Kr. Tilskud 1965 Kr.
+Samme, Strandvejen 92, samlet Udgift 4128 Kr. - Tilskud 1445 Kr.
+Frkn. G. og E. Marcussen, Sølystgade 61, samlet Udgift 3028 Kr. - Tilskud 1060 Kr.
+Tømrerm. H. L. Nielsen, Vesterallé 9, samlet Udgift 8230 Kr. - Tilskud 2880 Kr.
+Pedersen og Mortensen, Sjællandsgade 83-85, samlet Udgift 1944 Kr. - Tilskud 680 Kr.
+Banehaandværker M. Jørgensen, Stadionallé 25, samlet Udgift 929 Kr. - Tilskud 325 Kr.
+Restauratør A. P. L. Sandbro, Volden 28, samlet Udgift 888 Kr. - Tilskud 310 Kr.
+Rentier H. C. Nisted, Søndergade 36 a, samlet Udgift 1113 Kr. Tilskud 390 Kr.
+Direktør O. Hjelm, Thunøgade 31, samlet Udgift 18703 Kr. - Tilskud 3030 Kr.
+Bagerm. R. Møller, Skovvangsvej 23, samlet Udgift 224 Kr. - Tilskud 80 Kr.
+Direktør Rindal, Ny Munkegade 135, samlet Udgift 895 Kr. - Tilskud 315 Kr.
+"	1941	5	15
+"124"	1941-05-15	"closed"	"19410515B_91.pdf"	16	"121-1941"	"Arbm. A. R. Rasmussen, Bülovsgade 32, samlet Udgift 1598 Kr. - Tilskud 560 Kr.
+Afslaaede Andragender.
+Gross. K. P. Andersen, Skovbrynet 16.
+Kirkens Korshær, Frederiksgade 16.
+Fru E. Emmery, Guldsmedgade 24-26.
+Arb. Brandforsikringsselskab, Grønnegade 4.
+Lædervarehdl. Fru Hansen, Søndergade 36 b.
+Boghdl. Aage E. Holst, H. C. Lumbyesvej 6.
+Gartnernes Salgsforening, Gebauersgade 3-11.
+Snedkerm. O. Thorsen, Frederiksgade 71.
+Prosektor Lund, Jul. Bechgaardsvej 8.
+Trykker P. Christensen, Skovvangsvej 21.
+Sct. Markus Kirke.
+Borgmesteren oplyste, at der nu var bevilget Tilskud paa 1353000 Kr. og Laan paa 119000 Kr., og der var endnu en Del Andragender tilbage; men Staten var gaaet med til at yde det nødvendige Beløb. Nu maatte man haabe, at alle Arbejderne bliver udført, men en Del af Grundejerne havde maaske vanskeligt ved at fremskaffe de 65 % af Udgiften, som de selv skulde betale.
+Toges til Efterretning.
+"	1941	5	15
+"125"	1941-05-15	"closed"	"19410515B_91.pdf"	16	"295-1941"	"Redegørelse fra Lønudvalget for Kommunens og Havnens Personale- og Lønforhold m. v. i 1939-40.
+Følgende Skrivelse forelaa:
+\"Hermed fremsendes en Redegørelse for Kommunens og Havnens Personale- og Lønforhold m. v. i Regnskabsaaret 1939-40, idet oplyses, at det er Hensigten fremtidig hvert  Aar at udsende en saadan til Brug for de Grene af Administrationen, for hvilke Oplysninger af den omhandlede Art maatte have Interesse.
+"	1941	5	15
+"126"	1941-05-15	"closed"	"19410515B_91.pdf"	17	"295-1941"	"Til Brug for Byraadets Medlemmer vedlægges et Antal Eksemplarer af Redegørelsen.\"
+Toges til Efterretning.
+"	1941	5	15
+"127"	1941-05-15	"closed"	"19410515B_91.pdf"	17	"32_6-1940"	"Aarhus Stiftsamts Godkendelse af, at  F. V. Jalum anbringes i Arbejdsanstalt i 3 Maaneder.
+Toges til Efterretning.
+"	1941	5	15
+"128"	1941-05-15	"closed"	"19410515B_91.pdf"	17	"287-1941"	"Tilbud paa 90 Senge og Madrasser til den neurologisk- neurokirurgiske Afdeling.
+Fra Sygehusudvalget forelaa følgende Skrivelse:
+\"Hos Firma Valdemar Larsen &amp;amp; Søn, Frederiksallé 136, er afgivet Bestilling paa 90 Stk. Senge a Kr. 112,50.
+Der var yderligere indkommet Tilbud fra Firma Nielsen Holst, Østergade 31, lydende paa Kr. 106,00 pr. Seng, men da dette Firma kun kunde præstere Ordren, hvis Materialer kunde skaffes, medens Firmaet Valdemar Larsen &amp;amp; Søn erklærede at have Materialerne paa Haanden, dog kun i et stærkt begrænset Tidsrum, antoges sidstnævnte Firmas Tilbud.
+Paa 90 Stk. Madrasser er indkommet vedlagte 4 Tilbud. Af disse indstilles det laveste, konditionsmæssige Tilbud fra Firma Anton Sølvsten, Odensegade 4, til Godkendelse (165 Kr. pr. Stk.).\"
+Tiltraadtes.
+"	1941	5	15
+"129"	1941-05-15	"closed"	"19410515B_91.pdf"	17	"42_8-1941"	"Indstilling angaaende Inventar til Stadsarkitektens og Stadsingeniørens Kontorer i det ny Raadhus.
+Fra Stadsingeniøren forelaa Forslag om Anskaffelse af Inventar til ialt 92855 Kr.
+Fra Arkitekterne O. Bornø og Erik Møller forelaa følgende Forslag:
+"	1941	5	15
+"130"	1941-05-15	"closed"	"19410515B_91.pdf"	18	"42_8-1941"	"\"Efter sammen at have gennemgaaet ovenstaaende Møbleringsforslag indstiller vi, at man lader udføre de Møbler, som i alle de specielle Ingeniørkontorer danner en Supplering af det i 1936 anskaffede Inventar. For de øvrige Møbler, som naturligt kan indgaa i det samlede Inventar til Raadhuset, anbefaler vi, at man fremkommer med Indstilling herom, naar der er indhentet Priser paa disse Arbejder.
+Herefter indstiller undertegnede, at Arbejdet med Møblerne overlades følgende Haandværkere i Henhold til nedenstaaende Fortegnelse:
+Pos.IMøbelfabrikkenAros for....Kr.5311
+-IISnedkermester Overgaard -.-5292
+-IIITømrermester Chr. Withen -.-9893
+-IVSnedkermester Overgaard -.-9105
+-VSnedkerm. Dammand &amp;amp; Co.-.-9561
+-VISnedkerm. Brdr. Hoffmann-,-2851
+-VIIDe cooperative Snedkere -.-7623
+-XISnedkerm. I. C. Jensen - ..-14845
+Kr. 64381
+Efter Forhandling med Indehaverne af Pos. II, III og V fradrages for Inventar, der udskydes til senere,
+ca................................................ Kr.5000
+Rest ca. Kr.60000
+Pos. 8-9-10tilialtca.30000Kr. udbydes senere
+sammen med det øvrige Inventar til Raadhuset.\" Fra Budgetudvalget forelaa følgende Indstilling: \"Stadsingeniørens foranstaaende Indstilling tiltrædes med de af Ark. Erik Møller og O. Bornø foretagne Ændringer, dog saaledes at Spørgsmaalet om Møbler til Stadsingeniørens og Stadsarkitektens egne Kontorer stilles i Bero, indtil det er afgjort, hvorvidt de Møbler,
+"	1941	5	15
+"131"	1941-05-15	"closed"	"19410515B_91.pdf"	19	"42_8-1941"	"der findes i det nuværende Borgmesterkontor, kan anvendes dertil.\"
+Indstillingen vedtoges.
+"	1941	5	15
+"132"	1941-05-15	"closed"	"19410515B_91.pdf"	19	"42_5-1941"	"Indstilling fra Budgetudvalget angaaende en Bænk til Hallen i det ny Raadhus.
+Udvalget indstiller, at Arbejdet overdrages Firmaet Minet &amp;amp; Elikofer for 1475 Kr.
+Indstillingen vedtoges.
+"	1941	5	15
+"133"	1941-05-15	"closed"	"19410515B_91.pdf"	19	"42_6-1941"	"Indstilling fra Budgetudvalget angaaende Gardiner til Raadhuset.
+Udvalget indstiller at overdrage Leverancen til Ferd. Salling for 12052,72 Kr. + Statsafgift.
+Indstillingen vedtoges.
+"	1941	5	15
+"134"	1941-05-15	"closed"	"19410515B_91.pdf"	19	"42_7-1941"	"Indstilling fra Budgetudvalget angaaende Persienner til Vinduerne i Raadhuset.
+Udvalget indstiller at overdrage Leverancen til A/S Perspektiva for 34295 Kr.
+Indstillingen vedtoges.
+"	1941	5	15
+"135"	1941-05-15	"closed"	"19410515B_91.pdf"	19	"42_9-1941"	"Licitationstilbud paa Belysningslegemer til Raadhuset.
+Budgetudvalget indstiller, at Leverancen fordeles saaledes:
+A/S \"Lyfa\"........................... 48217,00Kr.
+Louis Poulsen &amp;amp; Co...................2997,54\"
+\"Eifa\".............................3991,60\"
+Ialt... 55206,14Kr.
+Borgmesteren meddelte, at Louis Poulsen havde tilbudt at give visse Procenter, hvorved han var blevet lidt billigere end \"Lyfa\", og han havde gjort Indsigelse mod, at han ikke havde faaet en større Leverance. Udvalget mente dog ikke, man ved Licitation kunde tage Hensyn til Procenter, og fastholdt Indstillingen. Forøvrigt havde \"Lyfa\" i Forvejen foræret Byen Lamper til Raadhushallen for 8-10000 Kr.
+Indstillingen vedtoges.
+"	1941	5	15
+"136"	1941-05-15	"closed"	"19410515B_91.pdf"	20	"294-1941"	"Indstilling angaaende en Ordning af Badmintonhallens Forhold.
+Fra Økonomidirektøren, Stadsingeniøren og Byraadssekretæren forelaa en Redegørelse over Badmintonhallens økonomiske Forhold, samt følgende Forslag:
+1)\"Kommunens Tilgodehavende ifølge Pantebrev forhøjes med skyldige Skatter og Belysningsafgifter (henholdsvis Kr. 1394,37 og Kr. 974,40), hvorfor en Forudsætning for en Ordning maa være, at Ejeren af 3’ Pantet ved en Paategning paa Pantebrevet erklærer sig indforstaaet med at respektere en Restgæld til Kommunen paa Kr. 25344,55 samt den nedenfor under 3 foreslaaede Ændring i Afdragsvilkaarene.
+2)Der gives Selskabet Rentefrihed i et Aar, saaledes at den halvaarlige Rente, 2%, først beregnes fra 11. Juni 1942.
+3)Kommunens Tilgodehavende henstaar afdragsfrit et Aar indtil 11. Juni 1942, idet det dog ikke skal være udelukket, at der ydes Selskabet yderligere Afdragsfrihed i fire Aar, saafremt Udvalget efter en Bedømmelse af Selskabets Forhold pr. 31. December 1941 finder rimelig Anledning til en saadan yderligere Indrømmelse.
+4)Selskabet skal betale løbende Skatter, Belysningsafgifter, Renter af Prioritetsgælden til Banken samt øvrige strengt nødvendige Driftsudgifter, hvorimod der ikke i Tiden indtil 11. Juni 1942 (eventuelt indtil 11. Juni 1946) maa betales Renter og Afdrag af andre faste Laan end 1. Pantet, lige saa lidt som der under nogen Form maa udbetales Udbytte til Aktionærerne.
+5)Det paalægges Selskaber at iagttage den
+"	1941	5	15
+"137"	1941-05-15	"closed"	"19410515B_91.pdf"	21	"294-1941"	"strengeste Økonomi og foretage de Foranstaltninger, som kan medvirke til en Rationalisering af Driften.\"
+Tiltraadt af Budgetudvalget.
+Borgmesteren pegede paa, at det ikke var noget særlig godt Foretagende, og under de nuværende Forhold var det vanskeligt at holde Medlemmerne sammen, da ingen holdt af at gaa ud til Hallen i de mørke Aftener. Der var to Søskende, som havde ofret 58000 Kr. paa Foretagendet, og disse Penge var desværre gaaet tabt, hvad man maatte beklage. Den foreliggende Redegørelse viste hvorledes den økomiske Stilling var, og Forslaget gik ud paa at give dem Henstand 1 Aar og se, om Forholdet kan blive bedre, ellers kunde Kommunen blive nødt til at overtage hele Historien.
+Indstillingen vedtoges.
+"	1941	5	15
+"138"	1941-05-15	"closed"	"19410515B_91.pdf"	21	"293-1941"	"Indstilling fra Udvalget for Byens Udvidelse og Bebyggelse om Køb af Gartner S. Sørensens Ejendom Skovvangsvej 182. Følgende Indstilling forelaa:
+\"Da Kommunen er interesseret i at erhverve den paagældende Ejendom til Byggegrunde, og det formodes, at Kommunen ved Udstykning og Salg af Ejendommen kan faa sine Penge ind, skal man efter Omstændighederne indstille, at Kommunen erhverver Ejendommen som foran foreslaaet af Stadsingeniøren til en Pris af 41766 Kr., dog saaledes, at man ikke indrømmer Sælgeren nogen Forkøbsret til de paa Ejendommen værende Drivhuse.\"
+Borgmesteren henviste til Stadsingeniørens Skrivelse, hvoraf fremgik, at Gartner Sørensen var en flittig og stræbsom Mand, der
+"	1941	5	15
+"139"	1941-05-15	"closed"	"19410515B_91.pdf"	22	"293-1941"	"havde opdraget en stor Børneflok, men han havde ikke kunnet klare sig og skyldte bl. a. for en hel Del Skat, hvorfor han var nødt til at sælge Ejendommen, og efter Stadsingeniørens Beregning skulde Kommunen igen faa Pengene ind ved Salg af Grunden. Det var Meningen, at han foreløbig skulde leje Ejendommen for 1500 Kr. om Aaret.
+Indstillingen vedtoges.
+"	1941	5	15
+"140"	1941-05-15	"closed"	"19410515B_91.pdf"	22	"243-1941"	"Andragende fra Skolebestyrerinde Fru K. Nordby om vedblivende at maatte afdrage Kommunens forfaldne Pantebrev i Frk. N. Kochs Skole paa samme Maade som hidtil.
+Anbefalet af Budgetudvalget.
+Bevilgedes.
+"	1941	5	15
+"141"	1941-05-15	"closed"	"19410515B_91.pdf"	22	"103-1941"	"Indstilling fra Skolekommissionen angaaende Besættelse af Lærerembeder.
+Følgende Indstilling forelaa:
+3 Lærerembeder.
+I.1. Jens Børge Petersen, Aarhus.
+2.Holger Christensen, do.
+3.Svend Sandbæk Jensen, do.
+II.1. Holger Christensen, do.
+2.Tage Byrith, do.
+3.Jens Børge Petersen, do.
+III.1. Tage Byrith, do.
+2.Svend Sandbæk Jensen, do.
+3.Holger Christensen, do.
+3Timelærerembeder.
+I.1. Hans Rasmussen, Aarhus.
+2.Hans Johnsen, do.
+3. Helge Lykke Andersen, do.
+II. 1. Helge Lykke Andersen, do.
+2.Aage Rasmussen, do.
+3.Hans Johnsen, do.
+"	1941	5	15
+"142"	1941-05-15	"closed"	"19410515B_91.pdf"	23	"103-1941"	"III.1. Hans Johnsen, do.
+2.Helge Lykke Andersen, do.
+3.Aage Rasmussen, do.
+4faste Vikarpladser.
+Poul Freytag, Aarhus.
+Albert Johansen, do.
+Palle Schmidt, do.
+Ingrid Bennick, do.
+Tiltraadtes.
+"	1941	5	15
+"143"	1941-05-15	"closed"	"19410515B_91.pdf"	23	"29_2-1941"	"Andragende fra Lygtekontrolør M. Christensen om Afsked med Pension.
+Bevilgedes. Pensionen fastsattes til 1920 Kr.
+"	1941	5	15
+"144"	1941-05-15	"open"	"19410515_37.pdf"	1	"no related record"	"Mødet den 15. Maj 1941.
+Fraværende: Esther Aggebo. Kai Blicher, Vald. Kloster, Hans Madsen, Sigvald Nielsen og I. C. Sørensen.
+"	1941	5	15
+"145"	1941-05-15	"open"	"19410515_37.pdf"	1	"700-1940"	"Inderrigsministeriets Godkendelse af, at Aarhus Kommune i indeværende Regnskabsaar udskriver et samlet Skattebeløb af 13.313203 Kr.
+Toges til Efterretning.
+"	1941	5	15
+"146"	1941-05-15	"open"	"19410515_37.pdf"	1	"874-1940"	"Meddelelse fra Indenrigsministeriet om, at Sagfører Holmark er genudnævnt til Overligningskommissær med Forretningsfører S.Sørensen som Suppleant.
+Toges til Efterretning.
+"	1941	5	15
+"147"	1941-05-15	"open"	"19410515_37.pdf"	1	"35-1941"	"Indenrigsministeriets Godkendelse af, at Aarhus Kommune tegner sig for en Andel paa 22500 Kr. af Garantikapitalen for en paatænkt Haandværks-, Industri- og Handelsudstilling i Aarhus.
+Toges til Efterretning.
+"	1941	5	15
+"148"	1941-05-15	"open"	"19410515_37.pdf"	1	"135-1941"	"Indenrigsministeriets Godkendelse af, at Kommunen paa Tvangsauktion eventuelt overtager Ejendommen Olfert Fischersgade 4-6.
+Toges til Efterretning.
+"	1941	5	15
+"149"	1941-05-15	"open"	"19410515_37.pdf"	2	"274-1941"	"Opgørelse over Elevantallet i Aarhus Borgerskoler pr. 1. April 1941. (9938 Elever).
+Toges til Efterretning.
+"	1941	5	15
+"150"	1941-05-15	"open"	"19410515_37.pdf"	2	"54-1941"	"Meddelelse fra Aarhus Stiftamt om, at Folketingets Finansudvalg har tilsluttet sig, at Staten erhverver Ting- og Arresthuset i Aarhus.
+Toges til Efterretning.
+"	1941	5	15
+"151"	1941-05-15	"open"	"19410515_37.pdf"	2	"54-1941"	"Udkast til endeligt Skøde til Staten paa Ting- og Arresthuset i Aarhus.
+Følgende Udkast forelaa:
+\"Aarhus Byraad paa Aarhus Købstadkommunes Vegne - med Tilslutning af Aarhus Amtsraad paa Aarhus Amtskommunes Vegne som medejendomsberettiget til Ting- og Arresthuset i Aarhus - overdrager og skøder herved endeligt til Justitsministeriet paa Statens Vegne den nævnte Ejendom, hvilken Ejendom er skyldsat under Matr. Nr. 1291 n af Aarhus Købstads Bygrunde for Hartkorn 0 Td. 1 Sk. 1 Fk. O½ Alb. Med i Overdragelsen følger de  paa Ejendommen værende Bygninger, disses grundmur- og sømfaste Tilbehør samt det til Ting- og Arresthuset hørende løse Inventar, for saa vidt det tilhører Aarhus Købstadkommune eller Aarhus Amtskommune, dog bortset fra Inventaret til Amtsraadssalen og de til denne knyttede fire Lokaler og til Forligsværelset.
+For Overdragelsen gælder iøvrigt følgende Vilkaar:
+1.
+Ejendommen med paastaaende Bygninger og tilhørende Inventar er den 1. April 1938 overtaget af Staten i den ved Overtagelsen værende Stand, og har siden da henligget og
+"	1941	5	15
+"152"	1941-05-15	"open"	"19410515_37.pdf"	3	"54-1941"	"henligger fremtidig for Statens Regning og Risiko.
+Af Hensyn til § 4, 3. Stk. i Lov Nr. 93 af 11/4 1916, saaledes som den er ændret ved Lov Nr. 166 af 18/5 1937, bemærkes, at Staten for saa vidt angaar Arresthuset frafalder Tilsvar som Følge af dettes Tilstand.
+2.
+Den 1. April 1938 er Skæringsdag med Hensyn til Oppebørsel af Indtægter og Afholdelse af Udgifter vedrørende Ejendommen.
+3.
+Ejendommen overdrages Staten under Kommunernes Vanhjemmelsansvar. Kommunerne indestaar for, at der ikke paahviler Ejendommen Bankhæftelse, Pantehæftelser, Grundbyrder, Servitutter eller andre Hæftelser af privatretlig Natur.
+4.
+For Overtagelsen har Staten betalt et kontant Vederlag, stort 60000 Kr., skriver Kroner tresindstyve Tusinde.
+5.
+Aarhus Amtsraad er berettiget til vedblivende at benytte Amtsraadssalen og de fire dertil hørende Værelser med Arkivrum i Loftsetagen imod at erlægge en aarlig Leje af 1900 Kr. I Lejen er indbefattet Belysning og Opvarmning, hvorimod Udgiften til indre Vedligeholdelse og Rengøring er Statskassen uvedkommende. Denne Benyttelsesret kan saavel af Staten som af Amtskommunen opsiges til Ophør med ½ Aars Varsel, dog at Opsigelse fra Statens Side tidligst kan ske til den 1. April 1963,
+"	1941	5	15
+"153"	1941-05-15	"open"	"19410515_37.pdf"	4	"54-1941"	"Angaaende den omhandlede Benyttelsesrel oprettes særlig Overenskomst mellem Staten og Amtsraadet.
+6.
+De kommunale Myndigheder er berettigede til vedblivende at benytte det af Forligskommissionen for Aarhus Amts 1. Forligskreds benyttede Lokale til samme Formaal som hidtil. For Benyttelsen erlægges en aarlig Leje af 250 Kr. Bestemmelserne i Pkt. 5 finder tilsvarende Anvendelse.
+Angaaende den omhandlede Benyttelsesret oprettes særlig Overenskomst mellem Staten og de kommunale Myndigheder.
+7.
+Staten forbeholder sig sin Stilling med Hensyn til Overtagelse af den til Bygningen knyttede Mekaniker.
+8.
+Saafremt der senere maatte blive skabt Lovhjemmel for eller ad Bevillingsvejen ydet Kommunerne Vederlag for Overdragelsen af Ting- og Arresthuse eller Støtte til Afdrag og Forrentning af de til Opførelse af Ting- og Arresthuse medgaaede Udgifter, skal nærværende Overdragelse ikke præjudicere Kommunernes Stilling i saa Henseende.
+9.
+Omkostningerne ved nærværende Skødes Stempling og Tinglysning betales af Staten.
+Tiltraadtes.
+"	1941	5	15
+"154"	1941-05-15	"open"	"19410515_37.pdf"	4	"41_7-1941"	"Indstilling fra Budgetudvalget om, at Kommunen paatager sig Garantien for et eventuelt Underskud ved et Gæstespil paa Aarhus Teater i Anledning af Byjubilæet.
+Følgende Indstilling forelaa:
+"	1941	5	15
+"155"	1941-05-15	"open"	"19410515_37.pdf"	5	"41_7-1941"	"\"Det indstilles, at Byraadet tiltræder kgl. Skuespiller Henrik Malbergs Forslag, saaledes at Byraadet paatager sig Garantien for Underskudet ved Gæstespillet, idet der dog forhandles med Aarhus Teater om, at Teatret stilles til Disposition uden Vederlag, idet blot de positive Udgifter for Teatret dækkes.\"
+Borgmesteren anbefalede Forslaget, som var fremsat af Skuespiller Henrik Malberg, og det var Meningen, at de optrædende skulde være Skuespillere, der var født og opvokset i Aarhus. Der skulde stilles en Garanti paa 7000 Kr., men hvor meget det vilde koste, beroede væsentlig paa Tilslutningen til Forestillingerne.
+Thomas Christensen syntes, at der efterhaanden blev Tale om mange Garantier, og paa Mødet i Dag var der ikke mindre end 3 Forslag derom. Man kunde vel ikke have noget imod Kunstudstillinger og Forestillinger, og de kunde maaske ikke give tilstrækkelige Indtægter; men man burde næppe komme altfor langt ud med Garantierne.
+Borgmesteren svarede, at det jo var Jubilæumsaar, og paa Budgettet var der afsat et Beløb til saadanne Formaal, saa Pengene var for saa vidt bevilget.
+Indstillingen vedtoges.
+"	1941	5	15
+"156"	1941-05-15	"open"	"19410515_37.pdf"	5	"241-1941"	"Andragende fra Arbejderkvinders Daghjem for Spædbørn om Udbetaling af Tilskud.
+Det paa Konto 25 opførte Beløb paa 4000 Kr. anvistes til Udbetaling i Maj og November.
+"	1941	5	15
+"157"	1941-05-15	"open"	"19410515_37.pdf"	5	"208-1941"	"Andragende fra Ormslev Børnehjem om Udbetaling af Tilskud.
+Det paa Konto 25 opførte Beløb paa 200 Kr. bevilgedes.
+"	1941	5	15
+"158"	1941-05-15	"open"	"19410515_37.pdf"	6	"269-1941"	"Andragende fra Aarhus Byorkester om Udbetaling af Tilskud.
+Det paa Konto 25 opførte Beløb paa 35000 Kr. anvistes til Udbetaling i 10 maanedlige Rater.
+"	1941	5	15
+"159"	1941-05-15	"open"	"19410515_37.pdf"	6	"51-1941"	"Andragende fra Marthaforbundet om Tilskud til et Kursus i Sundhedspleje og et Kursus i Lejrmad.
+Fra Budgetudvalget forelaa følgende Indstilling: \"Kan ikke anbefales. For saa vidt angaar Spørgsmaalet om Tilskud til Kursus i Sundhedspleje foreslaas Marthaforbundet henvist til at søge Tilskud efter Aftenskoleloven.\"
+Indstillingen vedtoges.
+"	1941	5	15
+"160"	1941-05-15	"open"	"19410515_37.pdf"	6	"209-1941"	"Henvendelse fra Komitéen for Holbøll-Monumentet om Støtte til Indsamling til et Mindesmærke for afd. Postmester E. Holbøll.
+Budgetudvalget kan ikke anbefale Andragendet.
+Borgmesteren meddelte, at der i T alerens Gruppe var fremhævet, at Postmester Holbøll havde haft saa stor Betydning for Børnesagen i Danmark, at man burde yde et Bidrag til Monumentet, f. Eks. 200 Kr., hvis Byraadet kunde tiltræde det.
+Det vedtoges at yde 200 Kr.
+"	1941	5	15
+"161"	1941-05-15	"open"	"19410515_37.pdf"	6	"280-1941"	"Indstilling om Oprettelse af 8 faste Lærerembeder ved Borgerskolerne.
+Fra Skolekommissionen forelaa følgende Skrivelse:
+\"Skolekommissionen tillader sig herved at indstille til det ærede Byraad at foranledige Undervisningsministeriets Approbation indhentet paa Ændring af § 7 i Skoleplan for Aarhus Borgerskoler, saaledes at Antallet af faste Embeder forøges med 8 (4 Lærer- og 4 Lærerindeembeder) i Henhold til Fælleslærerraadets vedlagte Erklæring af 21. April d. A. Som 
+"	1941	5	15
+"162"	1941-05-15	"open"	"19410515_37.pdf"	7	"280-1941"	"Begrundelse for dette Ændringsforslag skal anføres :
+ISkoleaaret 1941-42 er der ved Aarhus Borgerskoler ialt 10771 ugentlige Lærertimer. Ifølge Undervisningsministeriets Cirkulære af 7A 1930 skal 11/12 heraf = 9873 Timer besørges af fast ansatte Lærere. Det fast ansatte Lærerpersonale besørger følgende Antal ugentlige Timer: 275 Lærere (inder) med fuld Løn (Timenedsættelser i Henhold til Skoleplanens § 10 samt i enkelte Tilfælde af Hensyn til Skolens Plan) besørger ialt 8913 ugentlige Timer. 23 Lærerinder med nedsat Løn i Forhold til Timetal besørger ialt 534 ugentlige Timer, De fastansatte Lærere (inder) besørger ialt 9447 Timer, Overlærerne besørger ialt 140 ugentlige Timer tilsammen 9587 ugentlige Timer, hvilket er 286 Timer færre, end der er efter førnævnte Cirkulære bør besørges af fast ansatte Lærere.
+Til disse 296 Timer foreslaas nyoprettet 8 Embeder, nemlig 4 Lærer- og 4 Lærerindeembeder.
+Fortegnelse over de 23 Lærerinder med nedsat Timetal og nedsat Lønning i Forhold til Timetallet samt Oversigt over Antallet af Klasser og Elever i Aarhus Borgerskoler pr. 1. April 1941 vedlægges.\"
+Tiltraadtes.
+"	1941	5	15
+"163"	1941-05-15	"open"	"19410515_37.pdf"	7	"175-1941"	"Indstilling fra Skoleudvalget angaaende Udvidelse af Marselisborg Skole.
+Følgende Indstilling forelaa:
+\"Skoleudvalget tillader sig hermed at fremsende Tegninger og Overslag af 17/3 og 7/4 1941 vedrørende Tilbygning til Marselisborg Skole.
+De medfølgende Tegninger er mærket Forslag I, Forslag II og III samt Forslag IV.
+"	1941	5	15
+"164"	1941-05-15	"open"	"19410515_37.pdf"	8	"175-1941"	"Efter Forslag II og III vil den ny Gymnastiksal med Badeindretning kunne iværksættes, uden at man derved kolliderer med de tidligere udarbejdede Planer (tilstillet Byraadet med Skrivelse af 5/2 1941) for eventuel Udvidelse af Skolen til 3-rækket Gymnasium i Tilfælde af Statens Overtagelse af Skolens Drift.
+Skoleudvalget tillader sig at indstille, at Byraadet tiltræder Forslag II og III, og at Arbejdet udføres i to, eventuelt tre Afsnit.
+IAfsnit:
+Udføres i Regnskabsaaret 1941-42 og omfatter Gymnasiksalen med Omklædningsrum, Bad m. v., som vist paa medfølgende Skitse (mærket Forslag IV) Udgiften hertil vil andrage i alt Kr. 203450,00.
+Da dette Arbejde ikke skyldes Bestemmelserne i Folkeskoleloven af 18/5 1937, kan der ikke ventes Statstilskud til Forrentning og Afbetaling af Laan i denne Anledning (Undervisningsministeriets Cirkulære af 17/'n 1937, Afsnit I, Stk. 1).
+IIAfsnit:
+Skolens Færdiggørelse efter Forslag II, hvis Staten overtager Driften, eller efter Forslag III hvis Kommunen fremdeles skal drive Skolen. Dette Afsnit udføres tidligst i Regnskabsaaret 1942-43, eller naar Spørgsmaalet om Statens Overtagelse af Skolen er afklaret.
+Udgiften efter Forslag II andrager i alt Kr. 719570,00. Udgiften efter Forslag III andrager i alt Kr. 531995,00 (heri indbefattet den under Afsnit I anførte Udgift).
+Skoleudvalget indstiller til Byraadet snarest belejligt at foranledige Planerne fremsendt til Undervisningsministeriets Godkendelse 
+"	1941	5	15
+"165"	1941-05-15	"open"	"19410515_37.pdf"	9	"175-1941"	"(Undervisningsministeriets Cirkulære af 9/n 1937, Afsnit 111).\"
+K. Mousten forelagde Sagen. I Henhold til Kommunens Anlægsbudget og til Forhandlinger, der var ført med Staten om eventuel Overtagelse af Marselisborg Skole, var Sagen lagt saaledes til Rette, at Udvidelsen kan tages i 3 Tempi, og man anmodede nu om at maatte begynde paa Gymnastiksalen med tilhørende Lokaler.
+Borgmesteren bemærkede, at der paa Anlægsbudgettet var opført 253000 Kr. hertil. De andre Udvidelser hang sammen med Katedralskolen, og der vilde senere komme en samlet Plan over disse.
+Indstillingen vedtoges.
+"	1941	5	15
+"166"	1941-05-15	"open"	"19410515_37.pdf"	9	"213-1941"	"Udkast til Fundats for Lærerinde Thora Madsens Legat til Fordel for Borgerskolen, Ingerslevs Boulevard.
+Legatudvalget finder intet herimod at erindre.
+Tiltraadtes.
+"	1941	5	15
+"167"	1941-05-15	"open"	"19410515_37.pdf"	9	"184-1941"	"Indstilling fra Budgetudvalget om Oprettelse af et Lærlingehjem.
+Følgende Oversigt forelaa:
+\"Oversigt over Udgifterne ved Opførelse og Indretning af et Lærlingehjem i Aarhus til 30 Elever, anslaaet efter Prisniveauet og Obligationskurserne i Marts 1941.
+Bygninger... 195000 Kr.
+Grund........15000\"210000Kr.
+l.og2.Prioritet115500Kr.
+Statslaan....25000\"
+Grund........15000\"155500Kr.
+Rest 54500Kr.
+Foruden Grunden skal de 54500 Kr. skaffes af Aarhus Kommune, og endvidere
+"	1941	5	15
+"168"	1941-05-15	"open"	"19410515_37.pdf"	10	"184-1941"	"maa beregnestil Dækning af Kurstab,ca. 10%, 11550 Kr, ialt 66050 Kr.
+Foruden Grunden og ca. 66000 Kr. maa Aarhus Kommune skaffe og endeligt afholde ca. 25000 Kr. til Inventar og andet Udstyr, altsaa ialt 91000 Kr, hvoraf Forrentning og Afdrag af de 25000 Kr. ikke bæres af Staten, men af Lærlingehjemmet selv, d. v. s, hvis dette ikke ellers giver Overskud, af Aarhus Kommune.
+Desuden forelaa en Beregning over Driften af Hjemmet det første Aar, hvorefter det med fuld Belægning vil give et Underskud paa 4713 Kr.\"
+Budgetudvalget indstiller, at Byraadet principielt tager Stilling til Spørgsmaalet om Opførelse af et saadant Hjem, saaledes at man kan forhandle videre med Arbejds- og Socialministeren om Sagen.
+I.C. Sørensen og J. R. Fanger forbeholder sig deres Stilling.
+Efter Sagens Udsættelse forelaa nu følgende Indstilling fra Budgetudvalget:
+\"Efter at Udvalget paany har gjort Sagen til Genstand for Drøftelse, skal man indstille, at Byraadet nu vedtager at oprette et Lærlingehjem i Aarhus, saaledes at nærmere Planer og Overslag forelægges Byraadet til Godkendelse. Samtidig skal man indstille, at der til at forestaa Opførelsen af Hjemmet nedsættes et Byggeudvalg bestaaende af Borgmesteren som Formand samt Overlærer K. Mousten, Udvalgsformand Chr. Nielsen, Købmand Møller Rasmussen og Tømrermester J. P. N. Siig.\"
+Borgmesteren erindrede om, at Sagen
+"	1941	5	15
+"169"	1941-05-15	"open"	"19410515_37.pdf"	11	"184-1941"	"tidligere havde været i Byraadet, men blev udsat til nærmere Undersøgelse i Udvalget. Der var forhandlet med Socialministeriet derom, og det laa saaledes, at Kommunen i det store og hele vil faa Dækning fra Statens Side, men nogle Udgifter vilde der dog blive derved. Kommunen skulde opføre Bygningen for ca. 250000 Kr., og om det for Tiden vilde slaa til, vidste man ikke. Det foreslaaede Udvalg skulde fremkomme med Overslag og Forslag om, hvor Bygningen skal placeres, samt om Kommunens Arkitekter skal forestaa Opførelsen, eller om private Arkitekter, som har arbejdet med Planer dertil, skal kunne give Tilbud.
+J. R. Fanger bemærkede, at den konservative Gruppe ikke havde været ivrig for denne Sag, da man fandt det mindre heldigt at samle saa mange Lærlinge paa eet Sted i Stedet for at anbringe dem i privat Pleje. Men man havde været udsat for et Pres fra Flertallets og fra Ministeriets Side og var saa gaaet med til Indstillingen for Samarbejdets Skyld. Det blev dog næppe helt billigt for Kommunen.
+Indstillingen vedtoges, og det foreslaaede Udvalg valgtes.
+"	1941	5	15
+"170"	1941-05-15	"open"	"19410515_37.pdf"	11	"221-1941"	"Indstilling fra Budgetudvalget om Tegning af Garantikapital for en Kunstudstilling i Aarhus-Hallen.
+Følgende Indstilling forelaa:
+\"Under Henvisning til vedlagte Skrivelse af
+9.d. M. fra Formanden for Komitéen for nordisk Kunst, Overlæge M. Brammer, Aarhus, skal man indstille, at Aarhus Kommune til Fordel for den i Skrivelsen omhandlede Udstilling af dansk, svensk og islandsk Kunst i Aarhus-Hallen tegner sig for en Garantikapital paa 5000 Kr. sideordnet
+"	1941	5	15
+"171"	1941-05-15	"open"	"19410515_37.pdf"	12	"221-1941"	"med den af Aarhus Privatbank tegnede Garantikapital paa tilsvarende Beløb.
+Det tilføjes, at Udstillingen agtes aabnet Lørdag d. 28. Juni d. A., men at man har truffet Aftale med Komitéen om, at Aarhus-Hallen kan stilles til Disposition for Byraadet den 2. Juli d. A, idet de spanske Vægge med derpaa ophængte Kustværker midlertidigt fjernes, medens de paa Ydervæggene ophængte Malerier forbliver paa Plads, mod at Kommunen betaler de med Flytningen direkte forbundne Arbejdsudgifter og den Forhøjelse af Brand- og Tyveriforsikringen, som vil blive krævet i Anledning af Flytningen, hvorhos man godtgør Komitéen Lejen af Aarhus-Hallen i den Tid, i hvilken Udstillingen maa holdes lukket i nævnte Anledning.\"
+Borgmesteren meddelte, at man havde haabet ogsaa at faa Norge og Finland med, men det havde ikke kunnet ordnes. Udstillingen skulde aabnes den 28. Juni og vilde vare ca. 3 Uger. Foruden Kommunens Garanti paa 5000 Kr. var der tegnet 10000 Kr. fra anden Side. Taleren anbefalede Forslaget.
+Indstillingen vedtoges.
+"	1941	5	15
+"172"	1941-05-15	"open"	"19410515_37.pdf"	12	"200-1941"	"Indstilling angaaende Kystsikringsarbejdet ved Varna.
+Fra Stadsingeniøren forelaa følgende Skrivelse: \"Ministeriets endelige Approbation foreligger nu paa følgende Vilkaar:
+1.Ministeriets Tilskud ansættes til 80 + 40 - 120% af Arbejdslønnen til den henviste Arbejdskraft, berunder medregnet Arbejdslønnen til de Stenfiskere, der kan henvises.
+2.Arbejdet skal udbydes til offentlig Licitation og paabegyndes snarest.
+"	1941	5	15
+"173"	1941-05-15	"open"	"19410515_37.pdf"	13	"200-1941"	"Det har været Hensigten, at Kommunen selv skulde fremskaffe Stenene gennem de lokale Stenfiskere. Endvidere at Kommunen skulde fremskaffe de imprægnerede Pæle. Jeg har derom forhandlet med A/S Collstrup samt Rye Møllefabrik. Den sidstnævnte kan muligt imprægnere en Del Pæle med Kobbervitriol. Den øvrige Del skal saa vidt det overhovedet er muligt imprægneres med Tjæreolie, og en absolut Betingelse herfor er, at Aarhus Kommune kan stille den nødvendige Raatjære til Raadighed. Det vil efter min foreløbige Orientering dreje sig om et Kvantum paa 50-100 t, alt efter den Del af Pælene, det findes forsvarligt eller muligt at imprægnere med Kobbervitriol, og heraf kan ca. Halvdelen eventuelt tilbageleveres uden anden Forandring i Tjæren, end at den 2 Gange har været opvarmet til 110°. Efter min Orientering hos Direktør Jonasson, Belysningsvæsenet, kan det forventes, at det nødvendige Kvantum kan stilles til Raaighed, da det er til Kommunens eget Formaal, men Belysningsvæsenet ønsker næppe den omtalte Del af Tjæren tilbageleveret efter Anvendelsen.
+Idet jeg forventer, at Sagen som sædvanlig oversendes til Brolægningsudvalget til Foranstaltning, skal jeg for ikke at spilde Tiden udbede mig Bemyndigelse til
+a)at forhandle med Stenfiskerne om Levering af Stenene.
+b)at forhanle med de ovennævnte Fabriker om Imprægnering af Pælene samt Belysningsvæsenet om Leverance af den nødvendige Tjære.
+c)endelig at klargøre Arbejdet til Udbydelse i Licitation, hvilket formentlig kan ske i Løbet
+"	1941	5	15
+"174"	1941-05-15	"open"	"19410515_37.pdf"	14	"200-1941"	"af 1 Uge, saafremt de ovennævnte Forhold, der skal indarbejdes i Betingelserne, kan foreligge afklarede.\"
+Budgetudvalget indstiller, at Arbejdet snarest iværksættes, og at der gives Stadsingeniøren den foran omhandlede Bemyndigelse.
+Indstillingen vedtoges.
+"	1941	5	15
+"175"	1941-05-15	"open"	"19410515_37.pdf"	14	"22_2-1941"	"Købekontrakt med S. Stephansen angaaende en Grund ved Hestehavevej.
+Borgmesteren oplyste, at der paa Grunden laa et Hus, som ikke var i Overensstemmelse med Byggevedtægten; men Køberen skulde have Lov til at lade det staa i 5 Aar, hvorefter han skal bygge det om.
+Godkendtes.
+"	1941	5	15

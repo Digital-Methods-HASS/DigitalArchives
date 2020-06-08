@@ -1,0 +1,197 @@
+"date_of_meeting"	"type_of_meeting"	"scanned_minutes_file"	"scanned_minutes_page"	"case_ids"	"text"	"year"	"month"	"day"
+"1"	1940-04-09	"closed"	"19400409B_1.pdf"	1	"no related record"	"Mødet den 9. April 1940,
+Kl. 10. Formiddag. (Ekstraordinært Møde for lukkede Døre).
+Fraværende: Borgmesteren og Vald. Kloster.
+Viceborgmester Stecher Christensen aabnede Mødet og meddelte, at Borgmesteren var rejst til København og endnu ikke kommet tilbage, og da alle vel havde følt en vis Uhygge ved de mange Flyvemaskiner over Byen til Morgen, havde Taleren indfundet sig paa Byraadskontoret, hvor man gennem Politimesteren Kl. 910 modtog følgende Opraab:
+OPROP!
+Til Danmarks Soldater og Danmarks Folk!
+Uten Grund og imot den tyske Regjerings og det tyske Folks oprigtige Ønske, om at leve i Fred og Venskab med det engelske og det franske Folk, har Englands og Frankrigets Magthavere ifjor i September erklæret Tyskland Krigen.
+Deres Hensigt var og biir, efter Mulighet, at treffe Afgjørelse paa Krigsskuepladser som ligger mere afsides og derfor er mindre farlige for Frankriget og England, i det Haab, at det ikke vilde være mulig for Tyskland, at kunde optræde stærkt nok imot dem."	1940	4	9
+"2"	1940-04-09	"closed"	"19400409B_1.pdf"	2	"no related record"	"Af denne Grund har England blandt andet stadig krænket Danmarks og Norges Nøitralitæt og deres territoriale Farvand.
+Det forsøkte stadig at gjøre Skandinavien til Krigsskueplads. Da en yderlig Anledning ikke synes; at være givet efter den russisk-finnske Fredsslutning, har man nu officielt erklæret og truet, ikke mere at taale den tyske Handelsflaates Seilads indenfor danske Territorialfarvand ved Nordsjøen og i de norske Farvand. Man erklærte selv at vilde overta Politiopsigten der. Man har tilslut truffet alle Forberedelser for overraskende at ta Besiddelse af alle nødvendige Støtepunkter ved Norges Kyst. Aarhundredes største Krigsdriver, den allerede i den første Verdenskrig til Ulykke for hele Menneskeheden arbeidende Churchill uttalte det aapent, at han ikke var villig til at la sig holde tilbake af \"legale Afgjørelser eller nøitrale Rettigheder som staar paa Papirlapper\".
+Han har forberedt Slaget mot den danske og den norske Kyst. For nogen Dager siden er han blit utnævnt til foransvarlig Chef for hele den britiske Krigsføring.
+Den tyske Regjering har til nu overvaaket denne Mands Forholdsregler, men den kan ikke taale, at en ny Krigsskueplads nur biir skaffet efter de engelsk-franske Krigsdriveres Ønsker.
+Den danske og den norske Regjering har siden Maaneder hat Beskjed om disse Forsøk.
+Likeledes er deres Holdning ingen Hemmelighed for den tyske Regjering. De er hverken villige eller istand til at kunne yde en virksom Modstand mot det engelske Indbrudd."	1940	4	9
+"3"	1940-04-09	"closed"	"19400409B_1.pdf"	3	"no related record"	"Derfor har Tyskland besluttet at foregripe det engelske Angrep og med sine Magtmidler selv at overta Beskyttelsen av Danmarks og Norges Kongeriges Nøitralitæt og værne den saalænge Krigen varer.
+Det er ikke den tyske Regjerings Hensigt at skaffe sig et Støttepunkt i Kampen mot England, den har udelukkende det Maal at forhindre at Skandinavien biir Slagmark for de engelske Krigsudvidelser.
+Af denne Grund har stærke tyske Militærkræfter siden idag morges tat Besiddelse af de vigtigste militære Objekter i Danmark og Norge. Over disse Forholdsregler treffes der for Tiden Overenskomster mellem den tyske Riksregjering og den Kongelige Danske Regjering. Disse Overenskomster skal sikre at Kongeriget bestaar videre, at Hæren og Flaaten opretholdes, at det danske Folks Frihet agtes og at dette Lands fremtidige Uafhængighed fuldt ut sikres.
+Indtil disse Forhandlinger er afsluttet, maa der ventes at Hæren og Flaaten har Forstaaelse for dette, likeledes at Folket og alle kommunale Steder er fornuftige og har god Vilje, slik at de undlater enhver passiv eller aktiv Motstand. Den vilde være uten Nytte og bli brut med alle Magtmidler. Alle militære og kommunnale Steder anmodes derfor straks at opta Forbindelsen med de tyske Kommandører.
+Folket opfordres til at fortsætte det daglige Arbeide og til at sørge for Rolighed og Orden!
+For Landets Sikkerhet mot engelske Overgrep sørger fra nu af den tyske Hær og Flaate.
+Den Tyske Kommandør Kaupisch"	1940	4	9
+"4"	1940-04-09	"closed"	"19400409B_1.pdf"	4	"no related record"	"Man havde derefter en Samtale med Politikommissær Simonsen, men Politiet havde intet nærmere hørt eller vidste noget om de tyske Kommandanter, som efter Opraabet vilde komme. Man havde ogsaa rettet Forespørgsel til den tyske Konsul, men han vidste heller ikke noget. Det blev saa meddelt de kommunale Institutioner, at de skulde forholde sig som hidtil, saaledes at alt kunde gaa sin normale Gang, indtil der kom nærmere Meddelelse fra Byraadskontoret. Taleren havde saa sammenkaldt Budgetudvalget til Møde, og man enedes om at sammenkalde Byraadet for at foreslaa at give Budgetudvalget Bemyndigelse til at foretage de Skridt, som Forholdene maatte kræve, og dette Forslag skulde der altsaa tages Stilling til. Budgetudvalget ønskede ikke i en Tid som denne at tage livsvigtige Bestemmelser for Aarhus Byraad, men Forholdene kunde være saaledes, at der maa handles meget hurtigt. Man agtede dog at holde Byraadet orienteret om alt, hvad der foregaar, og indkalde Byraadet til Møde, naar der gives Anledning dertil. Man henstillede altsaa til Byraadet at give Budgetudvalget denne Bemyndigelse, og saa maatte man se, hvorledes Forholdene vilde udvikle sig.
+Hans Madsen spurgte, om man ikke allerede nu skulde bestemme Tiden for næste Byraadsmøde, for ingen vidste jo, hvordan Telefonforbindelsen vilde blive.
+Stecher Christensen mente, man kunde henstille til Byraadsmedlemmerne, at de stadig har, tilkaldes pr. Telefon, og at de meddeler Byraadskontoret, paa hvilken Telefon de kan træffes, hvis de skifter Opholdssted. Skulde Telefonen blive afbrudt, maatte der sendes Ordonnanser ud. Ingen vidste jo i Øjeblikket, hvorledes Forholdene vilde komme til at ligge."	1940	4	9
+"5"	1940-04-09	"closed"	"19400409B_1.pdf"	5	"no related record"	"Det vedtoges enstemmig at give Budgetudvalget den foreslaaede Bemyndigelse, hvorefter Beslutningen meddeltes Pressens Repræsentanter."	1940	4	9
+"6"	1940-04-18	"closed"	"19400418B_7.pdf"	1	"no related record"	"Mødet den 18. April 1940.
+(For lukkede Døre).
+Fraværende: Johanne Berg, Kai Blicher, I. C. Sørensen og S. F. Sørensen."	1940	4	18
+"7"	1940-04-18	"closed"	"19400418B_7.pdf"	1	"1251-1940"	"Nedsættelse af et Brændselsudvalg i Henhold til Handelsministeriets Bekendtgørelse af 3. April d. A.
+Følgende Indstilling forelaa:
+Viceborgmester Stecher Christensen, Formand. Murermester Ejnar Mikkelsen.
+Konsul Skikkild.
+Borgmesteren meddelte, at Konsul Skikkild havde bedt sig fritaget for Hvervet, hvorefter man havde anmodet Direktør Kampmann og Direktør O. Madsen om at paatage sig det, men de ønskede det heller ikke. Taleren vilde foreslaa, at man vælger Forretningsfører Skjødt i Arbejdernes Produktionsforening, som ogsaa havde Samarbejde med Kulkompagniet.
+Indstillingen vedtoges saaledes, at Forretningsfører Skjødt vælges i Stedet for Konsul Skikkild."	1940	4	18
+"8"	1940-04-18	"closed"	"19400418B_7.pdf"	1	"127-1940"	"Sagen angaaende Kommunens Garanti for et Laan til Aarhus Ridehal.
+Fra Budgetudvalget forelaa følgende Skrivelse: \"Efter Andragende fra I/S Aarhus Ridehal, Aarhus, vedtog Byraadet i sit Møde den 23.Juni 1938"	1940	4	18
+"9"	1940-04-18	"closed"	"19400418B_7.pdf"	2	"127-1940"	"Juni 1938 til Opførelse af et Ridehus paa den af Ridehallen af Kommunen erhvervede Grund Matr. Nr. 1 vx af Aarhus Købstads Markjorder fra Marselisborg at garantere for et Laan til Ridehallen paa 65 % af Opførelsesudgifterne af det nævnte Ridehus, herunder indbefattet Udgifterne ved Erhvervelsen af Grunden og Kurstabet ved Laanet. Opførelsesudgifterne var da af Revisor Lesner, Aarhus, opgjort til 220813 Kr. 50 Øre, heri ikke indbefattet Kurstab.
+Ridehallen har herefter hos Livsforsikringsselskabet \"Danebroge\" A/S, København, faaet bevilget et Laan, stort 162000 Kr., der udbetales til Kurs 92,87, forrentes med 4V2 % p. a. og afdrages med 60 lige store halvaarlige Afdrag.
+Efter Oplysning fra Revisor Lesner kommer til den foranførte
+Anskaffelsessum............... Kr.220813,50
+yderligere:
+Udgifter ved et Ventilationsanlæg, som har vist signødvendigt . \"4500,00
+Kurstab ved Laanet i \"Danebroge\" .......................... \"11550,60
+samt Renter for Aaret 1938 af Byggekredit m. m., idet der i ovennævnte Sum Kr. 220813,50 kun er regnet med Renter ti!
+31. December 1937 ............____\"12939,64
+Anskaffelsessummen bliver saa-
+ledes ialt..................... Kr.249803,74
+65 % heraf svarer til det tilbudte Laan Kr. 162000,00, og man skal herefter indstille, at Byraadet paa Kommunens Vegne paatager sig Garantien for det nævnte Laan, hvorved"	1940	4	18
+"10"	1940-04-18	"closed"	"19400418B_7.pdf"	3	"127-1940"	"bemærkes, at Indenrigsministeriet har meddelt Samtykke til, at Kommunen overtager Garantien.
+Da det hele Tiden har været en Forudsætning, at Laanet til Ridehallen optages som et 1. Prioritetslaan i Ridehallens Ejendom, mens det nu tilbudte Laan er et simpelt Gældsbrev Laan, skal man tillige indstille, at det bliver en absolut Forudsætning for Kommunens Overtagelse af den nævnte Garanti, at Kommunens Garanti efter Budgetudvalgets nærmere Bestemmelse sikres ved en saadan Panteret i Ejendommen, som der vilde være blevet givet for Laanet, hvis det havde været et 1. Prioritetslaan, og at Kommunens Stilling i det hele ikke bliver ringere, end hvis Laanet havde været optaget som et 1. Prioritetslaan.\"
+Tiltraadtes."	1940	4	18
+"11"	1940-04-18	"closed"	"19400418B_7.pdf"	3	"85-1940"	"Fastsættelse af Pension til Brandchef Bredals Enke.
+Fra Lønudvalget forelaa følgende Indstilling: \"Det indstilles, at der indtil videre bevilges Enken i Pension 1/3 af Pensionsindtægten 3127,78 Kr. aarlig + eventuelt Dyrtidstillæg, og at Sagen med Hensyn til Spørgsmaalet om, efter hvilke Regler Enkepensionen endelig vil være at fastsætte, tilstilles Indenrigsministeriet til Udtalelse, jfr. Pensionsregulativets § 26.\"
+Indstillingen vedtoges."	1940	4	18
+"12"	1940-04-18	"closed"	"19400418B_7.pdf"	3	"108-1940"	"Andragende fra Adventistforbundet i Aarhus om Tilskud til Samfundets Privatskole i Nørreallé.
+Skoleudvalget kan ikke anbefale Andragendet.
+Borgmesteren havde faaet en speciel Henvendelse angaaende Sagen. Der var i Skolen 25 Børn, hvoraf 2 udenbys, og under de"	1940	4	18
+"13"	1940-04-18	"closed"	"19400418B_7.pdf"	4	"108-1940"	"nuværende Forhold var Trangen til Støtte stor. , Taleren vilde ikke stille andet Forslag, men da man for Tiden ikke var interesseret i at faa flere Børn i Kommuneskolerne, kunde man maaske senere drøfte, om der kan ydes et mindre Tilskud.
+Esther Aggebo mente, at man først maatte tage Stilling til det principielle, om der kan gives Tilskud til saadanne Skoler, for der kunde jo komme mange andre Kirkesamfund og kræve det samme.
+J. R. Fanger indrømmede, at det kan have Konsekvenser at give Tilskud her; men det var ogsaa rigtigt, at der nødig skal komme for mange til Kommuneskolerne i Øjeblikket, og Taleren vilde derfor støtte Borgmesterens Henstilling om at Spørgsmaalet kan tages op senere.
+Kunde ikke bevilges."	1940	4	18
+"14"	1940-04-18	"closed"	"19400418B_7.pdf"	4	"148-1940"	"Skrivelse fra Forsikringsselskabet Baitica angaaende Indfrielse af Kommunens Prioriteter i Ejendommen Banegaardsplads
+G,8 og 10.
+Fra Overretssagfører Bay forelaa følgende Skrivelse:
+\"Under Henvisning til vor mundtlige Konference Mandag den 11. ds. skal jeg herved tillade mig at meddele, at jeg har forebragt Spørgsmaalet om et Laan paa 500000 Kr. -f 500000 Kr. fra min Klient Assurance-Compagniet Baitica, A/S til Aarhus Kommune for Balticas Direktion, der har overvejet Spørgsmaalet og beder mig meddele Hr. Borgmesteren, at Baitica ikke for Øjeblikket mener at kunne gaa med til en saadan Laangivning.
+Med Hensyn til det andet af os drøftede Spørgsmaal, nemlig eventuel Indfrielse af 2. Prioriteterne til Aarhus Kommune i den af"	1940	4	18
+"15"	1940-04-18	"closed"	"19400418B_7.pdf"	5	"148-1940"	"Baltica købte Ejendom Banegaardsplads 6, 8 og 10 i Aarhus, hvilke Prioriteter tilsammen udgør ca. 281000 Kr., kan jeg nu paa Balticas Vegne meddele, at Baltica er villig til allerede nu at indfri dette Laan, saafremt dette kan ske til en Kurs af 85 °/o, idet Laanet ellers maa blive staaende paa de vedtagne Afdrags-vilkaar 7500 Kr. halvaarligt.\"
+Fra Budgetudvalget forelaa følgende Indstilling:
+\"Det bemærkes, at det fremsatte Tilbud svarer til en effektiv Rente af 5,9 % p. a., mens Kommunen for Tiden betaler 6,5 % for sin Kassekredit. Det af Baltica fremsatte Tilbud maa saaledes betegnes som fordelagtigt for Kommunen, og man skal derfor indstille, at Tilbudet modtages.\"
+Borgmesteren anbefalede Indstillingen, da det for Tiden var vanskeligt at skaffe Penge.
+Indstillingen vedtoges."	1940	4	18
+"16"	1940-04-18	"closed"	"19400418B_7.pdf"	5	"601_9- 1939"	"Andragender om Garanti for Laan til Huslejeindskud i Boligforeningen Ring-gaarden.
+Udvalget for Byens Udvidelse og Bebyggelse indstiller, at der ydes Garanti for Laan paa sædvanlige Betingelser til følgende:
+Inspektør Johannes Jensen 275 Kr. 
+Arbejdsmand A. L. Thomsen 350 Kr.
+Inspektør Hansen Vibeke 150 Kr.
+Indstillingen vedtoges."	1940	4	18
+"17"	1940-04-18	"closed"	"19400418B_7.pdf"	5	"969-1939"	"Andragende om Tilladelse til Indretning af Restauration i Zoologisk Have.
+Skovudvalget kan ikke anbefale Andragendet, da Indretning af Restauration i Zoologisk Have vil være stridende mod Restauratør Risings Kontrakt, og Rising ikke mener at kunne paatage"	1940	4	18
+"18"	1940-04-18	"closed"	"19400418B_7.pdf"	6	"969-1939"	"sig de med Opførelse af en Restauration fornødne Udgifter.
+Kunde ikke bevilges."	1940	4	18
+"19"	1940-04-18	"closed"	"19400418B_7.pdf"	6	"101 -1940"	"Andragende fra Fru Ellen Mortensen om Fornyelse af Teaterbevilling i Kasino.
+Anbefaledes."	1940	4	18
+"20"	1940-04-18	"closed"	"19400418B_7.pdf"	6	"81 -1940"	"Indstilling fra Ligningskommissionen om Efterbetaling af Skat paa Grund af urigtig Selvangivelse.
+Kommissionen foreslaar følgende Efterbetalinger:
+Blikkenslagerm A. Sørensen, Odensegade 15 ............. 12000 Kr. 00 0.
+Arkivar J. P. M. Lørup, Sdr. Ringgade 49 ...............9600\"00\"
+Maskinfabrikant H. V. Hansen, C. Adelersgade 23 .........4600\"00\"
+Restauratør N. Christensen, H.Pontoppidansgade 26 . .3100\"00\"
+Blikkenslager S. P. Sørensen, Samsøgade 29...............1200\"00\"
+fhv. Snedkermester E. Balle, I.Huitfeidtsgade 7 .......1200\"00\"
+Arbmd. L. A. Christensen, Brammersgade 60............1170\"00\"
+Fyrbøder J. S. Poulsen, Bülowsgade 58................1093\"20\"
+Husbest. Frk. A. M. Petersen, Falstersgade 33 A..........950\"00\"
+Murermester C. E. Mikkelsen, Taarbækvej 4...............850\"00\"
+Maskinarb. A. C. M. Hansen, Holbergsgade 37............700\"00\"
+At overføre.. . 36463Kr."	1940	4	18
+"21"	1940-04-18	"closed"	"19400418B_7.pdf"	7	"81 -1940"	"Overført... 36463 Kr. 20 0. 
+Arbmd. H. J. A. Andreasen, C. Blochsgade 13.......650\"00\"
+Arbmd. S. J. Langberg, Frbj. Torv 3.......................425\"00\"
+Karosserifabrikt. C. A. Fischer, Schleppegreilsgade17....350\"00\"
+Dødsboet efter ps. Stabssergent A. P. Jensen og Enkefru P. M. Jensen, Lollandsgade 72......................6609\"50\"
+Dødsboet efter Restauratør J. M. Christensen og Enkefru K. K. Christensen, H. Guldbergsgade 73.................3581\"17\"
+Ialt...48078Kr.870.
+Tiltraadtes."	1940	4	18
+"22"	1940-04-18	"closed"	"19400418B_7.pdf"	7	"23_15-1939"	"Indstilling fra Socialudvalget om, at Kristian M. Nielsen anbringes paa Arbejdsanstalt i 3 Maaneder.
+Tiltraadtes."	1940	4	18
+"23"	1940-04-18	"closed"	"19400418B_7.pdf"	7	"23_1-1940"	"Indstilling fra Socialudvalget om, at Henri P. Henriksen anbringes paa Arbejdsanstalt i 3 Maaneder.
+Tiltraadtes."	1940	4	18
+"24"	1940-04-18	"closed"	"19400418B_7.pdf"	7	"16_1-1940"	"Indstilling fra Socialudvalget om Bevilling af Kommunehjælp udover den i Forsorgslovens § 297, Stk. 1, fastsatte Grænse.
+Indstillingen vedtoges."	1940	4	18
+"25"	1940-04-18	"closed"	"19400418B_7.pdf"	7	"16_2-1940"	"Indstilling fra Socialudvalget om Bevilling af Tillægshjælp efter Forsorgslovens § 293, Stk. 2, til Arbejdsløshedsunderstøttelse og Invaliderente.
+Indstillingen vedtoges."	1940	4	18
+"26"	1940-04-18	"closed"	"19400418B_7.pdf"	8	"121-1940"	"Indstilling fra Socialudvalget om Bevilling af personligt Tillæg efter Folkeforsikringslovens § 40 til Alders- og Invaliderente-nydere.
+Indstillingen vedtoges."	1940	4	18
+"27"	1940-04-18	"closed"	"19400418B_7.pdf"	8	"122-1940"	"Indstilling fra Socialudvalget om Bevilling af Huslejetilskud efter Lov af 7. Maj 1937 til Aldersrentenydere.
+Indstillingen vedtoges."	1940	4	18
+"28"	1940-04-18	"closed"	"19400418B_7.pdf"	8	"124-1940"	"Indstilling fra Budgetudvalget angaaende Forlængelse af Lejemaalet nied Rutebilstationen Amtmandstoften.
+Følgende Indstilling forelaa:
+\"I Anledning af, at den mellem Aarhus Kommune og Andelsskabet \"Rutebilstationen Amtmandstoften\", Aarhus, den 27. September 1929 og den 20. Januar 1930 indgaaede Lejekontrakt angaaende Arealet mellem Sønderalle, Fredensgade og Banegaardsgade udløb den 1. April 1940, henvendte Selskabet sig til Budgetudvalget angaaende Forlængelse af Lejemaalet. Det havde oprindelig været Selskabets Hensigt at foretage en omfattende Forandring og Udvidelse af Rutebilstationen, men under de foreliggende usikre Forhold ønskede Selskabet at se Tiden an et Par Aar. Man opnaaede derefter Enighed om, at den nugældende Lejekontrakt forlænges til 1. April 1942, saaledes at Lejen fra 1. April d. A. nedsættes fra Kr. 4,50 til 4,00 pr m2, idet Kontrakten iøvrigt forbliver uforandret. Fra 1. April 1940 fritages endvidere de af Kommunen overtagne Automobilruter, der var Medlem af Selskabet, Ruterne Aarhus-Rosenvang, Aarhus-Aabyhøj og Aarhus-Vejlby for enhver Forpligtelse overfor Selskabet, ligesom der pr. nævnte Dato"	1940	4	18
+"29"	1940-04-18	"closed"	"19400418B_7.pdf"	9	"124-1940"	"i Overensstemmelse med Selskabets Vedtægter foretages en Opgørelse til Konstatering af den Andel i Selskabet, der er knyttet til de nævnte Ruter, saafremt Selskabets Aktiver overstiger dets Passiver.
+Man skal herved indstille den med Selskabet indgaaede Ordning til Byraadets Godkendelse.\"
+Borgmesteren anbefalede Indstillingen.
+Indstillingen vedtoges."	1940	4	18
+"30"	1940-04-18	"closed"	"19400418B_7.pdf"	9	"178-1940"	"Forslag om at Byrådsmedlemmerne Chr. Nielsen og Møller Rasmussen vælges til Medlemmer af en Kommission til Forplejning af de til Politiet indkaldte C. B. Værnepligtige, samt at Kontorchef Orla Jensen vælges til Kommissionens Sekretær.
+Borgmesteren oplyste, at i Henhold til en Forordning fra Ministeriet skulde der nedsættes en saadan Kommission. Foreløbig var der ikke Tale om Forplejning, men det kunde komme til at ligge saaledes, at der skulde skaffes baade Forplejning og Indkvartering, derfor foreslog man at vælge de to Medlemmer, som havde Forbindelse baade med Indkvarteringsvæsenet og Socialvæsenet. Forslaget var ogsaa tiltraadt af Politimesteren.
+Tiltraadtes."	1940	4	18
+"31"	1940-04-18	"closed"	"19400418B_7.pdf"	9	"41-1940"	"Indstilling fra Havneudvalget om Løntillæg til Havneingeniørerne.
+Følgende Indstilling forelaa:
+\"Hermed tillader Havneudvalget sig at indstille til det ærede Byraad, at Havneingeniørens personlige Tillæg fra 1. April d. A. forhøjes til 5000 Kr., saaledes at han kommer paa samme Lønniveau som Stadsingeniøren."	1940	4	18
+"32"	1940-04-18	"closed"	"19400418B_7.pdf"	10	"41-1940"	"Samtidig tillader man sig at foreslaa, at Afdelingsingeniørerne Staarup og Damsgaard Jensen fra samme Dato faar et personligt Tillæg paa 1000 Kr. foruden det Bestillingstillæg, de i Øjeblikket har paa 1000 Kr., saaledes at disse Ingeniører kommer paa samme Lønniveau, som Afdelingsingeniør Smith Hansen er nu.\"
+Fra Lønudvalget forelaa følgende Erklæring: \"Tilbagesendes, idet meddeles, at Lønudvalget under Henvisning til Byraadets Vedtagelse af 8. Februar d. A. samt til den almindelige Situation ikke for Tiden kan tiltræde Indstillingen.\"
+Stecher Christensen henviste til Lønudvalgets Erklæring. Udvalget erkendte, at Havneingeniøren vel nok burde have en Lønforhøjelse, men Tiden var næppe inde dertil. Man havde haft Forhandling med forskellige Organisationer, som ønskede deres Overenskomster ændret og stillede Krav om Forhøjelser, men Udvalget havde henstillet til dem at udskyde disse Forhandlinger indtil videre, f. Eks. til 1. April næste Aar. Derfor kunde man ikke for Tiden anbefale den foreliggende Indstilling.
+Borgmesteren beklagede, at Havneudvalget ikke havde fremsat Forslaget tidligere. Havneingeniøren havde før været ligestillet med Stadsingeniøren, men denne havde nu et større Tillæg, og efter at ogsaa Belysningsvæsenets Direktører havde faaet Lønforhøjelse, var Havneingeniøren lige saa berettiget dertil, idet hans Arbejde var meget ansvarsfuldt, ikke mindst under de foreliggende Forhold. Havneingeniøren havde forøvrigt ikke stillet særlige Krav, men Udvalget havde ment, at man skyldte ham at tage dette Hensyn. Men som Forholdene laa, maatte Sagen"	1940	4	18
+"33"	1940-04-18	"closed"	"19400418B_7.pdf"	11	"41-1940"	"vel udsættes til en mere belejlig Tid, og Havneingeniøren vilde sikkert forstaa Motiveringen for Udsættelsen.
+Stecher Christensen var enig med Borgmesteren i, at hvis Tiderne havde været normale, burde Havneingeniøren havde haft en Lønforhøjelse.
+Kunde for Tiden ikke bevilges.
+19.Borgmesteren gav nogle Meddelelser angaaende Anlæg af Flyvepladsen. Der var rettet Forespørgsel til Socialministeriet, om man stadig kunde regne med det lovede Tilskud, og Kontorchef Jespersen ansaa det for en Selvfølge; men man havde forlangt at faa en skriftlig Tilkendegivelse fra Ministeriet om Paabegyndelsen af Arbejdet. Der skulde ogsaa rettes Forespørgsel til Ministeriet angaaende Paabegyndelsen af den nye Kaserne, men om denne Sag kunde der endnu ikke siges noget."	1940	4	18
+"34"	1940-04-18	"open"	"19400418_1.pdf"	1	"no related record"	"Mødet den 18. April 1940.
+Fraværende: Johanne Berg, Kai Blicher, I. C.
+Sørensen og S. F. Sørensen.
+Borgmesteren: Inden vi begynder paa Dagsordenen for det første offentlige Møde i det nye Regnskabsaar vil jeg gøre enkelte Bemærkninger.
+Med tungt Hjerte modtog vi de tyske Troppers Besættelse af vort Land. Men som Forholdene har formet sig, vil jeg saa indtrængende som muligt henstille til alle Byens Borgere at rette sig efter de forskellige Anordninger og Paabud, som gives af de kompetente Myndigheder, og at vise en korrekt og høflig Optræden overfor det tyske Militær.
+Jeg har haft Høfligheds-Henvendelse fra en af de tyske Generaler i Forbindelse med den nye tyske Generalkonsul, som har meddelt, at han vil være os behjælpelig i saa stor Udstrækning som muligt for at imødekomme vore Ønsker om Fremskaffelse af Varer o. lign., og jeg har aflagt Genvisit for at forsikre, at vi fra Aarhus Byraads og Borgeres Side ogsaa overfor det tyske Militær vil vise en korrekt Holdning, saa der ikke skal blive Lejlighed til nogen Klage."	1940	4	18
+"35"	1940-04-18	"open"	"19400418_1.pdf"	2	"no related record"	"Derefter vil jeg gerne paa Byraadets Vegne sige til Byens Borgere, at vi vil bestræbe os for at fremskaffe saa meget Arbejde, som vore økonomiske Forhold tillader. Jeg slutter med at bede alle Byens Borgere staa sammen i denne vanskelige Tid."	1940	4	18
+"36"	1940-04-18	"open"	"19400418_1.pdf"	2	"72-1940"	"Indenrigsministeriets Samtykke til Optagelse af et Laan til Ombygning af Krematoriet. (1939-40. B Side 238).
+Toges til Efterretning."	1940	4	18
+"37"	1940-04-18	"open"	"19400418_1.pdf"	2	"68-1940"	"Indenrigsministeriets Samtykke til Erhvervelse af forskellige Arealer til Flyvepladsen. (1939-40. B Side 255).
+Toges til Efterretning."	1940	4	18
+"38"	1940-04-18	"open"	"19400418_1.pdf"	2	"210-1940"	"Meddelelse fra Indenrigsministeriet om, at det tillades J. M. J. Wissing og L. Laursen at udstykke Ejendommen Matr. Nr. 113 aa af Markj. i 2 Parceller.
+Toges til Efterretning."	1940	4	18
+"39"	1940-04-18	"open"	"19400418_1.pdf"	2	"856-1939"	"Skrivelse fra Skattedepartementet om, at Statsskatten maa opkræves i 4 Rater.
+Toges til Efterretning."	1940	4	18
+"40"	1940-04-18	"open"	"19400418_1.pdf"	2	"30_54-1939"	"Meddelelse fra Aarhus Amtsraad om Fornyelse indtil 31. December 1940 af den Statsbanerne og Hammelbanen meddelte Tilladelse til Omnibuskørsei Aarhus-Silkeborg.
+Toges til Efterretning."	1940	4	18
+"41"	1940-04-18	"open"	"19400418_1.pdf"	2	"30_2-1940"	"Meddelelse fra Aarhus Amtsraad om Fornyelse indtil 31. December 1940 af den Søren Nielsen, Viby, meddelte Tilladelse til Omnibuskørsei Aarhus-Viby.
+Toges til Efterretning."	1940	4	18
+"42"	1940-04-18	"open"	"19400418_1.pdf"	2	"983-1939"	"Meddelelse fra Politimesteren om, at Vognmand M. E. Sindberg er tildelt en Droskeholdeplads.
+Toges til Efterretning."	1940	4	18
+"43"	1940-04-18	"open"	"19400418_1.pdf"	3	"23_18-1939"	"Beretning om Vej- og Kloakvæsenet i 1938-39.
+Toges til Efterretning."	1940	4	18
+"44"	1940-04-18	"open"	"19400418_1.pdf"	3	"23_1-1940"	"Beretning om Kvægtorvet og Kødkontrollen i 1938-39.
+Toges til Efterretning."	1940	4	18
+"45"	1940-04-18	"open"	"19400418_1.pdf"	3	"1059-1939"	"Regnskab for Købmand Carl Poulsens Enkes Legat i 1939.
+Toges til Efterretning.
+11.(J.Nr."	1940	4	18
+"46"	1940-04-18	"open"	"19400418_1.pdf"	3	"30_1 -1940"	").AndragendefraVognmand C. L. Riddermann, Tved, om Tilladelse til Overdragelse af Fragtruten Dejret-Aarhus til Vognmand C. H. Christiansen.
+Anbefalet af Brolægningsudvalget paa samme Vilkaar som hidtil.
+Tiltraadtes.
+12.(J.Nr."	1940	4	18
+"47"	1940-04-18	"open"	"19400418_1.pdf"	3	"39-1940"	").AndragendefraVognmand Hjortshøj om Indregistrering af en Lillebil til Personbefordring.
+Fra Brolægningsudvalget forelaa følgende Erklæring:
+\"I Henholdtil Reglement for offentlig
+Droskekørsel oprettes der en ny Holdeplads, hver Gang Indbyggerantallet er steget med 2000. Der er for nylig tildelt Lillebilvognmand Sindberg en saadan ny Droskeholdeplads. Da der saaledes har været en Afgang ved Lillebilerne, kan Udvalget anbefale Andragendet.\"
+Tiltraadtes.
+13.(J.Nr."	1940	4	18
+"48"	1940-04-18	"open"	"19400418_1.pdf"	3	"30_50-1939"	").AndragendefraRutebilejer Chr. Sørensen, Fjellerup, om Koncession paa en Bilrute Fjellerup-Aarhus.
+Anbefalet af Brolægningsudvalget paa sædvanlige Betingelser.
+Tiltraadtes."	1940	4	18
+"49"	1940-04-18	"open"	"19400418_1.pdf"	4	"128-1940"	"Reglement for Udleje af Åldersrenteboligerne ved Skovvangsvej.
+V. Jaquet anmodede om, at Sagen maa blive sendt tilbage til Udvalget, da man ønskede at foretage en Rettelse angaaende, hvor længe Ansøgerne skal have boet i Aarhus.
+Sagen gik tilbage til Udvalget."	1940	4	18
+"50"	1940-04-18	"open"	"19400418_1.pdf"	4	"154-1940"	"Andragende fra Retshjælpen for ubemidlede om Udbetaling af Tilskud.
+Det paa Konto 25 opførte Beløb paa 2000 Kr. bevilgedes."	1940	4	18
+"51"	1940-04-18	"open"	"19400418_1.pdf"	4	"999-1939"	"Andragende om Tilskud til Oprettelse af et Husholdningsfakultet ved Aarhus Universitet.
+Fra Budgetudvalget forelaa følgende Indstilling1 \"Det indstilles, at der gives Landsudvalget Tilsagn om et Tilskud paa 50000 Kr. til Oprettelse af en Universitetsundervisning og Opførelse af et videnskabeligt Husholdningsinstitut ved Aarhus Universitet den Dag, da Grundstenen til Instituttets Bygning nedlægges.\"
+Borgmesteren anbefalede Forslaget. Det var Meningen, at der skulde indsamles 200000 Kr., før man paabegynder Arbejdet, og der var nu indsamlet 150000 Kr., hvorefter Udvalget foreslog til sin Tid at yde de 50000 Kr.
+Indstillingen vedtoges."	1940	4	18
+"52"	1940-04-18	"open"	"19400418_1.pdf"	4	"389 -1939"	"Meddelelse fra Indenrigsministeriet om, at der ikke vil kunne bevilges Kommunens Lupusstation det ansøgte Tilskud m. m.
+Borgmesteren udtalte sin Forundring over dette Afslag. Staten gav meget store Beløb til Finsens Institut i København, og det var derfor rimeligt, om Stationen her ogsaa fik et større Tilskud. Taleren vilde anmode Sygehusudvalget om at lade udarbejde en Redegørelse over, hvor"	1940	4	18
+"53"	1940-04-18	"open"	"19400418_1.pdf"	5	"389 -1939"	"mange Lupuspatienter der behandles i Aarhus, og hvor mange af disse der er udenbys boende. Hvis Kommunen nægtede at modtage disse, var det det samme som at paalægge store Dele af Befolkningen at skulle rejse til København til Behandling. Naar en saadan Opgørelse forelaa, kunde man komme tilbage til Sagen.
+Toges til Efterretning."	1940	4	18
+"54"	1940-04-18	"open"	"19400418_1.pdf"	5	"46-1940"	"Andragende fra Marselisborg Studentergaard om Fritagelse for kommunal Ejendoms- og Grundskat.
+Anbefalet af Budgetudvalget.
+Borgmesteren bemærkede, at man plejede at følge Staten paa dette Omraade, og Staten havde bevilget Skattefrihed, hvorfor Udvalget anbefalede Andragendet. Det drejede sig om 752,48 Kr.
+Bevilgedes,"	1940	4	18
