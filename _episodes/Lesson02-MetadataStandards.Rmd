@@ -1,6 +1,6 @@
 ---
 title: "Lesson 02 - Metadata & Standards"
-author: "Adela Sobotkova after Tim Sherratt"
+author: "Adela Sobotkova, after Tim Sherratt"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Description and standards
-In your assignment you will be looking at the policy frameworks and systems of value within which we develop collections. This week we’re getting into the nitty-gritty of description. Over the coming weeks we’ll see how the management and documentation of collections are supported by a variety of digital tools – including Omeka, which you’ll be using for your collection assignment.
+In this section you will be looking at the policy frameworks and systems of value within which we develop collections. We’re getting into the nitty-gritty of description. In the next tutorial, we’ll see how the management and documentation of collections are supported by a variety of digital tools – including Omeka, which you’ll be using for your collection assignment.
 
 ### Why catalogue?
 The [Small Museums Cataloguing Manual](https://amagavic.org.au/resources/infosheets) describes two main reasons why it is important to catalogue a collection.
@@ -29,35 +29,38 @@ Description is a form of intellectual control that allows us to grasp the meanin
 ## "Describe yourself" exercise
 Stealing the idea from a colleague (thank you, Andrew Cusworth:), we will engage in a short metadata creating exercise. Follow these steps:
 
-*Step 1. Describe yourself in a sentence.* 
 
-Example: Adela is a person, her parents produced her in 1979.
+**Step 1. Describe yourself in a sentence** 
 
-
-*Step 2. Take that sentence and convert it to a table*
+Example: Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash.
 
 
-|Identifier | Title | Contributor | Date
-|-----------|-------|-------------|----------|
-|adela@cas.au.dk | Adela | Parent 1, Parent 2 | 1979|
+**Step 2. Take that sentence and convert it to a table**
 
 
-*Step 3. Make this info machine-readable*
+|Identifier | Title | Contributor | Date     | Favorite Book |
+|-----------|-------|-------------|----------|---------------|
+|adela@cas.au.dk | Adela | Parent 1, Parent 2 | 1979| Snowcrash|
+
+
+**Step 3. Make this info machine-readable**
 
 
     <title> Adela</title>
     
     <contributor>Parent 1</contributor>
     
-    <contributor>Parent 2<\/contributor>
+    <contributor>Parent 2</contributor>
     
     <date> 1979</date>
+    
+    <book> Snowcrash</book>
     
     <identifier>adela@cas.au.dk</identifier>
 
 
 
-*Step 4. Convert this to Dublin core standard*
+**Step 4. Convert this to Dublin core standard**
 
     <record>
 
@@ -69,7 +72,7 @@ Example: Adela is a person, her parents produced her in 1979.
 
        <dc:date>1979</dc:date>
 
-       <dc:description<Stuff</dc:description>
+       <dc:description<Snowcrash</dc:description>
 
        <dc:identifier>adela@cas.au.dk</dc:identifier>
 
@@ -77,14 +80,21 @@ Example: Adela is a person, her parents produced her in 1979.
 
 
 
-*Step 5. Consult with your group*
-If you’re working in a group, nominate one person as ‘registrar’. It will be their responsibility to maintain consistency and quality across the descriptions and manage the workflow between team members.
+**Step 5. Create a record for your entire group using Dublin Core**
+
+The result will be a sequence of records, one for each member of your group.
+In your group, nominate one person as ‘registrar’. It will be their responsibility to maintain consistency and quality across the descriptions and manage the workflow between team members.
 
 
-- Think about what you might need to do to maintain consistency across your descriptions 
+- Think about what you might need to do to maintain consistency across your individual descriptions 
 – Will you have a standard set of tags and keywords? 
 - How will you structure the object name/title? 
 - Which concepts in your individual descriptions are relevant to your grop collection?
+
+<font color="blue">
+**Task 1. Post a machine-readable description of your groupmembers to GoogleDrive**
+</font color>
+
 
 ## Standards
 As you might have noticed in cataloguing your group, one of the challenges is maintaining an appropriate level of consistency across descriptions. The worksheet provides a set of basic headings, but these might be interpreted differently, and there may be great variations in the sorts of language used, or how values like places or dates are formatted.
@@ -97,10 +107,10 @@ We’re lucky in the cultural heritage sector because we have LOTS AND LOTS of s
 
 There’s a lot of truth to the [XKCD cartoon](https://xkcd.com/927) (which must be shown as part of any discussion about standards).
 
-![](images/xkcd927.png)
+![](../images/xkcd927.png)
 XKCD Standards
 
-I suggested in this week’s reading that you might like to have a look at [Seeing Standards](http://id.loc.gov/authorities/subjects.html). It’s quite scary – 105 different standards are being used in the cultural heritage sector.
+Now, have a look at [Seeing Standards](http://jennriley.com/metadatamap/). It’s quite scary – 105 different standards are being used in the cultural heritage sector.
 
 But fear not! You’ll probably only ever encounter a small number of these, and in many cases you’ll be using them without even knowing it.
 
@@ -109,9 +119,9 @@ Standards support the description of collections in a variety of ways.
 - *Forming frameworks* – Standards can define the basic practices which constitute a field of activity. For example the National Standards for Australian Museums and Galleries set out the responsibilities, expectations and activities that make a museum a museum. There are similar sorts of standards for archives. These sorts of standards can be used to review current practice or frame organisational policies.
 - *Defining descriptions* – Standards can define what information that should be captured about collections and how it should be structured. For example the General International Standard Archival Description (ISAD(G)) sets out the basic principles guiding the arrangement and description of archives.
 - *Enabling exchange* – Standards can describe how collection information can be packaged and shared to support aggregation or reuse. For example Dublin Core sets out a basic set of terms that are widely used to share collection information.
-Another form of standard are authority lists or controlled vocabularies. These may be simple, flat lists of terms, or complex hierarchies. The widely-used Subject Headings from the Library of Congress are an example of this sort of standard. For a visualisation of the complexity of the the subject headings system see the [LoC Subject Headings Galaxy](http://id.loc.gov/authorities/subjects.html).
+Another form of standard are authority lists or controlled vocabularies. These may be simple, flat lists of terms, or complex hierarchies. The widely-used Subject Headings from the Library of Congress are an example of this sort of standard. For a visualisation of the complexity of the subject headings system see the [LoC Subject Headings Galaxy](http://id.loc.gov/authorities/subjects.html).
 
-As I mentioned, most of the time you’ll be using standards without even knowing it. On the Small Museums Cataloguing Manual website you might have noticed that it states the manual ‘accords with Benchmark A2.4.2 of the National Standards for Australan Museums and Galleries’. The standard is being used to give context and authority to the manual.
+As I mentioned, most of the time you’ll be using standards without even knowing it. On the Small Museums Cataloguing Manual website you might have noticed that it states the manual ‘accords with Benchmark A2.4.2 of the National Standards for Australian Museums and Galleries’. The standard is being used to give context and authority to the manual.
 
 Sometimes standards are used in the design of tools. The archival management system AtoM (or AccessToMemory) is designed to meet the requirements of the ISAD(G) standard. As we’ll see in a couple of weeks, the core fields in Omeka are based on the Dublin Core standard.
 
@@ -136,5 +146,14 @@ In both cases we can see that the systems themselves have evolved over time in r
 Standards creating organisations can also seek to involve and represent a range of perspectives. For example, the National Library of New Zealand is developing a set of Maori Subject Headings that reflect a Maori world view.
 
 <font color="blue">
+**Task 2: Post an evaluation of yours and 2 other groups' self-descriptions on GoogleDrive**
+
+Look at 2 other groups' member description on GoogleDrive. Write 200 words evaluating other groups' choice of format and descriptive elements vis-a-vis your own. Can you exchange data easily with the other groups? Are all descriptors neutral, easily understandable and non-ambiguous? What view of the world and individual do they reflect?
+</font color>
+
+
+
+
+<font color="darkblue">
 Original content on this site is licensed under a Creative Commons Attribution 4.0 International License.
 </font>

@@ -2,6 +2,7 @@
 library(tidyverse)
 library(lubridate)
 
+
 # Load the data
 council <- read_csv("data/city_counsil_minutes_1940-1945.csv")
 head(council)

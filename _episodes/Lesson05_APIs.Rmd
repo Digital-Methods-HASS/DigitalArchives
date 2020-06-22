@@ -1,0 +1,34 @@
+---
+title: "Lesson 05 - Searching through APIs"
+author: "Adela Sobotkova"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction to APIs
+
+Your Internet experience runs on APIs. The acronym has helped you compare the best prices for flights, allowed you to embed a map into your store’s website and seamlessly processed your credit card payments.
+
+But what is an API and why does it matter to you? In this article, we’ll give a high-level overview of APIs and how they relate to your daily life.
+
+## What is an API?
+API stands for application programming interface. This is a concept in software technology that essentially refers to how multiple applications can interact with and obtain data from one another. APIs operate on an agreement of inputs and outputs.
+
+**Application**: These can be apps that you use on your smartphone or a software program that you use.
+**Programming**: Developers use APIs to write software.
+**Interface**: How you interact with the application.
+
+## How do APIs Work: A Helpful Analogy
+To use an analogy here, we’ll compare this to ordering a drink at a bar. When you step up to the bar, you’re given a menu with several drinks listed. To look at this like an API, there’s an existing convention you can follow (i.e., the menu) to state your order and obtain a drink.
+
+The menu as it’s presented to you is the interface. All the drinks listed on the menu are what the bartender has agreed to serve. When you ask for a certain drink on the menu, you receive it. But if you ask for something off the menu, such as a vodka martini instead of a gin martini, the bartender can’t provide it because it’s not something they agreed to serve.
+
+Let’s say you want that gin martini delivered to your home. You call a delivery service and you order a martini that appears on the menu. When you order it, someone will tell the bartender your order, the bartender will make the martini and then someone will deliver it to your home. This is an example of an additional service (delivery) built on an “API” (the menu).
+
+To relate this back to software, an API can help one application retrieve specific types of data from another. If the API doesn’t support certain types of data, it won’t be able to facilitate the retrieval of that “off-menu” data.
+
+... TBcontinued

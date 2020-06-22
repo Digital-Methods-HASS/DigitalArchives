@@ -36,32 +36,50 @@ Why? Trove is one of the most modern and multi-faceted national digital archives
 
 ### Let’s try a simple search:
 
+Beware that in June 2020, Trove went through a major website makeover. The old interface of Trove contained a grid of object zones that you could use to refine results to specific categories of artefacts. 
+![](../images/trove_search.png)
+
+In the new interface, you need to use the cateogory dropdown next to the Search box or a category band across the top of the page.  
+![](../images/trove_search_new.png)
+
+
 Go to www.trove.nla.gov.au
+
 - Look around the page. What sorts of things are in Trove? How many resources are currently included? 
 - Type ‘danish immigrant’ (without the quotes) in the search box and click ‘Search’.
-- Find the ‘Pictures, photos, objects’ results box and click on it to focus on results from the Trove pictures zone. (There’s more about Trove’s zones here.)
-- Let’s refine our results using facets. Under ‘Refine your results’ on the left hand side, click ‘Object’. What happens?
-- Look through your results for a danish immigrant. How many can you find? Where do they [the records] come from?
-- Click on the title of an object to view more details. Now click on the thumbnail or the ‘view at…’ link – Trove will send you to the website of the organisation that holds the object.
+- Find the ‘Images, maps, artefacts’ category or results box and click on it to focus on results from the Trove pictures zone. (There’s more about Trove’s zones here.)
+- Let’s refine our results using facets. Under ‘Refine your results’ on the right hand side, click ‘Artefact’ under Format. What happens?
+- Look through your results of artefacts for a danish immigrant. How many can you find? Where do they [the records] come from?
+- Click on the title of an object to view more details. Now click on the ‘view at…’ link below the thumbnail – Trove will send you to the website of the organisation that holds the object (if it is free access).
 
-Write out brief answers to these questions and be ready to discuss:
+<font color="blue">
+Task 1. Write out brief answers to these questions (you'll be asked to fill them in a poll later) and be ready to discuss:
+
 1) how many resources are there in Trove?
 2) what is a 'facet' and how does it differ from a Search box?
-3) are records stored in Trove?
+3) are individual records stored in Trove? If not, then where?
+</font color>
 
 ### Disasters and accidents
 
-Let's say you are concerned about public health and industrialisation, and are interested in knowing the trend in the amount of accidents through the last 150 years, through time and space. 
+Let's say you are concerned about the effects of industrialisation on public health, and are interested in knowing the trend in accidents through the last 150 years, through time and space in Australia. 
 
 Start a new search on www.trove.nla.gov.au
-- Look around the page. What sorts of things are in Trove? How many resources are currently included? 
+
 - Type ‘accident’ (without the quotes) in the search box and click ‘Search’.
-- Find the ‘Digitised newspapers and more’ results box and click on it to focus on results from the Trove newspapers zone. (There’s more about Trove’s zones here.)
-- Let’s refine our results using facets. Under ‘Refine your results’ on the left hand side, click ‘Decade’. What happens? Click for 'More'
+- Find the ‘Digitised newspapers and more’ results box/category and click on it to focus on results from the Trove newspapers zone. 
+- Let’s refine our results using facets. Under ‘Refine your results’ on the right (from 26 June 2020) hand side, click ‘Date range’. What happens? Click 'Show more' at the bottom.
 - Look through your results for accidents reported in newspapers. How many can you find? Where do they [the records] come from?
 - What decade sees the most accidents reported in Australia?
 - How does the trend change in New South Wales versus Victoria?
 
+<font color="blue">
+Task 2. Write out answers to these questions. 
+
+1) Which decade sees the most accidents reported in newspapers in Australia?
+2) Does Victoria or New South Wales have more accidents reported in this period? 
+3) What is the trend in accidents in the 2000s?
+</font>
 
 ### Are we all curators now?
 Trove brings together cultural heritage collections, but it does more. It’s a place where individuals can create and contribute their own collections. For example, anyone can add their photos to Trove, simply by sharing them with the Australia in Pictures group on Flickr.
