@@ -17,7 +17,7 @@ Read here about the software and go into the Installation section to install and
 
 - [VOYANT](http://docs.voyant-tools.org/resources/run-your-own/voyant-server/#download): This is a rather large download [~450Mb], requiring solid internet connection. If you can’t get it to download, assistants will have copies available on flash drives.
 
-- [WW2 DATA](https://linkneeded.com): This dataset has been digitized and curated for your by the Aarhus Stadtsarkivet. It contains the entirety of the contents of the minutes filed during 1939-1945. Please, follow the eduroam and shared drive instructions to download this dataset on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the copyright law in Denmark. 
+- DATA (on Shared drive:ARTS_DigitalArchives2019): This dataset has been digitized and curated for this class by the Aarhus Stadtsarkivet. It contains the entirety of the minutes filed during 1939-1945. Please, get on  eduroam or, if working from home, on [VPN](https://medarbejdere.au.dk/administration/it/vejledninger/netvaerk/vpn/) and [shared drive instructions](https://medarbejdere.au.dk/administration/it/vejledninger/dataopbevaring/tilgaa-delt-folder/) to download all of the datasets on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the copyright law in Denmark. 
 
 ## Installation
 
@@ -30,19 +30,19 @@ Although Voyant Tools is a web based set of tools, we’ll be downloading it and
 3. Unzip the Voyant Server Package (you may need an unzipping software/extractor. [7zip](https://www.7-zip.org/) is a free open-source tool for Windows users). The resulting folder of files should look like this on a Mac and Windows:
 
 
-![](images/mac-voyant-server-zip-contents.png)
+![](../images/mac-voyant-server-zip-contents.png)
 
-[comment]:#![](images/w10-voyant-server-zip-contents.png)
+[comment]:#![](../images/w10-voyant-server-zip-contents.png)
 
 
 4. Double click the VoyantServer.jar file. When you open this file a new window (see image below) will pop up with numerous server controls. If you’re curious about what these all mean you can read about the options in the documentation for the Voyant Server. However, in short, this window begins to launch a server which will generate the Voyant tools interface.
 
-![](images/voyantserver-controls.png)
+![](../images/voyantserver-controls.png)
 
 
 5. Once the server has booted up a new browser window will open.
 
-![](images/voyantserver-home.png)
+![](../images/voyantserver-home.png){#id .class width=80%}
 
 ** If your default browser is Chrome you’ll need to paste the address into a new window in a different browser. Both Safari and Firefox work. The default address should be: 
 http://127.0.0.1:8888/
@@ -55,11 +55,12 @@ Voyant offers several ways to upload text. You can upload individual text files 
 
 - Select Upload from the Voyant Tools Homepage
 
-![](images/voyantserver-home.png)
+![](../images/voyantserver-home.png){#id .class width=80%}
 
 - Navigate to the location where the file is saved on your computer. (Likely the downloads folder).
 
-![](images/upload-data.png)
+
+![](../images/upload-data.png)
 
 - Once you’ve selected the file, click 'Open' and Voyant will upload the file and direct you to the dashboard. This may take a few seconds to a few minutes depending on your computer's performance and the memory you allocated to Voyant (and the size of the corpus of documents). 
 
@@ -69,9 +70,13 @@ After uploading the corpus, you will be redirected to what Voyant calls the “d
 
 # Managing text and visualisations in Voyant
 
+We will cover these topics in the hands-on session in week 36. 
+
 - stopword lists for non-default languages (e.g. Danish)
-- search
-- export
+- searching concepts in Voyant
+- exporting visualisations and frequency data from Voyant
+
+The following sections serve as a guide to some of the computational analyses you can on texts, and as illustration of the scholarly work that involved text analysis. Finally, there is a glossary of terms you might encounter during this course.
 
 # Text Analysis
 

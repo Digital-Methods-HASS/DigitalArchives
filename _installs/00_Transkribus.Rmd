@@ -34,7 +34,9 @@ Please ensure to have completed all steps before Wednesday in week 37. If you ne
 
 1. Go to https://Transkribus.eu and register. To register, you will need to provide your name, e-mail address, and accept the Transkribus user agreement. You can also log in using your Google account. Remember the credentials as you will need them to launch the software later. 
 
-![](images/transkribus-site.png)
+![](../images/transkribus-site.png)
+
+
 2. Download the correct version (for your OS) for free from the website. If the download fails - please download the latest release from here: [alternative download location](https://transkribus.eu/TranskribusX/releases/) After download you should see a ZIP File in the download directory of your computer.
 
 3.  Unzip the file and open the resulting Transkribus directory
@@ -66,17 +68,21 @@ Now you are ready to use Transkribus to handle historical documents. In order to
 
 Transkribus can do very powerful things, such as automated handwritten text recognition (HTR). We won't have time to delve into this capability in this workshop. Claus Juhl Knudsen and other colleagues from the Stadsarkivet, however, might have time to demonstrate.
 
-## Segmenting and transcribing texts 
+## Segmenting and transcribing texts - Read and watch before class
 
-Video guides for those who like videos.
+*Video guides* for those who like videos.
+
 1. Watch the following ['How-to' 4 minute video](https://youtu.be/8Ei0a7WIlTI), especially step 1-8, to learn how to use the Transkribus desktop software to transcribe and save documents.
+
 2. Next, watch the [segmentation video](https://youtu.be/b0MqNwSIKC0) to learn how to parse complex page formatting in historical documents.
 
-For those who prefer written instructions, segemntation and transcription are both covered in [How to use Transkribus - in 10 steps (or less) Guide](https://transkribus.eu/wiki/images/7/77/How_to_use_TRANSKRIBUS_-_10_steps.pdf) again focusing on steps 1-8 for a general overview of tools available.
+*Written instructions* for those who prefer reading at their own pace:
 
-Everyone: please also consult the [Transcription Guidelines](https://transkribus.eu/wiki/images/3/31/Transkribus_Transcription_Conventions.pdf) before you commence transcription. 
+1. Segmentation and transcription are both covered in [How to use Transkribus - in 10 steps (or less) Guide](https://transkribus.eu/wiki/images/7/77/How_to_use_TRANSKRIBUS_-_10_steps.pdf) again focusing on steps 1-8 for a general overview of tools available.
 
-There are additional tips and tricks for special topics, such as [Transcribing Tables](https://transkribus.eu/wiki/images/1/14/HowToProcessTables.pdf), however, that does not apply in our case. 
+*Everyone*: please consult the [Transcription Guidelines](https://transkribus.eu/wiki/images/3/31/Transkribus_Transcription_Conventions.pdf) to understand the know-how of transcription before you commence with your document. 
+
+There are additional tips and tricks for special topics that apply to, for example, [Transcribing Tables](https://transkribus.eu/wiki/images/1/14/HowToProcessTables.pdf), should you run into these in the future (avoid transcribing tables in this course). 
 
 ## Saving transcriptions
 
