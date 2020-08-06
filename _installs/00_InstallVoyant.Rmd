@@ -7,7 +7,7 @@ output: html_document
 ---
 # Getting Started
 
-In order to fully participate in workshops on Thursday and Friday in week 36, you need to have downloaded *Stadsarkivet data* from the class shared drive (only reachable via eduroam on campus), and the *Voyant server* desktop software. Both downloads will take time, so allow plenty and if in difficulty, sign up for a slot with assistant by Monday 5 pm, on week 36. 
+In order to fully participate in workshops on Thursday and Friday in week 36, you need to have downloaded *Stadsarkivet data* from the class shared drive (only reachable via eduroam on campus), and the *Voyant server* desktop software. Both downloads will take time, so do this in advance and if in difficulty, sign up for a slot with one of our assistants by Monday 5 pm in week 36. 
 
 ## Software and Data needed
 
@@ -66,7 +66,7 @@ Voyant offers several ways to upload text. You can upload individual text files 
 
 
 Exploring the “Default Skin”
-After uploading the corpus, you will be redirected to what Voyant calls the “default skin”, or, the default configuration of tools. To understand the many options, tools, and settings available and necessary to process  Danish texts in Voyant see Adela's slides[link needed] and [Voyant documentation](http://voyant-tools.org/docs/#!/guide).
+After uploading the corpus, you will be redirected to what Voyant calls the “default skin”, or, the default configuration of tools. To understand the many options, tools, and settings available and necessary to process  Danish texts in Voyant see [Adela's slides](https://github.com/adivea/DigitalArchives/blob/master/VoyantSlides.pdf) and [Voyant documentation](http://voyant-tools.org/docs/#!/guide).
 
 # Managing text and visualisations in Voyant
 

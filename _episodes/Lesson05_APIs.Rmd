@@ -18,36 +18,36 @@ But what is an API and why does it matter to you? In this article, we’ll give 
 ### What is an API?
 API stands for application programming interface. This is a concept in software technology that essentially refers to how multiple applications can interact with and obtain data from one another. APIs operate on an agreement of inputs and outputs.
 
-**Application**: These can be apps that you use on your smartphone or a software program that you use.
-**Programming**: Developers use APIs to write software.
-**Interface**: How you interact with the application.
+**Application**: These can be apps that you use on your smartphone such as maps, house-searching or hotel-booking apps.
+
+**Programming**: Developers use APIs to create new software.
+
+**Interface**: How you as a user interact with the application.
 
 ### How do APIs Work: An Analogy
-To use an analogy here, we’ll compare this to ordering from a menu in Bulgaria versus talking to the bartender in Sydney.
+To use an analogy here, we’ll compare this to ordering from a menu in a Bulgarian restaurant versus talking to the bartender in Sydney.
 
-Example 1: In a restaurant in Bulgaria, you’re given a menu with several drinks and meals listed. Seeing these, you assume that there is an existing convention you can follow (i.e., the menu) to state your order and obtain a drink. Yet, Bulgaria is a developing country, and available ingredients vary through the year while menus don't, and so you will frequently hear: 'We don't have that' or 'not in season' until you work your way to the actual items in stock.
+Example 1: In a Bulgarian restaurant you’re given a menu with a list of drinks and meals. Seeing these, you assume that there is an existing convention you can follow (i.e., the menu) to state your order and obtain a drink. You also assume that if items are listed they are actually available. Yet, the reality of Bulgaria is that ingredients are seasonal while menus are rarely updated, and so you will frequently hear: 'We don't have that' or 'not in season' until you work your way to the available items.
 
-To translate this into computing language: The menu as it’s presented to you is the search interface. In this case, the interface is imperfect and works only part of the year for certain ingredients. All the drinks and meals listed on the menu are what the restaurant has agreed to serve. When you ask for a certain drink on the menu, you receive it if it is in stock. If you ask for something that is in stock but off the menu, such as the mint growing in the garden or vodka martini instead of a gin martini, the restaurant need not provide it because it’s not something they agreed to serve.
+To translate this into computing language: The menu as it’s presented to you is the search interface. In this case, the interface is imperfect and contains more than is available. The restaurant has agreed to serve the listed drinks and meals if ingredients are in stock. Should you pick something that is not in season, you'll be told "sorry". Should you ask for something that is not specified in the menu, e.g. can you have the filled peppers dish served without the ground meat in vegetarian fashion?, the restaurant need not provide it because it’s not something they agreed to serve via the menu.
 
-Example 2: In a bar in Sydney, there is also a menu of drinks and ord'euvres available for you to order from. But it is also possible for you to go directly to the bar, review the stock and order a concoction you feel like regardless of whether it is on the menu or not. The bartender will be happy to make it.
+Example 2: In a bar in Sydney, there is a menu of drinks and hors d'euvres available for you to order from. It is, however, also possible for you to go directly to the bar, review the stock on the wall and order a concoction you feel like regardless of whether it is on the menu or not. The bartender will shake it up for you on demand.
 
-In this case, going to the bar provides you with direct access to the bar's contents. You are skipping the interface and looking directly into the list of available ingredients and building your custom order of vodka martini.
+API is like walking up to the bar in Sydney; it provides you with direct access to the bar's contents. You are skipping the interface and looking directly into the available ingredients and building your custom order of vodka martini.
 
-**Take away point: using an API is like walking into a self-serve bar where you can recombine ingredients to create endless coctail concoctions. Cultural heritage collections which give users direct access to their data via APIs, make data retrieval, exchange and combination possibilities limitless**
+**Take away point: using an API is like walking into a self-serve bar where you can recombine ingredients to create endless cocktail concoctions. Cultural heritage collections which give users direct access to their data via APIs, make data retrieval, exchange, and mashing possibilities limitless**
 
-Let’s stretch the second example a bit further. Let's say you want that vodka martini delivered to your home. You call a delivery service and you order a vodka martini by selecting from the basic alcohol list, skipping the coctails menu. When you order it, someone will tell the bartender your order, the bartender will make the vodka martini and then someone will deliver it to your home. This is an example of an additional service (delivery) built on an “API” (building an order from the basic ingredient menu).
+Let’s stretch the second example a bit further. Let's say it is covid lockdown and you want that vodka martini delivered to your home. You call a delivery service and you order a vodka martini by selecting from the basic alcohol list, skipping the cocktails menu. When you order it, someone will tell the bartender your order, the bartender will make the vodka martini and then someone will deliver it to your home. This is an example of an additional service (delivery) built on an “API” (building an order from the basic ingredient menu).
 
-To relate this back to software, an API can help one application retrieve specific types of data from another. If the API doesn’t support certain types of data, it won’t be able to facilitate the retrieval of that “off-menu” data.
+To relate this back to software, an API can help one application retrieve specific types of data from another application. 
 
 
-###5 Things You Should Know About APIs
-To recap, here are the five takeaways for APIs.
+### 3 Things You Should Know About APIs
+To recap, here are three takeaways for APIs.
 
-1. Developers work with APIs to create software and apps. It’s rare for you, the end user, to directly interact with an API.
-2. APIs operate as a gate, allowing companies to share select information but also keeping unwanted requests out.
-3. APIs can make your life run a little smoother. When airlines share data about flights and prices, travel aggregating sites can compile them all and help you compare.
-4. Businesses are built on APIs. 
-5. If you’re using a third-party app to manage your social media, it might not be the app’s fault that a feature isn’t being offered. It’s more likely that the network doesn’t have it as part of their API.
+1. Regular users of the internet rarely directly interact with APIs but they consumer the products of APIs (e.g. aggregated air travel websites where you can choose the cheapest fare). Developers work with APIs to create software. Researchers and research institutions can use APIs to aggregate and share data. 
+2. APIs operate as a gate, allowing informed users to share select information but also keeping unwanted requests out.
+3. APIs can make your life easier. When thousands of records in a digital archive are accessible via an API you can download them with a single request rather than by paging through the resources and downloading each individually and manually.
 
 ## Let's practice..
 
