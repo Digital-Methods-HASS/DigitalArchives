@@ -13,11 +13,11 @@ In order to fully participate in workshops on Thursday and Friday in week 36, yo
 
 Read here about the software and go into the Installation section to install and configure it. 
 
-- [JAVA](https://www.java.com/en/): Before downloading Voyant, you will need to download Java if you don’t already have it. If you do have Java installed, you should still download and update your version.  
+- [JAVA](https://www.java.com/en/): Before downloading Voyant, you will need to download Java if you don’t already have it. If you do have Java installed, you should still download and update your version.  For an update, download the 64-bit offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). If you have difficulty getting the right Java, please sign up for the Help Desk.
 
 - [VOYANT](http://docs.voyant-tools.org/resources/run-your-own/voyant-server/#download): This is a rather large download [~450Mb], requiring solid internet connection. If you can’t get it to download, assistants will have copies available on flash drives.
 
-- DATA (on Shared drive:ARTS_DigitalArchives2019): This dataset has been digitized and curated for this class by the Aarhus Stadtsarkivet. It contains the entirety of the minutes filed during 1939-1945. Please, get on  eduroam or, if working from home, on [VPN](https://medarbejdere.au.dk/administration/it/vejledninger/netvaerk/vpn/) and [shared drive instructions](https://medarbejdere.au.dk/administration/it/vejledninger/dataopbevaring/tilgaa-delt-folder/) to download all of the datasets on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the copyright law in Denmark. 
+- DATA (on Shared drive:ARTS_DigitalArchives2020): This dataset has been digitized and curated for this class by the Aarhus Stadtsarkivet. It contains the entirety of the minutes filed during 1939-1945. Please, get on  eduroam or, if working from home, on [VPN](https://medarbejdere.au.dk/administration/it/vejledninger/netvaerk/vpn/) and [shared drive ](https://medarbejdere.au.dk/administration/it/vejledninger/dataopbevaring/tilgaa-delt-folder/) to download all of the datasets on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the AU code of conduct and the privacy law in Denmark. 
 
 ## Installation
 
@@ -78,7 +78,11 @@ We will cover these topics in the hands-on session in week 36.
 
 The following sections serve as a guide to some of the computational analyses you can on texts, and as illustration of the scholarly work that involved text analysis. Finally, there is a glossary of terms you might encounter during this course.
 
-# Text Analysis
+# Your task
+
+Your task today is to install Voyant and download the data. We will introduce the research topics and provide further information on how to work with the data in class in week 36. Feel free to read the sections below if you are interested in knowing more about text analysis and different methods it entails.
+
+# What is Text Analysis?
 
 “Text Analysis” is a broad category that describes a number of specific methodologies that have been adapted from the fields of computer science and linguistics and used for humanistic inquiry.The overall goal, is to turn text into data for analysis.
 

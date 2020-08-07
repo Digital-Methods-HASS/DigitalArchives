@@ -26,7 +26,7 @@ Please ensure to have completed all steps before Wednesday in week 37. If you ne
 ## Software and Prerequisites
 
 
-- [JAVA](https://java.com/de/download/manual.jsp#win): Before downloading Transkribus, you will need to download the newest Java 8 if you don’t already have it. If you do have Java installed, you should still download and update your version, or at least [check it](https://java.com/en/download/help/version_manual.xml).  
+- [JAVA](https://java.com/de/download/manual.jsp#win): Before downloading Transkribus, you will need to download the newest Java 8 if you don’t already have it. If you do have Java installed, you should still download and update your version, or at least [check it](https://java.com/en/download/help/version_manual.xml).  If you need an update, download the 64-bit offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). If you have difficulty getting the right Java, please sign up for the Help Desk.
 
 - [TRANSKRIBUS](https://transkribus.eu/Transkribus) is a comprehensive platform for transcription and searching of historical hand-written documents, which facilitates - with large enough transcribed sample - the automated recognition of the documents. Note the download button directly under the page title, flanked 
 
@@ -37,26 +37,23 @@ Please ensure to have completed all steps before Wednesday in week 37. If you ne
 ![](../images/transkribus-site.png)
 
 
-2. Download the correct version (for your OS) for free from the website. If the download fails - please download the latest release from here: [alternative download location](https://transkribus.eu/TranskribusX/releases/) After download you should see a ZIP File in the download directory of your computer.
+2. Download the correct version (for your OS) for free from the website. After download you should see a ZIP File in the download directory of your computer.
+
+<!-- If the download fails - please download the latest release from here: [alternative download location](https://transkribus.eu/TranskribusX/releases/) -->
 
 3.  Unzip the file and open the resulting Transkribus directory
-4.  Start Transkribus by clicking an executable file:
-- Windows: Transkribus.bat or use *Transkribus.exe*
-- Mac OS - Apple: *Transkribus.command*
-- Linux: *Transkribus.sh*
 
-5 Notes for first launch
+4.  Start Transkribus by clicking an executable file :
+- Windows:  use *Transkribus.exe*
+- Mac OS - Apple: *Transkribus.command* - you may see this icon [TO BE ADDED]
 
-- Windows: If you do not have "Administrator" rights, Windows will produce a warning message, such as: Your Computer is Protected by Windows", etc. Do not confirm, but go to "More Information". There you can agree that this is not malware and that you want to run Transkribus on your computer.
+5. Notes for the first launch
+
+- Windows: If you do not have "Administrator" rights, Windows will produce a warning message, such as: "Your Computer is Protected by Windows", etc. Do not press "Confirm", but go to "More Information". There you can agree that Transkribus is not malware and that you want to run it on your computer.
 
 - Mac: If you run the program the first time, it may not start because it is a non-signed application ("... can't be opened because it is from an unidentified developer" message).  In this case, right-click (or control-click) the application and choose "Open". In the appearing dialog box, click "Open" again! Alternatively, right-click the Track Pad to open the Context Menu and add a security exception for Transkribus.
 
-- Linux: If the OS is (or is based on) Ubuntu 17.04, installing libwebkit is necessary:
-```{r, eval=FALSE}
-sudo apt install libwebkitgtk-1.0-0
-```
-
-If you encounter other problems and difficulties with installation: Have a look at Transkribus [FAQ page](https://transkribus.eu/wiki/index.php/Questions_and_Answers#Download_and_Installation)
+If you encounter other problems and difficulties with installation: Have a look at Transkribus [FAQ page](https://transkribus.eu/wiki/index.php/Questions_and_Answers#Download_and_Installation) or sign up for our Help Desk.
 
 # Learning to use Transkribus
 
@@ -89,12 +86,15 @@ There are additional tips and tricks for special topics that apply to, for examp
 https://transkribus.eu/wiki/images/b/bd/HowTo_Export_documents_from_Transkribus.pdf
 
 # Your task
+Your group will be allocated a folder number to download from the Shared Drive: ARTS_DigitalArchives2020\Transkribus. As part of this exercise each of you will transcribe one page from the archival sources. You will work with your group in breakout rooms in Zoom but also switch to plenary sessions to get guidance on any issues. You are strongly advised to obtain a mouse for this exercise.
 
-1. Allocate different pages or documents from your case file to one another in your group and start transcribing them
-2. Document any decisions, and consult any problems/questions you have regarding segmentation and transcription in your group. Document these, and group agreements and disagreements in a  Readme file (on class GoogleDrive). 
-3. As you progress, save your work and gather question for consultation in class.
+
+1. Each person in your group should receive one unique page from your folder for segmentation and transcription
+2. Document any decisions, and consult any problems/questions you have regarding segmentation and transcription in your group. Please use your group folder on the class GoogleDrive to record the group deliberations. 
+3. As you progress, save your work and gather questions you wish to consult with instructors.
 4. Consult your group issues in class and revise your transcriptions in light of the decisions
-5. Submit a minimum of one page of segmented and transcribed text (after in class consultation) in a .txt file labelled with filename_groupnumber_lastname.txt  in your group GoogleDrive space.
+5. When finished, please export the transcription as a textfile (.txt). Transkribus should offer to export the file with the original filename. If it does not, please use the original filename when saving. 
+6. Each group member should submit a minimum of one page of segmented and transcribed text to your group GoogleDrive space. Please avoid duplicates.
 
 
 
