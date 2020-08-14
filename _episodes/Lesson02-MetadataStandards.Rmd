@@ -93,6 +93,7 @@ In your group, nominate one person as ‘registrar’. It will be their responsi
 
 <font color="blue">
 **Task 1. Post a machine-readable description of your groupmembers to GoogleDrive**
+ Select a few unique or fun or important elements that describe you. You might have to negotiate or workshop the with other group members to achieve consistency.
 </font color>
 
 

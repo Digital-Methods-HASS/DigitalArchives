@@ -19,7 +19,7 @@ For example, even if your descriptions are captured in digital form, that doesn�
 
 To the world Trove is a website, providing access to millions of resources, but if you look at how that information is managed it’s a much more complex (and messier!) picture.
 
-![](images/trove_system.png)
+![](..images/trove_system.png)
 Diagram of Trove ecosystem 
 
 So while we’ll be focusing on collection management systems it’s worth remembering that they will often exist within a complex ecosystem of datatabases, repositories, and indexes. And while we’d like to think that they’re all seamlessly interconnected, it’s possible that they won’t even talk to each other!
@@ -57,14 +57,14 @@ Deciding which system is appropriate for a particular collection or institution 
 
 Here you’ll find a [blank feature matrix](https://drive.google.com/file/d/1RqWDZrwZA0_t0mp2Mh54fVQk03mkUQeV/view?usp=sharing) listing a number of the collection management systems listed above. To fill it in you’ll need to explore the websites and documentation for each system. In some cases there are also ‘demo’ or ‘sandbox’ versions of the software available that you can try out. In some cases you might not be able to find an answer, but do your best!
 
-Once you’ve filled in the matrix, think about what would be the most approporiate system for:
+Once you’ve filled in the matrix, think about what would be the most appropriate system for:
 
 - a community museum (e.g. in your parents' hometown) with limited technical capacity, where most of the data entry will be done by volunteers;
 - a regional gallery with access to outsourced technical support and a small number of professional staff.
 - the Aarhus University Antikemuseet's collection of 3D scans of 4000 illicit objects confiscated from art dealers and needing repatriation into home collections
 
 
-##Resources, processes, and contexts
+## Resources, processes, and contexts
 
 If you try and create a record in some of these systems above, you'll find out that there are many more fields than you'd expect. Let’s have a think about what’s actually being ‘managed’ in a collections management system.
 
@@ -74,7 +74,7 @@ Often we’re basically dealing with are:
 - Lists or Groups - logical conceptual groups for a given purpose
 - Tags – metadata relevant to the resources, such as date of creation, people, places, objects, or concepts contained or understood
 
-Collection management systems are not just places for storing descriptions, they also embed those descriptions within a contextual framework that aids discovery and meaning. But the lives of resources continue within their new institutional homes, so collection management systems also capture what happens to them after they’ve been ‘collected’.
+Collection management systems are not just places for storing descriptions, they also embed those descriptions within a contextual framework that aids discovery and meaning. But the lives of resources continue within their new institutional homes, so collection management systems also capture what happens to them after they have been ‘collected’.
 
 Look at types of ‘Procedural Records’ defined by e.g. CollectionSpace
 

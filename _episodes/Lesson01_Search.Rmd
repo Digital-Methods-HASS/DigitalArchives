@@ -18,15 +18,9 @@ knitr::opts_chunk$set(echo = TRUE)
 - We’ll also be exploring the role of descriptive systems in supporting the discovery and use of collections. What can we do with them, particularly in the digital realm?
 
 ### What’s expected of you?
-- To benefit from this unit you need to participate, ask questions, ask for help.
+- To benefit from this unit you need to prepare and participate, which means read and follow these tutorials, ask questions, and ask for help.
 - We’ll work with you to complete a set of activities.
 
-### What’s expected of us?
-- We’ll document all the activities and make them available online 
-- We’ll be available to assist students this week and in a series of follow-up face-to-face meetings
-
-## Assessment
-- Digital Archive review (comparative argumentative essay that builds on the skills developed in this week)
 
 ## Collectors and collections
 ### Introducing Trove
@@ -39,7 +33,7 @@ Why? Trove is one of the most modern and multi-faceted national digital archives
 Beware that in June 2020, Trove went through a major website makeover. The old interface of Trove contained a grid of object zones that you could use to refine results to specific categories of artefacts. 
 ![](../images/trove_search.png)
 
-In the new interface, you need to use the cateogory dropdown next to the Search box or a category band across the top of the page.  
+In the new interface, you need to use the category drop down next to the Search box or a category band across the top of the page.  
 ![](../images/trove_search_new.png)
 
 
@@ -81,12 +75,15 @@ Task 2. Write out answers to these questions.
 3) What is the trend in accidents in the 2000s?
 </font>
 
+
+# OPTIONAL TASKS:
+
 ### Are we all curators now?
 Trove brings together cultural heritage collections, but it does more. It’s a place where individuals can create and contribute their own collections. For example, anyone can add their photos to Trove, simply by sharing them with the Australia in Pictures group on Flickr.
 
 Do you share photos, links, or posts online? Do you create your own collections using tools such as Pinterest or Tumblr? The development of social media and a range of digital collecting tools has made it easier for us to find, organise and share things that are of interest to us.
 
-Along the way, however, the word ‘curator’ has taken a bit of a battering. Read this short article – [‘All curators now’](/url https://www.1843magazine.com/content/ideas/anthony-gardner/all-curators-now) and watch this [video]():
+Along the way, however, the word ‘curator’ has taken a bit of a battering. Read this short article – [‘All curators now’](https://www.1843magazine.com/content/ideas/anthony-gardner/all-curators-now) and watch this [video]():
 As you can see, using Trove you explore collections all around Australia. For more search hints see the Trove help documentation.
 
 

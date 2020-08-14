@@ -1,10 +1,9 @@
 ---
-title: "Transkribus"
-author: "Adela Sobotkova"
-date: "6 June 2020"
+title: "Working with Transkribus"
+author: "Adela Sobotkova, Claus Juhl Knudsen"
+date: "written 6 June 2020, updated `r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
-NEEDS PICTURES and FINAL PROOFREADING, otherwise fine.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -20,17 +19,18 @@ In order to proceed with the transcription of your case files during Wednesday i
 4. unzip and run Transkribus
 5. OPTIONAL: obtain a model-training button (this can take up to a week and is done upon request only)
 
-Please ensure to have completed all steps before Wednesday in week 37. If you need help, please alert course assistants by 10 am Friday in week 26
+Please ensure to have completed all steps before Wednesday in week 37. If you need help, please alert course assistants by 10am Friday, week 36
 
 
-## Software and Prerequisites
+## Prerequisites
 
 
-- [JAVA](https://java.com/de/download/manual.jsp#win): Before downloading Transkribus, you will need to download the newest Java 8 if you don’t already have it. If you do have Java installed, you should still download and update your version, or at least [check it](https://java.com/en/download/help/version_manual.xml).  If you need an update, download the 64-bit offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). If you have difficulty getting the right Java, please sign up for the Help Desk.
+- [JAVA](https://www.oracle.com/java/technologies/javase-jre8-downloads.html): Before downloading Transkribus, check that you have the newest version of Java 8. If you do have Java installed, you should still update your version, or at least [check it using this guide](https://java.com/en/download/help/version_manual.xml).  If you need an update, download the 64-bit offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). 
+- Beware: If have a 32-bit version of Java, a warning message may appear "JAVA VERSION NOT COMPATIBLE WITH TRANSKRIBUS The following issues can influence the performance of Transkribus >>You are using 32-bit version of Java in a 64-bit OS<<” Since this is just a warning, you could theoretically proceed to Login into your Transkribus account and start with this Java version but the software might behave erratically and so we recommend to update upfront. If you have difficulty getting the right Java *after reading the linked guidelines*, please sign up for the Help Desk.
 
 - [TRANSKRIBUS](https://transkribus.eu/Transkribus) is a comprehensive platform for transcription and searching of historical hand-written documents, which facilitates - with large enough transcribed sample - the automated recognition of the documents. Note the download button directly under the page title, flanked 
 
-## Installation
+## Transkribus Installation
 
 1. Go to https://Transkribus.eu and register. To register, you will need to provide your name, e-mail address, and accept the Transkribus user agreement. You can also log in using your Google account. Remember the credentials as you will need them to launch the software later. 
 
@@ -41,19 +41,38 @@ Please ensure to have completed all steps before Wednesday in week 37. If you ne
 
 <!-- If the download fails - please download the latest release from here: [alternative download location](https://transkribus.eu/TranskribusX/releases/) -->
 
-3.  Unzip the file and open the resulting Transkribus directory
+3.  Unzip/Extract the file and open the resulting Transkribus directory (some Macs will extract the files automatically upon a click so may directly see a Transkribus-1.11 directory with different files inside)
 
-4.  Start Transkribus by clicking an executable file :
-- Windows:  use *Transkribus.exe*
-- Mac OS - Apple: *Transkribus.command* - you may see this icon [TO BE ADDED]
+4.  Start Transkribus by clicking an executable file:
+- Windows:  use *Transkribus.exe* , also called Application if you check the Type column, with the following icon
+- Mac OS - Apple: *Transkribus.command* - you may see this icon 
+
+
+![](../images/transkribus-icon.png){#id .class width=20%}
 
 5. Notes for the first launch
 
-- Windows: If you do not have "Administrator" rights, Windows will produce a warning message, such as: "Your Computer is Protected by Windows", etc. Do not press "Confirm", but go to "More Information". There you can agree that Transkribus is not malware and that you want to run it on your computer.
+- Windows: If you do not have "Administrator" rights, Windows will produce a warning message, such as: "Windows Protected Your Computer", etc. Do **not** press "Confirm", but go to "More Information" link. The next screen lets you approve  Transkribus by pressing "Run Anyway".
 
-- Mac: If you run the program the first time, it may not start because it is a non-signed application ("... can't be opened because it is from an unidentified developer" message).  In this case, right-click (or control-click) the application and choose "Open". In the appearing dialog box, click "Open" again! Alternatively, right-click the Track Pad to open the Context Menu and add a security exception for Transkribus.
+![](../images/W10_run.png){#id .class width=50%}
 
-If you encounter other problems and difficulties with installation: Have a look at Transkribus [FAQ page](https://transkribus.eu/wiki/index.php/Questions_and_Answers#Download_and_Installation) or sign up for our Help Desk.
+- Mac: If you run the program the first time, it may not start because it is a non-signed application ("... can't be opened because it is from an unidentified developer" message).  In this case, right-click (or control-click) the application and choose "Open". In the appearing dialog box, click "Open" again (not 'Move to bin'):
+
+![](../images/transkribus-open.png){#id .class width=50%}
+
+Alternatively, right-click the Track Pad to open the Context Menu and add a security exception for Transkribus.
+
+
+6. In the end you should be able to see the main screen of Transkribus and log in (with the credentials you established in Step 1 of this guide) via the button on top left. 
+
+![](../images/transkribus-main.png)
+
+
+If you encounter other problems and difficulties with installation: 
+
+1. Have a look at Transkribus [FAQ page](https://transkribus.eu/wiki/index.php/Questions_and_Answers#Download_and_Installation)
+
+2. Document the problem (describe what you did and provide screenshots of the error messages or other outcome) and sign up for our Help Desk.
 
 # Learning to use Transkribus
 
@@ -93,8 +112,15 @@ Your group will be allocated a folder number to download from the Shared Drive: 
 2. Document any decisions, and consult any problems/questions you have regarding segmentation and transcription in your group. Please use your group folder on the class GoogleDrive to record the group deliberations. 
 3. As you progress, save your work and gather questions you wish to consult with instructors.
 4. Consult your group issues in class and revise your transcriptions in light of the decisions
-5. When finished, please export the transcription as a textfile (.txt). Transkribus should offer to export the file with the original filename. If it does not, please use the original filename when saving. 
-6. Each group member should submit a minimum of one page of segmented and transcribed text to your group GoogleDrive space. Please avoid duplicates.
+5. When finished, please export the transcription as a textfile (.txt):
+
+![](../images/transkribus-export.png)
+
+Click 'OK' to export. You will receive a mail with a download-link, when Transkribus has processed the export-job. Open the link in the mail to download a zip-folder of your exported page. Please make sure that the filename of the txt-file corresponds to the original filename of the jpg-file. 
+6. Each group member should submit a minimum of one page of segmented and transcribed text to your group GoogleDrive space. Coordinate with others or select a reviewer from among the team to avoid duplicates.
+
+Credits:
+This guide has been tested and improved by Antonio Rivero Ostoic.
 
 
 
