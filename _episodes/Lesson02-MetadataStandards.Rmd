@@ -1,7 +1,7 @@
 ---
 title: "Lesson 02 - Metadata & Standards"
-author: "Adela Sobotkova, after Tim Sherratt"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+author: "Adela Sobotkova with Helle Strandgaard Jensen, after Tim Sherratt"
+date: "August 2019, updated `r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
@@ -10,7 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Description and standards
-In this section you will be looking at the policy frameworks and systems of value within which we develop collections. We’re getting into the nitty-gritty of description. In the next tutorial, we’ll see how the management and documentation of collections are supported by a variety of digital tools – including Omeka, which you’ll be using for your collection assignment.
+In this section you will be looking at the policy frameworks and systems of value within which we develop collections. We’re getting into the nitty-gritty of description. 
+*We also have an optional tutorial for those interested in a career in digital archives, in which you can explore a variety of digital tools that support the management and documentation of collections.*
 
 ### Why catalogue?
 The [Small Museums Cataloguing Manual](https://amagavic.org.au/resources/infosheets) describes two main reasons why it is important to catalogue a collection.
@@ -24,29 +25,47 @@ Descriptions enable discovery. As more and more collections become available onl
 
 Collections are also assets. A catalogue or descriptive system allows that asset to be managed efficiently by supporting decisions about where resources should be applied, or how priorities should be set.
 
-Description is a form of intellectual control that allows us to grasp the meaning and signficance of collections. But it’s also a way of unleashing the cultural power of collections, freeing them to support new forms of use and interpretation.
+Description is a form of intellectual control that allows us to grasp the meaning and significance of collections. But it’s also a way of unleashing the cultural power of collections, freeing them to support new forms of use and interpretation.
+
+<font color="blue">
+**Task 1. Terminology**
+
+Discuss in your group if you have ever encountered these terms: `metadata standards`, `unique identifiers`, `customizable attributes/tags`, and `controlled vocabularies`. What do you think they refer to?  Find the team-member who is in Helle's TOM class and has been introduced to Tropy and have them elaborate these concepts in the context of Tropy. 
+</font color>
 
 ## "Describe yourself" exercise
-Stealing the idea from a colleague (thank you, Andrew Cusworth:), we will engage in a short metadata creating exercise. Follow these steps:
+The best way to understand metadata and standards is to start producing them. 
+Stealing the idea from a colleague (thank you, Andrew Cusworth:), we will now engage in a short metadata creating exercise. Follow these steps:
 
 
-**Step 1. Describe yourself in a sentence** 
+**Step 1. Describe yourself in a sentence or two** 
 
 Example: Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash.
 
 
+What a nice if random description. Create one of your own now! Feel free to differ in your defining characteristics. 
+These expressions are understandable to our human eyes and brains, but too wordy for a computer. For a computer to understand who Adela is you might convert it to a table or use tags to mark the important meaningful parts of the sentences.
+
+
 **Step 2. Take that sentence and convert it to a table**
 
+```{r, results='asis', echo =FALSE}
+library(xtable)
+Identifier <- "adela@cas.au.dk"
+Name <- "Adela"
+Contributor <- "Parent 1, Parent 2"
+Date <- as.integer(1979)
+FavoriteBook <- "Snowcrash"
+me <- data.frame(Identifier, Name, Contributor, Date, FavoriteBook)
+print(xtable(me), type = "html")
+```
 
-|Identifier | Title | Contributor | Date     | Favorite Book |
-|-----------|-------|-------------|----------|---------------|
-|adela@cas.au.dk | Adela | Parent 1, Parent 2 | 1979| Snowcrash|
-
+Ok. This table classifies and organizes the information for a computer with a spreadsheet programme. But, what if you are exchanging this data among different computing systems that don't all have the same programmes? You can also tag the meaningful information.
 
 **Step 3. Make this info machine-readable**
 
 
-    <title> Adela</title>
+    <name> Adela</name>
     
     <contributor>Parent 1</contributor>
     
@@ -58,13 +77,18 @@ Example: Adela is a person, her parents produced her in 1979. Her favorite book 
     
     <identifier>adela@cas.au.dk</identifier>
 
+Convert yours too! Paste it as a plain text into the "Enter Markdown" window in https://markdowntohtml.com/ and see the line render in the Preview on the right side. (If some of your content disappears, you may be using tags that markdown already earmarked for other use (e.g. `title`)). 
+Congratulations you have created a self-description using markup language that is widely machine-readable. 
 
+Imagine you and millions of other people now wish to add the description to an Omeka repository online. For that you might need to standardize the descriptive categories among you and your friends, so that all your names appear in a tag called `<name>` rather than `<navn>` or `<title>` or so (computer interprets`<navn>` and `<name>` as totally different things). You need to  ensure that a) you are comparing apples with apples, and b) you are not making extra work for yourself by reconciling lots of different tags for the same thing. 
+
+Finally, if you were truly contributing to an existing repository, you will need to acquaint yourself with the standard that it uses. Here is one of the most common examples:
 
 **Step 4. Convert this to Dublin core standard**
 
     <record>
 
-       <dc:title>Adela</title>
+       <dc:name>Adela</name>
   
        <dc:contributor>Parent 1</dc:contributor>
 
@@ -80,20 +104,21 @@ Example: Adela is a person, her parents produced her in 1979. Her favorite book 
 
 
 
-**Step 5. Create a record for your entire group using Dublin Core**
+**Step 5. Create a record for your entire group using markup or Dublin core standard**
 
-The result will be a sequence of records, one for each member of your group.
+The result will be a sequence of records, one for each member of your group. Test them in https://markdowntohtml.com/ for rendering (remember to use plain text, and add <p> </p> behind individual records so as to have each person on a new line)
 In your group, nominate one person as ‘registrar’. It will be their responsibility to maintain consistency and quality across the descriptions and manage the workflow between team members.
 
 
 - Think about what you might need to do to maintain consistency across your individual descriptions 
 – Will you have a standard set of tags and keywords? 
-- How will you structure the object name/title? 
+- How will you structure the object name? 
 - Which concepts in your individual descriptions are relevant to your grop collection?
 
 <font color="blue">
-**Task 1. Post a machine-readable description of your groupmembers to GoogleDrive**
- Select a few unique or fun or important elements that describe you. You might have to negotiate or workshop the with other group members to achieve consistency.
+**Task 2. Post a machine-readable description of your group members to GoogleDrive**
+
+ Select a few unique or fun or important elements that describe you. Discuss these with other group members to accomplish consistency within team. How easy is it to negotiate these describing elements? How consistent their contents?
 </font color>
 
 
@@ -124,7 +149,7 @@ Another form of standard are authority lists or controlled vocabularies. These m
 
 As I mentioned, most of the time you’ll be using standards without even knowing it. On the Small Museums Cataloguing Manual website you might have noticed that it states the manual ‘accords with Benchmark A2.4.2 of the National Standards for Australian Museums and Galleries’. The standard is being used to give context and authority to the manual.
 
-Sometimes standards are used in the design of tools. The archival management system AtoM (or AccessToMemory) is designed to meet the requirements of the ISAD(G) standard. As we’ll see in a couple of weeks, the core fields in Omeka are based on the Dublin Core standard.
+Sometimes standards are used in the design of tools. The archival management system AtoM (or AccessToMemory) is designed to meet the requirements of the ISAD(G) standard. If you pursue the path of a digital archivist, you will likely encounter the digital tool Omeka. The core fields in Omeka are based on the Dublin Core standard.
 
 Here are a few standards that you might meet:
 
@@ -138,7 +163,7 @@ Here are a few standards that you might meet:
 - [OAI-PMH](https://www.openarchives.org/pmh/) (Open Archives Initiative Protocol for Metadata Harvesting) – for sharing cultural heritage collections in a harvestable, machine-readable form
 
 ## Standards are not standard
-But standards and authorities aren’t neutral, they reflect a particular world view. Some examples of this were discussed in the readings for this week.
+But standards and authorities are not neutral, they reflect a particular worldview. Some examples can be seen here:
 
 - [A brief history of homophobia in Dewey Decimal classification](https://overland.org.au/2015/07/a-brief-history-of-homophobia-in-dewey-decimal-classification/)
 - [Controversy over the use of terms ‘alien’ and ‘illegal immigrant’ in library subject headings](https://www.mediamatters.org/new-york-times/republicans-slammed-trying-force-library-congress-use-anti-immigrant-language?redirect_source=/blog/2016/06/20/republicans-slammed-trying-force-library-congress-use-anti-immigrant-language/211063)
@@ -147,9 +172,10 @@ In both cases we can see that the systems themselves have evolved over time in r
 Standards creating organisations can also seek to involve and represent a range of perspectives. For example, the National Library of New Zealand is developing a set of Maori Subject Headings that reflect a Maori world view.
 
 <font color="blue">
-**Task 2: Post an evaluation of yours and 2 other groups' self-descriptions on GoogleDrive**
+**Task 3: Evaluate your own and two other groups' self-description products**
 
-Look at 2 other groups' member description on GoogleDrive. Write 200 words evaluating other groups' choice of format and descriptive elements vis-a-vis your own. Can you exchange data easily with the other groups? Are all descriptors neutral, easily understandable and non-ambiguous? What view of the world and individual do they reflect?
+Look at two other groups member descriptions on GoogleDrive. Discuss with your group: Are all descriptors/tags neutral, easily understandable and non-ambiguous? What view of the world and individual do they reflect? 
+Render the group descriptions in https://markdowntohtml.com/ and review the consistency of their contents: Can you exchange data easily with these other groups? What would you need to do to have a standardize output? Answer these question in 200 words. (Include observations from Exercise 2 if relevant)
 </font color>
 
 
