@@ -41,26 +41,27 @@ Stealing the idea from a colleague (thank you, Andrew Cusworth:), we will now en
 **Step 1. Describe yourself in a sentence or two** 
 
 Example: Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash.
+Yoda, my name is, 814 years old I am.
 
 
-What a nice if random description. Create one of your own now! Feel free to differ in your defining characteristics. 
-These expressions are understandable to our human eyes and brains, but too wordy for a computer. For a computer to understand who Adela is you might convert it to a table or use tags to mark the important meaningful parts of the sentences.
+What a nice if random description. You will be able to create your own.
+These expressions are understandable to our human eyes and brains, but too unstructured for a computer to understand. For a computer toget the meaning you have to convert it to a structured format. One such structured format is a table that gathers the important meaningful parts of the sentences.
 
 
 **Step 2. Take that sentence and convert it to a table**
 
 ```{r, results='asis', echo =FALSE}
 library(xtable)
-Identifier <- "adela@cas.au.dk"
-Name <- "Adela"
-Contributor <- "Parent 1, Parent 2"
-Date <- as.integer(1979)
-FavoriteBook <- "Snowcrash"
+Identifier <- c("adela@cas.au.dk", "yoda@email.me")
+Name <- c("Adela","Yoda")
+Contributor <- c("Parent 1, Parent 2", "Parent 1, Parent 2")
+Date <- as.integer(c(1979, 1206))
+FavoriteBook <- c("Snowcrash", "NA")
 me <- data.frame(Identifier, Name, Contributor, Date, FavoriteBook)
 print(xtable(me), type = "html")
 ```
 
-Ok. This table classifies and organizes the information for a computer with a spreadsheet programme. But, what if you are exchanging this data among different computing systems that don't all have the same programmes? You can also tag the meaningful information.
+Ok. This table provides a *structured* way for serving information to a computer. The table streamlines, classifies and organizes the important information neatly. But, what if you are exchanging this data among different computing systems that don't all have the same programmes? You can also tag the meaningful information.
 
 **Step 3. Make this info machine-readable**
 
@@ -76,6 +77,20 @@ Ok. This table classifies and organizes the information for a computer with a sp
     <book> Snowcrash</book>
     
     <identifier>adela@cas.au.dk</identifier>
+    
+    <p></p>
+   
+    <name> Yoda</name>
+    
+    <contributor>Parent 1</contributor>
+    
+    <contributor>Parent 2</contributor>
+    
+    <date> 1206</date>
+    
+    <book> NA</book>
+    
+    <identifier>yoda@email.me</identifier>
 
 Convert yours too! Paste it as a plain text into the "Enter Markdown" window in https://markdowntohtml.com/ and see the line render in the Preview on the right side. (If some of your content disappears, you may be using tags that markdown already earmarked for other use (e.g. `title`)). 
 Congratulations you have created a self-description using markup language that is widely machine-readable. 
@@ -101,12 +116,28 @@ Finally, if you were truly contributing to an existing repository, you will need
        <dc:identifier>adela@cas.au.dk</dc:identifier>
 
     </record>
+    <p></p>
+    <record>
+
+       <dc:name>Yoda</name>
+  
+       <dc:contributor>Parent 1</dc:contributor>
+
+       <dc:contributor>Parent 2</dc:contributor>
+
+       <dc:date>1206</dc:date>
+
+       <dc:description<NA</dc:description>
+
+       <dc:identifier>yoda@email.me</dc:identifier>
+
+    </record>
 
 
 
 **Step 5. Create a record for your entire group using markup or Dublin core standard**
 
-The result will be a sequence of records, one for each member of your group. Test them in https://markdowntohtml.com/ for rendering (remember to use plain text, and add <p> </p> behind individual records so as to have each person on a new line)
+The result will be a sequence of records, one for each member of your group. Test them in https://markdowntohtml.com/ for rendering (remember to use plain text, and add `<p> </p>` behind individual records so as to have each person on a new line)
 In your group, nominate one person as ‘registrar’. It will be their responsibility to maintain consistency and quality across the descriptions and manage the workflow between team members.
 
 

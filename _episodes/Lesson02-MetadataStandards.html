@@ -364,7 +364,7 @@ summary {
 
 <h1 class="title toc-ignore">Lesson 02 - Metadata &amp; Standards</h1>
 <h4 class="author">Adela Sobotkova with Helle Strandgaard Jensen, after Tim Sherratt</h4>
-<h4 class="date">August 2019, updated 19 August, 2020</h4>
+<h4 class="date">August 2019, updated 25 August, 2020</h4>
 
 </div>
 
@@ -391,11 +391,11 @@ summary {
 <h2>“Describe yourself” exercise</h2>
 <p>The best way to understand metadata and standards is to start producing them. Stealing the idea from a colleague (thank you, Andrew Cusworth:), we will now engage in a short metadata creating exercise. Follow these steps:</p>
 <p><strong>Step 1. Describe yourself in a sentence or two</strong></p>
-<p>Example: Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash.</p>
-<p>What a nice if random description. Create one of your own now! Feel free to differ in your defining characteristics. These expressions are understandable to our human eyes and brains, but too wordy for a computer. For a computer to understand who Adela is you might convert it to a table or use tags to mark the important meaningful parts of the sentences.</p>
+<p>Example: Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash. Yoda, my name is, 814 years old I am.</p>
+<p>What a nice if random description. You will be able to create your own. These expressions are understandable to our human eyes and brains, but too unstructured for a computer to understand. For a computer toget the meaning you have to convert it to a structured format. One such structured format is a table that gathers the important meaningful parts of the sentences.</p>
 <p><strong>Step 2. Take that sentence and convert it to a table</strong></p>
 <!-- html table generated in R 4.0.2 by xtable 1.8-4 package -->
-<!-- Wed Aug 19 23:21:25 2020 -->
+<!-- Tue Aug 25 11:20:42 2020 -->
 <table border="1">
 <tr>
 <th>
@@ -436,8 +436,28 @@ Parent 1, Parent 2
 Snowcrash
 </td>
 </tr>
+<tr>
+<td align="right">
+2
+</td>
+<td>
+<a href="mailto:yoda@email.me" class="email">yoda@email.me</a>
+</td>
+<td>
+Yoda
+</td>
+<td>
+Parent 1, Parent 2
+</td>
+<td align="right">
+1206
+</td>
+<td>
+NA
+</td>
+</tr>
 </table>
-<p>Ok. This table classifies and organizes the information for a computer with a spreadsheet programme. But, what if you are exchanging this data among different computing systems that don’t all have the same programmes? You can also tag the meaningful information.</p>
+<p>Ok. This table provides a <em>structured</em> way for serving information to a computer. The table streamlines, classifies and organizes the important information neatly. But, what if you are exchanging this data among different computing systems that don’t all have the same programmes? You can also tag the meaningful information.</p>
 <p><strong>Step 3. Make this info machine-readable</strong></p>
 <pre><code>&lt;name&gt; Adela&lt;/name&gt;
 
@@ -449,7 +469,21 @@ Snowcrash
 
 &lt;book&gt; Snowcrash&lt;/book&gt;
 
-&lt;identifier&gt;adela@cas.au.dk&lt;/identifier&gt;</code></pre>
+&lt;identifier&gt;adela@cas.au.dk&lt;/identifier&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;name&gt; Yoda&lt;/name&gt;
+
+&lt;contributor&gt;Parent 1&lt;/contributor&gt;
+
+&lt;contributor&gt;Parent 2&lt;/contributor&gt;
+
+&lt;date&gt; 1206&lt;/date&gt;
+
+&lt;book&gt; NA&lt;/book&gt;
+
+&lt;identifier&gt;yoda@email.me&lt;/identifier&gt;</code></pre>
 <p>Convert yours too! Paste it as a plain text into the “Enter Markdown” window in <a href="https://markdowntohtml.com/" class="uri">https://markdowntohtml.com/</a> and see the line render in the Preview on the right side. (If some of your content disappears, you may be using tags that markdown already earmarked for other use (e.g. <code>title</code>)). Congratulations you have created a self-description using markup language that is widely machine-readable.</p>
 <p>Imagine you and millions of other people now wish to add the description to an Omeka repository online. For that you might need to standardize the descriptive categories among you and your friends, so that all your names appear in a tag called <code>&lt;name&gt;</code> rather than <code>&lt;navn&gt;</code> or <code>&lt;title&gt;</code> or so (computer interprets<code>&lt;navn&gt;</code> and <code>&lt;name&gt;</code> as totally different things). You need to ensure that a) you are comparing apples with apples, and b) you are not making extra work for yourself by reconciling lots of different tags for the same thing.</p>
 <p>Finally, if you were truly contributing to an existing repository, you will need to acquaint yourself with the standard that it uses. Here is one of the most common examples:</p>
@@ -468,12 +502,25 @@ Snowcrash
 
    &lt;dc:identifier&gt;adela@cas.au.dk&lt;/dc:identifier&gt;
 
+&lt;/record&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;record&gt;
+
+   &lt;dc:name&gt;Yoda&lt;/name&gt;
+
+   &lt;dc:contributor&gt;Parent 1&lt;/dc:contributor&gt;
+
+   &lt;dc:contributor&gt;Parent 2&lt;/dc:contributor&gt;
+
+   &lt;dc:date&gt;1206&lt;/dc:date&gt;
+
+   &lt;dc:description&lt;NA&lt;/dc:description&gt;
+
+   &lt;dc:identifier&gt;yoda@email.me&lt;/dc:identifier&gt;
+
 &lt;/record&gt;</code></pre>
 <p><strong>Step 5. Create a record for your entire group using markup or Dublin core standard</strong></p>
-The result will be a sequence of records, one for each member of your group. Test them in <a href="https://markdowntohtml.com/" class="uri">https://markdowntohtml.com/</a> for rendering (remember to use plain text, and add
-<p>
-</p>
-<p>behind individual records so as to have each person on a new line) In your group, nominate one person as ‘registrar’. It will be their responsibility to maintain consistency and quality across the descriptions and manage the workflow between team members.</p>
+<p>The result will be a sequence of records, one for each member of your group. Test them in <a href="https://markdowntohtml.com/" class="uri">https://markdowntohtml.com/</a> for rendering (remember to use plain text, and add <code>&lt;p&gt; &lt;/p&gt;</code> behind individual records so as to have each person on a new line) In your group, nominate one person as ‘registrar’. It will be their responsibility to maintain consistency and quality across the descriptions and manage the workflow between team members.</p>
 <ul>
 <li>Think about what you might need to do to maintain consistency across your individual descriptions – Will you have a standard set of tags and keywords?</li>
 <li>How will you structure the object name?</li>
