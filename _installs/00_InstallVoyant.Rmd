@@ -16,17 +16,17 @@ Read here about the software and go into the Installation section to install and
 - [JAVA](https://www.java.com/en/): Before downloading Voyant, you will need to download Java if you don’t already have it. If you do have Java installed, you should still download and update your version.  For an update, download the 64-bit offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). If you have difficulty getting the right Java, please sign up for the Help Desk.
 - Beware: If have a 32-bit version of Java, you need to uninstall Java from your system (via uninstall/remove programmes) and install the 64-bit version linked above. If you have difficulty getting the right Java *after reading these and the linked guidelines*, please sign up for the Help Desk.
 
-- [VOYANT](http://docs.voyant-tools.org/resources/run-your-own/voyant-server/#download): This is a rather large download [~450Mb], requiring solid internet connection. 
+- [VOYANT](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45): This is a rather large download [~450Mb], requiring solid internet connection. 
 
-- DATA (on Shared drive:ARTS_DigitalArchives2020): This dataset has been digitized and curated for this class by the Aarhus Stadtsarkivet. It contains the entirety of the minutes filed during 1939-1945. Please, get on  eduroam or, if working from home, on [VPN](https://medarbejdere.au.dk/administration/it/vejledninger/netvaerk/vpn/) and [shared drive ](https://medarbejdere.au.dk/administration/it/vejledninger/dataopbevaring/tilgaa-delt-folder/) to download all of the datasets on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the AU code of conduct and the privacy law in Denmark. 
+- DATA (on Shared drive:ARTS_DigitalArchives2020): This dataset has been digitized and curated for this class by the Aarhus Stadtsarkivet. It contains the entirety of the minutes filed during 1939-1945. Please, get on  eduroam or, if working from home, on [VPN](https://studerende.au.dk/en/it-support/vpn/) and [shared drive ](https://studerende.au.dk/fileadmin/studerende.au.dk/ST/diplomingenior/Filer/Studievejledning/itguide_til_nye_studerende.pdf) to download all of the datasets on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the AU code of conduct and the privacy law in Denmark. 
 
 ## Installation
 
-Although Voyant Tools is a web based set of tools, we’ll be downloading it and running it locally. Downloading Voyant to your own computer brings a number of advantages but the main impetus for doing so today is so that we won’t encounter loading issues resulting from overwhelming the server. However using Voyant locally also means that your texts won’t be cached and stored on the Voyant Server, it allows you to restart the server if you encounter problems, and it allows you to work offline, without an internet connection.
+Although Voyant Tools is a web based set of tools, we’ll be downloading it and running it locally. Downloading Voyant to your own computer brings a number of advantages but the main impetus for doing so today is so that we won’t encounter loading issues resulting from overwhelming the server. However using Voyant locally also means that your texts won’t be cached and stored on the Voyant Server, it allows you to restart the server if you encouter problems, and it allows you to work offline, without an internet connection.
 
 1. [Install or Update Java](https://www.java.com/en/)
 
-2. Download Voyant Server from [Github](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45) (If the download doesn’t work for you, sign up for assistant session, they will have the file on a flash drive)
+2. Download Voyant Server (from [Github](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45) by navigating down the page and clicking the *VoyantServer2_4-M45.zip* file (If the download doesn’t work for you, sign up for assistant session, they will have the file on a flash drive)
 
 3. Unzip the Voyant Server Package (you may need an unzipping software/extractor. [7zip](https://www.7-zip.org/) is a free open-source tool for Windows users). The resulting folder of files should look like this on a Mac and Windows:
 
@@ -134,6 +134,6 @@ Some of the most popular forms of text analysis include:
 ---
 Credits:
 This guide has inspired by [Amanda Regan](https://www.amanda-regan.com/Workshop-UCR/)
-This guide has been tested and improved by Antonio Rivero Ostoic.
+This guide has been tested and improved by Antonio Rivero Ostoic and Josephine Møller Jensen.
 
 
