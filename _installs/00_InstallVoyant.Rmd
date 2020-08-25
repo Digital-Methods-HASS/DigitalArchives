@@ -26,9 +26,9 @@ Although Voyant Tools is a web based set of tools, we’ll be downloading it and
 
 1. [Install or Update Java](https://www.java.com/en/)
 
-2. Download Voyant Server (from [Github](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45) by navigating down the page and clicking the *VoyantServer2_4-M45.zip* file (If the download doesn’t work for you, sign up for assistant session, they will have the file on a flash drive)
+2. Download Voyant Server from [Github](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45) by navigating to the bottom of the page and clicking the *VoyantServer2_4-M45.zip* file (If you cannot download, sign up for assistant session, they will have the file on a flash drive)
 
-3. Unzip the Voyant Server Package (you may need an unzipping software/extractor. [7zip](https://www.7-zip.org/) is a free open-source tool for Windows users). The resulting folder of files should look like this on a Mac and Windows:
+3. Unzip the Voyant Server Package (you may need an unzipping software/extractor. [7zip](https://www.7-zip.org/) is a free open-source tool for Windows users). This may take some time. The resulting folder of files should look like this on a Mac and Windows:
 
 
 ![](../images/mac-voyant-server-zip-contents.png)
@@ -81,7 +81,7 @@ The following sections serve as a guide to some of the computational analyses yo
 
 # Your task
 
-Your task today is to install Voyant and download the data. We will introduce the research topics and provide further information on how to work with the data in class in week 36. Feel free to read the sections below if you are interested in knowing more about text analysis and different methods it entails.
+Your task today is to install Voyant and download the data before Thursday in Week 36. We will introduce the research topics and provide further information on how to work with the data in class in week 36. Feel free to read the sections below if you are interested in knowing more about text analysis and different methods it entails.
 
 # What is Text Analysis?
 
