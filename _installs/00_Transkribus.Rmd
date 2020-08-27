@@ -43,18 +43,30 @@ Please ensure to have completed all steps before Wednesday in week 37. If you ne
 
 3.  Unzip/Extract the file and open the resulting Transkribus directory (some Macs will extract the files automatically upon a click so may directly see a Transkribus-1.11 directory with different files inside)
 
-4.  Start Transkribus by clicking an executable file:
+4.  Start Transkribus:
 - Windows:  use *Transkribus.exe* , also called Application if you check the Type column, with the following icon
-- Mac OS - Apple: *Transkribus.command* - you may see this icon 
 
+If you do not have "Administrator" rights, Windows will produce a warning message, such as: "Windows Protected Your Computer", etc. Do **not** press "Confirm", but go to "More Information" link. The next screen lets you approve  Transkribus by pressing "Run Anyway".
+
+![](../images/W10_run.png){#id .class width=50%}
+
+
+- Mac OS - Apple:
+    * Right-click on the downloaded archive (with the transkribus icon).
+    * Choose "Show Package Contents"
+    * Go to *Contents* -> *MacOS*
+    * Click on the executable file called Transkribus and choose "Open"
+
+If you run the program the first time, it may not start because it is a non-signed application ("... can't be opened because it is from an unidentified developer" message).  In this case, right-click (or control-click) the application and choose "Open". In the appearing dialog box, click "Open" again (not 'Move to bin'):
+
+![](../images/transkribus-open.png){#id .class width=50%}
+
+Alternatively, right-click the Track Pad to open the Context Menu and add a security exception for Transkribus.
+    * (    
 
 ![](../images/transkribus-icon.png){#id .class width=20%}
 
 5. Notes for the first launch
-
-- Windows: If you do not have "Administrator" rights, Windows will produce a warning message, such as: "Windows Protected Your Computer", etc. Do **not** press "Confirm", but go to "More Information" link. The next screen lets you approve  Transkribus by pressing "Run Anyway".
-
-![](../images/W10_run.png){#id .class width=50%}
 
 - Mac: If you run the program the first time, it may not start because it is a non-signed application ("... can't be opened because it is from an unidentified developer" message).  In this case, right-click (or control-click) the application and choose "Open". In the appearing dialog box, click "Open" again (not 'Move to bin'):
 
