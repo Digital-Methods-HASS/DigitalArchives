@@ -30,7 +30,9 @@ Description is a form of intellectual control that allows us to grasp the meanin
 <font color="blue">
 **Task 1. Terminology**
 
-Discuss in your group whether you have ever encountered these terms: `metadata standards`, `unique identifiers`, `customizable attributes/tags`, and `controlled vocabularies`. (You should have encountered some in the previous tutorial.) What do you think they refer to?  Find the team-member who is in Helle's TOM class and has been introduced to Tropy and have them elaborate these concepts in the context of Tropy. 
+Discuss in your group whether you have ever encountered these terms: `metadata standards`, `unique identifiers`, `customizable attributes/tags`, and `controlled vocabularies`(some featured in the previous tutorial). What do you think they refer to?  
+
+Find the team-members who are in Helle's TOM class and pick their brains. They have been introduced to these already. 
 </font color>
 
 ## "Describe yourself" exercise
@@ -40,13 +42,15 @@ Stealing the idea from a colleague (thank you, Andrew Cusworth:), we will now en
 
 **Step 1. Describe yourself in a sentence or two** 
 
-Example: Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash.
+Example: 
+
+Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash.
 
 Yoda, my name is, 814 years old I am. Favorite book undeclared.
 
 
 What a nice if random description. You will be able to create your own.
-These expressions are understandable to our human eyes and brains, but too unstructured for a computer to understand. For a computer toget the meaning you have to convert it to a structured format. One such structured format is a table that gathers the important meaningful parts of the sentences.
+These expressions are understandable to our human eyes and brains, but too unstructured for a computer to understand. For a computer to get the meaning you have to convert it to a structured format. One such structured format is a table that gathers the important meaningful parts of the sentences.
 
 
 **Step 2. Take that sentence and convert it to a table**
@@ -62,7 +66,7 @@ me <- data.frame(Identifier, Name, Contributor, Date, FavoriteBook)
 print(xtable(me), type = "html")
 ```
 
-Ok. This table provides a *structured* way for serving information to a computer. The table streamlines, classifies and organizes the important information neatly. But, what if you are exchanging this data among different computing systems that don't all have the same programmes? You can also tag the meaningful information.
+Ok. This table provides a *structured* way for serving information to a computer. The table extracts, classifies, and organizes the important information. But, what if you are exchanging this data among different computing systems that don't all have the same programmes? You can also tag the meaningful information.
 
 **Step 3. Make this info machine-readable**
 
@@ -93,7 +97,7 @@ Ok. This table provides a *structured* way for serving information to a computer
     
     <identifier>yoda@email.me</identifier>
 
-Convert yours too! Paste it as a plain text into the "Enter Markdown" window in https://markdowntohtml.com/ and see the line render in the Preview on the right side. (If some of your content disappears, you may be using tags that markdown already earmarked for other use (e.g. `title`)). 
+Convert yours too! Then take the converted version and paste it as a plain text into the "Enter Markdown" window in https://markdowntohtml.com/ and see the lines render in the Preview on the right side. (If some of your content disappears, you may be using tags that markdown already earmarked for other use (e.g. `title`)). Also, if you wish to differentiate records better, then add `<p> </p>` to put each individual record on a new line.
 Congratulations you have created a self-description using markup language that is widely machine-readable. 
 
 Imagine you and millions of other people now wish to add the description to an Omeka repository online. For that you might need to standardize the descriptive categories among you and your friends, so that all your names appear in a tag called `<name>` rather than `<navn>` or `<title>` or so (computer interprets`<navn>` and `<name>` as totally different things). You need to  ensure that a) you are comparing apples with apples, and b) you are not making extra work for yourself by reconciling lots of different tags for the same thing. 
@@ -135,6 +139,7 @@ Finally, if you were truly contributing to an existing repository, you will need
     </record>
 
 
+Again, your colleagues taking Helle's class can tell you a bit more about the [Dublin core](http://dublincore.org/) standard, or you can google it.
 
 **Step 5. Create a record for your entire group using markup or Dublin core standard**
 

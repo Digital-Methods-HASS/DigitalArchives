@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="Adela Sobotkova with Helle Strandgaard Jensen, after Tim Sherratt" />
@@ -269,7 +269,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -331,6 +330,7 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -342,18 +342,6 @@ summary {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -376,7 +364,7 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">Lesson 02 - Metadata &amp; Standards</h1>
 <h4 class="author">Adela Sobotkova with Helle Strandgaard Jensen, after Tim Sherratt</h4>
-<h4 class="date">August 2019, updated 09 september, 2020</h4>
+<h4 class="date">developed August 2019, updated 15 september, 2020</h4>
 
 </div>
 
@@ -396,19 +384,21 @@ $(document).ready(function () {
 <p>Collections are also assets. A catalogue or descriptive system allows that asset to be managed efficiently by supporting decisions about where resources should be applied, or how priorities should be set.</p>
 <p>Description is a form of intellectual control that allows us to grasp the meaning and significance of collections. But it’s also a way of unleashing the cultural power of collections, freeing them to support new forms of use and interpretation.</p>
 <p><font color="blue"> <strong>Task 1. Terminology</strong></p>
-<p>Discuss in your group whether you have ever encountered these terms: <code>metadata standards</code>, <code>unique identifiers</code>, <code>customizable attributes/tags</code>, and <code>controlled vocabularies</code>. (You should have encountered some in the previous tutorial.) What do you think they refer to? Find the team-member who is in Helle’s TOM class and has been introduced to Tropy and have them elaborate these concepts in the context of Tropy. </font></p>
+<p>Discuss in your group whether you have ever encountered these terms: <code>metadata standards</code>, <code>unique identifiers</code>, <code>customizable attributes/tags</code>, and <code>controlled vocabularies</code>(some featured in the previous tutorial). What do you think they refer to?</p>
+<p>Find the team-members who are in Helle’s TOM class and pick their brains. They have been introduced to these already. </font></p>
 </div>
 </div>
 <div id="describe-yourself-exercise" class="section level2">
 <h2>“Describe yourself” exercise</h2>
 <p>The best way to understand metadata and standards is to start producing them. Stealing the idea from a colleague (thank you, Andrew Cusworth:), we will now engage in a short metadata creating exercise. Follow these steps:</p>
 <p><strong>Step 1. Describe yourself in a sentence or two</strong></p>
-<p>Example: Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash.</p>
+<p>Example:</p>
+<p>Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash.</p>
 <p>Yoda, my name is, 814 years old I am. Favorite book undeclared.</p>
-<p>What a nice if random description. You will be able to create your own. These expressions are understandable to our human eyes and brains, but too unstructured for a computer to understand. For a computer toget the meaning you have to convert it to a structured format. One such structured format is a table that gathers the important meaningful parts of the sentences.</p>
+<p>What a nice if random description. You will be able to create your own. These expressions are understandable to our human eyes and brains, but too unstructured for a computer to understand. For a computer to get the meaning you have to convert it to a structured format. One such structured format is a table that gathers the important meaningful parts of the sentences.</p>
 <p><strong>Step 2. Take that sentence and convert it to a table</strong></p>
-<!-- html table generated in R 3.6.1 by xtable 1.8-4 package -->
-<!-- Wed Sep 09 15:17:51 2020 -->
+<!-- html table generated in R 4.0.2 by xtable 1.8-4 package -->
+<!-- Tue Sep 15 11:42:50 2020 -->
 <table border="1">
 <tr>
 <th>
@@ -470,7 +460,7 @@ NA
 </td>
 </tr>
 </table>
-<p>Ok. This table provides a <em>structured</em> way for serving information to a computer. The table streamlines, classifies and organizes the important information neatly. But, what if you are exchanging this data among different computing systems that don’t all have the same programmes? You can also tag the meaningful information.</p>
+<p>Ok. This table provides a <em>structured</em> way for serving information to a computer. The table extracts, classifies, and organizes the important information. But, what if you are exchanging this data among different computing systems that don’t all have the same programmes? You can also tag the meaningful information.</p>
 <p><strong>Step 3. Make this info machine-readable</strong></p>
 <pre><code>&lt;name&gt; Adela&lt;/name&gt;
 
@@ -497,7 +487,7 @@ NA
 &lt;book&gt; NA&lt;/book&gt;
 
 &lt;identifier&gt;yoda@email.me&lt;/identifier&gt;</code></pre>
-<p>Convert yours too! Paste it as a plain text into the “Enter Markdown” window in <a href="https://markdowntohtml.com/" class="uri">https://markdowntohtml.com/</a> and see the line render in the Preview on the right side. (If some of your content disappears, you may be using tags that markdown already earmarked for other use (e.g. <code>title</code>)). Congratulations you have created a self-description using markup language that is widely machine-readable.</p>
+<p>Convert yours too! Then take the converted version and paste it as a plain text into the “Enter Markdown” window in <a href="https://markdowntohtml.com/" class="uri">https://markdowntohtml.com/</a> and see the lines render in the Preview on the right side. (If some of your content disappears, you may be using tags that markdown already earmarked for other use (e.g. <code>title</code>)). Also, if you wish to differentiate records better, then add <code>&lt;p&gt; &lt;/p&gt;</code> to put each individual record on a new line. Congratulations you have created a self-description using markup language that is widely machine-readable.</p>
 <p>Imagine you and millions of other people now wish to add the description to an Omeka repository online. For that you might need to standardize the descriptive categories among you and your friends, so that all your names appear in a tag called <code>&lt;name&gt;</code> rather than <code>&lt;navn&gt;</code> or <code>&lt;title&gt;</code> or so (computer interprets<code>&lt;navn&gt;</code> and <code>&lt;name&gt;</code> as totally different things). You need to ensure that a) you are comparing apples with apples, and b) you are not making extra work for yourself by reconciling lots of different tags for the same thing.</p>
 <p>Finally, if you were truly contributing to an existing repository, you will need to acquaint yourself with the standard that it uses. Here is one of the most common examples:</p>
 <p><strong>Step 4. Convert this to Dublin core standard</strong></p>
@@ -532,6 +522,7 @@ NA
    &lt;dc:identifier&gt;yoda@email.me&lt;/dc:identifier&gt;
 
 &lt;/record&gt;</code></pre>
+<p>Again, your colleagues taking Helle’s class can tell you a bit more about the <a href="http://dublincore.org/">Dublin core</a> standard, or you can google it.</p>
 <p><strong>Step 5. Create a record for your entire group using markup or Dublin core standard</strong></p>
 <p>The result will be a sequence of records, one for each member of your group. Test them in <a href="https://markdowntohtml.com/" class="uri">https://markdowntohtml.com/</a> for rendering (remember to use plain text, and add <code>&lt;p&gt; &lt;/p&gt;</code> behind individual records so as to have each person on a new line) In your group, nominate one person as ‘registrar’. It will be their responsibility to maintain consistency and quality across the descriptions and manage the workflow between team members.</p>
 <ul>
@@ -602,6 +593,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
