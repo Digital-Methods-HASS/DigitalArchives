@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="Adela Sobotkova with Helle Strandgaard Jensen, after Tim Sherratt" />
@@ -269,6 +269,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -330,7 +331,6 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
-  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -342,6 +342,18 @@ summary {
   display: none;
 }
 </style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
 
 <!-- code folding -->
 
@@ -364,7 +376,7 @@ summary {
 
 <h1 class="title toc-ignore">Lesson 02 - Metadata &amp; Standards</h1>
 <h4 class="author">Adela Sobotkova with Helle Strandgaard Jensen, after Tim Sherratt</h4>
-<h4 class="date">August 2019, updated 25 August, 2020</h4>
+<h4 class="date">August 2019, updated 09 september, 2020</h4>
 
 </div>
 
@@ -384,18 +396,19 @@ summary {
 <p>Collections are also assets. A catalogue or descriptive system allows that asset to be managed efficiently by supporting decisions about where resources should be applied, or how priorities should be set.</p>
 <p>Description is a form of intellectual control that allows us to grasp the meaning and significance of collections. But it’s also a way of unleashing the cultural power of collections, freeing them to support new forms of use and interpretation.</p>
 <p><font color="blue"> <strong>Task 1. Terminology</strong></p>
-<p>Discuss in your group if you have ever encountered these terms: <code>metadata standards</code>, <code>unique identifiers</code>, <code>customizable attributes/tags</code>, and <code>controlled vocabularies</code>. What do you think they refer to? Find the team-member who is in Helle’s TOM class and has been introduced to Tropy and have them elaborate these concepts in the context of Tropy. </font></p>
+<p>Discuss in your group whether you have ever encountered these terms: <code>metadata standards</code>, <code>unique identifiers</code>, <code>customizable attributes/tags</code>, and <code>controlled vocabularies</code>. (You should have encountered some in the previous tutorial.) What do you think they refer to? Find the team-member who is in Helle’s TOM class and has been introduced to Tropy and have them elaborate these concepts in the context of Tropy. </font></p>
 </div>
 </div>
 <div id="describe-yourself-exercise" class="section level2">
 <h2>“Describe yourself” exercise</h2>
 <p>The best way to understand metadata and standards is to start producing them. Stealing the idea from a colleague (thank you, Andrew Cusworth:), we will now engage in a short metadata creating exercise. Follow these steps:</p>
 <p><strong>Step 1. Describe yourself in a sentence or two</strong></p>
-<p>Example: Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash. Yoda, my name is, 814 years old I am.</p>
+<p>Example: Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash.</p>
+<p>Yoda, my name is, 814 years old I am. Favorite book undeclared.</p>
 <p>What a nice if random description. You will be able to create your own. These expressions are understandable to our human eyes and brains, but too unstructured for a computer to understand. For a computer toget the meaning you have to convert it to a structured format. One such structured format is a table that gathers the important meaningful parts of the sentences.</p>
 <p><strong>Step 2. Take that sentence and convert it to a table</strong></p>
-<!-- html table generated in R 4.0.2 by xtable 1.8-4 package -->
-<!-- Tue Aug 25 11:20:42 2020 -->
+<!-- html table generated in R 3.6.1 by xtable 1.8-4 package -->
+<!-- Wed Sep 09 15:17:51 2020 -->
 <table border="1">
 <tr>
 <th>
@@ -569,7 +582,7 @@ NA
 <p>Standards creating organisations can also seek to involve and represent a range of perspectives. For example, the National Library of New Zealand is developing a set of Maori Subject Headings that reflect a Maori world view.</p>
 <p><font color="blue"> <strong>Task 3: Evaluate your own and two other groups’ self-description products</strong></p>
 <p>Look at two other groups member descriptions on GoogleDrive. Discuss with your group: Are all descriptors/tags neutral, easily understandable and non-ambiguous? What view of the world and individual do they reflect? Render the group descriptions in <a href="https://markdowntohtml.com/" class="uri">https://markdowntohtml.com/</a> and review the consistency of their contents: Can you exchange data easily with these other groups? What would you need to do to have a standardize output? Answer these question in 200 words. (Include observations from Exercise 2 if relevant) </font></p>
-<p><font color="darkblue"> Original content on this site is licensed under a Creative Commons Attribution 4.0 International License. </font></p>
+<p><font color="purple"> This tutorial was inspired by Tim Sherratt and Andrew Cushworth. Original content on this site is licensed under a Creative Commons Attribution 4.0 International License. </font></p>
 </div>
 
 
@@ -589,23 +602,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

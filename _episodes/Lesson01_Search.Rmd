@@ -12,14 +12,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Introduction
 
 
-### What is this unit about?  
-- This unit is about digital collections of cultural heritage and the techniques we use to create, describe, manage, use, and explore their content.
+### What is this exercise about?  
+- This exercise is about digital collections of cultural heritage and the techniques we use to create, describe, manage, use, and explore their content.
 - The focus is on the intellectual, rather than physical, control. So not how we store things, but how we develop systems and standards to describe them.
 - We’ll also be exploring the role of descriptive systems in supporting the discovery and use of collections. What can we do with them, particularly in the digital realm?
 
 ### What’s expected of you?
-- To benefit from this unit you need to prepare and participate, which means read and follow these tutorials, ask questions, and ask for help.
-- We’ll work with you to complete a set of activities.
+- Read and follow this tutorial, ask questions, and ask for help.
+- Complete the steps below and the set of activities and post the answers in your GoogleFolder or in Zoom/Mentimeter polls.
 
 
 ## Collectors and collections
@@ -47,7 +47,7 @@ Go to www.trove.nla.gov.au
 - Click on the title of an object to view more details. Now click on the ‘view at…’ link below the thumbnail – Trove will send you to the website of the organisation that holds the object (if it is free access).
 
 <font color="blue">
-Task 1. Write out brief answers to these questions (you'll be asked to fill them in a poll later) and be ready to discuss:
+Task 1. Write out brief answers to these questions (you can use a document in your GDrive) and be ready to discuss:
 
 1) how many resources are there in Trove?
 2) what is a 'facet' and how does it differ from a Search box?
@@ -76,36 +76,45 @@ Task 2. Write out answers to these questions.
 </font>
 
 
-# OPTIONAL TASKS:
+
 
 ### Are we all curators now?
 Trove brings together cultural heritage collections, but it does more. It’s a place where individuals can create and contribute their own collections. For example, anyone can add their photos to Trove, simply by sharing them with the Australia in Pictures group on Flickr.
 
 Do you share photos, links, or posts online? Do you create your own collections using tools such as Pinterest or Tumblr? The development of social media and a range of digital collecting tools has made it easier for us to find, organise and share things that are of interest to us.
 
-Along the way, however, the word ‘curator’ has taken a bit of a battering. Read this short article – [‘All curators now’](https://www.1843magazine.com/content/ideas/anthony-gardner/all-curators-now) and watch this [video]():
+Along the way, however, the word ‘curator’ has taken a bit of a battering. Watch this [video](https://vimeo.com/87716505) and if you can access it, read this short article – [‘All curators now’](https://www.1843magazine.com/content/ideas/anthony-gardner/all-curators-now):
 As you can see, using Trove you explore collections all around Australia. For more search hints see the Trove help documentation.
 
+<font color="blue">
+Task 3: Consult your group and produce an answer in GDrive
 
 Is there a difference between the sort of collecting that an individual undertakes and what happens in a museum or archive? What is that difference?
+</font color>
+
+
 
 This is a question we’ll return to several times throughout this class. We’ll examine questions like authority and control – who chooses what is kept and why? We’ll also look at how collection items can be embedded within systems that document their context and relationships. What gives an object its meaning, significance, and authenticity?
 
-Using Trove, people can assemble their own collections, reflecting their interests, and serving the needs of their own communities. Let’s look at some examples:
+Using Trove, people can assemble their own collections, reflecting their interests, and serving the needs of their own communities.
+Let’s look at some examples:
 
-Go to Trove and click on ‘tags’ near the top of the page. Here you’ll find a list of the most popular tags added by users to items in Trove.
-Look for ‘LRRSA’. What do you think it means? 
-A group of enthusiasts have agreed to use a particular tag – something like a controlled vocabulary – to bring together resources that are of interest to them.
-Lists are another way that Trove users can create their own collections. They’re simply groups of resources on a particular topic. Here’s a short video describing how to use them:
+- Go to Trove and click on ‘tags’ near the top of the page. Here you’ll find a list of the most popular tags added by users to items in Trove.
+- Look for ‘LRRSA’. What do you think it means? 
 
-## Making your own Trove collection (optional)
+- A group of enthusiasts have agreed to use a particular tag – something like a [controlled vocabulary](http://www.getty.edu/research/publications/electronic_publications/intro_controlled_vocab/what.pdf) – to bring together resources that are of interest to them.
+
+
+[Lists](https://trove.nla.gov.au/help/become-voluntrove/lists) are another way that Trove users can create their own collections. They’re simply groups of resources on a particular topic. Here’s a short [video](https://youtu.be/lcHL1EDtNlE) describing how to use them:
+
+## Making your own Trove collection (Optional for those interested in learning more :)
 Following the instructions in the video and the information in the Trove Help Centre, try creating your own list.
 
 Before you start adding items you’ll need to set up your own Trove account:
 
-Click on the ‘Sign up’ button, and follow the instructions. You’ll receive an email to verify your registration.
-Once your account is verified, you might need to click on the ‘Login’ button and enter your details.
-You’re welcome to create a list on any topic that interests you. If inspiration fails, how about following up on our search example and documenting the amazing history of butter in Australia?
+- Click on the ‘Sign up’ button, and follow the instructions. You’ll receive an email to verify your registration.
+- Once your account is verified, you might need to click on the ‘Login’ button and enter your details.
+- You’re welcome to create a list on any topic that interests you. If inspiration fails, how about choosing a random example and documenting the amazing history of butter in Australia?
 
 Here are the requirements for your list:
 
@@ -114,19 +123,19 @@ Here are the requirements for your list:
 - Use items with thumbnail images if possible.
 - Once you’ve done, go to your list (you can always find your own lists by looking under your User Profile). Click on the ‘List options’ link on the top right of your list and see if you can work out how to select a representative image for your list.
 
-Once you’re done, share a link to your list on Blackboard/Slack.
+Once you’re done, share a link to your list on GDrive.
 
-## From collection to exhibition (optional)
+## From collection to exhibition (Also optional)
 
-Trove lists are handy, but they don’t look very pretty. There is a way of taking the content of a list (or a series of lists) and turning them into a simple online exhibition.
+Trove lists are handy, but they don’t look very pretty. There is a way of taking the content of a list (or  a series of lists) and turning them into a simple online exhibition.
 
 Here’s an exhibition about [The Chinese in NSW](http://baibi.github.io/chinese-in-nsw-in-pictures/#/) by Kate Bagnall that pulls together content from 10 different lists. Each list provides a different exhibition theme or topic.
 
-It’s easy to turn your list into an exhibition, just follow [these instructions](https://github.com/wragge/diy-trove-exhibition). Have a go and share the results on Blackboard.
+It’s easy to turn your list into an exhibition, just follow [these instructions](https://github.com/wragge/diy-trove-exhibition). Have a go and share the results on GDrive.
 
 Not only is this a nicer way of presenting the contents of your lists, it’s an example of what becomes possible once we share collection data online. We can not only search it, we can build new things with it. 
 
 
-<font color="blue">
+<font color="purple">
 This tutorial was adapted from Tim Sherratt. Original content on this site is licensed under a Creative Commons Attribution 4.0 International License.
 </font>

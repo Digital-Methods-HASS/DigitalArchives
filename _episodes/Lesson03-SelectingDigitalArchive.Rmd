@@ -1,7 +1,7 @@
 ---
 title: "Lesson 03 - Digital Collections, Choosing the right one"
 author: "Adela Sobotkova"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: "developed August 2019, updated `r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##The digital environment
+## The digital environment
 
 Once we move into the digital environment our collection descriptions become data – we can not only read them, we can search and manipulate them in ways that that are not possible within the analogue environment. Digital collection management improves efficiency, encourages standardisation, extends discovery, and enables reuse. We can do much more with the same set of descriptions.
 
@@ -19,12 +19,12 @@ For example, even if your descriptions are captured in digital form, that doesn�
 
 To the world Trove is a website, providing access to millions of resources, but if you look at how that information is managed it’s a much more complex (and messier!) picture.
 
-![](..images/trove_system.png)
+![](../images/trove_system.png)
 Diagram of Trove ecosystem 
 
 So while we’ll be focusing on collection management systems it’s worth remembering that they will often exist within a complex ecosystem of datatabases, repositories, and indexes. And while we’d like to think that they’re all seamlessly interconnected, it’s possible that they won’t even talk to each other!
 
-<font color="blue">
+<font color="green">
 When is a CMS not a CMS? One of the most confusing things is that many cultural heritage institutions will have two different systems known by the same acronymn – CMS. A CMS can either be a Collection Management System, like the ones we’re going to look at today, or it can be a Content Management System. Content Management Systems, like Drupal or WordPress, are used to create and manage whole web sites. Beware!
 </font>
 
@@ -55,6 +55,9 @@ The library sector tends to be dominated by large companies such as ProQuest and
 ## So how do you choose?
 Deciding which system is appropriate for a particular collection or institution is dependent on a number of factors – such as the size or nature of the collection, the technical support available, or who will be doing the data entry.
 
+<font color="blue">
+Task 1. Evaluate different digital platforms and write short recommendations for each of the three scenarios below.
+
 Here you’ll find a [blank feature matrix](https://drive.google.com/file/d/1RqWDZrwZA0_t0mp2Mh54fVQk03mkUQeV/view?usp=sharing) listing a number of the collection management systems listed above. To fill it in you’ll need to explore the websites and documentation for each system. In some cases there are also ‘demo’ or ‘sandbox’ versions of the software available that you can try out. In some cases you might not be able to find an answer, but do your best!
 
 Once you’ve filled in the matrix, think about what would be the most appropriate system for:
@@ -62,7 +65,7 @@ Once you’ve filled in the matrix, think about what would be the most appropria
 - a community museum (e.g. in your parents' hometown) with limited technical capacity, where most of the data entry will be done by volunteers;
 - a regional gallery with access to outsourced technical support and a small number of professional staff.
 - the Aarhus University Antikemuseet's collection of 3D scans of 4000 illicit objects confiscated from art dealers and needing repatriation into home collections
-
+</font>
 
 ## Resources, processes, and contexts
 
@@ -94,6 +97,6 @@ In an institutional setup (unlike the individual Tropy),  a CMS captures not jus
 
 Omeka, you’ll be pleased to know, is much simpler to use, as it doesn’t offer the more sophisticated management options.
 
-<font color="blue">
-Original content on this site is licensed under a Creative Commons Attribution 4.0 International License.
+<font color="purple">
+This tutorial was adapted from Tim Sherratt. Original content on this site is licensed under a Creative Commons Attribution 4.0 International License.
 </font>

@@ -1,7 +1,7 @@
 ---
 title: "Lesson 05 - Searching through APIs"
 author: "Adela Sobotkova"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: "developed August 2020, last updated `r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction to APIs
 
-Your Internet experience runs on APIs. The acronym has helped you compare the best prices for flights, allowed you to embed a map into your store’s website and seamlessly processed your credit card payments.
+Your internet experience runs on APIs. The acronym has helped you compare the best prices for flights, allowed you to embed a map into your store’s website and seamlessly processed your credit card payments.
 
 But what is an API and why does it matter to you? In this article, we’ll give a high-level overview of APIs and how they relate to your daily life.
 
@@ -96,6 +96,8 @@ How many results are there?
 
 <font color = "blue">
 Task 1. Now that you see how the Trove Console works, construct a query to interrogate the total number of newspaper articles that mention accidents in the two decades of 1900-1909, and 1910-1919.
+
+
 Task 2. Review individual results in your group and then post the two queries plus the screenshots in your group GoogleDoc
 </font>
 
@@ -106,3 +108,5 @@ You might have noticed that the API queries are shaped as URLs, same as the addr
 In order to do this, namely to use API at large scale, you need to obtain an API key. Trove is protecting itself again unwanted attacks by requiring API users to register so that each query has an identified users. 
 
 Obtaining an API key is free and quick. Eventually, if you want to go all the way, you need to follow these [instructions](https://help.nla.gov.au/trove/building-with-trove/api).
+:)
+This is the end of this exercise. You know enough about APIs now to be ready to explore and harness them with programming tools - perhaps in the theory-oriented methods course on Digital Methods for Historians :).  

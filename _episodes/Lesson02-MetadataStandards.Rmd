@@ -1,7 +1,7 @@
 ---
 title: "Lesson 02 - Metadata & Standards"
 author: "Adela Sobotkova with Helle Strandgaard Jensen, after Tim Sherratt"
-date: "August 2019, updated `r format(Sys.time(), '%d %B, %Y')`"
+date: "developed August 2019, updated `r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
@@ -30,7 +30,7 @@ Description is a form of intellectual control that allows us to grasp the meanin
 <font color="blue">
 **Task 1. Terminology**
 
-Discuss in your group if you have ever encountered these terms: `metadata standards`, `unique identifiers`, `customizable attributes/tags`, and `controlled vocabularies`. What do you think they refer to?  Find the team-member who is in Helle's TOM class and has been introduced to Tropy and have them elaborate these concepts in the context of Tropy. 
+Discuss in your group whether you have ever encountered these terms: `metadata standards`, `unique identifiers`, `customizable attributes/tags`, and `controlled vocabularies`. (You should have encountered some in the previous tutorial.) What do you think they refer to?  Find the team-member who is in Helle's TOM class and has been introduced to Tropy and have them elaborate these concepts in the context of Tropy. 
 </font color>
 
 ## "Describe yourself" exercise
@@ -41,7 +41,8 @@ Stealing the idea from a colleague (thank you, Andrew Cusworth:), we will now en
 **Step 1. Describe yourself in a sentence or two** 
 
 Example: Adela is a person, her parents produced her in 1979. Her favorite book is Snowcrash.
-Yoda, my name is, 814 years old I am.
+
+Yoda, my name is, 814 years old I am. Favorite book undeclared.
 
 
 What a nice if random description. You will be able to create your own.
@@ -212,6 +213,6 @@ Render the group descriptions in https://markdowntohtml.com/ and review the cons
 
 
 
-<font color="darkblue">
-Original content on this site is licensed under a Creative Commons Attribution 4.0 International License.
+<font color="purple">
+This tutorial was inspired by Tim Sherratt and Andrew Cushworth. Original content on this site is licensed under a Creative Commons Attribution 4.0 International License.
 </font>
