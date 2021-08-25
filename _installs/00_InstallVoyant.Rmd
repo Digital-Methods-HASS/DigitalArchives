@@ -7,22 +7,23 @@ output: html_document
 ---
 # Getting Started
 
-In order to fully participate in workshops on Thursday and Friday in week 36, you need to have downloaded *Stadsarkivet data* from the class shared drive (only reachable from home via VPN or via eduroam on campus), and the *Voyant server* desktop software. Both downloads will take time, so do this in advance and if in difficulty, sign up for a slot with one of our assistants by Monday 5 pm in week 36. 
+In order to fully participate in the Voyant workshops in Week 35, you need to have access to the *Stadsarkivet and Stiften datasets* from the class Shared Drive (reachable via eduroam on campus or from home via VPN), and the *Voyant server* desktop software. Both the data and the software are large, so do the installation in advance. If you struggle with software or data, sign up for a slot with our HelpDesk during Monday or Tuesday in Week 35. The signup links will be circulated during the first day of class. 
 
 ## Software and Data needed
 
 Read here about the software and go into the Installation section to install and configure it. 
 
-- [JAVA](https://www.java.com/en/): Before downloading Voyant, you will need to download Java if you don’t already have it. If you do have Java installed, you should still download and update your version.  For an update, download the 64-bit offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). If you have difficulty getting the right Java, please sign up for the Help Desk.
+- [JAVA](https://www.java.com/en/): Before downloading Voyant, you will need to download Java if you do not already have it. If you do have Java installed, you should still download and update your version.  For an update, download the 64-bit offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). If you have difficulty getting the right Java, please sign up for the Help Desk.
 - Beware: If have a 32-bit version of Java, you need to uninstall Java from your system (via uninstall/remove programmes) and install the 64-bit version linked above. If you have difficulty getting the right Java *after reading these and the linked guidelines*, please sign up for the Help Desk.
 
-- [VOYANT](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45): This is a rather large download [~450Mb], requiring solid internet connection. 
+- [VOYANT](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45): This is a rather large download [~450Mb], requiring solid internet connection. Remember to scroll down this webpage and click on the `.zip` file to download.
 
-- DATA (on Shared drive:ARTS_DigitalArchives2020): This dataset has been digitized and curated for this class by the Aarhus Stadtsarkivet. It contains the entirety of the minutes filed during 1939-1945. Please, get on  eduroam or, if working from home, on [VPN](https://studerende.au.dk/en/it-support/vpn/) and [shared drive ](https://studerende.au.dk/fileadmin/studerende.au.dk/ST/diplomingenior/Filer/Studievejledning/itguide_til_nye_studerende.pdf) to download all of the datasets on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the AU code of conduct and the privacy law in Denmark. 
+
+- DATASETS sit on Shared drive:ARTS_DigitalArchives2021. About the process of their creation and curation, please read the handouts on Brightspace. The Aarhus Stadtsarkivet minutes contain the entirety of the minutes filed during 1939-1945. The Aarhus Stiftstidende contains the same timespan of newspapers.  Please, get on  eduroam or, if working from home, on [VPN](https://studerende.au.dk/en/it-support/vpn/) and [shared drive ](https://studerende.au.dk/fileadmin/studerende.au.dk/ST/diplomingenior/Filer/Studievejledning/itguide_til_nye_studerende.pdf) to download all of the datasets on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the AU code of conduct and the privacy law in Denmark. 
 
 ## Installation
 
-Although Voyant Tools is a web based set of tools, we’ll be downloading it and running it locally. Downloading Voyant to your own computer brings a number of advantages but the main impetus for doing so today is so that we won’t encounter loading issues resulting from overwhelming the server. However using Voyant locally also means that your texts won’t be cached and stored on the Voyant Server, it allows you to restart the server if you encouter problems, and it allows you to work offline, without an internet connection.
+Although Voyant Tools is a web-based set of tools, we will be downloading it and running it locally. This way you can work offline, should you wish to analyze your texts without an internet connection. You also avoid disseminating the datasets online and overloading the web servers. Furthermore, using Voyant locally means that your project will not be cached and stored on the Voyant web-server, and you can restart the server if you encouter any problems.
 
 1. [Install or Update Java](https://www.java.com/en/)
 
@@ -36,7 +37,7 @@ Although Voyant Tools is a web based set of tools, we’ll be downloading it and
 [comment]:#![](../images/w10-voyant-server-zip-contents.png)
 
 
-4. Double click the VoyantServer.jar file. When you open this file a new window (see image below) will pop up with numerous server controls. If you’re curious about what these all mean you can read about the options in the documentation for the Voyant Server. However, in short, this window begins to launch a server which will generate the Voyant tools interface.
+4. Double click the `VoyantServer.jar` file. When you open this file a new window (see image below) will pop up with numerous server controls. If you are curious about what these all mean you can read about the options in the documentation for the Voyant Server. However, in short, this window begins to launch a server which will generate the Voyant tools interface.
 
 ![](../images/voyantserver-controls.png)
 
@@ -45,7 +46,7 @@ Although Voyant Tools is a web based set of tools, we’ll be downloading it and
 
 ![](../images/voyantserver-home.png){#id .class width=80%}
 
-** If your default browser is Chrome you’ll need to paste the address into a new window in a different browser. Both Safari and Firefox work. The default address should be: 
+** If your default browser is Chrome you will need to paste the address into a new window in a different browser. Both Safari and Firefox work. The default address should be: 
 http://127.0.0.1:8888/
 
 
@@ -54,7 +55,7 @@ http://127.0.0.1:8888/
 ## Uploading Data to Voyant
 Voyant offers several ways to upload text. You can upload individual text files from your computer, paste lines into the box provided, or upload a zip file/archive that contains many files. Once you’ve downloaded the zip file of data we can simply upload it to Voyant. To upload the file:
 
-- Select Upload from the Voyant Tools Homepage
+- Select `Upload` from the Voyant Tools Homepage
 
 ![](../images/voyantserver-home.png){#id .class width=80%}
 
@@ -63,21 +64,22 @@ Voyant offers several ways to upload text. You can upload individual text files 
 
 ![](../images/upload-data.png)
 
-- Once you’ve selected the file, click 'Open' and Voyant will upload the file and direct you to the dashboard. This may take a few seconds to a few minutes depending on your computer's performance and the memory you allocated to Voyant (and the size of the corpus of documents). 
+- Once you have selected the file, click *Open* and Voyant will upload the file and direct you to the dashboard. This may take a few seconds to a few minutes depending on your computer's performance and the memory you allocated to Voyant (and the size of the corpus of documents). 
 
 
-Exploring the “Default Skin”
-After uploading the corpus, you will be redirected to what Voyant calls the “default skin”, or, the default configuration of tools. To understand the many options, tools, and settings available and necessary to process  Danish texts in Voyant see [Adela's slides](https://github.com/adivea/DigitalArchives/blob/master/VoyantSlides.pdf) and [Voyant documentation](http://voyant-tools.org/docs/#!/guide).
+Exploring the *Default Skin*
+After uploading the corpus, you will be redirected to what Voyant calls the *default skin*, or, the default configuration of tools. To understand the many options, tools, and settings available and necessary to process  Danish texts in Voyant see [Adela's slides](https://github.com/Digital-Methods-HASS/DigitalArchives/blob/master/VoyantSlides.pdf) and [Voyant documentation](http://voyant-tools.org/docs/#!/guide).
 
 # Managing text and visualisations in Voyant
 
-We will cover these topics in the hands-on session in week 36. 
+We will cover these topics in the hands-on session in week 35. 
 
-- stopword lists for non-default languages (e.g. Danish)
+- creating `stopword` lists for non-default languages (e.g. Danish)
 - searching concepts in Voyant
 - exporting visualisations and frequency data from Voyant
 
-The following sections serve as a guide to some of the computational analyses you can on texts, and as illustration of the scholarly work that involved text analysis. Finally, there is a glossary of terms you might encounter during this course.
+The following sections serve as a guide to some of the computational analyses you can do on texts and as an illustration of the scholarly work that involved text analysis. Finally, there is a glossary of terms you might encounter during this course.
+
 
 # Your task
 
@@ -85,7 +87,7 @@ Your task today is to install Voyant and download the data before Thursday in We
 
 # What is Text Analysis?
 
-“Text Analysis” is a broad category that describes a number of specific methodologies that have been adapted from the fields of computer science and linguistics and used for humanistic inquiry.The overall goal, is to turn text into data for analysis.
+*Text Analysis* is a broad category that describes a number of specific methodologies that have been adapted from the fields of computer science and linguistics and used for humanistic inquiry.The overall goal, is to turn text into data for analysis.
 
 Some of the most popular forms of text analysis include:
 
@@ -105,9 +107,9 @@ Some of the most popular forms of text analysis include:
 
 [Mining Martha Ballard’s Diary](http://www.cameronblevins.org/martha-ballards-diary/), Cameron Blevins
 
-[America’s Public Bible](https://americaspublicbible.org/), Lincoln Mullen
+[Americas Public Bible](https://americaspublicbible.org/), Lincoln Mullen
 
-[“Everything on Paper will Be Used Against Me:” Quantifying Kissenger](https://blog.quantifyingkissinger.com/), Micki Kauffman
+[Everything on Paper will Be Used Against Me: Quantifying Kissenger](https://blog.quantifyingkissinger.com/), Micki Kauffman
 
 [Robots Reading Vogue](http://bookworm.library.yale.edu/), Lindsay King and Peter Leonard
 
@@ -120,20 +122,19 @@ Some of the most popular forms of text analysis include:
 [PE SAMPLE DATA](https://github.com/regan008/MindandBodyCorpus): This sample data has been curated from a larger corpus. It contains the entirety of the physical education publication Mind and Body which ran from 1882 until 1936.
 
 # Glossary
-- Black Box: A device, system or object which can be viewed in terms of its inputs and outputs without any knowledge of its internal workings. In Digital Humanities, projects and tools are often critiqued for being “black boxes” which prevent scholars from studying and analyzing the methodological choices made when composing the project.
-- Collocation: a sequence of words or terms that co-occur more often than would be expected by chance.
-- Corpus: a collection of documents.
-- Optical Character Recognition (OCR): Software that turns images of text into machine readable plain text documents.
-- Reproducible Research: This term originates from fields such as computer science or engineering that rely on computers to generate scholarly work. It refers to the idea that the ultimate product of academic research is the paper along with the full computational environment used to produce the results in the paper (i.e code, data, etc) so that anyone can use it to reproduce the results and create new work based on the research.
-- Stop list or Stop Words: A list of words that is automatically omitted from an index of the most frequent words in a corpus.
-- Text Mining: Is often also referred to as data mining. The overarching goal is usually to turn text into dat for analysis and it frequently relies heavily on natural language processing. For an excellent description of the history of the field and various applications see the Wikipedia entry for text mining.
-- TF-IDF: Short for term frequency-inverse document frequency. It is a numerical statistic that is intended to reflect how important a word is to a document in a corpus. This statistic is frequently used to weight terms by relevance or importance within a corpus.
+- *Black Box*: A device, system or object which can be viewed in terms of its inputs and outputs without any knowledge of its internal workings. In Digital Humanities, projects and tools are often critiqued for being *black boxes* which prevent scholars from studying and analyzing the methodological choices made when composing the project.
+- *Collocation*: a sequence of words or terms that co-occur more often than would be expected by chance.
+- *Corpus*: a collection of documents.
+- *Optical Character Recognition (OCR)*: Software that turns images of text into machine readable plain text documents.
+- *Reproducible Research*: This term originates from fields such as computer science or engineering that rely on computers to generate scholarly work. It refers to the idea that the ultimate product of academic research is the paper along with the full computational environment used to produce the results in the paper (i.e code, data, etc) so that anyone can use it to reproduce the results and create new work based on the research.
+- *Stop list* or *Stop Words*: A list of words that is automatically omitted from an index of the most frequent words in a corpus.
+- *Text Mining*: Is often also referred to as data mining. The overarching goal is usually to turn text into dat for analysis and it frequently relies heavily on natural language processing. For an excellent description of the history of the field and various applications see the Wikipedia entry for text mining.
+- *TF-IDF*: Short for term frequency-inverse document frequency. It is a numerical statistic that is intended to reflect how important a word is to a document in a corpus. This statistic is frequently used to weight terms by relevance or importance within a corpus.
 
--- These definitions have been pulled from wikipedia and contextualization has been added as necessary.
+These definitions have been pulled from wikipedia and contextualization has been added as necessary.
 
 ---
 Credits:
-This guide has inspired by [Amanda Regan](https://www.amanda-regan.com/Workshop-UCR/)
-This guide has been tested and improved by Antonio Rivero Ostoic and Josephine Møller Jensen.
+This guide has been inspired by [Amanda Regan](https://www.amanda-regan.com/Workshop-UCR/) and tested and improved by Antonio Rivero Ostoic and Josephine Moeller Jensen.
 
 

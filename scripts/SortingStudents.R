@@ -11,3 +11,7 @@ Wednesday <- read_csv2("data/WednesdayList.csv") # this week's table
 new <- Tuesday %>% 
   anti_join(Friday, by = 'Username') 
 write.csv2(new, "data/new.csv")  
+
+
+Zoom <- rep(seq_along(1:20), 6)
+length(Zoom)

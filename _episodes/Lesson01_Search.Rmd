@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Collectors and collections
 ### Introducing Trove
-Let’s start our exploration of collections by looking at Trove, the principal public digital archive of Australia.
+Let’s start our exploration by looking at Trove, the principal public digital collection of Australia.
 
 Why? Trove is one of the most modern and multi-faceted national digital archives out there in the world. It is a collection of collections – it brings together the holdings of hundreds of organisations, from local historical societies to national institutions. It’s a useful place to get an overview of Australia’s cultural heritage collections. But don’t be fooled into thinking that Trove includes everything! 
 
@@ -61,8 +61,8 @@ Let's say you are concerned about the effects of industrialisation on public hea
 Start a new search on www.trove.nla.gov.au
 
 - Type ‘accident’ (without the quotes) in the search box and click ‘Search’.
-- Find the ‘Digitised newspapers and more’ results box/category and click on it to focus on results from the Trove newspapers zone. 
-- Let’s refine our results using facets. Under ‘Refine your results’ on the right (from 26 June 2020) hand side, click ‘Date range’. What happens? Click 'Show more' at the bottom.
+- Find the ‘Newspapers and Gazettes’ category and click on it to focus on results from the Trove newspapers zone. 
+- Let’s refine our results using facets. Under ‘Refine your results’ on the right hand side or the bottom of the page, click ‘Date range’. What happens? Click 'Show more' at the bottom.
 - Look through your results for accidents reported in newspapers. How many can you find? Where do they [the records] come from?
 - What decade sees the most accidents reported in Australia?
 - How does the trend change in New South Wales versus Victoria?
@@ -99,8 +99,8 @@ This is a question we’ll return to several times throughout this class. We’l
 Using Trove, people can assemble their own collections, reflecting their interests, and serving the needs of their own communities.
 Let’s look at some examples:
 
-- Go to Trove and click on ‘tags’ near the top of the page. Here you’ll find a list of the most popular tags added by users to items in Trove.
-- Look for ‘LRRSA’. What do you think it means? 
+- Go to Trove and search on ‘tags’. Here there used to be a list of the most popular tags added by users to items in Trove.
+- Look for ‘LRRSA’. What do you think it means? [this no longer exists in September 2020, sadly, so take a guess or search on this tag]
 
 - A group of enthusiasts have agreed to use a particular tag – something like a [controlled vocabulary](http://www.getty.edu/research/publications/electronic_publications/intro_controlled_vocab/what.pdf) – to bring together resources that are of interest to them.
 
