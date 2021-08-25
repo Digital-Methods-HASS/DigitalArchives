@@ -11,15 +11,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Getting Started
 
-In order to proceed with the transcription of your case files during Wednesday in week 37, you will need to  set up Transkribus on your computer. This is a multiple-step process where you:
+In order to proceed with the transcription of your case files during Wednesday in week 36, you will need to  set up Transkribus on your computer. This is a multiple-step process where you:
 
-1. register for an account with https://Transkribus.eu, 
+1. sign up for a free account
 2. update your Java
 3. download the Transkribus version suitable for your operating system
 4. unzip and run Transkribus
 5. OPTIONAL: obtain a model-training button (this can take up to a week and is done upon request only)
 
-Please ensure to have completed all steps before Wednesday in week 37. If you need help, please alert course assistants by 10am Friday, week 36
+Please ensure to have completed all steps before Wednesday in week 36. If you need help with installation, please alert course assistants by 10am Thursdayin week 35
 
 
 ## Prerequisites
@@ -28,54 +28,51 @@ Please ensure to have completed all steps before Wednesday in week 37. If you ne
 - [JAVA](https://www.oracle.com/java/technologies/javase-jre8-downloads.html): Before downloading Transkribus, check that you have the newest version of Java 8. If you do have Java installed, you should still update your version, or at least [check it using this guide](https://java.com/en/download/help/version_manual.xml).  If you need an update, download the 64-bit offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). 
 - Beware: If have a 32-bit version of Java, a warning message may appear "JAVA VERSION NOT COMPATIBLE WITH TRANSKRIBUS The following issues can influence the performance of Transkribus >>You are using 32-bit version of Java in a 64-bit OS<<” Since this is just a warning, you could theoretically proceed to Login into your Transkribus account and start with this Java version but the software might behave erratically and so we recommend to update upfront. If you have difficulty getting the right Java *after reading the linked guidelines*, please sign up for the Help Desk.
 
-- [TRANSKRIBUS](https://transkribus.eu/Transkribus) is a comprehensive platform for transcription and searching of historical hand-written documents, which facilitates - with large enough transcribed sample - the automated recognition of the documents. Note the download button directly under the page title, flanked 
+- [TRANSKRIBUS](https://readcoop.eu/transkribus/wiki/download-and-installation/) is a comprehensive platform for transcription and searching of historical hand-written documents, which facilitates - with large enough transcribed sample - the automated recognition of the documents. Note there are two versions, the Expert Client standalone version and the Lite version. Follow the instructions to download the Expert standalove version  
 
 ## Transkribus Installation
 
-1. Go to https://Transkribus.eu and register. To register, you will need to provide your name, e-mail address, and accept the Transkribus user agreement. You can also log in using your Google account. Remember the credentials as you will need them to launch the software later. 
+1. Go to the [Getting started page](https://readcoop.eu/transkribus/start/) and Register. You can watch the Transkribus Expert Client video and then sign up for free at the Setting up your Account section. To register, you will need to provide your name, e-mail address, and password. Remember the credentials as you will need them to launch the software later. 
 
-![](../images/transkribus-site.png)
+![](../images/transkribus-site-new.png)
 
 
-2. Download the correct version (for your OS) for free from the website. After download you should see a ZIP File in the download directory of your computer.
+2. Move to [Downloads and Installation](https://readcoop.eu/transkribus/wiki/download-and-installation/) and follow the instructions here to download the Expert Client software (for free via the blue button). After download you should see a ZIP File in the download directory of your computer, called Transkribus-1.16.1-package.zip or similar.
 
 <!-- If the download fails - please download the latest release from here: [alternative download location](https://transkribus.eu/TranskribusX/releases/) -->
 
-3.  Unzip/Extract the file and open the resulting Transkribus directory (some Macs will extract the files automatically upon a click so may directly see a Transkribus-1.11 directory with different files inside)
+3.  Unzip/Extract the file and open the resulting Transkribus directory (some Macs will extract the files automatically upon a click so may directly see a Transkribus-1.16 directory with different files inside)
 
 4.  Start Transkribus:
-- Windows:  use *Transkribus.exe* , also called Application if you check the Type column, with the following icon
 
-If you do not have "Administrator" rights, Windows will produce a warning message, such as: "Windows Protected Your Computer", etc. Do **not** press "Confirm", but go to "More Information" link. The next screen lets you approve  Transkribus by pressing "Run Anyway".
+- **Windows**:  use *Transkribus.exe* file, also called "Application" in the Type column, with the following icon
 
-![](../images/W10_run.png){#id .class width=50%}
+![](../images/transkribus-icon.png){width=300px}
+
+If you do not have **Administrator** rights, Windows will produce a warning message, such as: *Windows Protected Your Computer*, etc. Do **not** press *Don't Run*, but go to *More Info* link. The next screen lets you approve Transkribus by pressing *Run Anyway*.
+
+![](../images/W10_protect.png){width=400px} ![](../images/W10_run.png){width=400px} 
 
 
-- Mac OS - Apple:
-    * Right-click on the downloaded archive (with the transkribus icon).
-    * Choose "Show Package Contents"
-    * Go to *Contents* -> *MacOS*
-    * Click on the executable file called Transkribus and choose "Open"
 
-If you run the program the first time, it may not start because it is a non-signed application ("... can't be opened because it is from an unidentified developer" message).  In this case, right-click (or control-click) the application and choose "Open". In the appearing dialog box, click "Open" again (not 'Move to bin'):
+- **Mac OS - Apple**:
+    - Right-click on the downloaded archive (with the Transkribus icon).
+    - Choose "Show Package Contents"
+    - Go to *Contents* -> *MacOS*
+    - Click on the executable file called Transkribus and choose "Open"
 
-![](../images/transkribus-open.png){#id .class width=50%}
+If you run the program the first time, it may not start because it is a non-signed application ("... cannot be opened because it is from an unidentified developer" message).  In this case, right-click (or control-click) the application and choose "Open". In the appearing dialog box, click "Open" again (not 'Move to bin'):
 
-Alternatively, right-click the Track Pad to open the Context Menu and add a security exception for Transkribus.
-    * (    
-
-![](../images/transkribus-icon.png){#id .class width=20%}
-
-5. Notes for the first launch
-
-- Mac: If you run the program the first time, it may not start because it is a non-signed application ("... can't be opened because it is from an unidentified developer" message).  In this case, right-click (or control-click) the application and choose "Open". In the appearing dialog box, click "Open" again (not 'Move to bin'):
-
-![](../images/transkribus-open.png){#id .class width=50%}
+![](../images/transkribus-open.png){width=500px}
 
 Alternatively, right-click the Track Pad to open the Context Menu and add a security exception for Transkribus.
+      
+
+![](../images/transkribus-icon.png){width=300px}
 
 
-6. In the end you should be able to see the main screen of Transkribus and log in (with the credentials you established in Step 1 of this guide) via the button on top left. 
+
+4. In the end you should be able to see the main screen of Transkribus and log in (with the credentials you established in Step 1 of this guide) via the button on top left. 
 
 ![](../images/transkribus-main.png)
 
@@ -96,28 +93,31 @@ Now you are ready to use Transkribus to handle historical documents. In order to
 
 Transkribus can do very powerful things, such as automated handwritten text recognition (HTR). We won't have time to delve into this capability in this workshop. Claus Juhl Knudsen and other colleagues from the Stadsarkivet, however, might have time to demonstrate.
 
-## Segmenting and transcribing texts - Read and watch before class
+## Segmenting and transcribing texts - Read (or watch) before class
 
-*Video guides* for those who like videos.
+### Written instructions
+
+1. Segmentation and transcription are both covered in [How to use Transkribus in 10 Steps](https://readcoop.eu/transkribus/howto/use-transkribus-in-10-steps/) again focusing on steps 1-8 for a general overview of tools available.
+
+2. After you are familiar with the overall process, please consult the [Transkribus Transcription Guidelines](https://readcoop.eu/transkribus/howto/transkribus-transcription-conventions/) to understand the know-how of transcription before you commence with your document. 
+
+3. There are additional tips and tricks for special topics that apply to, for example, [Transcribing Tables](https://readcoop.eu/transkribus/howto/how-to-work-with-tables-in-transkribus/), should you run into these in your casefiles (we suggest you avoid transcribing tables in this course). 
+
+### Video guides 
+for those who like videos...
 
 1. Watch the following ['How-to' 4 minute video](https://youtu.be/8Ei0a7WIlTI), especially step 1-8, to learn how to use the Transkribus desktop software to transcribe and save documents.
 
 2. Next, watch the [segmentation video](https://youtu.be/b0MqNwSIKC0) to learn how to parse complex page formatting in historical documents.
 
-*Written instructions* for those who prefer reading at their own pace:
-
-1. Segmentation and transcription are both covered in [How to use Transkribus - in 10 steps (or less) Guide](https://transkribus.eu/wiki/images/7/77/How_to_use_TRANSKRIBUS_-_10_steps.pdf) again focusing on steps 1-8 for a general overview of tools available.
-
-*Everyone*: please consult the [Transcription Guidelines](https://transkribus.eu/wiki/images/3/31/Transkribus_Transcription_Conventions.pdf) to understand the know-how of transcription before you commence with your document. 
-
-There are additional tips and tricks for special topics that apply to, for example, [Transcribing Tables](https://transkribus.eu/wiki/images/1/14/HowToProcessTables.pdf), should you run into these in the future (avoid transcribing tables in this course). 
 
 ## Saving transcriptions
+...which is not covered in the 10 Steps above
 
-https://transkribus.eu/wiki/images/b/bd/HowTo_Export_documents_from_Transkribus.pdf
+https://readcoop.eu/transkribus/howto/how-to-export-documents-from-transkribus/ 
 
 # Your task
-Your group will be allocated a folder number to download from the Shared Drive: ARTS_DigitalArchives2020\Transkribus. As part of this exercise each of you will transcribe one page from the archival sources. You will work with your group in breakout rooms in Zoom but also switch to plenary sessions to get guidance on any issues. You are strongly advised to obtain a mouse for this exercise.
+Your group will be allocated a folder number to download from the Shared Drive: ARTS_DigitalArchives2021\Transkribus. As part of this exercise each of you will transcribe one page from the archival sources. You will work with your group in breakout rooms in Zoom but also switch to plenary sessions to get guidance on any issues. **You are strongly advised to obtain a mouse for this exercise**.
 
 
 1. Each person in your group should receive one unique page from your folder for segmentation and transcription
@@ -129,7 +129,8 @@ Your group will be allocated a folder number to download from the Shared Drive: 
 ![](../images/transkribus-export.png)
 
 Click 'OK' to export. You will receive a mail with a download-link, when Transkribus has processed the export-job. Open the link in the mail to download a zip-folder of your exported page. Please make sure that the filename of the txt-file corresponds to the original filename of the jpg-file. 
-6. Each group member should submit a minimum of one page of segmented and transcribed text to your group GoogleDrive space. Coordinate with others or select a reviewer from among the team to avoid duplicates.
+6. Each group member should submit one page of segmented and transcribed text to your group GoogleDrive space. Coordinate with others or select a reviewer from among the team to avoid duplicates.
+
 
 Credits:
 This guide has been tested and improved by Antonio Rivero Ostoic.
