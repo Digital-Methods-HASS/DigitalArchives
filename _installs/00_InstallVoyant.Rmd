@@ -2,7 +2,10 @@
 title: "Text Analysis with Voyant"
 author: "Adela Sobotkova"
 date: "20 June 2020, updated `r format(Sys.time(), '%d %B, %Y')`"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
  
 ---
 # Getting Started
@@ -13,13 +16,13 @@ In order to fully participate in the Voyant workshops in Week 35, you need to ha
 
 Read here about the software and go into the Installation section to install and configure it. 
 
-- [JAVA](https://www.java.com/en/): Before downloading Voyant, you will need to download Java if you do not already have it. If you do have Java installed, you should still download and update your version.  For an update, download the 64-bit offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). If you have difficulty getting the right Java, please sign up for the Help Desk.
+- [JAVA](https://www.oracle.com/java/technologies/javase-jre8-downloads.html): Before downloading Voyant, you will need to download Java if you do not already have it. If you do have Java installed, you should still download and update your version.  For an update, download the **64-bit** offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). If you have difficulty getting the right Java, please sign up for the Help Desk.
 - Beware: If have a 32-bit version of Java, you need to uninstall Java from your system (via uninstall/remove programmes) and install the 64-bit version linked above. If you have difficulty getting the right Java *after reading these and the linked guidelines*, please sign up for the Help Desk.
 
-- [VOYANT](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45): This is a rather large download [~450Mb], requiring solid internet connection. Remember to scroll down this webpage and click on the `.zip` file to download.
+- [VOYANT](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45): This is a rather large download [~450Mb], requiring solid internet connection. Remember to scroll down this webpage and click on the `VoyantServer2_4-M45.zip` file to download.
 
 
-- DATASETS sit on Shared drive:ARTS_DigitalArchives2021. About the process of their creation and curation, please read the handouts on Brightspace. The Aarhus Stadtsarkivet minutes contain the entirety of the minutes filed during 1939-1945. The Aarhus Stiftstidende contains the same timespan of newspapers.  Please, get on  eduroam or, if working from home, on [VPN](https://studerende.au.dk/en/it-support/vpn/) and [shared drive ](https://studerende.au.dk/fileadmin/studerende.au.dk/ST/diplomingenior/Filer/Studievejledning/itguide_til_nye_studerende.pdf) to download all of the datasets on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the AU code of conduct and the privacy law in Denmark. 
+- DATASETS sit on Shared drive:ARTS_DigitalArchives2021.  Please read the handouts on Brightspace to learn about the process of their creation and curation. The Aarhus Stadtsarkivet minutes contain the entirety of the minutes filed during 1939-1945. The Aarhus Stiftstidende text files contain the newspaper content during the same timespan.  Please, get on eduroam or, if working from home, on [VPN](https://studerende.au.dk/en/it-support/vpn/) and [shared drive ](https://studerende.au.dk/fileadmin/studerende.au.dk/ST/diplomingenior/Filer/Studievejledning/itguide_til_nye_studerende.pdf) to download all of the datasets on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the AU code of conduct and the privacy law in Denmark. 
 
 ## Installation
 
@@ -70,7 +73,7 @@ Voyant offers several ways to upload text. You can upload individual text files 
 Exploring the *Default Skin*
 After uploading the corpus, you will be redirected to what Voyant calls the *default skin*, or, the default configuration of tools. To understand the many options, tools, and settings available and necessary to process  Danish texts in Voyant see [Adela's slides](https://github.com/Digital-Methods-HASS/DigitalArchives/blob/master/VoyantSlides.pdf) and [Voyant documentation](http://voyant-tools.org/docs/#!/guide).
 
-# Managing text and visualisations in Voyant
+# Managing Text and Visualisations in Voyant
 
 We will cover these topics in the hands-on session in week 35. 
 
@@ -81,7 +84,7 @@ We will cover these topics in the hands-on session in week 35.
 The following sections serve as a guide to some of the computational analyses you can do on texts and as an illustration of the scholarly work that involved text analysis. Finally, there is a glossary of terms you might encounter during this course.
 
 
-# Your task
+# Your Task
 
 Your task today is to install Voyant and download the data before Thursday in Week 36. We will introduce the research topics and provide further information on how to work with the data in class in week 36. Feel free to read the sections below if you are interested in knowing more about text analysis and different methods it entails.
 
@@ -113,7 +116,7 @@ Some of the most popular forms of text analysis include:
 
 [Robots Reading Vogue](http://bookworm.library.yale.edu/), Lindsay King and Peter Leonard
 
-# Other datasets for practice
+# Other Datasets for Practice
 
 [SPEECHES OF VACLAV HAVEL](https://bit.ly/HavelSpeeches): This is a corpus on English translations of the speeches given by Vaclav Havel to nurture civil society during his presidency of the CSFR and Czech Republic from 1990 - 2003. Selected from the Prague Castle Web Archive at http://old.hrad.cz/president/Havel/index_uk.html  
 
