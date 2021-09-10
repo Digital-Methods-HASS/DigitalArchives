@@ -37,21 +37,22 @@ Using an API is like walking up to the bar in Sydney; it provides you with direc
 
 **Take away point: using an API is like walking into a self-serve bar where you can recombine ingredients to create endless cocktail concoctions. Cultural heritage collections which give users direct access to their data via APIs, make data retrieval, exchange, and mashing possibilities limitless**
 
-Let’s stretch the second example a bit further. Let's say covid lockdown is back and you want that vodka apple-ginger martini delivered to your home. You call a delivery service and you order a vodka apple-ginger martini by selecting from the basic alcohol&ingredience list, skipping the cocktails menu. When you order it, someone will tell the bartender your order, the bartender will make the vodka apple-ginger martini and then someone will deliver it to your home. This is an example of an additional service (delivery) built on an “API” (building an order from the basic ingredient menu).
+Let’s stretch the second example a bit further. Let's say covid lockdown is back and you want that vodka apple-ginger martini delivered to your home. You call a delivery service and you order a vodka apple-ginger martini by selecting from the basic alcohol & ingredients list, skipping the cocktails menu. When you order it, someone will tell the bartender your order, the bartender will make the vodka apple-ginger martini and then someone will deliver it to your home. This is an example of an additional service (delivery) built on an “API” (building an order from the basic ingredient menu).
 
 To relate this back to software, an API can help one application retrieve specific types of data from another application. 
 
 
-### 3 Things You Should Know About APIs
+### Three Things You Should Know About APIs
 To recap, here are three takeaways for APIs.
 
 1. Regular users of the internet rarely directly interact with APIs but they consume the products of APIs (e.g. aggregated air travel websites where you can choose the cheapest fare). Developers work with APIs to create software. Researchers and research institutions can use APIs to access and aggregate data. 
 2. APIs operate as a gate, allowing informed users to share select information but also keeping unwanted requests out.
-3. APIs can make your life easier. When thousands of records in a digital archive are accessible via an API you can download them with a single request rather than by paging through the resources and downloading each individually and manually.
+3. APIs can make your [digital historian] life easier, too. When thousands of records in a digital archive are accessible via an API, you can download them with a single request rather than by paging through the resources, clicking and downloading each individually and manually.
 
 ## Let's practice..
 
-We shall practice on Trove, the National Library of Australia’s “discovery interface”. As you found out in the previous sessions, Trove is an amazing catalogue of books, newspapers, maps, music, journal articles etc.  Trove provides access to much of its data through an API. The API is a special website that programs can talk to run queries, retrieve individual records etc. With some creative ideas and a bit of coding skill, you could make a pretty nifty tool and win a digital humanities award.
+
+We shall practice on Trove, the National Library of Australia’s “discovery interface”. As you found out in the previous sessions, Trove is an amazing catalogue of digitized books, newspapers, maps, music, journal articles etc.  Trove provides access to much of its data through an API. The API is a special website that programs can talk to to run queries, retrieve individual records, etc. With some creative ideas and the [Trove API Console](http://troveconsole.herokuapp.com/) instructions, you can make a pretty nifty tool for yourself, or even win a [Digital Humanities award](https://glam-workbench.net/awards/#british-library-lab-awards-2020).
 
 
 You will now learn to use the API to harvest data and analyse the contents of Trove. 
@@ -61,28 +62,37 @@ Our practice will be small-scale. We will learn to construct an API query by usi
 
 
 ### Trove API Console
-An easy way to start exploring the API is by using the [Trove API Console](http://troveconsole.herokuapp.com/). The Console lets you construct queries and view live results in your browser, without having to worry about an API key. Once you understand the basics you'll probably want to dive into the [complete technical guide](https://help.nla.gov.au/trove/building-with-trove/api-version-2-technical-guide) which lists all the available parameters and response formats.
+An easy way to start exploring the API is by using the [Trove API Console](http://troveconsole.herokuapp.com/). The Console lets you construct queries and view snippets of live results in your browser. This way you learn how the API syntax works. 
+In order to do *real* archival work and download large amounts of records to your computer, you will need to include an API key in your queries. An API key is a special identifier that you need to apply for and use with care, once you are confident in your API syntax. Guidelines for API keys are provided at the end of this tutorial. 
 
-Let's navigate to [Trove API Console](http://troveconsole.herokuapp.com/). Please beware that the actual interface might look somewhat different than the screenshots below due to recent UI changes:
+Once you understand the basics you'll probably want to dive into the [complete technical guide](https://trove.nla.gov.au/about/create-something/using-api/api-technical-guide) which lists all the available parameters and response formats.
+
+Let's navigate to [Trove API Console](http://troveconsole.herokuapp.com/). Please beware that the actual interface might look somewhat different than the screenshots below due to continued UI changes:
 
 
 1. You should see a search bar and examples below.
 
-![](../images/trove_api_console.png)
+![](../images/trove_api_console_2020.png)
 
-2. Look at the first example and try to decipher what the Parameters mean.  Zone is a category where the search is running, such as 'newspapers', or 'books'. In this case, we are looking everywhere in Trove. Wragge is an Australian surname, 'n' is a number of records you will be shown, and encoding is the format that Trove will return.
+2. Look at the first example of a query and try to decipher what the different parts of the https://... address mean. These are the query "parameters".  
+![](../images/trove_api_query.png)
+Let's unpack the query, now. As you read along the https://.., you see that it points to a web address of the Trove API, version2. Then follows the word "result?", after which comes the query itself. The first element is "q", which stands for the query pointing to a search term. In this case, "wragge" is a common Australian last name. "zone" is a category of evidence where the search is running, such as 'newspapers', or 'books'. In this case, we are looking for all mentions of the last name 'Wragge' everywhere in Trove. Optional parameters can be added, such as 'n' to specify what number of records you wish to be shown, and 'encoding' which specifies the format that Trove should return. You have two options of xml (default) and json.
 
-4. Then copy the URL, and paste it into the Search box above. Press Go! button.
+3. Next, copy the URL, and paste it into the Search box at the top of the page. Press Go! button.
 
 After a flick of couple seconds, you should get something looking like this, with 77 total records and 20 of them shown, with ids of the individuals in nested format below. 
 ![](../images/wragge-results.png)
 
-3. Click 'Clear' and look at some other examples. Below 'Search Everything' section, is the 'Search Newspapers' section. 
-Let's search newspapers for our danish immigrant stories!
+4. Click 'Clear' and look at some other examples. Below 'Search all zones' section, is the 'Search in multiple zones' and 'Search in a single zone' section. 
+Let's use the 'Search in a single zone' to look for danish immigrant stories in newspapers!
 
-![](../images/trove_api.png)
+![](../images/trove_api_2020.png)
 
-4. Copy the first query under 'Search Newspapers'. It looks something like https://api.trove.nla.gov.au/v2/result?q=wragge+AND+weather&zone=newspaper&encoding=json designed to look for the terms wragge and weather, in newspapers with no limit on number of records. 
+Step 1. Copy the first query under 'Search in a single zone'. It looks something like https://api.trove.nla.gov.au/v2/result?q=wragge&zone=newspaper designed to look for the term "wragge" in newspapers with no limit on number of records. 
+
+Expanding this to 
+https://api.trove.nla.gov.au/v2/result?q=wragge+AND+weather&zone=newspaper
+would change the query to search for terms "wragge" and "weather"
 
 5. Paste it into the Search box above and replace 'wragge' with 'danish' , and 'weather' with 'immigrant'. 
 
