@@ -76,41 +76,55 @@ Let's navigate to [Trove API Console](http://troveconsole.herokuapp.com/). Pleas
 
 2. Look at the first example of a query and try to decipher what the different parts of the https://... address mean. These are the query "parameters".  
 ![](../images/trove_api_query.png)
-Let's unpack the query, now. As you read along the https://.., you see that it points to a web address of the Trove API, version2. Then follows the word "result?", after which comes the query itself. The first element is "q", which stands for the query pointing to a search term. In this case, "wragge" is a common Australian last name. "zone" is a category of evidence where the search is running, such as 'newspapers', or 'books'. In this case, we are looking for all mentions of the last name 'Wragge' everywhere in Trove. Optional parameters can be added, such as 'n' to specify what number of records you wish to be shown, and 'encoding' which specifies the format that Trove should return. You have two options of xml (default) and json.
+
+
+Let's unpack the query. You see that the https://.. partpoints to a web address of the Trove API, version 2. Then follows the word "result?", after which comes the query itself. The first element is "q", which denotes a query followed by a search term. In this case, "wragge" is a common Australian last name. "zone" points to digital collection where the search is running, such as 'newspapers', or 'books'. In this case, we are looking for all mentions of the last name "Wragge" everywhere in Trove. Optional parameters can be added, such as "n" to specify what number of records you wish to be shown, and "encoding" which specifies the format that Trove should return. You have two options of xml (default) and json.
 
 3. Next, copy the URL, and paste it into the Search box at the top of the page. Press Go! button.
 
-After a flick of couple seconds, you should get something looking like this, with 77 total records and 20 of them shown, with ids of the individuals in nested format below. 
+After a few seconds, you should get something looking like the screenshot below, with 77 total records and 20 of them shown, with ids of the individuals in nested format below. 
 ![](../images/wragge-results.png)
 
-4. Click 'Clear' and look at some other examples. Below 'Search all zones' section, is the 'Search in multiple zones' and 'Search in a single zone' section. 
+4. Click 'Clear' and let's look at some other examples. 
+
+
+### Searching the newspapers
+
+Below the 'Search all zones' section are the 'Search in multiple zones' and 'Search in a single zone' sections. 
 Let's use the 'Search in a single zone' to look for danish immigrant stories in newspapers!
 
 ![](../images/trove_api_2020.png)
 
 Step 1. Copy the first query under 'Search in a single zone'. It looks something like https://api.trove.nla.gov.au/v2/result?q=wragge&zone=newspaper designed to look for the term "wragge" in newspapers with no limit on number of records. 
 
-Expanding this to 
+Step 2. Expand this query to include both "wragge" and "weather" by editing the q parameter in the following way:
 https://api.trove.nla.gov.au/v2/result?q=wragge+AND+weather&zone=newspaper
-would change the query to search for terms "wragge" and "weather"
 
-5. Paste it into the Search box above and replace 'wragge' with 'danish' , and 'weather' with 'immigrant'. 
 
-```{r}
-# https://api.trove.nla.gov.au/v2/result?q=danish+AND+immigrant&zone=newspaper&encoding=json
+Step 3. Paste the expanded version into the Search box above (replace 'wragge' with 'danish' and'immigrant'). 
+
+```{r eval=FALSE}
+https://api.trove.nla.gov.au/v2/result?q=danish+AND+immigrant&zone=newspaper
 ```
 
-Leave no spaces anywhere. Press Go! button. 
+Step 4. Leave no spaces anywhere. Press Go! button. 
 
-6. You should now see the output. (If you don't see anything, scroll up to the Search bar)
-How many results are there?
+
+You should now see the output. (If you don't see anything, scroll up to the Search bar)
+How many results are there? Which number refers to the number of articles?
 ![](../images/danish-results.png)
 
+## Search and investigate on your own
+
+
 <font color = "blue">
-Task 1. Now that you see how the Trove Console works, construct a query to interrogate the total number of newspaper articles that mention accidents in the two decades of 1900-1909, and 1910-1919.
+Task 1. Now that you have learnt how the Trove API Console works, construct a query to find out the total number of newspaper articles that mention accidents in the two decades of 1900-1909, and 1910-1919.
 
 
-Task 2. Review individual results in your group and then post the two queries (URLs) plus the screenshots in your group GoogleDoc
+Task 2. Write a query on articles that mention Danish immigrants and check the <snippet> of the first ten or so stories. What do they mostly deal with? When do they date to?  
+
+
+Task 3. Review individual results in your group and then post the two queries (URLs) plus the screenshots in your group GoogleDoc
 </font>
 
 ## APIs in the real world.
@@ -119,6 +133,7 @@ You might have noticed that the API queries are shaped as URLs, same as the addr
 
 In order to do this, namely to use API at large scale, you need to obtain an API key. Trove is protecting itself again unwanted attacks by requiring API users to register so that each query has an identified users. 
 
-Obtaining an API key is free and quick. Eventually, if you want to go all the way, you need to follow these [instructions](https://help.nla.gov.au/trove/building-with-trove/api).
+Obtaining an API key is free and quick. If you want to go all the way, you need to follow these [instructions](https://help.nla.gov.au/trove/building-with-trove/api).
+How to use the API key in your queries is specified in [the associated guide](https://trove.nla.gov.au/about/create-something/using-api/api-technical-guide)
 :)
 This is the end of this exercise. You know enough about APIs now to be ready to explore and harness them with programming tools - perhaps in the theory-oriented methods course on Digital Methods for Historians :).  
