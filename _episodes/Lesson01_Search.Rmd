@@ -1,7 +1,7 @@
 ---
-title: "Lesson 01 - Introduction to Digital Archives, with Trove as an example"
+title: "Lesson 01 - Exploring digital archives using Trove"
 author: "Adela Sobotkova"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: "developed August 2019, last updated `r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 
@@ -30,14 +30,19 @@ Why? Trove is one of the most modern and multi-faceted national digital archives
 
 ### Let’s try a simple search:
 
+Go to www.trove.nla.gov.au
+
 Beware that in June 2020, Trove went through a major website makeover. The old interface of Trove contained a grid of object zones that you could use to refine results to specific categories of artefacts. 
 ![](../images/trove_search.png)
 
+
 In the new interface, you need to use the category drop down next to the Search box or a category band across the top of the page.  
+
+
+
 ![](../images/trove_search_new.png)
 
 
-Go to www.trove.nla.gov.au
 
 - Look around the page. What sorts of things are in Trove? How many resources are currently included? 
 - Type ‘danish immigrant’ (without the quotes) in the search box and click ‘Search’.
@@ -56,7 +61,7 @@ Task 1. Write out brief answers to these questions (you can use a document in yo
 
 ### Disasters and accidents
 
-Let's say you are concerned about the effects of industrialisation on public health, and are interested in knowing the trend in accidents through the last 150 years, through time and space in Australia. 
+Let's say you are concerned about the effects of industrialisation on public health and wish to know the trends in accidents over the last 150 years, through time and space in Australia. 
 
 Start a new search on www.trove.nla.gov.au
 
@@ -94,23 +99,20 @@ Is there a difference between the sort of collecting that an individual undertak
 
 
 
-This is a question we’ll return to several times throughout this class. We’ll examine questions like authority and control – who chooses what is kept and why? We’ll also look at how collection items can be embedded within systems that document their context and relationships. What gives an object its meaning, significance, and authenticity?
+This is a question you may return to in the assignments in this class. Authority and control matter – who chooses what is kept and why? Investigate how collection items can be embedded within systems that document their context and relationships. What gives an object its meaning, significance, and authenticity?
 
 Using Trove, people can assemble their own collections, reflecting their interests, and serving the needs of their own communities.
+
 Let’s look at some examples:
 
-- Go to Trove and search on ‘tags’. Here there used to be a list of the most popular tags added by users to items in Trove.
-- Look for ‘LRRSA’. What do you think it means? [this no longer exists in September 2020, sadly, so take a guess or search on this tag]
+[Tags](https://trove.nla.gov.au/help/become-voluntrove/tags) are keywords anyone can add to items in Trove to make them easier to find. You may see tags in a Trove work or item record. Often a group of enthusiasts have agreed to use a particular tag – something like a [controlled vocabulary](http://www.getty.edu/research/publications/electronic_publications/intro_controlled_vocab/what.pdf) to bring together resources that are of interest to them.
 
-- A group of enthusiasts have agreed to use a particular tag – something like a [controlled vocabulary](http://www.getty.edu/research/publications/electronic_publications/intro_controlled_vocab/what.pdf) – to bring together resources that are of interest to them.
+[Lists](https://trove.nla.gov.au/help/become-voluntrove/lists) are another way that Trove users can create their own collections. They’re simply groups of resources on a particular topic. Here’s a short [video](https://youtu.be/lcHL1EDtNlE) for Trove volunteers describing how to use them:
 
+## OPTIONAL: Making your own Trove collection
+Following the instructions in the [VolunTrove](https://trove.nla.gov.au/help/become-voluntrove), try creating your own list.
 
-[Lists](https://trove.nla.gov.au/help/become-voluntrove/lists) are another way that Trove users can create their own collections. They’re simply groups of resources on a particular topic. Here’s a short [video](https://youtu.be/lcHL1EDtNlE) describing how to use them:
-
-## Making your own Trove collection (Optional for those interested in learning more :)
-Following the instructions in the video and the information in the Trove Help Centre, try creating your own list.
-
-Before you start adding items you’ll need to set up your own Trove account:
+Before you start adding items, you’ll need to set up your own Trove account:
 
 - Click on the ‘Sign up’ button, and follow the instructions. You’ll receive an email to verify your registration.
 - Once your account is verified, you might need to click on the ‘Login’ button and enter your details.
