@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Your internet experience runs on APIs. The functionality behind this acronym has helped you compare the best prices for flights or electric appliances, and allows you to embed a map into your website or seamlessly process your credit card payments.
 
-But what is an API and why does it matter to you as a researcher? Here is we’ll give a high-level overview of APIs and how they relate to your daily life as well as research career.
+But what is an API and why does it matter to you as a researcher? Here is a high-level overview of APIs and how they relate to your daily life as well as research career.
 
 ### What is an API?
 API stands for *application programming interface*. This is a concept in software technology that essentially refers to how multiple applications can interact with and obtain data from one another. APIs operate on an agreement of inputs and outputs.
@@ -25,19 +25,19 @@ API stands for *application programming interface*. This is a concept in softwar
 **Interface**: How you as a user interact with the application.
 
 ### How do APIs Work: An Analogy
-To use an analogy here, we’ll compare basic search via interface (which you used in the last session) with APIs to the difference between ordering a la carte in a Bulgarian restaurant versus talking to a bartender in Sydney.
+To use an analogy here, we will compare basic search via interface (which you used in the last session) with APIs to the difference between ordering a la carte in a Bulgarian restaurant versus talking to a bartender in Sydney.
 
-Example 1: In a Bulgarian restaurant you’re given a menu with a list of drinks and meals. Seeing these, you assume that there is an existing convention you can follow (i.e., the menu) to state your order and obtain a drink. You also assume that if items are listed they are actually available. Yet, the reality of Bulgaria is that ingredients are seasonal while menus are rarely updated, and so you will frequently hear: 'We don't have that' or 'not in season' until you work your way to the available items.
+Example 1: In a Bulgarian restaurant you are given a menu with a list of drinks and meals. Seeing these, you assume that there is an existing convention you can follow (i.e., the menu) to state your order and obtain a drink. You also assume that if items are listed they are actually available. Yet, the reality of Bulgaria is that ingredients are seasonal while menus are rarely updated, and so you will frequently hear: `We do not have that` or `not in season` until you work your way to the available items.
 
-To translate this into computing language: The menu as it is presented to you is the search interface. The restaurant has agreed to serve the listed drinks and meals. Should you pick something that is not in season, you'll be told "sorry". Should you ask for something that is not specified in the menu, e.g. can you have the filled peppers dish served without the ground meat in a vegetarian fashion?, the restaurant can say 'no', because it’s not something they agreed to in the menu. And then there is the issue of stuff not being in stock. Well, sometimes, interfaces too are imperfect, out of date or misleading/obscure.
+To translate this into computing language: The menu as it is presented to you is the search interface. The restaurant has agreed to serve the listed drinks and meals. Should you pick something that is not in season, you will be told `sorry`. Should you ask for something that is not specified in the menu, e.g. can you have the filled peppers dish served without the ground meat in a vegetarian fashion?, the restaurant can say `no`, because it’s not something they agreed to in the menu. And then there is the issue of stuff not being in stock. Well, sometimes, interfaces too are imperfect, out of date or misleading/obscure.
 
-Example 2: In a bar in Sydney, there is a menu of drinks and bites available for you to order from. It is, however, also possible for you to go directly to the bar, review the stock on the wall and order what you feel like regardless of whether it is on the menu or not. You may just say 'I feel like apples and ginger today' and the bartender will shake it up for you on demand (true story, happenned to Adela in the 'Spice Bar' on the Martin Square).
+Example 2: In a bar in Sydney, there is a menu of drinks and bites available for you to order from. It is, however, also possible for you to go directly to the bar, review the stock on the wall and order what you feel like regardless of whether it is on the menu or not. You may just say `I feel like apples and ginger today` and the bartender will shake it up for you on demand (true story from the Spice Bar on Martin Square, Sydney).
 
-Using an API is like walking up to the bar in Sydney; it provides you with direct access to the entire bar's contents. You are skipping the interface and looking directly into the available ingredients and building your custom order of vodka apple-ginger martini.
+Using an API is like walking up to the bar in Sydney; it provides you with direct access to the entire bars contents. You are skipping the interface and looking directly into the available ingredients and building your custom order of vodka apple-ginger martini.
 
 **Take away point: using an API is like walking into a self-serve bar where you can recombine ingredients to create endless cocktail concoctions. Cultural heritage collections which give users direct access to their data via APIs, make data retrieval, exchange, and mashing possibilities limitless**
 
-Let’s stretch the second example a bit further. Let's say covid lockdown is back and you want that vodka apple-ginger martini delivered to your home. You call a delivery service and you order a vodka apple-ginger martini by selecting from the basic alcohol & ingredients list, skipping the cocktails menu. When you order it, someone will tell the bartender your order, the bartender will make the vodka apple-ginger martini and then someone will deliver it to your home. This is an example of an additional service (delivery) built on an “API” (building an order from the basic ingredient menu).
+Let us stretch the second example a bit further. Let us say covid lockdown is back and you want that vodka apple-ginger martini delivered to your home. You call a delivery service and you order a vodka apple-ginger martini by selecting from the basic alcohol and ingredients list, skipping the cocktails menu. When you order it, someone will tell the bartender your order, the bartender will make the vodka apple-ginger martini and then someone will deliver it to your home. This is an example of an additional service (delivery) built on an “API” (building an order from the basic ingredient menu).
 
 To relate this back to software, an API can help one application retrieve specific types of data from another application. 
 
@@ -47,12 +47,13 @@ To recap, here are three takeaways for APIs.
 
 1. Regular users of the internet rarely directly interact with APIs but they consume the products of APIs (e.g. aggregated air travel websites where you can choose the cheapest fare). Developers work with APIs to create software. Researchers and research institutions can use APIs to access and aggregate data. 
 2. APIs operate as a gate, allowing informed users to share select information but also keeping unwanted requests out.
+
 3. APIs can make your [digital historian] life easier, too. When thousands of records in a digital archive are accessible via an API, you can download them with a single request rather than by paging through the resources, clicking and downloading each individually and manually.
 
-## Let's practice..
+## Let us practice..
 
 
-We shall practice on Trove, the National Library of Australia’s “discovery interface”. As you found out in the previous sessions, Trove is an amazing catalogue of digitized books, newspapers, maps, music, journal articles etc.  Trove provides access to much of its data through an API. The API is a special website that programs can talk to to run queries, retrieve individual records, etc. With some creative ideas and the [Trove API Console](http://troveconsole.herokuapp.com/) instructions, you can make a pretty nifty tool for yourself, or even win a [Digital Humanities award](https://glam-workbench.net/awards/#british-library-lab-awards-2020).
+We shall practice on Trove, the National Library of Australia *discovery interface*. As you found out in the previous sessions, Trove is an amazing catalogue of digitized books, newspapers, maps, music, journal articles etc.  Trove provides access to much of its data through an API. The API is a special website that programs can talk to to run queries, retrieve individual records, etc. With some creative ideas and the [Trove API Console](http://troveconsole.herokuapp.com/) instructions, you can make a pretty nifty tool for yourself, or even win a [Digital Humanities award](https://glam-workbench.net/awards/#british-library-lab-awards-2020).
 
 
 You will now learn to use the API to harvest data and analyse the contents of Trove. 
@@ -65,43 +66,43 @@ Our practice will be small-scale. We will learn to construct an API query by usi
 An easy way to start exploring the API is by using the [Trove API Console](http://troveconsole.herokuapp.com/). The Console lets you construct queries and view snippets of live results in your browser. This way you learn how the API syntax works. 
 In order to do *real* archival work and download large amounts of records to your computer, you will need to include an API key in your queries. An API key is a special identifier that you need to apply for and use with care, once you are confident in your API syntax. Guidelines for API keys are provided at the end of this tutorial. 
 
-Once you understand the basics you'll probably want to dive into the [complete technical guide](https://trove.nla.gov.au/about/create-something/using-api/api-technical-guide) which lists all the available parameters and response formats.
+Once you understand the basics you will probably want to dive into the [complete technical guide](https://trove.nla.gov.au/about/create-something/using-api/api-technical-guide) which lists all the available parameters and response formats.
 
-Let's navigate to [Trove API Console](http://troveconsole.herokuapp.com/). Please beware that the actual interface might look somewhat different than the screenshots below due to continued UI changes:
+Let us navigate to [Trove API Console](http://troveconsole.herokuapp.com/). Please beware that the actual interface might look somewhat different than the screenshots below due to continued UI changes:
 
 
 1. You should see a search bar and examples below.
 
 ![](../images/trove_api_console_2020.png)
 
-2. Look at the first example of a query and try to decipher what the different parts of the https://... address mean. These are the query "parameters".  
+2. Look at the first example of a query and try to decipher what the different parts of the https://... address mean. These are the query `parameters`.  
 ![](../images/trove_api_query.png)
 
 
-Let's unpack the query. You see that the https://.. partpoints to a web address of the Trove API, version 2. Then follows the word "result?", after which comes the query itself. The first element is "q", which denotes a query followed by a search term. In this case, "wragge" is a common Australian last name. "zone" points to digital collection where the search is running, such as 'newspapers', or 'books'. In this case, we are looking for all mentions of the last name "Wragge" everywhere in Trove. Optional parameters can be added, such as "n" to specify what number of records you wish to be shown, and "encoding" which specifies the format that Trove should return. You have two options of xml (default) and json.
+Let us unpack the query. You see that the https://.. partpoints to a web address of the Trove API, version 2. Then follows the word `result?`, after which comes the query itself. The first element is `q`, which denotes a query followed by a search term. In this case, `wragge` is a common Australian last name. `zone` points to digital collection where the search is running, such as `newspapers`, or `books`. In this case, we are looking for all mentions of the last name Wragge everywhere in Trove. Optional parameters can be added, such as `n` to specify what number of records you wish to be shown, and `encoding` which specifies the format that Trove should return. You have two options of xml (default) and json.
 
 3. Next, copy the URL, and paste it into the Search box at the top of the page. Press Go! button.
 
 After a few seconds, you should get something looking like the screenshot below, with 77 total records and 20 of them shown, with ids of the individuals in nested format below. 
 ![](../images/wragge-results.png)
 
-4. Click 'Clear' and let's look at some other examples. 
+4. Click `Clear` and let us look at some other examples. 
 
 
 ### Searching the newspapers
 
-Below the 'Search all zones' section are the 'Search in multiple zones' and 'Search in a single zone' sections. 
-Let's use the 'Search in a single zone' to look for danish immigrant stories in newspapers!
+Below the `Search all zones` section are the `Search in multiple zones` and `Search in a single zone` sections. 
+Let us use the `Search in a single zone` to look for danish immigrant stories in newspapers!
 
 ![](../images/trove_api_2020.png)
 
-Step 1. Copy the first query under 'Search in a single zone'. It looks something like https://api.trove.nla.gov.au/v2/result?q=wragge&zone=newspaper designed to look for the term "wragge" in newspapers with no limit on number of records. 
+Step 1. Copy the first query under `Search in a single zone`. It looks something like https://api.trove.nla.gov.au/v2/result?q=wragge&zone=newspaper designed to look for the term `wragge` in newspapers with no limit on number of records. 
 
-Step 2. Expand this query to include both "wragge" and "weather" by editing the q parameter in the following way:
+Step 2. Expand this query to include both `wragge` and `weather` by editing the q parameter in the following way:
 https://api.trove.nla.gov.au/v2/result?q=wragge+AND+weather&zone=newspaper
 
 
-Step 3. Paste the expanded version into the Search box above (replace 'wragge' with 'danish' and'immigrant'). 
+Step 3. Paste the expanded version into the Search box above (replace `wragge` with `danish` and`immigrant`). 
 
 ```{r eval=FALSE}
 https://api.trove.nla.gov.au/v2/result?q=danish+AND+immigrant&zone=newspaper
@@ -110,7 +111,7 @@ https://api.trove.nla.gov.au/v2/result?q=danish+AND+immigrant&zone=newspaper
 Step 4. Leave no spaces anywhere. Press Go! button. 
 
 
-You should now see the output. (If you don't see anything, scroll up to the Search bar)
+You should now see the output. (If you do not see anything, scroll up to the Search bar)
 How many results are there? Which number refers to the number of articles?
 ![](../images/danish-results.png)
 
@@ -129,7 +130,7 @@ Task 3. Review individual results in your group and then post the two queries (U
 
 ## APIs in the real world.
 
-You might have noticed that the API queries are shaped as URLs, same as the addresses that appear in your internet browser. That is exactly what APIs are, and to use the API query to its fullest potential you can paste the query that you have successfully tested into the browser address bar. Don't do it just yet, though.
+You might have noticed that the API queries are shaped as URLs, same as the addresses that appear in your internet browser. That is exactly what APIs are, and to use the API query to its fullest potential you can paste the query that you have successfully tested into the browser address bar. Do not do it just yet, though.
 
 In order to do this, namely to use API at large scale, you need to obtain an API key. Trove is protecting itself again unwanted attacks by requiring API users to register so that each query has an identified users. 
 

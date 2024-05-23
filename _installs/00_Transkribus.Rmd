@@ -46,6 +46,10 @@ Please ensure to have completed all steps before Wednesday in week 36. If you ne
 4.  Start Transkribus:
 
 - **Windows**:  use *Transkribus.exe* file, also called "Application" in the Type column, with the following icon
+```{r}
+Friday
+```
+
 
 ![](../images/transkribus-icon.png){width=300px}
 

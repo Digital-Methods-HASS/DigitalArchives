@@ -1,0 +1,145 @@
+---
+title: "Text Analysis with Voyant"
+author: "Adela Sobotkova"
+date: "20 June 2020, updated `r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+ 
+---
+# Getting Started
+
+In order to try out the Introduction to Archives and Digital Methods case study on candle distribution in parishes around Aarhus during World War II in the CEDHAR workshop, you need to have access to the *Aarhus parish minutes dataset*,a Danish stopword list, and the *Voyant server* desktop software or a cloud instantiation.  If you only wish to try Voyant out as part of the case study, you can use the link to online Voyant provided via email and stop reading now.
+If you wish to use Voyant offline in order to explore texts that are private, unpublished, sensitive, or otherwise encumbered, follow these instructions to install the desktop version before the workshop. If you encounter errors while installing, please document them (with screenshots) and alert one of the instructors at the start of the workshop. 
+
+## Software and Data needed
+
+Read here about the software and go into the Installation section to install and configure it. 
+
+* [JAVA](https://www.oracle.com/java/technologies/javase-jre8-downloads.html): Before downloading Voyant, you will need to download Java if you do not already have it. If you do have Java installed, you should still download and update your version.  For an update, download the **64-bit** offline version (recommended) for [Windows here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242990_a4634525489241b9a9e1aa73d9e118e6), and for [Mac here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242981_a4634525489241b9a9e1aa73d9e118e6). If you have difficulty getting the right Java, please sign up for the Help Desk.
+
+  - Beware: If have a 32-bit version of Java, you need to uninstall Java from your system (via uninstall/remove programmes) and install the 64-bit version linked above. If you have difficulty getting the right Java *after reading these and the linked guidelines*, please sign up for the Help Desk.
+
+* [VOYANT](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45): This is a rather large download [~450Mb], requiring solid internet connection. Remember to scroll down this webpage and click on the `VoyantServer2_4-M45.zip` file to download.
+
+
+* PARISH MINUTES DATASET has been provided as a zipped file via email.  Please read the [associated handout](https://drive.google.com/file/d/1t6Zt2iKak1y--vc07nwzy0i9Ul2CK1kS/view?usp=sharing) to learn about the process of its creation and curation. The Aarhus City Archive parish minutes contain the entirety of the minutes filed during 1939-1945 which are now in public domain. 
+
+## Installation of Voyant Desktop
+
+Although Voyant Tools is a web-based set of tools, we will be downloading it and running it locally. This way you can work offline, should you wish to analyze your texts without an internet connection. You also avoid disseminating the datasets online and overloading the web servers. Furthermore, using Voyant locally means that your project will not be cached and stored on the Voyant web-server, and you can restart the server if you encouter any problems.
+
+1. [Install or Update Java](https://www.java.com/en/)
+
+2. Download Voyant Server from [Github](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45) by navigating to the bottom of the page and clicking the *VoyantServer2_4-M45.zip* file (If you cannot download, sign up for assistant session, they will have the file on a flash drive)
+
+3. Unzip the Voyant Server Package (you may need an unzipping software/extractor. [7zip](https://www.7-zip.org/) is a free open-source tool for Windows users). This may take some time. The resulting folder of files should look like this on a Mac and Windows:
+
+
+![](../images/mac-voyant-server-zip-contents.png)
+
+[comment]:#![](../images/w10-voyant-server-zip-contents.png)
+
+
+4. Double click the `VoyantServer.jar` file. Your computer may mistrust the file so on a Mac you may need to "force" open the program by "right-clicking" and pressing "open". On Windows, you may likewise need to insist that you really wish to open the file. When you open this file a new window (see image below) will pop up with numerous server controls. If you are curious about what these all mean you can read about the options in the documentation for the Voyant Server. However, in short, this window begins to launch a server which will generate the Voyant tools interface.
+
+![](../images/voyantserver-controls.png)
+
+
+5. Once the server has booted up a new browser window will open.
+
+![](../images/voyantserver-home.png){#id .class width=80%}
+
+** If your default browser is Chrome you will need to paste the address into a new window in a different browser. Both Safari and Firefox work. The default address should be: 
+http://127.0.0.1:8888/
+
+
+# Using Voyant
+
+## Uploading Data to Voyant
+Voyant offers several ways to upload text. You can upload individual text files from your computer, paste lines into the box provided, or upload a zip file/archive that contains many files. Once you’ve downloaded the .zip file of data we can simply upload it to Voyant. To upload the file:
+
+- Select `Upload` from the Voyant Tools Homepage
+
+![](../images/voyantserver-home.png){#id .class width=80%}
+
+- Navigate to the location where the file is saved on your computer. (Likely the downloads folder).
+
+
+![](../images/upload-data.png)
+
+- Once you have selected the file, click *Open* and Voyant will upload the file and direct you to the dashboard. This may take a few seconds to a few minutes depending on your computer's performance and the memory you allocated to Voyant (and the size of the corpus of documents).  You may also see an error message pop up. Disregard it and close it as it is not fatal. 
+
+
+Exploring the *Default Skin*
+After uploading the corpus, you will be redirected to what Voyant calls the *default skin*, or, the default configuration of tools. To understand the many options, tools, and settings available and necessary to process  Danish texts in Voyant see [Adela's slides](https://github.com/Digital-Methods-HASS/DigitalArchives/blob/master/VoyantSlides.pdf) and [Voyant documentation](http://voyant-tools.org/docs/#!/guide).
+
+# Managing Text and Visualisations in Voyant
+
+We will cover these topics in the hands-on session. 
+
+- creating `stopword` lists for non-default languages (e.g. Danish)
+- searching concepts in Voyant
+- exporting visualisations and frequency data from Voyant
+
+The following sections serve as a guide to some of the computational analyses you can do on texts and as an illustration of the scholarly work that involved text analysis. Finally, there is a glossary of terms you might encounter during this course.
+
+
+# Your Task
+
+Your task today is to install Voyant and download the data before Thursday. We will introduce the research topics and provide further information on how to work with the data. Feel free to read the sections below if you are interested in knowing more about text analysis and different methods it entails.
+
+# What is Text Analysis?
+
+*Text Analysis* is a broad category that describes a number of specific methodologies that have been adapted from the fields of computer science and linguistics and used for humanistic inquiry.The overall goal, is to turn text into data for analysis.
+
+Some of the most popular forms of text analysis include:
+
+[N-Grams](https://en.wikipedia.org/wiki/N-gram)
+
+[Topic Modeling](https://en.wikipedia.org/wiki/Topic_model)
+
+[Sentiment Analysis](https://en.wikipedia.org/wiki/Sentiment_analysis)
+
+[Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition)
+
+[Word Embedded Vector Models](https://en.wikipedia.org/wiki/Vector_space_model)
+
+## Examples of Scholarly Projects Using Text Analysis
+
+[Mining the Dispatch](http://dsl.richmond.edu/dispatch/), Robert K. Nelson
+
+[Mining Martha Ballard’s Diary](http://www.cameronblevins.org/martha-ballards-diary/), Cameron Blevins
+
+[Americas Public Bible](https://americaspublicbible.org/), Lincoln Mullen
+
+[Everything on Paper will Be Used Against Me: Quantifying Kissenger](https://blog.quantifyingkissinger.com/), Micki Kauffman
+
+[Robots Reading Vogue](http://bookworm.library.yale.edu/), Lindsay King and Peter Leonard
+
+# Other Datasets for Practice
+
+[SPEECHES OF VACLAV HAVEL](https://bit.ly/HavelSpeeches): This is a corpus on English translations of the speeches given by Vaclav Havel to nurture civil society during his presidency of the CSFR and Czech Republic from 1990 - 2003. Selected from the Prague Castle Web Archive at http://old.hrad.cz/president/Havel/index_uk.html  
+
+[SAMPLE POLITICAL SPEECHES](https://bit.ly/VoyantPoliticalSpeeches): This corpus contains a sample of political speech transcripts from Australian prime ministers, Donald Trump and Vladimir Putin under Creative Commons 3.0 and 4.0 license. 
+
+[PE SAMPLE DATA](https://github.com/regan008/MindandBodyCorpus): This sample data has been curated from a larger corpus. It contains the entirety of the physical education publication Mind and Body which ran from 1882 until 1936.
+
+# Glossary
+- *Black Box*: A device, system or object which can be viewed in terms of its inputs and outputs without any knowledge of its internal workings. In Digital Humanities, projects and tools are often critiqued for being *black boxes* which prevent scholars from studying and analyzing the methodological choices made when composing the project.
+- *Collocation*: a sequence of words or terms that co-occur more often than would be expected by chance.
+- *Corpus*: a collection of documents.
+- *Optical Character Recognition (OCR)*: Software that turns images of text into machine readable plain text documents.
+- *Reproducible Research*: This term originates from fields such as computer science or engineering that rely on computers to generate scholarly work. It refers to the idea that the ultimate product of academic research is the paper along with the full computational environment used to produce the results in the paper (i.e code, data, etc) so that anyone can use it to reproduce the results and create new work based on the research.
+- *Stop list* or *Stop Words*: A list of words that is automatically omitted from an index of the most frequent words in a corpus.
+- *Text Mining*: Is often also referred to as data mining. The overarching goal is usually to turn text into dat for analysis and it frequently relies heavily on natural language processing. For an excellent description of the history of the field and various applications see the Wikipedia entry for text mining.
+- *TF-IDF*: Short for term frequency-inverse document frequency. It is a numerical statistic that is intended to reflect how important a word is to a document in a corpus. This statistic is frequently used to weight terms by relevance or importance within a corpus.
+
+These definitions have been pulled from wikipedia and contextualization has been added as necessary.
+
+---
+Credits:
+This guide has been inspired by [Amanda Regan](https://www.amanda-regan.com/Workshop-UCR/) and tested and improved by Antonio Rivero Ostoic, Josephine Moeller Jensen, and Jonas Cardie.
+
+
